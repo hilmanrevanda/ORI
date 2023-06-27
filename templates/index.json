@@ -6,18 +6,12 @@
         "hero-animated-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/30.png"
-          }
-        },
-        "hero-animated-1": {
-          "type": "image",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
           }
         }
       },
       "block_order": [
-        "hero-animated-0",
-        "hero-animated-1"
+        "hero-animated-0"
       ],
       "settings": {
         "style": "gif",
@@ -30,8 +24,8 @@
         "link_text_learn_more": "LEARN MORE",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
+        "desktop_size": 20,
+        "mobile_size": 100
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -72,16 +66,16 @@
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/8_0941f45c-057c-462a-9f55-c3be11f68000.png",
+        "image_left": "shopify:\/\/shop_images\/Haircare_1.jpg",
         "heading_left": "Haircare",
         "description_left": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_left_text": "SHOP NOW",
-        "btn_left_url": "",
-        "image_right": "shopify:\/\/shop_images\/10_f31e9d9b-9ebf-461c-b5a5-9d4432c68ff8.png",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/Skincare_1.jpg",
         "heading_right": "Skincare",
         "description_right": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_right_text": "SHOP NOW",
-        "btn_right_url": ""
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "featured-collection": {
@@ -93,15 +87,17 @@
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "2",
-        "view_all": false,
+        "view_all": true,
         "alt": false
       }
     },
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
+        "image": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
+        "image2_mask": "square",
         "subtitle": "",
         "title": "Our Story",
         "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<\/p>",
@@ -123,7 +119,7 @@
         "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
         "link": "",
         "text_size": 36,
-        "text_spacing": true,
+        "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
         "speed": 250
