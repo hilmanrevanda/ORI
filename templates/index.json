@@ -101,9 +101,9 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
-        "image_mask": "landscape",
+        "image_mask": "square",
         "image2": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
-        "image2_mask": "landscape",
+        "image2_mask": "square",
         "subtitle": "",
         "title": "Our Story",
         "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<\/p>",
