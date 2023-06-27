@@ -75,6 +75,13 @@
     }
   {% endunless %}
 
+  .hero__text-content.vertical-center .hero__subtitle {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+
   .hero__image-wrapper--overlay:before,
   .hero__media--overlay:before {
     background-color: rgba(0, 0, 0, 1);
@@ -91,6 +98,18 @@
     align-items: center;
     justify-content: center;
     gap: 20px;
+  }
+
+  @media only screen and (min-width: 769px) {
+    .hero__text-content.vertical-center .hero__link {
+      flex-direction: column;
+      align-items: stretch;
+      width: 170px;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      gap: 10px;
+    }
   }
 {%- endstyle -%}
 
@@ -168,7 +187,7 @@
                     {%- endif -%}
 
                     {%- if section.settings.title != blank -%}
-                      <div class="h1 hero__title appear-delay{% cycle '','-2','-4','-6','-8' %}">
+                      <div class="h2 hero__title appear-delay{% cycle '','-2','-4','-6','-8' %}">
                         {{ section.settings.title | newline_to_br }}
                       </div>
                     {%- endif -%}
