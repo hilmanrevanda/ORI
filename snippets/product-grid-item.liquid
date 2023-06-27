@@ -6,6 +6,7 @@ below to false.
 {% endcomment %}
 {%- liquid
   assign force_jpg = true
+  assign current_variant = product.selected_or_first_available_variant
 
   unless grid_item_width
     assign grid_item_width = 'medium-up--one-quarter small--one-half'
