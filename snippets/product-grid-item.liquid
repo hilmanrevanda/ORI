@@ -318,9 +318,9 @@ in JS before appending the related section.
 
       {%- unless product.empty? -%}
         <div class="product-block">
+          {% capture form_id %}AddToCartForm-{{ product.id }}{% endcapture %}
           {%- render 'product-form'
             , form_id: form_id,
-            section_id: section_id,
             product: product,
             current_variant: current_variant -%}
         </div>
