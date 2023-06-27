@@ -6,7 +6,7 @@
         "hero-animated-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/30.png"
+            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
           }
         },
         "hero-animated-1": {
@@ -30,7 +30,7 @@
         "link_text_learn_more": "LEARN MORE",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
+        "desktop_size": 20,
         "mobile_size": 0
       }
     },
