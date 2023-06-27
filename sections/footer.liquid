@@ -16,18 +16,40 @@
   endif
 -%}
 
+{%- style -%}
+  .site-footer__section--newsletter {
+    margin-bottom: 0;
+  }
+{%- endstyle -%}
+
 <!-- {%- if settings.color_newsletter == settings.color_body_bg -%}
-  {%- style -%}
-    .site-footer__section--newsletter {
-      padding: 0;
-    }
-  {%- endstyle -%}
+{%- style -%}
+.site-footer__section--newsletter {
+padding: 0;
+}
+{%- endstyle -%}
 {%- endif -%} -->
 
-<footer class="site-footer text-center" data-section-id="{{ section.id }}" data-section-type="footer-section">
+<footer
+  class="site-footer text-center"
+  data-section-id="{{ section.id }}"
+  data-section-type="footer-section">
   {%- if section.settings.show_newsletter -%}
     <div class="site-footer__section site-footer__section--newsletter" data-aos>
       <div class="page-width">
+        {%- if section.settings.site_icon != blank -%}
+          {%- render 'image-element'
+            , img: block.settings.site_icon,
+            img_width: 50,
+            img_height: 50,
+            classes: 'image-center',
+            loading: 'sync',
+            alt: 'an icon',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback, -%}
+        {%- endif -%}
+
         {%- if section.settings.newsletter_title != blank -%}
           <h2 class="h2 appear-delay">{{ section.settings.newsletter_title }}</h2>
         {%- endif -%}
@@ -56,22 +78,51 @@
             </h2>
 
             <div class="disclosure" data-disclosure-locale>
-              <button type="button" class="faux-select disclosure__toggle" aria-expanded="false" aria-controls="LangList" aria-describedby="LangHeading" data-disclosure-toggle>
+              <button
+                type="button"
+                class="faux-select disclosure__toggle"
+                aria-expanded="false"
+                aria-controls="LangList"
+                aria-describedby="LangHeading"
+                data-disclosure-toggle>
                 <span class="multi-picker__label">
                   {{ form.current_locale.endonym_name | capitalize }}
                 </span>
-                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="m1.57 1.59 12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none"/></svg>
+                <svg
+                  aria-hidden="true"
+                  focusable="false"
+                  role="presentation"
+                  class="icon icon--wide icon-chevron-down"
+                  viewBox="0 0 28 16"><path
+                    d="m1.57 1.59 12.76 12.77L27.1 1.59"
+                    stroke-width="2"
+                    stroke="#000"
+                    fill="none" /></svg>
               </button>
-              <ul id="LangList" class="disclosure-list" data-disclosure-list>
+              <ul
+                id="LangList"
+                class="disclosure-list"
+                data-disclosure-list>
                 {%- for locale in form.available_locales -%}
                   <li class="disclosure-list__item {% if locale.iso_code == form.current_locale.iso_code %}disclosure-list__item--current{% endif %}">
-                    <a class="disclosure-list__option" href="#" lang="{{ locale.iso_code }}" {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %} data-value="{{ locale.iso_code }}" data-disclosure-option>
+                    <a
+                      class="disclosure-list__option"
+                      href="#"
+                      lang="{{ locale.iso_code }}"
+                      {% if locale.iso_code == form.current_locale.iso_code %}aria-current="true"{% endif %}
+                      data-value="{{ locale.iso_code }}"
+                      data-disclosure-option>
                       {{ locale.endonym_name | capitalize }}
                     </a>
                   </li>
                 {%- endfor -%}
               </ul>
-              <input type="hidden" name="locale_code" id="LocaleSelector" value="{{ form.current_locale.iso_code }}" data-disclosure-input>
+              <input
+                type="hidden"
+                name="locale_code"
+                id="LocaleSelector"
+                value="{{ form.current_locale.iso_code }}"
+                data-disclosure-input>
             </div>
           </div>
         {%- endif -%}
@@ -83,30 +134,65 @@
             </h2>
 
             <div class="disclosure" data-disclosure-currency>
-              <button type="button" class="faux-select disclosure__toggle" aria-expanded="false" aria-controls="CurrencyList" aria-describedby="CurrencyHeading" data-disclosure-toggle>
+              <button
+                type="button"
+                class="faux-select disclosure__toggle"
+                aria-expanded="false"
+                aria-controls="CurrencyList"
+                aria-describedby="CurrencyHeading"
+                data-disclosure-toggle>
                 {%- if section.settings.show_currency_flags -%}
-                  <span class="currency-flag currency-flag--small currency-flag--{{ localization.country.iso_code | downcase }}" data-flag="{{ localization.country.currency.iso_code }}" aria-hidden="true"></span>
+                  <span
+                    class="currency-flag currency-flag--small currency-flag--{{ localization.country.iso_code | downcase }}"
+                    data-flag="{{ localization.country.currency.iso_code }}"
+                    aria-hidden="true"></span>
                 {%- endif -%}
                 <span class="multi-picker__label">
                   {{ localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }})
                 </span>
-                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-chevron-down" viewBox="0 0 28 16"><path d="m1.57 1.59 12.76 12.77L27.1 1.59" stroke-width="2" stroke="#000" fill="none"/></svg>
+                <svg
+                  aria-hidden="true"
+                  focusable="false"
+                  role="presentation"
+                  class="icon icon--wide icon-chevron-down"
+                  viewBox="0 0 28 16"><path
+                    d="m1.57 1.59 12.76 12.77L27.1 1.59"
+                    stroke-width="2"
+                    stroke="#000"
+                    fill="none" /></svg>
               </button>
-              <ul id="CurrencyList" class="disclosure-list" data-disclosure-list>
+              <ul
+                id="CurrencyList"
+                class="disclosure-list"
+                data-disclosure-list>
                 {%- for country in form.available_countries -%}
                   <li class="disclosure-list__item {% if country.iso_code == localization.country.iso_code %}disclosure-list__item--current{% endif %}">
-                    <a class="disclosure-list__option" href="#" {% if country.iso_code == localization.country.currency.iso_code %}aria-current="true"{% endif %} data-value="{{ country.iso_code }}" data-disclosure-option>
+                    <a
+                      class="disclosure-list__option"
+                      href="#"
+                      {% if country.iso_code == localization.country.currency.iso_code %}aria-current="true"{% endif %}
+                      data-value="{{ country.iso_code }}"
+                      data-disclosure-option>
                       {%- if section.settings.show_currency_flags -%}
-                        <span class="currency-flag currency-flag--{{ country.iso_code | downcase }}" data-flag="{{ country.currency.iso_code }}" aria-hidden="true"></span>
+                        <span
+                          class="currency-flag currency-flag--{{ country.iso_code | downcase }}"
+                          data-flag="{{ country.currency.iso_code }}"
+                          aria-hidden="true"></span>
                       {%- endif -%}
                       <span class="multi-picker__label">
-                        {{ country.name }} {{ country.currency.iso_code }} {%- if country.currency.symbol -%}{{ country.currency.symbol }}{%- endif -%}
+                        {{ country.name }} {{ country.currency.iso_code }}
+                        {%- if country.currency.symbol -%}
+                          {{ country.currency.symbol }}{%- endif -%}
                       </span>
                     </a>
                   </li>
                 {%- endfor -%}
               </ul>
-              <input type="hidden" name="country_code" value="{{ localization.country.currency.iso_code }}" data-disclosure-input>
+              <input
+                type="hidden"
+                name="country_code"
+                value="{{ localization.country.currency.iso_code }}"
+                data-disclosure-input>
             </div>
           </div>
         {%- endif -%}
@@ -123,7 +209,9 @@
       <div class="site-footer__section">
         <ul class="no-bullets inline-list site-footer__linklist">
           {%- for link in linklists[section.settings.menu].links -%}
-            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            <li>
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
           {%- endfor -%}
         </ul>
       </div>
@@ -159,92 +247,85 @@
 </footer>
 
 {% schema %}
-{
-  "name": "t:sections.footer.name",
-  "settings": [
-    {
-      "type": "header",
-      "content": "t:sections.footer.settings.header_newsletter"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_newsletter",
-      "label": "t:sections.footer.settings.show_newsletter.label",
-      "info": "t:sections.footer.settings.show_newsletter.info",
-      "default": true
-    },
-    {
-      "type": "text",
-      "id": "newsletter_title",
-      "label": "t:sections.footer.settings.newsletter_title.label",
-      "default": "Sign up and save"
-    },
-    {
-      "type": "richtext",
-      "id": "newsletter_richtext",
-      "label": "t:sections.footer.settings.newsletter_richtext.label",
-      "default": "<p>Let customers know about the key benefits of joining your newsletter.</p>"
-    },
-    {
-      "type": "header",
-      "content": "t:sections.footer.settings.header_language_selector",
-      "info": "t:sections.footer.settings.header_language_selector"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_locale_selector",
-      "label": "t:sections.footer.settings.show_locale_selector.label",
-      "default": true
-    },
-    {
-      "type": "header",
-      "content": "t:sections.footer.settings.header_currency_selector",
-      "info": "t:sections.footer.settings.header_currency_selector"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_currency_selector",
-      "label": "t:sections.footer.settings.show_currency_selector.label",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "show_currency_flags",
-      "label": "t:sections.footer.settings.show_currency_flags.label",
-      "default": true
-    },
-    {
-      "type": "header",
-      "content": "t:sections.footer.settings.header_additional_footer_content"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_social_icons",
-      "label": "t:sections.footer.settings.show_social_icons.label",
-      "default": true
-    },
-    {
-      "type": "link_list",
-      "id": "menu",
-      "label": "t:sections.footer.settings.menu.label",
-      "default": "footer",
-      "info": "t:sections.footer.settings.menu.info"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_payment_icons",
-      "label": "t:sections.footer.settings.show_payment_icons.label"
-    },
-    {
-      "type": "checkbox",
-      "id": "show_copyright",
-      "label": "t:sections.footer.settings.show_copyright.label"
-    },
-    {
-      "type": "text",
-      "id": "copyright_text",
-      "label": "t:sections.footer.settings.copyright_text.label"
-    }
-  ]
-}
+  {
+    "name": "t:sections.footer.name",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "site_icon",
+        "label": "Site icon"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.footer.settings.header_newsletter"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_newsletter",
+        "label": "t:sections.footer.settings.show_newsletter.label",
+        "info": "t:sections.footer.settings.show_newsletter.info",
+        "default": true
+      },
+      {
+        "type": "text",
+        "id": "newsletter_title",
+        "label": "t:sections.footer.settings.newsletter_title.label",
+        "default": "Sign up and save"
+      }, {
+        "type": "richtext",
+        "id": "newsletter_richtext",
+        "label": "t:sections.footer.settings.newsletter_richtext.label",
+        "default": "<p>Let customers know about the key benefits of joining your newsletter.</p>"
+      }, {
+        "type": "header",
+        "content": "t:sections.footer.settings.header_language_selector",
+        "info": "t:sections.footer.settings.header_language_selector"
+      }, {
+        "type": "checkbox",
+        "id": "show_locale_selector",
+        "label": "t:sections.footer.settings.show_locale_selector.label",
+        "default": true
+      }, {
+        "type": "header",
+        "content": "t:sections.footer.settings.header_currency_selector",
+        "info": "t:sections.footer.settings.header_currency_selector"
+      }, {
+        "type": "checkbox",
+        "id": "show_currency_selector",
+        "label": "t:sections.footer.settings.show_currency_selector.label",
+        "default": true
+      }, {
+        "type": "checkbox",
+        "id": "show_currency_flags",
+        "label": "t:sections.footer.settings.show_currency_flags.label",
+        "default": true
+      }, {
+        "type": "header",
+        "content": "t:sections.footer.settings.header_additional_footer_content"
+      }, {
+        "type": "checkbox",
+        "id": "show_social_icons",
+        "label": "t:sections.footer.settings.show_social_icons.label",
+        "default": true
+      }, {
+        "type": "link_list",
+        "id": "menu",
+        "label": "t:sections.footer.settings.menu.label",
+        "default": "footer",
+        "info": "t:sections.footer.settings.menu.info"
+      }, {
+        "type": "checkbox",
+        "id": "show_payment_icons",
+        "label": "t:sections.footer.settings.show_payment_icons.label"
+      }, {
+        "type": "checkbox",
+        "id": "show_copyright",
+        "label": "t:sections.footer.settings.show_copyright.label"
+      }, {
+        "type": "text",
+        "id": "copyright_text",
+        "label": "t:sections.footer.settings.copyright_text.label"
+      }
+    ]
+  }
 {% endschema %}
