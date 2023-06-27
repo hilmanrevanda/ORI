@@ -52,12 +52,17 @@
 
     <div class="page-width page-width--flush">
 
-      <div class="nav">
-        <div class="featured-text">{{ section.settings.featured_text.label }}</div>
-
-        {%- if section.settings.view_all -%}
-          <a href="{{ collections[section.settings.home_featured_products].url }}">{{ 'collections.general.all_of_collection' | t }}</a>
-        {%- endif -%}
+      <div class="top-info">
+        <div class="content-left">
+          {%- if section.settings.featured_text != blank -%}
+            <div class="featured-text">{{ section.settings.featured_text }}</div>
+          {%- endif -%}
+        </div>
+        <div class="content-right">
+          {%- if section.settings.view_all -%}
+            <a href="{{ collections[section.settings.home_featured_products].url }}">{{ 'collections.general.all_of_collection' | t }}</a>
+          {%- endif -%}
+        </div>
       </div>
 
       <div data-pagination-wrapper>
