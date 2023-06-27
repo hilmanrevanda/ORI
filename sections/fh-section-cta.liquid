@@ -1,0 +1,61 @@
+{%- style -%}
+{%- endstyle -%}
+
+<div class="fh-section--cta">
+  <div class="background">
+    {%- render 'image-element'
+      , img: section.settings.image,
+      classes: 'image-background',
+      sizes: sizes,
+      sizeVariable: sizeVariable,
+      fallback: fallback, -%}
+  </div>
+
+  <div class="content" data-aos>
+    <div class="divider"></div>
+    <h2 class="h1 appear-delay">{{ section.settings.heading }}</h2>
+    <p class="appear-delay-1">{{ section.settings.description }}</p>
+    <a href="{{ section.settings.btn_url }}" class="btn btn--inverse appear-delay-2">
+      {{ section.settings.btn_text }}
+    </a>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "CTA",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Heading",
+        "default": "All Natural Botanicals"
+      },
+      {
+        "type": "text",
+        "id": "description",
+        "label": "Description",
+        "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      {
+        "type": "text",
+        "id": "btn_text",
+        "label": "Button text",
+        "default": "LEARN MORE"
+      }, {
+        "type": "url",
+        "id": "btn_url",
+        "label": "Button URL"
+      }
+    ],
+    "presets": [],
+    "disabled_on": {
+      "groups": ["custom.popups"]
+    }
+  }
+{% endschema %}

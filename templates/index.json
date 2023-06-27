@@ -128,6 +128,11 @@
         "direction": "left",
         "speed": 250
       }
+    },
+    "fh-section-cta": {
+      "type": "fh-section-cta",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -136,6 +141,7 @@
     "fh-section-product-category-grid",
     "featured-collection",
     "text-and-image",
-    "scrolling-text"
+    "scrolling-text",
+    "fh-section-cta"
   ]
 }
