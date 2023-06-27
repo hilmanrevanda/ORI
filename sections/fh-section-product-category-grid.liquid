@@ -49,12 +49,12 @@
   </div>
 
   {% comment %} Content Right {% endcomment %}
-  <div class="content content-left" data-aos>
+  <div class="content content-right" data-aos>
     <div class="divider"></div>
-    <h2 class="h1 appear-delay">{{ section.settings.heading_left }}</h2>
-    <p class="appear-delay-1">{{ section.settings.description_left }}</p>
-    <a href="{{ section.settings.btn_left_url }}" class="btn btn--inverse appear-delay-2">
-      {{ section.settings.btn_left_text }}
+    <h2 class="h1 appear-delay">{{ section.settings.heading_right }}</h2>
+    <p class="appear-delay-1">{{ section.settings.description_right }}</p>
+    <a href="{{ section.settings.btn_right_url }}" class="btn btn--inverse appear-delay-2">
+      {{ section.settings.btn_right_text }}
     </a>
   </div>
 </div>
@@ -63,6 +63,11 @@
   {
     "name": "Product Category Grid",
     "settings": [
+      {
+        "type": "image_picker",
+        "id": "image_left",
+        "label": "Image left"
+      },
       {
         "type": "text",
         "id": "heading_left",
@@ -80,20 +85,23 @@
         "id": "btn_left_text",
         "label": "Button left text",
         "default": "SHOP NOW"
-      },
-      {
+      }, {
         "type": "url",
         "id": "btn_left_url",
-        "label": "Button left url"
+        "label": "Button left URL"
+      }, {
+        "type": "image_picker",
+        "id": "image_right",
+        "label": "Image right"
       }, {
         "type": "text",
         "id": "heading_right",
-        "label": "Heading right Text",
+        "label": "Heading right text",
         "default": "Skincare"
       }, {
         "type": "text",
         "id": "description_right",
-        "label": "Description right Text",
+        "label": "Description right text",
         "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
       }, {
         "type": "text",
@@ -103,7 +111,7 @@
       }, {
         "type": "url",
         "id": "btn_right_url",
-        "label": "Button right url"
+        "label": "Button right URL"
       }
     ],
     "presets": [],
