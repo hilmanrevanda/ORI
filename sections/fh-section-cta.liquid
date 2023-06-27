@@ -37,9 +37,15 @@
   }
 
   .fh-section--cta .content {
+    width: 50%;
+    height: fit-content;
+  }
+
+  .fh-section--cta .content .wrapper {
     max-width: 100%;
     width: 420px;
-    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   @media only screen and (max-width: 768px) {
@@ -67,12 +73,13 @@
   </div>
 
   <div class="content" data-aos>
-    <div class="divider"></div>
-    <h2 class="h1 appear-delay">{{ section.settings.heading }}</h2>
-    <p class="appear-delay-1">{{ section.settings.description }}</p>
-    <a href="{{ section.settings.btn_url }}" class="btn btn--inverse appear-delay-2">
-      {{ section.settings.btn_text }}
-    </a>
+    <div class="wrapper">
+      <h2 class="h1 appear-delay">{{ section.settings.heading }}</h2>
+      <p class="appear-delay-1">{{ section.settings.description }}</p>
+      <a href="{{ section.settings.btn_url }}" class="btn btn--inverse appear-delay-2">
+        {{ section.settings.btn_text }}
+      </a>
+    </div>
   </div>
 </div>
 
