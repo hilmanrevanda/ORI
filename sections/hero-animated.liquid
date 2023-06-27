@@ -36,32 +36,27 @@
 {%- style -%}
   .hero-natural--{{ section.id }}{
     height: 0;
-    padding-bottom: {{ natural_height_ratio | plus: section.settings.desktop_size }}
-    %;
+    padding-bottom: {{ natural_height_ratio | plus: section.settings.desktop_size }}%;
   }
 
   @media screen and (max-width: 768px) {
     .hero-natural--{{ section.id }}{
-      padding-bottom: {{ natural_height_ratio_mobile | plus: section.settings.mobile_size }}
-      %;
+      padding-bottom: {{ natural_height_ratio_mobile | plus: section.settings.mobile_size }}%;
     }
   }
 
   .hero-animated--{{ section.id }}.hero__title {
-    font-size: {{ section.settings.title_size | times: 0.6 }}
-    px;
+    font-size: {{ section.settings.title_size | times: 0.6 }}px;
   }
 
   @media only screen and (min-width: 769px) {
     .hero-animated--{{ section.id }}.hero__title {
-      font-size: {{ section.settings.title_size }}
-      px;
+      font-size: {{ section.settings.title_size }}px;
     }
   }
 
   .hero-animated--{{ section.id }}[data-style="fading"] .animated__slide--active {
-    animation-duration: {{ slide_speed }}
-    s;
+    animation-duration: {{ slide_speed }}s;
   }
 
   {%- assign accent_exists = false -%}
@@ -69,8 +64,7 @@
   {% unless button_alpha == 0.0 %}
     {%- assign accent_exists = true -%}
     .hero-animated--{{ section.id }}.btn {
-      background: {{ section.settings.color_accent }}
-       !important;
+      background: {{ section.settings.color_accent }}!important;
       border: none;
 
       {%- assign accent_brightness = section.settings.color_accent | color_extract: 'lightness' -%}
@@ -80,6 +74,24 @@
       {%- endif -%}
     }
   {% endunless %}
+
+  .hero__image-wrapper--overlay:before,
+  .hero__media--overlay:before {
+    background-color: rgba(0, 0, 0, 1);
+    opacity: 0.25;
+  }
+
+  .hero__text-content.vertical-center .hero__link .btn {
+    margin-top: 0 !important;
+  }
+
+  .hero__text-content.vertical-center .hero__link {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
 {%- endstyle -%}
 
 <div
