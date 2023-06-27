@@ -70,12 +70,12 @@
         "heading_left": "Haircare",
         "description_left": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_left_text": "SHOP NOW",
-        "btn_left_url": "",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
         "image_right": "shopify:\/\/shop_images\/Skincare_1.jpg",
         "heading_right": "Skincare",
         "description_right": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_right_text": "SHOP NOW",
-        "btn_right_url": ""
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "featured-collection": {
