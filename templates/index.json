@@ -142,10 +142,11 @@
       "settings": {
         "title": "BEST SELLING HAIRCARE FOR THINNING HAIR",
         "description": "",
+        "featured_text": "Featured",
         "home_featured_products": "haircare",
         "rows": 1,
         "per_row_desktop": 4,
-        "per_row_mobile": "2",
+        "per_row_mobile": "1",
         "view_all": true,
         "alt": false
       }
