@@ -128,6 +128,11 @@
     "fh-section-cta": {
       "type": "fh-section-cta",
       "settings": {
+        "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+        "heading": "All Natural Botanicals",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "btn_text": "LEARN MORE",
+        "btn_url": "shopify:\/\/collections"
       }
     }
   },
