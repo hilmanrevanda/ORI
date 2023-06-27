@@ -122,7 +122,7 @@
         "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
-        "speed": 250
+        "speed": 300
       }
     },
     "fh-section-cta": {
