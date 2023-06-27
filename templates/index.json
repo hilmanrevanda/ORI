@@ -66,13 +66,13 @@
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Haircare_1.jpg",
-        "heading_left": "Haircare",
+        "image_left": "shopify:\/\/shop_images\/Skincare_1.jpg",
+        "heading_left": "HAIRCARE",
         "description_left": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/Skincare_1.jpg",
-        "heading_right": "Skincare",
+        "image_right": "shopify:\/\/shop_images\/Haircare_1_9af31c14-5ab8-4d8c-a531-9d3abddb5088.jpg",
+        "heading_right": "SKINCARE",
         "description_right": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skin-care"
@@ -122,7 +122,7 @@
         "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
-        "speed": 250
+        "speed": 300
       }
     },
     "fh-section-cta": {
