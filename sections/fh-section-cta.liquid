@@ -1,4 +1,59 @@
 {%- style -%}
+  .fh-section--cta {
+    display: flex;
+    min-height: 50vw;
+    max-height: 600px;
+    position: relative;
+    align-items: center;
+    padding: 20px;
+    justify-content: flex-end;
+    color: #ffffff;
+  }
+
+  .fh-section--cta .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--cta .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(-90deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
+  }
+
+  .fh-section--cta .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  .fh-section--cta .content {
+    max-width: 100%;
+    width: 420px;
+    height: fit-content;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--cta {
+      align-items: center;
+      justify-content: center;
+      padding: 100px 20px;
+      text-align: center;
+    }
+
+    .fh-section--cta .background:after {
+      background: linear-gradient(-0, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
+    }
+  }
 {%- endstyle -%}
 
 <div class="fh-section--cta">
