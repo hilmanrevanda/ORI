@@ -22,9 +22,9 @@
       ],
       "settings": {
         "style": "fading",
-        "title": "PHSYCIAN FORMULATED HAIRCARE",
-        "title_size": 46,
-        "subheading": "With fading or GIF-style animated images",
+        "title": "TRANSFORM YOUR \nHAIR & SCALP HEALTH",
+        "title_size": 40,
+        "subheading": "ALL-NATURAL BOTANICAL HAIR & SKINCARE",
         "link": "shopify:\/\/collections\/haircare",
         "link_text": "SHOP NOW",
         "link_learn_more": "#",
@@ -48,7 +48,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2>Thinning hair and aging skin are only partially caused by genetics. Add back years to your hair and skin with  Origenere's ORGANONUTRIENT<strong>™ <\/strong>physician formulated, all-natural hair and skincare. <\/h2>"
+            "text": "<p>Do you suffer from thinning hair, excessive hair shedding, hair breakage, dry or itchy scalp? Your current beauty regimen may be contributing. Our all natural hair and skincare products are free of common irritants and damaging ingredients including parabens, artificial fragrances, colors or dyes, SLS (Sodium Lauryl, Laureth Sulphate, ALS (Ammonium Lauryl, Laureth Sulphate), Methylisothiazolinone, and hydroquinone<\/p>"
           }
         },
         "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
@@ -70,17 +70,69 @@
         "alt": true
       }
     },
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "a9b9def1-9b5b-4dcd-810d-578c4928c6ab": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0",
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-1",
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2",
+        "a9b9def1-9b5b-4dcd-810d-578c4928c6ab"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false
+      }
+    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Skincare_1.jpg",
         "heading_left": "HAIRCARE",
-        "description_left": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "description_left": "",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/haircare",
         "image_right": "shopify:\/\/shop_images\/Haircare_1_9af31c14-5ab8-4d8c-a531-9d3abddb5088.jpg",
         "heading_right": "SKINCARE",
-        "description_right": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "description_right": "",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
@@ -88,7 +140,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured",
+        "title": "BEST SELLING HAIRCARE FOR THINNING HAIR",
         "description": "",
         "home_featured_products": "haircare",
         "rows": 1,
@@ -106,8 +158,8 @@
         "image2": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
         "image2_mask": "square",
         "subtitle": "",
-        "title": "Our Story",
-        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<\/p>",
+        "title": "OUR STORY",
+        "text": "<p>Want to revive your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin.  Origenere is committed to developing products using the best of science artfully combined with the best of nature.<strong>  <\/strong>We offer all-natural hair and skin care products formulated by physicians and scientists.  <\/p>",
         "button_label": "Shop Now",
         "button_link": "shopify:\/\/collections\/all",
         "button_style": "secondary",
@@ -136,7 +188,7 @@
       "type": "fh-section-cta",
       "settings": {
         "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
-        "heading": "All Natural Botanicals",
+        "heading": "THE SCIENCE OF ALL-NATURAL BOTANICALS",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/collections"
@@ -146,6 +198,7 @@
   "order": [
     "hero-animated",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "fh-section-product-category-grid",
     "featured-collection",
     "text-and-image",
