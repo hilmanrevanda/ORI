@@ -51,6 +51,15 @@
     {%- endif -%}
 
     <div class="page-width page-width--flush">
+
+      <div class="nav">
+        <div class="featured-text">{{ section.settings.featured_text.label }}</div>
+
+        {%- if section.settings.view_all -%}
+          <a href="{{ collections[section.settings.home_featured_products].url }}">{{ 'collections.general.all_of_collection' | t }}</a>
+        {%- endif -%}
+      </div>
+
       <div data-pagination-wrapper>
         <div class="grid grid--uniform grid--scattered-large-4 grid--scattered-small-{{ per_row_mobile }} appear-delay-3{% if section.settings.per_row_mobile == '2-flush' %} small--grid--flush{% endif %}" data-product-container>
 
@@ -86,13 +95,6 @@
             {%- endfor -%}
 
           {%- else -%}
-            <div class="nav">
-              <div class="featured-text">{{ section.settings.featured_text.label }}</div>
-
-              {%- if section.settings.view_all -%}
-                <a href="{{ collections[section.settings.home_featured_products].url }}">{{ 'collections.general.all_of_collection' | t }}</a>
-              {%- endif -%}
-            </div>
 
             {%- for product in collections[section.settings.home_featured_products].products limit: paginate_by -%}
               {%- render 'product-grid-item'
