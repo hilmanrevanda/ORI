@@ -75,6 +75,11 @@
     }
   {% endunless %}
 
+  .hero__text-content.vertical-center .hero__link .btn-learn-more{
+    background: #fff;
+    color: #000;
+  }
+
   .hero__text-content.vertical-center .hero__subtitle {
     font-weight: bold;
     text-transform: uppercase;
@@ -194,7 +199,7 @@
 
                     {%- if section.settings.link_text != blank -%}
                       <div class="hero__link appear-delay{% cycle '','-2','-4','-6','-8' %}">
-                        <a href="{{ section.settings.link_learn_more }}" class="btn">
+                        <a href="{{ section.settings.link_learn_more }}" class="btn btn-learn-more">
                           {{ section.settings.link_text_learn_more }}
                         </a>
                         <a href="{{ section.settings.link }}" class="btn{% unless accent_exists %} btn--inverse{% endunless %}">
