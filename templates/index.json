@@ -119,7 +119,7 @@
         "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
         "link": "",
         "text_size": 36,
-        "text_spacing": true,
+        "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
         "speed": 250
