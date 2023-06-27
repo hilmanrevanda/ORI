@@ -1,1 +1,38 @@
-{"type":"footer","name":"t:sections.footer-group.name","sections":{"social":{"type":"social","disabled":true,"settings":{"enable_home":true,"enable_product":true,"enable_collection":false,"title":"On social","description":"<p>Follow us on instagram @orig<\/p>"}},"footer":{"type":"footer","settings":{"show_newsletter":true,"newsletter_title":"Join the core club","newsletter_richtext":"<p>Subscribe to our newsletter and get exclusive promotions directly to your inbox.<\/p>","show_locale_selector":false,"show_currency_selector":false,"show_currency_flags":false,"show_social_icons":true,"menu":"","show_payment_icons":false,"show_copyright":false,"copyright_text":""}}},"order":["social","footer"]}
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "social": {
+      "type": "social",
+      "disabled": true,
+      "settings": {
+        "enable_home": true,
+        "enable_product": true,
+        "enable_collection": false,
+        "title": "On social",
+        "description": "<p>Follow us on instagram @orig<\/p>"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "site_icon": "shopify:\/\/shop_images\/favicon.png",
+        "show_newsletter": true,
+        "newsletter_title": "Join the core club",
+        "newsletter_richtext": "<p>Subscribe to our newsletter and get exclusive promotions directly to your inbox.<\/p>",
+        "show_locale_selector": false,
+        "show_currency_selector": false,
+        "show_currency_flags": false,
+        "show_social_icons": true,
+        "menu": "",
+        "show_payment_icons": false,
+        "show_copyright": false,
+        "copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "social",
+    "footer"
+  ]
+}
