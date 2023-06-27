@@ -14,9 +14,19 @@
     align-items: baseline;
     background-color: #eaeaea;
     position: relative;
+    color: #ffffff;
   }
 
-  .fh-section--product-category-grid .content:before {
+  .fh-section--product-category-grid .content .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--product-category-grid .content .background:after {
     content: '';
     position: absolute;
     left: 0;
@@ -24,6 +34,13 @@
     top: 0;
     bottom: 0;
     background: linear-gradient(0deg, rgba(0,0,0,.5) 0%, rgba(255,255,255,0) 100%);
+  }
+
+  .fh-section--product-category-grid .content .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
   }
 
   @media only screen and (max-width: 768px) {
