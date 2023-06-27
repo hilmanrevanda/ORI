@@ -8,16 +8,10 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
           }
-        },
-        "hero-animated-1": {
-          "type": "image",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "hero-animated-0",
-        "hero-animated-1"
+        "hero-animated-0"
       ],
       "settings": {
         "style": "gif",
