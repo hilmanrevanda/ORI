@@ -19,6 +19,23 @@
   endif
 -%}
 
+{% style %}
+  .top-info {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+
+  .top-info .content-left,
+  .top-info .content-right {
+    width: 50%;
+  }
+
+  .top-info h3 {
+    margin-bottom: 0;
+  }
+{% endstyle %}
+
 {%- capture grid_item_width -%}
   {{ grid_small_width }} {{ grid_large_width }}{%- endcapture -%}
 
@@ -55,7 +72,7 @@
       <div class="top-info">
         <div class="content-left">
           {%- if section.settings.featured_text != blank -%}
-            <div class="featured-text">{{ section.settings.featured_text }}</div>
+            <div class="h3">{{ section.settings.featured_text }}</div>
           {%- endif -%}
         </div>
         <div class="content-right">
