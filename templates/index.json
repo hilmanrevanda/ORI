@@ -93,7 +93,7 @@
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "2",
-        "view_all": false,
+        "view_all": true,
         "alt": false
       }
     },
