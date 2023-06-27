@@ -77,32 +77,32 @@
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Parabens",
+            "text": "<p>Common preservatives such as methylparaben, ethylparaben, butylparaben found in cosmetics and shampoos implicated in cancer and hormone disruption<\/p>"
           }
         },
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-1": {
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Artificial Fragrances, Colors or Dyes",
+            "text": "<p>Known to cause allergic reactions, possible hyperactivity in children.<\/p>"
           }
         },
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2": {
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Ammonium Lauryl, Laureth Sulphate",
+            "text": "<p>Common detergents found in shampoos and cleansing products. Known skin irritants that deplete hair and skin’s natural protective layers<\/p>"
           }
         },
         "a9b9def1-9b5b-4dcd-810d-578c4928c6ab": {
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Methylisothiazolinone",
+            "text": "<p>Commonly found preservative in cosmetic products that is potentially neurotoxic<\/p>"
           }
         }
       },
@@ -116,7 +116,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 4,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false
