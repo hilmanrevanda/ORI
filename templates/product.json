@@ -150,6 +150,13 @@
         "alt": false
       }
     },
+    "fh-section-product-image-grid": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
+        "image_right": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg"
+      }
+    },
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
@@ -183,22 +190,15 @@
       "disabled": true,
       "settings": {
       }
-    },
-    "fh-section-product-image-grid": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
-        "image_right": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg"
-      }
     }
   },
   "order": [
     "main",
     "sub",
     "4c3f1f16-996c-4355-a930-c1142655902b",
+    "fh-section-product-image-grid",
     "text-and-image",
     "product-recommendations",
-    "collection-return",
-    "fh-section-product-image-grid"
+    "collection-return"
   ]
 }
