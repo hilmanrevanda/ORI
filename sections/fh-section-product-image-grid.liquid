@@ -1,51 +1,82 @@
 {%- style -%}
+  .fh-section--product-image-grid {
+    display: flex;
+    flex-direction: row;
+  }
 
+  .fh-section--product-image-grid .content {
+    width: 50%;
+  }
+
+  .fh-section--product-image-grid .content .background {
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+  }
+
+  .fh-section--product-image-grid .content .background img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--product-image-grid {
+      flex-direction: column;
+    }
+
+    .fh-section--product-image-grid .content {
+      width: 100%;
+    }
+  }
 {%- endstyle -%}
-  
-  <div class="fh-section--product-image-grid">
-    {% comment %} Content Left {% endcomment %}
-    <div class="content content-left" data-aos>
-      <div class="background">
-        {%- render 'image-element'
-          , img: section.settings.image_left,
-          classes: 'image-background',
-          sizes: sizes,
-          sizeVariable: sizeVariable,
-          fallback: fallback, -%}
-      </div>
-    </div>
-  
-    {% comment %} Content Right {% endcomment %}
-    <div class="content content-right" data-aos>
-      <div class="background">
-        {%- render 'image-element'
-          , img: section.settings.image_right,
-          classes: 'image-background',
-          loading: 'sync',
-          sizes: sizes,
-          sizeVariable: sizeVariable,
-          fallback: fallback, -%}
-      </div>
+
+<div class="fh-section--product-image-grid">
+  {% comment %} Content Left {% endcomment %}
+  <div class="content content-left" data-aos>
+    <div class="background">
+      {%- render 'image-element'
+        , img: section.settings.image_left,
+        classes: 'image-background',
+        sizes: sizes,
+        sizeVariable: sizeVariable,
+        fallback: fallback, -%}
     </div>
   </div>
-  
-  {% schema %}
-    {
-      "name": "Product Image Grid",
-      "settings": [
-        {
-          "type": "image_picker",
-          "id": "image_left",
-          "label": "Image left"
-        },{
-          "type": "image_picker",
-          "id": "image_right",
-          "label": "Image right"
-        }
-      ],
-      "presets": [],
-      "disabled_on": {
-        "groups": ["custom.popups"]
+
+  {% comment %} Content Right {% endcomment %}
+  <div class="content content-right" data-aos>
+    <div class="background">
+      {%- render 'image-element'
+        , img: section.settings.image_right,
+        classes: 'image-background',
+        loading: 'sync',
+        sizes: sizes,
+        sizeVariable: sizeVariable,
+        fallback: fallback, -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Product Image Grid",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image_left",
+        "label": "Image left"
+      }, {
+        "type": "image_picker",
+        "id": "image_right",
+        "label": "Image right"
       }
+    ],
+    "presets": [],
+    "disabled_on": {
+      "groups": ["custom.popups"]
     }
-  {% endschema %}
+  }
+{% endschema %}
