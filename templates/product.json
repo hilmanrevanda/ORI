@@ -166,7 +166,9 @@
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/About_the_Fragrance.webp",
         "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/About_the_Fragrance_2.webp",
         "image2_mask": "none",
         "subtitle": "",
         "title": "About the Fragrance",
