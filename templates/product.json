@@ -190,6 +190,11 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "fh-section-product-testimonial": {
+      "type": "fh-section-product-testimonial",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -199,6 +204,7 @@
     "fh-section-product-image-grid",
     "text-and-image",
     "product-recommendations",
-    "collection-return"
+    "collection-return",
+    "fh-section-product-testimonial"
   ]
 }
