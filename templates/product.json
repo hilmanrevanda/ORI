@@ -144,7 +144,7 @@
         "title": "About Products",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false
@@ -187,6 +187,8 @@
     "fh-section-product-image-grid": {
       "type": "fh-section-product-image-grid",
       "settings": {
+        "image_left": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
+        "image_right": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg"
       }
     }
   },
