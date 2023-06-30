@@ -113,7 +113,7 @@
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-0": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
+            "icon": "globe",
             "title": "Our Story",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
           }
@@ -121,7 +121,7 @@
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
+            "icon": "truck",
             "title": "Our Story",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
           }
@@ -129,7 +129,7 @@
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
+            "icon": "shield",
             "title": "Our Story",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
           }
