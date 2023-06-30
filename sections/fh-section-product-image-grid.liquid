@@ -1,0 +1,51 @@
+{%- style -%}
+
+{%- endstyle -%}
+  
+  <div class="fh-section--product-image-grid">
+    {% comment %} Content Left {% endcomment %}
+    <div class="content content-left" data-aos>
+      <div class="background">
+        {%- render 'image-element'
+          , img: section.settings.image_left,
+          classes: 'image-background',
+          sizes: sizes,
+          sizeVariable: sizeVariable,
+          fallback: fallback, -%}
+      </div>
+    </div>
+  
+    {% comment %} Content Right {% endcomment %}
+    <div class="content content-right" data-aos>
+      <div class="background">
+        {%- render 'image-element'
+          , img: section.settings.image_right,
+          classes: 'image-background',
+          loading: 'sync',
+          sizes: sizes,
+          sizeVariable: sizeVariable,
+          fallback: fallback, -%}
+      </div>
+    </div>
+  </div>
+  
+  {% schema %}
+    {
+      "name": "Product Image Grid",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image_left",
+          "label": "Image left"
+        },{
+          "type": "image_picker",
+          "id": "image_right",
+          "label": "Image right"
+        }
+      ],
+      "presets": [],
+      "disabled_on": {
+        "groups": ["custom.popups"]
+      }
+    }
+  {% endschema %}
