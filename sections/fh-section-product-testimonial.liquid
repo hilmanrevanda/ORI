@@ -1,29 +1,62 @@
 {%- style -%}
+  .fh-section--product-testimonial .page-width {
+    position: relative;
+  }
 
+  .fh-section--product-testimonial p {
+    margin: 0;
+  }
+
+  .fh-section--product-testimonial .enlarge-text:after {
+    content: '';
+    background-image: url('data:image/svg+xml, <svg data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.66 11.19"><path d="M0 11.19C1.05 7.34 3.03 2.38 4.31.28L6.88 0c-1.01 2.71-2.2 7.43-2.71 10.73L0 11.19Zm6.83 0C7.84 7.34 9.86 2.38 11.1.28L13.67 0c-1.01 2.71-2.2 7.43-2.71 10.73l-4.13.46Z" fill="%23fff" data-name="Layer 1"/></svg>');
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    left: 10px;
+    top: -30px;
+  }
+
+  .fh-section--product-testimonial .enlarge-text:before {
+    content: '';
+    background-image: url('data:image/svg+xml, <svg data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.66 11.19"><path d="M0 11.19C1.05 7.34 3.03 2.38 4.31.28L6.88 0c-1.01 2.71-2.2 7.43-2.71 10.73L0 11.19Zm6.83 0C7.84 7.34 9.86 2.38 11.1.28L13.67 0c-1.01 2.71-2.2 7.43-2.71 10.73l-4.13.46Z" fill="%23fff" data-name="Layer 1"/></svg>');
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    right: 10px;
+    bottom: -30px;
+    transform: rotate(180deg);
+  }
 {%- endstyle -%}
-  
+
 <div class="fh-section--product-testimonial index-section index-section--alt text-center">
-    <div class="page-width page-width--narrow">
-        <div class="enlarge-text">
-            <p>{{ section.settings.testimonial_text }}</p>
-        </div>
+  <div class="page-width page-width--narrow">
+    <div class="enlarge-text">
+      <p>{{ section.settings.testimonial_text }}</p>
     </div>
+  </div>
 </div>
 
 {% schema %}
-{
+  {
     "name": "Product Testimonial",
     "settings": [
-    {
+      {
         "type": "text",
         "id": "testimonial_text",
         "label": "Testimonial text",
         "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
-    }
+      }
     ],
     "presets": [],
     "disabled_on": {
-    "groups": ["custom.popups"]
+      "groups": ["custom.popups"]
     }
-}
+  }
 {% endschema %}
