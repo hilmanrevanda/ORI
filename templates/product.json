@@ -153,8 +153,8 @@
     "fh-section-product-image-grid": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
-        "image_right": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg"
+        "image_left": "{{ product.metafields.custom.image_grid_1.value }}",
+        "image_right": "{{ product.metafields.custom.image_grid_2.value }}"
       }
     },
     "text-and-image": {
