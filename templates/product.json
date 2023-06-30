@@ -163,7 +163,7 @@
         "button_style": "primary",
         "align_text": "left",
         "image_width": "66",
-        "layout": "right",
+        "layout": "left",
         "alt": false,
         "top_padding": true,
         "bottom_padding": true,
