@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "list-collections-template",
+      "disabled": true,
       "settings": {
         "title_enable": true,
         "display_type": "all",
@@ -10,8 +11,30 @@
     },
     "fh-section-collection-list": {
       "type": "fh-section-collection-list",
-      "settings": {}
+      "blocks": {
+        "bbd9f33f-ec95-43d9-932b-0f007e2ea9bf": {
+          "type": "collection",
+          "settings": {
+            "collection": "arancio-preservation-collection"
+          }
+        },
+        "29b1b0b9-0af0-4eae-8928-02003ac95b6f": {
+          "type": "collection",
+          "settings": {
+            "collection": "haircare"
+          }
+        }
+      },
+      "block_order": [
+        "bbd9f33f-ec95-43d9-932b-0f007e2ea9bf",
+        "29b1b0b9-0af0-4eae-8928-02003ac95b6f"
+      ],
+      "settings": {
+      }
     }
   },
-  "order": ["main", "fh-section-collection-list"]
+  "order": [
+    "main",
+    "fh-section-collection-list"
+  ]
 }
