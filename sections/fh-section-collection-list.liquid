@@ -10,12 +10,13 @@
     padding: 60px;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    align-items: baseline;
-    background-color: #eaeaea;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
     position: relative;
     color: #ffffff;
     width: 50%;
+    text-align: center;
   }
 
   .collection-item .content p {
@@ -75,7 +76,12 @@
 
     <div class="collection-item">
       {% comment %} Content Left {% endcomment %}
-      <div class="content content-left" data-aos>
+      <div
+        class="content content-left"
+        data-aos
+        {%- if collection.metafields.custom.background_color -%}
+        style="background-color: {%- collection.metafields.custom.background_color -%};"
+        {%- endif -%}>
         <h2 class="h1 appear-delay">{{ collection.title }}</h2>
         <p class="appear-delay-1">{{ collection.description }}</p>
         <a href="{{ collection.url }}" class="btn btn--inverse appear-delay-2">Shop Now</a>
@@ -84,12 +90,13 @@
       {% comment %} Content Right {% endcomment %}
       <div class="content content-right" data-aos>
         <div class="background">
-          {%- render 'image-element'
-            , img: collection_image,
+          {%-
+              render 'image-element',
+            img: collection_image,
             classes: 'image-background',
             sizes: sizes,
             sizeVariable: sizeVariable,
-            fallback: fallback, -%}
+            fallback: fallback -%}
         </div>
       </div>
     </div>
