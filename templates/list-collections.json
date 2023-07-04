@@ -10,9 +10,7 @@
     },
     "fh-section-collection-list": {
       "type": "fh-section-collection-list",
-      "settings": {
-        
-      }
+      "settings": {}
     }
   },
   "order": ["main", "fh-section-collection-list"]
