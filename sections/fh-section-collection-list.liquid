@@ -3,17 +3,14 @@
 {%- endstyle -%}
 
 <div class="fh-section--collection-list">
-  {%- for collection in collections -%}
-    {%- if collection.metafields.custom.show_on_collections -%}
-      <h2>{{ collection.title }}</h2>
-
-      {%- if collection.image -%}
-        {%- assign collection_image = collection.image -%}
-      {%- else -%}
-        {%- assign collection_image = collection.products.first.featured_media.preview_image -%}
-      {%- endif -%}
-
+  {%- for block in section.blocks -%}
+    {%- assign collection = collections[block.settings.collection] -%}
+    {%- if collection.image -%}
+      {%- assign collection_image = collection.image -%}
+    {%- else -%}
+      {%- assign collection_image = collection.products.first.featured_media.preview_image -%}
     {%- endif -%}
+    <h2>{{ collection.title }}</h2>
   {%- endfor -%}
 </div>
 
