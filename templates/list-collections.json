@@ -1,1 +1,9 @@
-{"sections":{"main":{"type":"list-collections-template","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": { "type": "list-collections-template", "settings": {} },
+    "fh-section-collection-list": {
+      "type": "fh-section-collection-list"
+    }
+  },
+  "order": ["main", "fh-section-collection-list"]
+}
