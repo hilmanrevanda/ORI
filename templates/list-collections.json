@@ -4,7 +4,7 @@
       "type": "list-collections-template",
       "settings": {
         "title_enable": true,
-        "display_type": "selected",
+        "display_type": "all",
         "sort": "alphabetical"
       }
     }
