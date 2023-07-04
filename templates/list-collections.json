@@ -1,6 +1,13 @@
 {
   "sections": {
-    "main": { "type": "list-collections-template", "settings": {} },
+    "main": {
+      "type": "list-collections-template",
+      "settings": {
+        "title_enable": true,
+        "display_type": "all",
+        "sort": "alphabetical"
+      }
+    },
     "fh-section-collection-list": {
       "type": "fh-section-collection-list"
     }
