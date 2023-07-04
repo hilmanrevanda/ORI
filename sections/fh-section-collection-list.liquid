@@ -3,7 +3,18 @@
 {%- endstyle -%}
 
 <div class="fh-section--collection-list">
-  Test
+  {%- for collection in collections -%}
+    {%- if collection.metafields.custom.show_on_collections -%}
+      <h2>{{ collection.title }}</h2>
+
+      {%- if collection.image -%}
+        {%- assign collection_image = collection.image -%}
+      {%- else -%}
+        {%- assign collection_image = collection.products.first.featured_media.preview_image -%}
+      {%- endif -%}
+
+    {%- endif -%}
+  {%- endfor -%}
 </div>
 
 {% schema %}
