@@ -17,10 +17,17 @@
           "settings": {
             "collection": "naturale"
           }
+        },
+        "24eb9d94-233b-4c10-bab8-4f9f1a35112b": {
+          "type": "collection",
+          "settings": {
+            "collection": "arancio"
+          }
         }
       },
       "block_order": [
-        "bab03b53-89e6-4175-85bd-91e536f038f3"
+        "bab03b53-89e6-4175-85bd-91e536f038f3",
+        "24eb9d94-233b-4c10-bab8-4f9f1a35112b"
       ],
       "settings": {
       }
