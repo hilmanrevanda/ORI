@@ -39,7 +39,10 @@
   }
 {%- endstyle -%}
 
-<div class="fh-section--product-image-grid">
+<div
+  data-section-id="{{ section.id }}"
+  data-section-type="fh-section-product-image-grid"
+  class="fh-section--product-image-grid">
   {% comment %} Content Left {% endcomment %}
   <div class="content content-left" data-aos>
     <div class="background">
