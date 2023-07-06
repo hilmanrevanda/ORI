@@ -112,9 +112,8 @@ If you change the number below, it must also be changed in:
                     data-image-count="1"
                     data-id="1234">
                     <div class="product-slide">
-                      {% capture current %}
-                        {% cycle 1, 2, 3, 4, 5, 6 %}{% endcapture %}
-                      <div class="image-wrap">
+                      {%- assign slider_image_padding = 100 | divided_by: preview_image.aspect_ratio | append: '%' -%}
+                      <div class="image-wrap" style="height: 0; padding-bottom: {{ slider_image_padding }};">
                         {% if force_jpg %}
                           {% assign format = 'jpg' %}
                         {% endif %}
