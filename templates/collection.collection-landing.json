@@ -199,7 +199,7 @@
         "title": "",
         "description": "",
         "featured_text": "Featured",
-        "home_featured_products": "{{ collection }}",
+        "home_featured_products": "{{ collection.metafields.custom.collection_reference.value }}",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",
