@@ -168,7 +168,7 @@
       "type": "fh-section-product-ingredients",
       "settings": {
         "title": "The Ingredients",
-        "description": "",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "per_row": "small",
         "alt": true
       }
