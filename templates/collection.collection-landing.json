@@ -107,7 +107,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false
@@ -118,13 +118,14 @@
       "blocks": {
         "c62e4094-007d-4f95-9cd5-2bf1253ec1f7": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.collection_cta.value }}",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "heading": "Haircare",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-            "btn_text": "SHOP NOW",
-            "btn_url": "",
-            "background_color": "#000000"
+            "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
+            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
+            "description": "",
+            "btn_text": "SHOP NOW{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
+            "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
+            "background_color": "{{ collection.metafields.custom.collection_cta.value.background_color.value }}"
           }
         }
       },
