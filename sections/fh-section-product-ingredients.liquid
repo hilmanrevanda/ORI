@@ -14,13 +14,11 @@ If you change the number below, it must also be changed in:
   assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
 -%}
 
-{% if template_name == 'product' %}
-  {% for collection in product.collections %}
-    {% if collection.metafields.custom.background_color %}
-      {% assign background_color = collection.metafields.custom.background_color.value %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
+{% for collection in product.collections %}
+  {% if collection.metafields.custom.background_color %}
+    {% assign background_color = collection.metafields.custom.background_color.value %}
+  {% endif %}
+{% endfor %}
 
 {%- assign grid_item_width = 'grid-product--small' -%}
 {%- assign scrollable = true -%}
@@ -41,11 +39,7 @@ If you change the number below, it must also be changed in:
   {%- assign fallback = '37vw' -%}
 {%- endcase -%}
 
-<div
-  class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}"
-  {% if template_name == 'product' %}
-  style="background-color: {{ background_color  }};"
-  {% endif %}>
+<div class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
 
   <div
     id="CollectionSection-{{ section.id }}"
@@ -62,12 +56,6 @@ If you change the number below, it must also be changed in:
     {%- if section.settings.title != blank -%}
       <div class="page-width">
         <header class="section-header" data-aos>
-          <script>{{ product.metafields.custom.product_ingredients.value | json }}</script>
-          {% for item in product.metafields.custom.product_ingredients.value %}
-            <script>{{ item | json }}</script>
-            <p>{{ item.title }}</p>
-            <p>{{ item.description }}</p>
-          {% endfor %}
           <h2 class="section-header__title appear-delay">
             {{ section.settings.title }}
           </h2>
@@ -114,7 +102,8 @@ If you change the number below, it must also be changed in:
           class="grid grid--uniform grid--scattered-large-2 grid--scattered-small-2"
           data-aos="overflow__animation"
           data-product-container>
-          {%- for i in (1..paginate_by) -%}
+
+          {% for item in product.metafields.custom.product_ingredients.value %}
             <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}">
               <div class="grid-product__content">
                 <div class="grid-product__link">
@@ -129,13 +118,13 @@ If you change the number below, it must also be changed in:
                     </div>
                   </div>
                   <div class="grid-product__meta">
-                    <div class="grid-product__title">{{ 'home_page.onboarding.product_title' | t }}</div>
-                    <div class="grid-product__price">$29</div>
+                    <div class="grid-product__title">{{ item.title }}</div>
+                    <div class="grid-product__price">{{ item.description }}</div>
                   </div>
                 </div>
               </div>
             </div>
-          {%- endfor -%}
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -186,7 +175,11 @@ If you change the number below, it must also be changed in:
       }
     ],
     "blocks": [],
-    "disabled_on": {
+    "enabled_on": {
+      "templates": ["product"],
+      "groups": ["footer", "header", "custom.popups"]
+    },
+    "disabled_onAnchor": {
       "groups": ["footer", "header", "custom.popups"]
     }
   }
