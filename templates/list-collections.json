@@ -40,10 +40,10 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/8.png",
-            "heading": "Haircare",
+            "heading": "Naturale",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/pages\/origenere",
             "background_color": "#000000"
           }
         },
@@ -51,17 +51,53 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/22.jpg",
-            "heading": "Haircare",
+            "heading": "Arancio",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "",
             "background_color": "#fc4c01"
           }
+        },
+        "b20f588c-5754-4a1a-9418-e7a8ebfe68bb": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skincare_1.jpg",
+            "heading": "Buongiorno",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#fec802"
+          }
+        },
+        "6c418037-3c8a-4918-b9e1-ee46b1e5294d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
+            "heading": "Nero",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#441899"
+          }
+        },
+        "416cb6e7-d354-47f2-b711-3e1bd366996f": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/13.png",
+            "heading": "Sempre",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#441899"
+          }
         }
       },
       "block_order": [
         "6df271c3-f44d-43cf-86d6-68731289f3f1",
-        "b25c4e2b-daec-4a99-8a53-45621a80986d"
+        "b25c4e2b-daec-4a99-8a53-45621a80986d",
+        "b20f588c-5754-4a1a-9418-e7a8ebfe68bb",
+        "6c418037-3c8a-4918-b9e1-ee46b1e5294d",
+        "416cb6e7-d354-47f2-b711-3e1bd366996f"
       ],
       "settings": {
       }
