@@ -35,7 +35,24 @@
   }
 {%- endstyle -%}
 
-<div class="fh-section--product-testimonial index-section index-section--alt text-center">
+{%- liquid
+  assign background_color = '#000000'
+  assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
+-%}
+
+{% if template_name == 'product' %}
+  {% for collection in product.collections %}
+    {% if collection.metafields.custom.background_color %}
+      {% assign background_color = collection.metafields.custom.background_color.value %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div
+  class="fh-section--product-testimonial index-section index-section--alt text-center"
+  {% if template_name == 'product' %}
+  style="background-color: {{ background_color  }};"
+  {% endif %}>
   <div class="page-width page-width--narrow">
     <div class="enlarge-text">
       <p>{{ section.settings.testimonial_text }}</p>

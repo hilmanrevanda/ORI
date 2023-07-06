@@ -1,21 +1,4 @@
-{%- liquid
-  assign background_color = '#000000'
-  assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
--%}
-
-{% if template_name == 'product' %}
-  {% for collection in product.collections %}
-    {% if collection.metafields.custom.background_color %}
-      {% assign background_color = collection.metafields.custom.background_color.value %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-<div
-  class="index-section{% if section.settings.alt %} index-section--alt{% endif %}"
-  {% if template_name == 'product' %}
-  style="background-color: {{ background_color  }};"
-  {% endif %}>
+<div class="index-section{% if section.settings.alt %} index-section--alt{% endif %}">
 
   <div
     class="page-width text-{{ section.settings.align_text }}"
