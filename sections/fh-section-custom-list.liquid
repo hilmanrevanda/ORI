@@ -72,7 +72,10 @@
   {%- for block in section.blocks -%}
     <div class="list-item">
       {% comment %} Content Left {% endcomment %}
-      <div class="content content-left" data-aos>
+      <div
+        class="content content-left"
+        style="background-color: {{ block.settings.background_color.value }};"
+        data-aos>
         <h2 class="h1 appear-delay">{{ block.settings.heading }}</h2>
         <p class="appear-delay-1">{{ block.settings.description }}</p>
         <a href="{{ block.settings.btn_url }}" class="btn btn--inverse appear-delay-2">{{ block.settings.btn_text }}</a>
@@ -134,6 +137,11 @@
             "type": "url",
             "id": "btn_url",
             "label": "Button URL"
+          }, {
+            "type": "color",
+            "id": "background_color",
+            "label": "Background",
+            "default": "#000000"
           }
         ]
       }
