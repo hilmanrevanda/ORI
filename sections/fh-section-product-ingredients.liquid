@@ -104,7 +104,7 @@ If you change the number below, it must also be changed in:
           data-product-container>
 
           {% for item in product.metafields.custom.product_ingredients.value %}
-            <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}">
+            <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}" data-aos>
               <div class="grid-product__content">
                 <div class="grid-product__link">
                   <div
