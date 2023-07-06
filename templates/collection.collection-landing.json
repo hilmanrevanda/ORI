@@ -182,7 +182,7 @@
             "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
             "btn_text": "{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
             "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
-            "background_color": "{{ collection.metafields.custom.collection_cta.value.background_color.value }}"
+            "background_color": "{{ collection.metafields.custom.background_color.value }}"
           }
         }
       },
