@@ -67,7 +67,8 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "alt": true
+        "alt": true,
+        "background_color": "{{ collection.metafields.custom.background_color.value }}"
       }
     },
     "e1e647f5-9bf3-4714-8c3e-f95f54685092": {
