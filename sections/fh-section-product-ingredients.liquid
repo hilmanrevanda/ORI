@@ -7,10 +7,17 @@ If you change the number below, it must also be changed in:
 - snippets/page-block-featured-collection-slider
 {% endcomment %}
 {%- liquid
-  assign paginate_by = 24
+  assign paginate_by = 6
   assign ajax_paginate = false
   assign collection_count = 6
+  assign background_color = ''
 -%}
+
+{% for collection in product.collections %}
+  {% if collection.collection.metafields.custom.background_color %}
+    {% assign background_color = collection.collection.metafields.custom.background_color %}
+  {% endif %}
+{% endfor %}
 
 {%- assign grid_item_width = 'grid-product--small' -%}
 {%- assign scrollable = true -%}
@@ -31,7 +38,7 @@ If you change the number below, it must also be changed in:
   {%- assign fallback = '37vw' -%}
 {%- endcase -%}
 
-<div class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}">
+<div class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %} {{ background_color }}">
 
   <div
     id="CollectionSection-{{ section.id }}"
