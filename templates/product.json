@@ -164,14 +164,13 @@
         "image_right": "{{ product.metafields.custom.image_grid_2.value }}"
       }
     },
-    "0dffc30a-b880-40fb-ad92-dbe7c53ac941": {
-      "type": "featured-collection-slider",
+    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
+      "type": "fh-section-product-ingredients",
       "settings": {
-        "title": "Featured collection",
+        "title": "The Ingredients",
         "description": "",
-        "home_featured_products": "haircare",
         "per_row": "small",
-        "alt": false
+        "alt": true
       }
     },
     "text-and-image": {
@@ -209,15 +208,6 @@
       "disabled": true,
       "settings": {
       }
-    },
-    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
-      "type": "fh-section-product-ingredients",
-      "settings": {
-        "title": "The Ingredients",
-        "description": "",
-        "per_row": "small",
-        "alt": true
-      }
     }
   },
   "order": [
@@ -226,10 +216,9 @@
     "fh-section-product-testimonial",
     "4c3f1f16-996c-4355-a930-c1142655902b",
     "fh-section-product-image-grid",
-    "0dffc30a-b880-40fb-ad92-dbe7c53ac941",
+    "5c4d193f-12be-430d-acf9-a14c90acc28e",
     "text-and-image",
     "product-recommendations",
-    "collection-return",
-    "5c4d193f-12be-430d-acf9-a14c90acc28e"
+    "collection-return"
   ]
 }
