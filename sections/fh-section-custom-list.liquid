@@ -1,0 +1,145 @@
+{%- style -%}
+  .fh-section--custom-list-grid .list-item {
+    display: flex;
+    flex-direction: row;
+    min-height: 50vw;
+    max-height: 600px
+  }
+
+  .fh-section--custom-list-grid .list-item .content {
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    position: relative;
+    color: #ffffff;
+    width: 50%;
+    text-align: center;
+  }
+
+  .fh-section--custom-list-grid .list-item .content p {
+    max-width: 100%;
+    width: 500px;
+  }
+
+  .fh-section--custom-list-grid .list-item .content .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--custom-list-grid .list-item .content .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
+  }
+
+  .fh-section--custom-list-grid .list-item .content .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--custom-list-grid .list-item {
+      min-height: 0;
+      max-height: unset;
+      flex-direction: column;
+    }
+
+    .fh-section--custom-list-grid .list-item .content {
+      padding: 40px 20px;
+      width: 100%;
+      min-height: 100vw;
+    }
+  }
+{%- endstyle -%}
+
+<div
+  data-section-id="{{ section.id }}"
+  data-section-type="fh-section-custom-list-grid"
+  class="fh-section--custom-list-grid">
+  {%- for block in section.blocks -%}
+    <div class="list-item">
+      {% comment %} Content Left {% endcomment %}
+      <div class="content content-left" data-aos>
+        <h2 class="h1 appear-delay">{{ block.settings.heading }}</h2>
+        <p class="appear-delay-1">{{ block.settings.description }}</p>
+        <a href="{{ block.settings.btn_url }}" class="btn btn--inverse appear-delay-2">{{ block.settings.btn_text }}</a>
+      </div>
+
+      {% comment %} Content Right {% endcomment %}
+      <div class="content content-right" data-aos>
+        <div class="background">
+          {%-
+              render 'image-element',
+            img: block.settings.image,
+            classes: 'image-background',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback -%}
+        </div>
+      </div>
+    </div>
+  {%- endfor -%}
+</div>
+
+{% schema %}
+  {
+    "name": "Custom list grid",
+    "settings": [],
+    "presets": [
+      {
+        "name": "Custom list grid"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "text_block",
+        "name": "List",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "heading",
+            "label": "Heading text",
+            "default": "Haircare"
+          },
+          {
+            "type": "text",
+            "id": "description",
+            "label": "Description text",
+            "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          },
+          {
+            "type": "text",
+            "id": "btn_text",
+            "label": "Button text",
+            "default": "SHOP NOW"
+          }, {
+            "type": "url",
+            "id": "btn_url",
+            "label": "Button URL"
+          }
+        ]
+      }
+    ],
+    "disabled_on": {
+      "groups": ["custom.popups"]
+    }
+  }
+{% endschema %}
