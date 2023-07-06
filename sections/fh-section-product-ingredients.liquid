@@ -10,15 +10,17 @@ If you change the number below, it must also be changed in:
   assign paginate_by = 6
   assign ajax_paginate = false
   assign collection_count = 6
-  assign background_color = 'no-background'
+  assign background_color = '#000000'
   assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
 -%}
 
-{% for collection in product.collections %}
-  {% if collection.metafields.custom.background_color %}
-    {% assign background_color = collection.metafields.custom.background_color.value %}
-  {% endif %}
-{% endfor %}
+{% if template_name == 'product' %}
+  {% for collection in product.collections %}
+    {% if collection.metafields.custom.background_color %}
+      {% assign background_color = collection.metafields.custom.background_color.value %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
 
 {%- assign grid_item_width = 'grid-product--small' -%}
 {%- assign scrollable = true -%}
@@ -39,7 +41,11 @@ If you change the number below, it must also be changed in:
   {%- assign fallback = '37vw' -%}
 {%- endcase -%}
 
-<div class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}">
+<div
+  class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}"
+  {% if template_name == 'product' %}
+  style="background-color: {{ background_color  }};"
+  {% endif %}>
 
   <div
     id="CollectionSection-{{ section.id }}"
