@@ -54,7 +54,7 @@
             "heading": "Arancio",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/naturale",
             "background_color": "#fc4c01"
           }
         },
