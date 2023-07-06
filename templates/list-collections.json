@@ -16,7 +16,7 @@
         "bab03b53-89e6-4175-85bd-91e536f038f3": {
           "type": "collection",
           "settings": {
-            "collection": "naturale"
+            "collection": "naturale-landing"
           }
         },
         "24eb9d94-233b-4c10-bab8-4f9f1a35112b": {
@@ -43,7 +43,7 @@
             "heading": "Naturale",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/naturale",
+            "btn_url": "shopify:\/\/collections\/naturale-landing",
             "background_color": "#000000"
           }
         },
@@ -54,7 +54,7 @@
             "heading": "Arancio",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
-            "btn_url": "",
+            "btn_url": "shopify:\/\/collections\/naturale",
             "background_color": "#fc4c01"
           }
         },

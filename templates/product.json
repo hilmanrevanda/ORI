@@ -153,7 +153,8 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false
+        "alt": false,
+        "has_icon": true
       }
     },
     "fh-section-product-image-grid": {
@@ -161,6 +162,16 @@
       "settings": {
         "image_left": "{{ product.metafields.custom.image_grid_1.value }}",
         "image_right": "{{ product.metafields.custom.image_grid_2.value }}"
+      }
+    },
+    "0dffc30a-b880-40fb-ad92-dbe7c53ac941": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "Featured collection",
+        "description": "",
+        "home_featured_products": "haircare",
+        "per_row": "small",
+        "alt": false
       }
     },
     "text-and-image": {
@@ -206,6 +217,7 @@
     "fh-section-product-testimonial",
     "4c3f1f16-996c-4355-a930-c1142655902b",
     "fh-section-product-image-grid",
+    "0dffc30a-b880-40fb-ad92-dbe7c53ac941",
     "text-and-image",
     "product-recommendations",
     "collection-return"
