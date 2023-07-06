@@ -102,26 +102,29 @@
       "blocks": {
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-0": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_1.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_1.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_1.value.description.value }}<\/p>"
           }
         },
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-1": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_2.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_2.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_2.value.description.value }}<\/p>"
           }
         },
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-2": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_3.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_3.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_3.value.description.value }}<\/p>"
           }
         }
       },
