@@ -62,8 +62,11 @@ If you change the number below, it must also be changed in:
     {%- if section.settings.title != blank -%}
       <div class="page-width">
         <header class="section-header" data-aos>
-          <p>{{ background_color }}</p>
-          <p>{{ template_name }}</p>
+          {% for item in product.metafields.custom.product_ingredients %}
+            <p>{{ item.image }}</p>
+            <p>{{ item.title }}</p>
+            <p>{{ item.description }}</p>
+          {% endfor %}
           <h2 class="section-header__title appear-delay">
             {{ section.settings.title }}
           </h2>
@@ -110,7 +113,6 @@ If you change the number below, it must also be changed in:
           class="grid grid--uniform grid--scattered-large-2 grid--scattered-small-2"
           data-aos="overflow__animation"
           data-product-container>
-
           {%- for i in (1..paginate_by) -%}
             <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}">
               <div class="grid-product__content">
