@@ -13,7 +13,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
+            "image": "{{ collection.metafields.custom.hero_image.value }}"
           }
         }
       },
@@ -32,13 +32,13 @@
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8": {
       "type": "scrolling-text",
       "settings": {
-        "text": "Free shipping and returns",
+        "text": "{{ collection.metafields.custom.rolling_text.value }}",
         "link": "",
         "text_size": 32,
-        "text_spacing": true,
+        "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
-        "speed": 130
+        "speed": 240
       }
     },
     "d8eb8fd5-a70c-442b-8673-506cd1a0628a": {
@@ -46,15 +46,17 @@
       "blocks": {
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0": {
           "type": "heading",
+          "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
-            "title": "Rich text"
+            "title": "{{ collection.metafields.custom.collection_about.value.title.value }}"
           }
         },
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
           "type": "text",
+          "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>{{ collection.metafields.custom.collection_about.value.description.value }}<\/p>"
           }
         }
       },
@@ -81,7 +83,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/CTA_Background.jpg"
+            "image": "{{ collection.metafields.custom.fullscreen_image.value }}"
           }
         }
       },
@@ -196,7 +198,7 @@
         "title": "Featured collection grid",
         "description": "",
         "featured_text": "Featured",
-        "home_featured_products": "haircare",
+        "home_featured_products": "{{ collection }}",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",
