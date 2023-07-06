@@ -9,14 +9,14 @@
     <div class="page-width">
       {%- if section.settings.title != blank -%}
         <div class="
-                                              text-with-icons__title
-                                              section-header">
+                                                          text-with-icons__title
+                                                          section-header">
           <h2 class="section-header__title  text-{{ section.settings.align_text }}">{{ section.settings.title }}</h2>
         </div>
       {%- endif -%}
       <div class="
-                                text-with-icons__blocks
-                                has-{{ section.settings.desktop_columns_per_row }}-per-row" data-block-count="{{ section.blocks.size }}">
+                                        text-with-icons__blocks
+                                        has-{{ section.settings.desktop_columns_per_row }}-per-row" data-block-count="{{ section.blocks.size }}">
         {% for block in section.blocks %}
           <div class="text-with-icons__block text-{{ section.settings.align_text }}" {{ block.shopify_attributes }}>
             <div class="text-with-icons__block-icon">
@@ -489,7 +489,7 @@
         "type": "checkbox",
         "id": "has_icon",
         "label": "Has icon",
-        "default": "checked"
+        "default": true
       }
     ],
     "blocks": [
