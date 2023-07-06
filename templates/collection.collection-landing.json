@@ -160,6 +160,27 @@
       "settings": {
       }
     },
+    "7ddf977f-aa86-4341-b77e-b1d88b574ed3": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "4066a82c-f639-468c-a04f-0a940626c1d7": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
+            "heading": "Haircare",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "4066a82c-f639-468c-a04f-0a940626c1d7"
+      ],
+      "settings": {
+      }
+    },
     "b4b00828-2f91-4336-9e93-8ef59c855d54": {
       "type": "featured-collection",
       "settings": {
@@ -182,6 +203,7 @@
     "990159f1-1814-4cb7-a15c-598d6d60acb0",
     "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee",
     "main-collection",
+    "7ddf977f-aa86-4341-b77e-b1d88b574ed3",
     "b4b00828-2f91-4336-9e93-8ef59c855d54"
   ]
 }
