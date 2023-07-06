@@ -216,7 +216,7 @@
         "title": "The Ingredients",
         "description": "",
         "per_row": "small",
-        "alt": false
+        "alt": true
       }
     }
   },
