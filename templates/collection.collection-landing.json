@@ -1,1 +1,185 @@
-{"sections":{"main-collection":{"type":"main-collection","disabled":true,"blocks":{"collection_description":{"type":"collection_description","settings":{}},"product_grid":{"type":"product_grid","settings":{}}},"block_order":["collection_description","product_grid"],"settings":{}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"title_size":80,"text_align":"vertical-bottom horizontal-left"}}},"block_order":["slideshow-0"],"settings":{}},"featured-collection":{"type":"featured-collection-slider","settings":{}},"featured-collection2":{"type":"featured-collection-slider","settings":{}},"featured-collection3":{"type":"featured-collection-slider","settings":{}},"featured-collections":{"type":"featured-collections","blocks":{"collection1":{"type":"collection","settings":{}},"collection2":{"type":"collection","settings":{}},"collection3":{"type":"collection","settings":{}},"collection4":{"type":"collection","settings":{}}},"block_order":["collection1","collection2","collection3","collection4"],"settings":{"title":"You may also like"}}},"order":["slideshow","featured-collection","featured-collection2","featured-collections","featured-collection3","main-collection"]}
+{
+  "sections": {
+    "78f3e7a3-9b00-4389-bac5-1ba78651762b": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750521848017__78f3e7a3-9b00-4389-bac5-1ba78651762b-1688606180d74f9900-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521848017__78f3e7a3-9b00-4389-bac5-1ba78651762b-1688606180d74f9900-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Free shipping and returns",
+        "link": "",
+        "text_size": 32,
+        "text_spacing": true,
+        "color_scheme": "button",
+        "direction": "left",
+        "speed": 130
+      }
+    },
+    "e1e647f5-9bf3-4714-8c3e-f95f54685092": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750521848017__e1e647f5-9bf3-4714-8c3e-f95f54685092-1688606180d74f9900-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521848017__e1e647f5-9bf3-4714-8c3e-f95f54685092-1688606180d74f9900-0"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "990159f1-1814-4cb7-a15c-598d6d60acb0": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-0",
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-1",
+        "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false
+      }
+    },
+    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "heading": "Haircare",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7"
+      ],
+      "settings": {
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "per_row_desktop": 3,
+            "per_row_mobile": "1"
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+      }
+    },
+    "b4b00828-2f91-4336-9e93-8ef59c855d54": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection grid",
+        "description": "",
+        "featured_text": "Featured",
+        "home_featured_products": "haircare",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "78f3e7a3-9b00-4389-bac5-1ba78651762b",
+    "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8",
+    "e1e647f5-9bf3-4714-8c3e-f95f54685092",
+    "990159f1-1814-4cb7-a15c-598d6d60acb0",
+    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee",
+    "main-collection",
+    "b4b00828-2f91-4336-9e93-8ef59c855d54"
+  ]
+}
