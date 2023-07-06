@@ -46,10 +46,22 @@
             "btn_url": "",
             "background_color": "#000000"
           }
+        },
+        "b25c4e2b-daec-4a99-8a53-45621a80986d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/22.jpg",
+            "heading": "Haircare",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#fc4c01"
+          }
         }
       },
       "block_order": [
-        "6df271c3-f44d-43cf-86d6-68731289f3f1"
+        "6df271c3-f44d-43cf-86d6-68731289f3f1",
+        "b25c4e2b-daec-4a99-8a53-45621a80986d"
       ],
       "settings": {
       }
