@@ -11,6 +11,7 @@ If you change the number below, it must also be changed in:
   assign ajax_paginate = false
   assign collection_count = 6
   assign background_color = 'no-background'
+  assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
 -%}
 
 {% for collection in product.collections %}
@@ -56,6 +57,7 @@ If you change the number below, it must also be changed in:
       <div class="page-width">
         <header class="section-header" data-aos>
           <p>{{ background_color }}</p>
+          <p>{{ template_name }}</p>
           <h2 class="section-header__title appear-delay">
             {{ section.settings.title }}
           </h2>
