@@ -63,6 +63,11 @@ If you change the number below, it must also be changed in:
       <div class="page-width">
         <header class="section-header" data-aos>
           <script>{{ product.metafields.custom.product_ingredients.value | json }}</script>
+          {% for item in product.metafields.custom.product_ingredients.value %}
+            <script>{{ item | json }}</script>
+            <p>{{ item.title }}</p>
+            <p>{{ item.description }}</p>
+          {% endfor %}
           <h2 class="section-header__title appear-delay">
             {{ section.settings.title }}
           </h2>
