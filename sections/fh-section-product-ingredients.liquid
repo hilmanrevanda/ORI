@@ -39,7 +39,22 @@ If you change the number below, it must also be changed in:
   {%- assign fallback = '37vw' -%}
 {%- endcase -%}
 
-<div class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
+{%- style -%}
+  .fh-section--product-ingredients .overflow-scroller .grid-product__meta {
+    padding-top: 25px;
+  }
+
+  .fh-section--product-ingredients h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .fh-section--product-ingredients p {
+    margin-bottom: 0;
+  }
+{%- endstyle -%}
+
+<div class="fh-section--product-ingredients index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
 
   <div
     id="CollectionSection-{{ section.id }}"
@@ -128,7 +143,7 @@ If you change the number below, it must also be changed in:
                     </div>
                   </div>
                   <div class="grid-product__meta">
-                    <h2 class="section-header__title">{{ item.title }}</h2>
+                    <h3>{{ item.title }}</h3>
                     <p>{{ item.description }}</p>
                   </div>
                 </div>
