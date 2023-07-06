@@ -41,8 +41,6 @@ If you change the number below, it must also be changed in:
   {%- assign fallback = '37vw' -%}
 {%- endcase -%}
 
-<script>{{ product.metafields.custom.product_ingredients | json }}</script>
-
 <div
   class="index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}"
   {% if template_name == 'product' %}
@@ -64,6 +62,10 @@ If you change the number below, it must also be changed in:
     {%- if section.settings.title != blank -%}
       <div class="page-width">
         <header class="section-header" data-aos>
+          <script>{{ product.metafields.custom.product_ingredients | json }}</script>
+          {% for item in product.metafields.custom.product_ingredients %}
+            <script>{{ item | json }}</script>
+          {% endfor %}
           <h2 class="section-header__title appear-delay">
             {{ section.settings.title }}
           </h2>
