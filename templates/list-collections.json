@@ -11,6 +11,7 @@
     },
     "fh-section-collection-list": {
       "type": "fh-section-collection-list",
+      "disabled": true,
       "blocks": {
         "bab03b53-89e6-4175-85bd-91e536f038f3": {
           "type": "collection",
@@ -42,7 +43,8 @@
             "heading": "Haircare",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
-            "btn_url": ""
+            "btn_url": "",
+            "background_color": "#000000"
           }
         }
       },
