@@ -119,7 +119,8 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false
+        "alt": false,
+        "has_icon": true
       }
     },
     "fh-section-product-category-grid": {

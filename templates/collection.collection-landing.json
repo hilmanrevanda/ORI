@@ -13,7 +13,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
+            "image": "{{ collection.metafields.custom.hero_image.value }}"
           }
         }
       },
@@ -32,13 +32,42 @@
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8": {
       "type": "scrolling-text",
       "settings": {
-        "text": "Free shipping and returns",
+        "text": "{{ collection.metafields.custom.rolling_text.value }}",
         "link": "",
         "text_size": 32,
-        "text_spacing": true,
+        "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
-        "speed": 130
+        "speed": 240
+      }
+    },
+    "d8eb8fd5-a70c-442b-8673-506cd1a0628a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0": {
+          "type": "heading",
+          "source": "{{ collection.metafields.custom.collection_about.value }}",
+          "settings": {
+            "title": "{{ collection.metafields.custom.collection_about.value.title.value }}"
+          }
+        },
+        "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
+          "type": "text",
+          "source": "{{ collection.metafields.custom.collection_about.value }}",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>{{ collection.metafields.custom.collection_about.value.description.value }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0",
+        "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true
       }
     },
     "e1e647f5-9bf3-4714-8c3e-f95f54685092": {
@@ -54,7 +83,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/CTA_Background.jpg"
+            "image": "{{ collection.metafields.custom.fullscreen_image.value }}"
           }
         }
       },
@@ -75,26 +104,29 @@
       "blocks": {
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-0": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_1.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_1.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_1.value.description.value }}<\/p>"
           }
         },
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-1": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_2.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_2.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_2.value.description.value }}<\/p>"
           }
         },
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-2": {
           "type": "text_block",
+          "source": "{{ collection.metafields.custom.column_3.value }}",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "{{ collection.metafields.custom.column_3.value.title.value }}",
+            "text": "<p>{{ collection.metafields.custom.column_3.value.description.value }}<\/p>"
           }
         }
       },
@@ -110,29 +142,8 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false
-      }
-    },
-    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee": {
-      "type": "fh-section-custom-list",
-      "blocks": {
-        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7": {
-          "type": "text_block",
-          "source": "{{ collection.metafields.custom.collection_cta.value }}",
-          "settings": {
-            "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
-            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
-            "description": "",
-            "btn_text": "SHOP NOW{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
-            "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
-            "background_color": "{{ collection.metafields.custom.collection_cta.value.background_color.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7"
-      ],
-      "settings": {
+        "alt": false,
+        "has_icon": false
       }
     },
     "main-collection": {
@@ -159,13 +170,35 @@
       "settings": {
       }
     },
+    "7ddf977f-aa86-4341-b77e-b1d88b574ed3": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "4066a82c-f639-468c-a04f-0a940626c1d7": {
+          "type": "text_block",
+          "source": "{{ collection.metafields.custom.collection_cta.value }}",
+          "settings": {
+            "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
+            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
+            "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
+            "btn_text": "{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
+            "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
+            "background_color": "{{ collection.metafields.custom.background_color.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "4066a82c-f639-468c-a04f-0a940626c1d7"
+      ],
+      "settings": {
+      }
+    },
     "b4b00828-2f91-4336-9e93-8ef59c855d54": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection grid",
+        "title": "",
         "description": "",
         "featured_text": "Featured",
-        "home_featured_products": "haircare",
+        "home_featured_products": "{{ collection }}",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",
@@ -177,10 +210,11 @@
   "order": [
     "78f3e7a3-9b00-4389-bac5-1ba78651762b",
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8",
+    "d8eb8fd5-a70c-442b-8673-506cd1a0628a",
     "e1e647f5-9bf3-4714-8c3e-f95f54685092",
     "990159f1-1814-4cb7-a15c-598d6d60acb0",
-    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee",
     "main-collection",
+    "7ddf977f-aa86-4341-b77e-b1d88b574ed3",
     "b4b00828-2f91-4336-9e93-8ef59c855d54"
   ]
 }
