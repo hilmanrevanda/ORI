@@ -1,4 +1,4 @@
-<div class="index-section{% if section.settings.alt %} index-section--alt{% endif %} text-{{ section.settings.align_text }}" style="background-color: {{ block.settings.background_color }};">
+<div class="index-section{% if section.settings.alt %} index-section--alt{% endif %} text-{{ section.settings.align_text }}" style="background-color: {{ section.settings.background_color }};">
   <div class="page-width{% if section.settings.narrow_column %} page-width--narrow{% endif %}">
     {%- for block in section.blocks -%}
       <div class="theme-block" {{ block.shopify_attributes }}>
