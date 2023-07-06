@@ -195,7 +195,7 @@
     "b4b00828-2f91-4336-9e93-8ef59c855d54": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection grid",
+        "title": "",
         "description": "",
         "featured_text": "Featured",
         "home_featured_products": "{{ collection }}",
