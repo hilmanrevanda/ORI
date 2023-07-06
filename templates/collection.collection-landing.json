@@ -141,28 +141,6 @@
         "has_icon": false
       }
     },
-    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee": {
-      "type": "fh-section-custom-list",
-      "blocks": {
-        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7": {
-          "type": "text_block",
-          "source": "{{ collection.metafields.custom.collection_cta.value }}",
-          "settings": {
-            "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
-            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
-            "description": "",
-            "btn_text": "SHOP NOW{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
-            "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
-            "background_color": "{{ collection.metafields.custom.collection_cta.value.background_color.value }}"
-          }
-        }
-      },
-      "block_order": [
-        "c62e4094-007d-4f95-9cd5-2bf1253ec1f7"
-      ],
-      "settings": {
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "disabled": true,
@@ -230,7 +208,6 @@
     "d8eb8fd5-a70c-442b-8673-506cd1a0628a",
     "e1e647f5-9bf3-4714-8c3e-f95f54685092",
     "990159f1-1814-4cb7-a15c-598d6d60acb0",
-    "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee",
     "main-collection",
     "7ddf977f-aa86-4341-b77e-b1d88b574ed3",
     "b4b00828-2f91-4336-9e93-8ef59c855d54"
