@@ -110,7 +110,8 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false
+        "alt": false,
+        "has_icon": false
       }
     },
     "a822ee6b-925c-48cd-879a-d2ddd6b3a6ee": {
