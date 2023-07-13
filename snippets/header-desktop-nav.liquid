@@ -150,14 +150,16 @@
             <div class="page-width">
               <ul class="menu-collections">
                 {% for collection in collections %}
-                  <li>
-                    {{- collection.title | link_to: collection.url }}
-                    <ul>
-                      {% for product in collection.products %}
-                        <li>{{- product.title | link_to: product.url }}</li>
-                      {% endfor %}
-                    </ul>
-                  </li>
+                  {% if condition.all_products_count > 0 %}
+                    <li>
+                      {{- collection.title | link_to: collection.url }}
+                      <ul>
+                        {% for product in collection.products %}
+                          <li>{{- product.title | link_to: product.url }}</li>
+                        {% endfor %}
+                      </ul>
+                    </li>
+                  {% endif %}
                 {% endfor %}
               </ul>
             </div>
