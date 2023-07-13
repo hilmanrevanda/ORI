@@ -67,6 +67,9 @@
 
               {% if link.title == 'PRODUCTS' %}
                 {% for collection in collections %}
+                  <script>
+                    console.log({{ collection.products | json }});
+                  </script>
                   {% if condition.all_products_count > 0 %}
                     {%- liquid
                       assign grand_child_list_handle = condition.title | handleize
