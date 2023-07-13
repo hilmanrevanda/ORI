@@ -22,7 +22,7 @@
         -%}
 
         <li class="slide-nav__item">
-          {%- if has_dropdown or link.title == 'PRODUCTS' -%}
+          {%- if has_dropdown or link.title == 'COLLECTIONS' -%}
             <button
               type="button"
               class="js-toggle-submenu slide-nav__link"
@@ -65,7 +65,7 @@
                 </div>
               </li>
 
-              {% if link.title == 'PRODUCTS' %}
+              {% if link.title == 'COLLECTIONS' %}
                 {% for collection in collections %}
                   {% if collection.all_products_count > 0 and collection.metafields.custom.show_on_menu %}
                     {%- liquid
