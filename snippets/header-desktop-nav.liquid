@@ -16,9 +16,9 @@
       endif
     -%}
 
-    <li class="{% if link.title == 'PRODUCTS' %}menu-products {% endif  %}site-nav__item site-nav__expanded-item{% if has_dropdown %} site-nav--has-dropdown{% endif %}{% unless template == 'index' %}{% if link.active %} site-nav--active{% endif %}{% endunless %}">
+    <li class="site-nav__item site-nav__expanded-item{% if has_dropdown or link.title == 'PRODUCTS' %} site-nav--has-dropdown{% endif %}{% unless template == 'index' %}{% if link.active %} site-nav--active{% endif %}{% endunless %}">
 
-      {% if has_dropdown %}
+      {% if has_dropdown or link.title == 'PRODUCTS' %}
         <details
           id="site-nav-item--{{ forloop.index }}"
           class="site-nav__details"
@@ -105,6 +105,8 @@
               </li>
             {%- endfor -%}
           </ul>
+          {%- elseif link.title == 'PRODUCTS' -%}
+          test hilman
         {%- endif -%}
 
         {% if has_dropdown %}
