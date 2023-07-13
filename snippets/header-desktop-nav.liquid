@@ -150,7 +150,7 @@
             <div class="page-width">
               <ul class="menu-collections">
                 {% for collection in collections %}
-                  {% if collection.all_products_count > 0 %}
+                  {% if collection.all_products_count > 0 and collection.metafields.custom.show_on_menu %}
                     <li>
                       {{- collection.title | link_to: collection.url }}
                       <ul>

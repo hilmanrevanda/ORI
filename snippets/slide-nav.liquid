@@ -67,7 +67,7 @@
 
               {% if link.title == 'PRODUCTS' %}
                 {% for collection in collections %}
-                  {% if collection.all_products_count > 0 %}
+                  {% if collection.all_products_count > 0 and collection.metafields.custom.show_on_menu %}
                     {%- liquid
                       assign grand_child_list_handle = collection.title | handleize
                       assign grand_child_link_id = grand_child_list_handle | append: id
