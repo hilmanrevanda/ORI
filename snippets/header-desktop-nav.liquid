@@ -7,6 +7,12 @@
   endunless
 -%}
 
+{% style %}
+  .site-nav__dropdown_products {
+    position: fixed;
+  }
+{% endstyle %}
+
 <ul class="site-nav site-navigation small--hide">
   {%- for link in main_menu.links limit: limit offset: offset -%}
     {%- liquid
@@ -106,8 +112,15 @@
             {%- endfor -%}
           </ul>
         {%- elsif link.title == 'PRODUCTS' -%}
-          <div class="site-nav__dropdown text-left">
-            <h2>Menu1</h2>
+          <div class="site-nav__dropdown site-nav__dropdown_products text-left">
+            <div class="page-width">
+              {% for collection in collections %}
+                <h2>{{ collection.title }}</h2>
+                {% for product in collection.products %}
+                  <p>{{ product.title }}</p>
+                {% endfor %}
+              {% endfor %}
+            </div>
           </div>
         {%- endif -%}
 
