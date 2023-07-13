@@ -67,14 +67,19 @@
 
               {% if link.title == 'PRODUCTS' %}
                 {% for collection in collections %}
-                  <script>
-                    console.log({{ collection.products | json }});
-                  </script>
+
                   {% if condition.all_products_count > 0 %}
+                    <script>
+                      console.log({{ collection.products | json }});
+                    </script>
                     {%- liquid
                       assign grand_child_list_handle = condition.title | handleize
                       assign grand_child_link_id = grand_child_list_handle | append: id
                     -%}
+                    <script>
+                      console.log({{ grand_child_list_handle }});
+                      console.log({{ grand_child_link_id }});
+                    </script>
                     <li class="slide-nav__item{% unless forloop.last %} border-bottom{% endunless %}">
                       <button
                         type="button"
