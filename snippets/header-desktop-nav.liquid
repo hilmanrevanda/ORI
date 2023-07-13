@@ -114,16 +114,18 @@
         {%- elsif link.title == 'PRODUCTS' -%}
           <div class="site-nav__dropdown site-nav__dropdown_products text-left">
             <div class="page-width">
-              <div class="menu-collections">
+              <ul class="menu-collections">
                 {% for collection in collections %}
-                  <div class="menu-collection">
+                  <li>
                     {{- collection.title | link_to: collection.url }}
-                    {% for product in collection.products %}
-                      {{- product.title | link_to: product.url }}
-                    {% endfor %}
-                  </div>
+                    <ul>
+                      {% for product in collection.products %}
+                        <li>{{- product.title | link_to: product.url }}</li>
+                      {% endfor %}
+                    </ul>
+                  </li>
                 {% endfor %}
-              </div>
+              </ul>
             </div>
           </div>
         {%- endif -%}
