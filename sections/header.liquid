@@ -38,6 +38,9 @@ menu_alignment options:
   if template_name contains 'collection-landing'
     assign overlay_header = true
   endif
+  if template_name contains 'collection'
+    assign overlay_header = true
+  endif
 -%}
 
 {%- render 'slide-nav'
