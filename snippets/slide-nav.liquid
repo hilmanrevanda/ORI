@@ -74,7 +74,7 @@
                     </script>
                     {%- liquid
                       assign grand_child_list_handle = condition.title | handleize
-                      assign grand_child_link_id = grand_child_list_handle | append: id
+                      assign grand_child_link_id = grand_child_list_handle
                     -%}
                     <script>
                       console.log({{ grand_child_list_handle }});
