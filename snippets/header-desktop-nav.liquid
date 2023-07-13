@@ -11,6 +11,40 @@
   .site-nav__dropdown_products {
     position: fixed;
   }
+
+  .menu-collections {
+    display: flex;
+    flex-direction: row;
+    left: 0;
+    padding: 20px 0;
+    width: 100%;
+    margin: 0;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+
+  .menu-collections > li {
+    max-width: 200px;
+  }
+
+  .menu-collections > li > a {
+    font-size: 16px;
+    line-height: 1.2;
+    padding: 0;
+    margin-bottom: 20px;
+    display: block;
+  }
+
+  .menu-collections > li > ul {
+    margin: 0;
+  }
+
+  .menu-collections > li > ul > li > a {
+    font-size: 14px;
+    line-height: 1.2;
+    display: block;
+    margin-bottom: 10px;
+  }
 {% endstyle %}
 
 <ul class="site-nav site-navigation small--hide">
