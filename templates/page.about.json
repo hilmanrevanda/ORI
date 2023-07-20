@@ -271,6 +271,13 @@
         "alt": false,
         "lazyload_images": true
       }
+    },
+    "40b54222-0219-4aa7-afd5-218b9042bef6": {
+      "type": "fh-section-richtext",
+      "settings": {
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "background_color": "#000000"
+      }
     }
   },
   "order": [
@@ -282,6 +289,7 @@
     "a35d8e8e-2f21-42d3-8c19-110be5944840",
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
-    "376fda74-7988-4cbb-b4ac-94b179839c13"
+    "376fda74-7988-4cbb-b4ac-94b179839c13",
+    "40b54222-0219-4aa7-afd5-218b9042bef6"
   ]
 }
