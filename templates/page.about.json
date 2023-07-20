@@ -99,83 +99,178 @@
         "lazyload_images": true
       }
     },
-    "text-columns": {
-      "type": "text-columns",
+    "4a815d38-c6dc-40b9-8238-d4d129437dd8": {
+      "type": "text-with-icons",
       "blocks": {
-        "column1": {
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-1": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "icon": "chat",
+            "title": "All Natural<br>Botanical Extracts",
+            "text": ""
           }
         },
-        "column2": {
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-2": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "icon": "chat",
+            "title": "Back By<br>Science",
+            "text": ""
           }
         },
-        "column3": {
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-3": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "icon": "chat",
+            "title": "Free of Sulfates<br>& Parabens",
+            "text": ""
+          }
+        },
+        "08590024-1f6a-47b7-ad91-5ab718a59284": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Physician<br>Formulated",
+            "text": ""
+          }
+        },
+        "f06d5a30-bc17-4c30-9af0-0aea25f8877a": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "icon": "chat",
+            "title": "Cruelty<br>Free",
+            "text": ""
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-1",
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-2",
+        "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-3",
+        "08590024-1f6a-47b7-ad91-5ab718a59284",
+        "f06d5a30-bc17-4c30-9af0-0aea25f8877a"
       ],
       "settings": {
-        "title": "",
+        "title": "OUR PROMISE",
         "align_text": "center",
-        "alt": false
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false,
+        "has_icon": true
       }
     },
-    "map": {
-      "type": "map",
+    "a35d8e8e-2f21-42d3-8c19-110be5944840": {
+      "type": "background-image-text",
       "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
+        "subtitle": "MADE IN ITALY",
+        "title": "ALL NATURAL BOTANICALS",
+        "text": "<p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Ori_Hero_About.webp",
+        "desktop_size": 40,
+        "color_border": "#f4f4f4",
+        "layout": "left",
         "lazyload_images": true
       }
     },
-    "featured-collection": {
-      "type": "featured-collection-slider",
+    "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-image-1",
+        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-liquid-1"
+      ],
       "settings": {
-        "title": "Featured collection",
-        "description": "",
-        "home_featured_products": "",
-        "per_row": "small",
-        "alt": false
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
       }
     },
-    "form": {
-      "type": "contact-form",
+    "fb664bfb-2415-4aeb-ba25-174fd370c5d7": {
+      "type": "advanced-content",
+      "blocks": {
+        "87f98944-4cf6-462a-8583-ec0d480eb96f": {
+          "type": "liquid",
+          "settings": {
+            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "3bca06fa-a90c-4499-9789-fbdd1a926e33": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "87f98944-4cf6-462a-8583-ec0d480eb96f",
+        "3bca06fa-a90c-4499-9789-fbdd1a926e33"
+      ],
       "settings": {
-        "title": "Contact us",
-        "show_phone": false,
-        "narrow_column": true
+        "full_width": false,
+        "space_around": false,
+        "alt": true,
+        "lazyload_images": true
+      }
+    },
+    "376fda74-7988-4cbb-b4ac-94b179839c13": {
+      "type": "advanced-content",
+      "blocks": {
+        "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "3e217705-4a55-4c9f-886e-43b00fb004cf": {
+          "type": "liquid",
+          "settings": {
+            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964",
+        "3e217705-4a55-4c9f-886e-43b00fb004cf"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
       }
     }
   },
@@ -184,9 +279,10 @@
     "slideshow",
     "3f41d074-bae3-46bc-aa23-9fed004d6d44",
     "f1c69771-fb24-4d1b-84ad-03bd0d786278",
-    "text-columns",
-    "map",
-    "featured-collection",
-    "form"
+    "4a815d38-c6dc-40b9-8238-d4d129437dd8",
+    "a35d8e8e-2f21-42d3-8c19-110be5944840",
+    "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
+    "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
+    "376fda74-7988-4cbb-b4ac-94b179839c13"
   ]
 }
