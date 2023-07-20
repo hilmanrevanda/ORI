@@ -329,6 +329,9 @@
         "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-image-1",
         "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-liquid-1"
       ],
+      "custom_css": [
+        "table.no-border,table.no-border th,table.no-border td {border: 0px !important;}"
+      ],
       "settings": {
         "full_width": false,
         "space_around": true,
