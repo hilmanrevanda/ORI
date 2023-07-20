@@ -273,6 +273,23 @@
         "alt": false,
         "lazyload_images": true
       }
+    },
+    "696cf296-7b4a-4a9f-bef1-ed7c516a4252": {
+      "type": "fh-section-richtext",
+      "settings": {
+        "text": "<h2>THE SCIENCE<\/h2><p>Our mission is to continuously offer patients state of the art solutions to treat common<br\/>hair and skin problems. The future of hair and skincare rests in genetic and cellular<br\/>research. For example, research of cell and gene therapies to treat genetic hair loss focuses on its<br\/>causes at cellular and molecular level<\/p>",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/About_Image_5.webp"
+      }
+    },
+    "45f644ef-1201-4560-a33e-b02990151c5d": {
+      "type": "fh-section-richtext",
+      "settings": {
+        "text": "<h2>LA VITA A COLORI<\/h2><p>OUR COLLECTIONS<\/p><p>Colors are an essential part of our lives. They influence our moods, perceptions, and<br\/>behaviors. Below we describe the colors of our La Vita a Colori (life in color) used in each line.<\/p><p>By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences<\/p>",
+        "background_color": "#000000",
+        "text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -285,6 +302,8 @@
     "d589564f-c7ae-4d08-94b0-a0c6b8773fb8",
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
-    "376fda74-7988-4cbb-b4ac-94b179839c13"
+    "376fda74-7988-4cbb-b4ac-94b179839c13",
+    "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
+    "45f644ef-1201-4560-a33e-b02990151c5d"
   ]
 }
