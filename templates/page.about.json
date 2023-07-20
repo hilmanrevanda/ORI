@@ -35,32 +35,36 @@
         "lazyload_images": true
       }
     },
-    "rich-text": {
-      "type": "rich-text",
+    "3f41d074-bae3-46bc-aa23-9fed004d6d44": {
+      "type": "advanced-content",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-liquid-1": {
+          "type": "liquid",
           "settings": {
-            "title": "Rich text"
+            "code": "<p>Want to revive your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
           }
         },
-        "text": {
-          "type": "text",
+        "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-image-1": {
+          "type": "image",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "image": "shopify:\/\/shop_images\/About_image_1.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-liquid-1",
+        "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-image-1"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
+        "full_width": false,
+        "space_around": true,
         "alt": false,
-        "background_color": "#000000"
+        "lazyload_images": true
       }
     },
     "text-columns": {
@@ -146,7 +150,7 @@
   "order": [
     "main",
     "slideshow",
-    "rich-text",
+    "3f41d074-bae3-46bc-aa23-9fed004d6d44",
     "text-columns",
     "map",
     "featured-collection",
