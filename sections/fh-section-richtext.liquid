@@ -42,7 +42,7 @@
   data-section-id="{{ section.id }}"
   data-section-type="fh-section-richtext"
   class="fh-section--richtext"
-  style="background-color: {{ section.settings.background_color }};"
+  style="background-color: {{ section.settings.background_color }}; color: {{ section.settings.text_color }};"
   data-aos>
   <div class="background">
     {%- if section.settings.image == blank -%}
@@ -76,6 +76,11 @@
         "id": "background_color",
         "label": "Background",
         "default": "#000000"
+      }, {
+        "type": "color",
+        "id": "text_color",
+        "label": "Text color",
+        "default": "#ffffff"
       }, {
         "type": "image_picker",
         "id": "image",
