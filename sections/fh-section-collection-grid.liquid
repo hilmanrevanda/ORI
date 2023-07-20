@@ -64,7 +64,7 @@
 
 <div class="fh-section--collection-grid">
   {%- for block in section.blocks -%}
-    <a href="{{ block.settings.url }}" style="width: calc(100vw / {{ section.settings.desktop_columns_per_row }}); height: calc(100vw / {{ section.settings.desktop_columns_per_row }}); ">
+    <a href="{{ block.settings.url }}" style="width: calc(100vw / {{ section.settings.num_per_row }}); height: calc(100vw / {{ section.settings.num_per_row }}); ">
       <div class="content" data-aos>
         <div class="background">
           {%- render 'image-element'
