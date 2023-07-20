@@ -61,18 +61,18 @@
 
 <div class="fh-section--collection-grid">
   {%- for block in section.blocks -%}
-    <a href="{{ section.settings.url }}">
+    <a href="{{ block.settings.url }}">
       <div class="content" data-aos>
         <div class="background">
           {%- render 'image-element'
-            , img: section.settings.image,
+            , img: block.settings.image,
             classes: 'image-background',
             sizes: sizes,
             sizeVariable: sizeVariable,
             fallback: fallback, -%}
         </div>
 
-        <h2 class="h1 appear-delay">{{ section.settings.text }}</h2>
+        <h2 class="h1 appear-delay">{{ block.settings.text }}</h2>
       </div>
     </a>
   {%- endfor -%}
