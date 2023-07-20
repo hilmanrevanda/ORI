@@ -348,6 +348,24 @@
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
+    },
+    "50e937b4-5d39-447f-916d-9c573f03bd92": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "76273a3e-1b5b-409f-9e66-00c12c517fb1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+            "text": "Haircare",
+            "url": "shopify:\/\/pages\/origenere"
+          }
+        }
+      },
+      "block_order": [
+        "76273a3e-1b5b-409f-9e66-00c12c517fb1"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -364,6 +382,7 @@
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
     "18ae3ab3-4b07-436f-b70d-924588f418cd",
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
-    "45f644ef-1201-4560-a33e-b02990151c5d"
+    "45f644ef-1201-4560-a33e-b02990151c5d",
+    "50e937b4-5d39-447f-916d-9c573f03bd92"
   ]
 }
