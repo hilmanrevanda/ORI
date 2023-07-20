@@ -4,6 +4,8 @@
     flex-direction: row;
     padding-top: 100px;
     padding-bottom: 100px;
+    text-align: center;
+    justify-content: center;
   }
 
   .fh-section--richtext .content {
@@ -39,9 +41,7 @@
   data-section-id="{{ section.id }}"
   data-section-type="fh-section-richtext"
   class="fh-section--richtext"
-  {%- if section.settings.background_color.value -%}
-  style="background-color: {{ section.settings.background_color.value }};"
-  {%- endif -%}
+  style="background-color: {{ section.settings.background_color }};"
   data-aos>
   <div class="background">
     {%- if section.settings.image == blank -%}
