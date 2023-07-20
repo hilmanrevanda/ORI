@@ -78,7 +78,9 @@
         data-aos>
         <h2 class="h1 appear-delay">{{ block.settings.heading }}</h2>
         <p class="appear-delay-1">{{ block.settings.description }}</p>
-        <a href="{{ block.settings.btn_url }}" class="btn btn--inverse appear-delay-2">{{ block.settings.btn_text }}</a>
+        {%- if block.settings.btn_url -%}
+          <a href="{{ block.settings.btn_url }}" class="btn btn--inverse appear-delay-2">{{ block.settings.btn_text }}</a>
+        {%- endif -%}
       </div>
 
       {% comment %} Content Right {% endcomment %}
