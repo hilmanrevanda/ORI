@@ -59,13 +59,18 @@
       width: calc(100vw / 2) !important;
       height: calc(100vw / 2) !important;
     }
+
+    .fh-section--collection-grid > a:last-child {
+      width: 100vw !important;
+      height: 100vw !important;
+    }
   }
 {%- endstyle -%}
 
 <div class="fh-section--collection-grid">
   {%- for block in section.blocks -%}
     <a href="{{ block.settings.url }}" style="width: calc(100vw / {{ section.settings.num_per_row }}); height: calc(100vw / {{ section.settings.num_per_row }}); ">
-      <div class="content" data-aos>
+      <div class="content">
         <div class="background">
           {%- render 'image-element'
             , img: block.settings.image,
@@ -75,7 +80,7 @@
             fallback: fallback, -%}
         </div>
 
-        <h2 class="h2 appear-delay">{{ block.settings.text }}</h2>
+        <h2 class="h2">{{ block.settings.text }}</h2>
       </div>
     </a>
   {%- endfor -%}
