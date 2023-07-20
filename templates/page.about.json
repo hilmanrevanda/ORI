@@ -283,6 +283,27 @@
         "image": "shopify:\/\/shop_images\/About_Image_5.webp"
       }
     },
+    "18ae3ab3-4b07-436f-b70d-924588f418cd": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "28c1880c-5b4d-4079-81c9-470a73f55b5d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Image_6.webp",
+            "heading": "SUSTAINABILITY",
+            "description": "Origenere is dedicated to sustainability and environmental protection. We understand the importance of reducing our carbon footprint and protecting the environment for future generations. We include sustainable practices in every step of the production process. Materials: Our products only contain natural and environmentally safe ingredients frompremium suppliers. Each supplier is International Standard for Organization (ISO) certified.",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "28c1880c-5b4d-4079-81c9-470a73f55b5d"
+      ],
+      "settings": {
+      }
+    },
     "45f644ef-1201-4560-a33e-b02990151c5d": {
       "type": "fh-section-richtext",
       "settings": {
@@ -304,6 +325,7 @@
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
     "376fda74-7988-4cbb-b4ac-94b179839c13",
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
+    "18ae3ab3-4b07-436f-b70d-924588f418cd",
     "45f644ef-1201-4560-a33e-b02990151c5d"
   ]
 }
