@@ -304,6 +304,38 @@
       "settings": {
       }
     },
+    "45c91720-2051-4d2d-9f1c-dd7f1a91ef19": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Image_7.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<table>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<\/table>\n<p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-image-1",
+        "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-liquid-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
     "45f644ef-1201-4560-a33e-b02990151c5d": {
       "type": "fh-section-richtext",
       "settings": {
@@ -326,6 +358,7 @@
     "376fda74-7988-4cbb-b4ac-94b179839c13",
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
     "18ae3ab3-4b07-436f-b70d-924588f418cd",
+    "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
     "45f644ef-1201-4560-a33e-b02990151c5d"
   ]
 }
