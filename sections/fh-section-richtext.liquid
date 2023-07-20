@@ -47,9 +47,7 @@
   style="background-color: {{ section.settings.background_color }}; color: {{ section.settings.text_color }};"
   data-aos>
   <div class="background">
-    {%- if section.settings.image == blank -%}
-      {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-    {%- else -%}
+    {%- if section.settings.image -%}
       {%- render 'image-element'
         , img: section.settings.image,
         classes: 'image-background',
