@@ -275,8 +275,10 @@
     "40b54222-0219-4aa7-afd5-218b9042bef6": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "background_color": "#000000"
+        "text": "<h2>ALL NATURAL BOTANICALS<\/h2><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/About_Image_4.webp"
       }
     }
   },
