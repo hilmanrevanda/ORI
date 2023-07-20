@@ -1,0 +1,116 @@
+{%- style -%}
+  .fh-section--collection-grid {
+    display: flex;
+    flex-direction: row;
+    min-height: 50vw;
+    max-height: 600px
+  }
+
+  .fh-section--collection-grid .content {
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: baseline;
+    background-color: #eaeaea;
+    position: relative;
+    color: #ffffff;
+    width: 50%;
+  }
+
+  .fh-section--collection-grid .content .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--collection-grid .content .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
+  }
+
+  .fh-section--collection-grid .content .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--collection-grid {
+      min-height: 0;
+      max-height: unset;
+      flex-direction: column;
+    }
+
+    .fh-section--collection-grid .content {
+      padding: 150px 20px 40px;
+      width: 100%;
+      min-height: 100vw;
+    }
+  }
+{%- endstyle -%}
+
+<div class="fh-section--collection-grid">
+  {%- for block in section.blocks -%}
+    <a href="{{ section.settings.url }}">
+      <div class="content" data-aos>
+        <div class="background">
+          {%- render 'image-element'
+            , img: section.settings.image,
+            classes: 'image-background',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback, -%}
+        </div>
+
+        <h2 class="h1 appear-delay">{{ section.settings.text }}</h2>
+      </div>
+    </a>
+  {%- endfor -%}
+</div>
+
+{% schema %}
+  {
+    "name": "Collection Grid",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "text_block",
+        "name": "List",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Background Image"
+          }, {
+            "type": "text",
+            "id": "text",
+            "label": "Text",
+            "default": "Haircare"
+          }, {
+            "type": "url",
+            "id": "url",
+            "label": "URL"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Collection Grid"
+      }
+    ],
+    "disabled_on": {
+      "groups": ["custom.popups"]
+    }
+  }
+{% endschema %}
