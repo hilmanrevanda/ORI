@@ -319,7 +319,7 @@
         "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<table class=\"no-border\">\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<\/table>\n<p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
+            "code": "<table class=\"no-border\">\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Manufacturing<\/th>\n<td>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/td>\n<\/tr>\n<tr>\n<th>Packaging<\/th>\n<td>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/td>\n<\/tr>\n<tr>\n<th>Shipping<\/th>\n<td>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop\nPay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/td>\n<\/tr>\n<\/table>\n<p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -331,7 +331,7 @@
       ],
       "custom_css": [
         "table.no-border,table.no-border th,table.no-border td {border: 0px !important; border-spacing: 0px !important; vertical-align: top;}",
-        "table.no-border th{padding-left: 0px;}",
+        "table.no-border th {padding-left: 0px;}",
         "table.no-border tr > *:first-child {width: 25%;}"
       ],
       "settings": {
