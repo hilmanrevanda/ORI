@@ -67,6 +67,38 @@
         "lazyload_images": true
       }
     },
+    "f1c69771-fb24-4d1b-84ad-03bd0d786278": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Image_3.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-image-1",
+        "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-liquid-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "alt": true,
+        "lazyload_images": true
+      }
+    },
     "text-columns": {
       "type": "text-columns",
       "blocks": {
@@ -151,6 +183,7 @@
     "main",
     "slideshow",
     "3f41d074-bae3-46bc-aa23-9fed004d6d44",
+    "f1c69771-fb24-4d1b-84ad-03bd0d786278",
     "text-columns",
     "map",
     "featured-collection",
