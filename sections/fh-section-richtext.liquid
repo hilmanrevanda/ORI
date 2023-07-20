@@ -1,0 +1,93 @@
+{%- style -%}
+  .fh-section--richtext {
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .fh-section--richtext .content {
+    max-width: 100%;
+    width: 800px;
+  }
+
+  .fh-section--richtext .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--richtext .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--richtext {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+  }
+{%- endstyle -%}
+
+<div
+  data-section-id="{{ section.id }}"
+  data-section-type="fh-section-richtext"
+  class="fh-section--richtext"
+  {%- if section.settings.background_color.value -%}
+  style="background-color: {{ section.settings.background_color.value }};"
+  {%- endif -%}
+  data-aos>
+  <div class="background">
+    {%- if section.settings.image == blank -%}
+      {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+    {%- else -%}
+      {%- render 'image-element'
+        , img: section.settings.image_left,
+        classes: 'image-background',
+        sizes: sizes,
+        sizeVariable: sizeVariable,
+        fallback: fallback, -%}
+    {%- endif -%}
+  </div>
+
+  <div class="content">
+    {{ section.settings.text }}
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Rich Text Section",
+    "settings": [
+      {
+        "type": "richtext",
+        "id": "text",
+        "label": "Contect",
+        "default": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>"
+      }, {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background",
+        "default": "#000000"
+      }, {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Background Image"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Rich Text Section"
+      }
+    ],
+    "disabled_on": {
+      "groups": ["custom.popups"]
+    }
+  }
+{% endschema %}
