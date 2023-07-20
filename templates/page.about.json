@@ -161,19 +161,21 @@
         "has_icon": true
       }
     },
-    "a35d8e8e-2f21-42d3-8c19-110be5944840": {
-      "type": "background-image-text",
+    "40b54222-0219-4aa7-afd5-218b9042bef6": {
+      "type": "fh-section-richtext",
       "settings": {
-        "subtitle": "MADE IN ITALY",
-        "title": "ALL NATURAL BOTANICALS",
-        "text": "<p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/Ori_Hero_About.webp",
-        "desktop_size": 40,
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "lazyload_images": true
+        "text": "<h2>ALL NATURAL BOTANICALS<\/h2><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/About_Image_4.webp"
+      }
+    },
+    "d589564f-c7ae-4d08-94b0-a0c6b8773fb8": {
+      "type": "fh-section-richtext",
+      "settings": {
+        "text": "<h2>MEET OUR FOUNDING ARTISTS<\/h2><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
+        "background_color": "#000000",
+        "text_color": "#ffffff"
       }
     },
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30": {
@@ -271,15 +273,6 @@
         "alt": false,
         "lazyload_images": true
       }
-    },
-    "40b54222-0219-4aa7-afd5-218b9042bef6": {
-      "type": "fh-section-richtext",
-      "settings": {
-        "text": "<h2>ALL NATURAL BOTANICALS<\/h2><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
-        "background_color": "#000000",
-        "text_color": "#ffffff",
-        "image": "shopify:\/\/shop_images\/About_Image_4.webp"
-      }
     }
   },
   "order": [
@@ -288,10 +281,10 @@
     "3f41d074-bae3-46bc-aa23-9fed004d6d44",
     "f1c69771-fb24-4d1b-84ad-03bd0d786278",
     "4a815d38-c6dc-40b9-8238-d4d129437dd8",
-    "a35d8e8e-2f21-42d3-8c19-110be5944840",
+    "40b54222-0219-4aa7-afd5-218b9042bef6",
+    "d589564f-c7ae-4d08-94b0-a0c6b8773fb8",
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
-    "376fda74-7988-4cbb-b4ac-94b179839c13",
-    "40b54222-0219-4aa7-afd5-218b9042bef6"
+    "376fda74-7988-4cbb-b4ac-94b179839c13"
   ]
 }
