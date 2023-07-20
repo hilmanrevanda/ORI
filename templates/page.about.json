@@ -359,10 +359,46 @@
             "text": "Haircare",
             "url": "shopify:\/\/pages\/origenere"
           }
+        },
+        "3119cc58-33a0-4af1-bc4a-81264329377e": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+            "text": "Haircare",
+            "url": "shopify:\/\/pages\/origenere"
+          }
+        },
+        "89758275-dbea-4413-928a-60af0908a565": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+            "text": "Haircare",
+            "url": "shopify:\/\/pages\/origenere"
+          }
+        },
+        "32ffb235-1669-4ccc-be00-ae70f1318fde": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+            "text": "Haircare",
+            "url": "shopify:\/\/pages\/origenere"
+          }
+        },
+        "c3637b91-200d-48ef-94ce-36e186447deb": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CTA_Background.jpg",
+            "text": "Haircare",
+            "url": "shopify:\/\/pages\/origenere"
+          }
         }
       },
       "block_order": [
-        "76273a3e-1b5b-409f-9e66-00c12c517fb1"
+        "76273a3e-1b5b-409f-9e66-00c12c517fb1",
+        "3119cc58-33a0-4af1-bc4a-81264329377e",
+        "89758275-dbea-4413-928a-60af0908a565",
+        "32ffb235-1669-4ccc-be00-ae70f1318fde",
+        "c3637b91-200d-48ef-94ce-36e186447deb"
       ],
       "settings": {
       }
