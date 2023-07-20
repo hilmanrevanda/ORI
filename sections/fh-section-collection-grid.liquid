@@ -22,7 +22,7 @@
     margin-bottom: 0;
   }
 
-  .fh-section--collection-grid .content .background {
+  .fh-section--collection-grid .background {
     position: absolute;
     width: 100%;
     top: 0;
@@ -31,7 +31,7 @@
     right: 0;
   }
 
-  .fh-section--collection-grid .content .background:after {
+  .fh-section--collection-grid .background:after {
     content: '';
     position: absolute;
     left: 0;
@@ -41,7 +41,7 @@
     background: linear-gradient(0deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
   }
 
-  .fh-section--collection-grid .content .background img {
+  .fh-section--collection-grid .background img {
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
@@ -70,17 +70,17 @@
 <div class="fh-section--collection-grid">
   {%- for block in section.blocks -%}
     <a href="{{ block.settings.url }}" style="width: calc(100vw / {{ section.settings.num_per_row }}); height: calc(100vw / {{ section.settings.num_per_row }}); ">
-      <div class="content">
-        <div class="background">
-          {%- render 'image-element'
-            , img: block.settings.image,
-            classes: 'image-background',
-            sizes: sizes,
-            sizeVariable: sizeVariable,
-            fallback: fallback, -%}
-        </div>
+      <div class="background">
+        {%- render 'image-element'
+          , img: block.settings.image,
+          classes: 'image-background',
+          sizes: sizes,
+          sizeVariable: sizeVariable,
+          fallback: fallback, -%}
+      </div>
 
-        <h2 class="h2 appear-delay" data-aos>{{ block.settings.text }}</h2>
+      <div class="content" data-aos>
+        <h2 class="h2 appear-delay">{{ block.settings.text }}</h2>
       </div>
     </a>
   {%- endfor -%}
