@@ -8,15 +8,11 @@
     data-section-type="text-with-icons">
     <div class="page-width">
       {%- if section.settings.title != blank -%}
-        <div class="
-                                                          text-with-icons__title
-                                                          section-header">
+        <div class="text-with-icons__title section-header">
           <h2 class="section-header__title  text-{{ section.settings.align_text }}">{{ section.settings.title }}</h2>
         </div>
       {%- endif -%}
-      <div class="
-                                        text-with-icons__blocks
-                                        has-{{ section.settings.desktop_columns_per_row }}-per-row" data-block-count="{{ section.blocks.size }}">
+      <div class="text-with-icons__blocks has-{{ section.settings.desktop_columns_per_row }}-per-row" data-block-count="{{ section.blocks.size }}">
         {% for block in section.blocks %}
           <div class="text-with-icons__block text-{{ section.settings.align_text }}" {{ block.shopify_attributes }}>
             <div class="text-with-icons__block-icon">
@@ -465,7 +461,7 @@
         "label": "t:common.text_with_icons.settings.desktop_columns_per_row.label",
         "default": 3,
         "min": 2,
-        "max": 4,
+        "max": 5,
         "step": 1
       },
       {
