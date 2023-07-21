@@ -17,6 +17,16 @@
     right: 0;
   }
 
+  .faq-section .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
   .faq-section .background img {
     height: 100%;
     -o-object-fit: cover;
@@ -29,7 +39,8 @@
   }
 
   .faq-section > div > div {
-    border: solid 1px {% if section.settings.alt %}#ffffff{% else %}#000000{% endif %};
+    border: solid 1px{% if section.settings.alt %}#ffffff{% else %}
+    #000000{% endif %};
   border-right: 0;
   border-left: 0;
 }
@@ -68,17 +79,17 @@
       <script type="application/ld+json">
         {
         "@context": "https://schema.org",
-                                                                                                "@type": "FAQPage",
-                                                                                                "mainEntity": [
+                                                                                                        "@type": "FAQPage",
+                                                                                                        "mainEntity": [
         {% for block in section.blocks %}
           {% case block.type %}
             {% when 'question' %}
             {
             "@type": "Question",
-                                                                                                                                                "name": {{ block.settings.title | json }},
+                                                                                                                                                            "name": {{ block.settings.title | json }},
             "acceptedAnswer": {
-                                                                                                                                                  "@type": "Answer",
-                                                                                                                                                  "text": {{ block.settings.text | json }}
+                                                                                                                                                              "@type": "Answer",
+                                                                                                                                                              "text": {{ block.settings.text | json }}
             }
             }{% unless forloop.last %},{% endunless %}
           {% endcase %}
