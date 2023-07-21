@@ -13,7 +13,7 @@
           "type": "image",
           "settings": {
             "title": "THE SCIENCE",
-            "title_size": 80,
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -29,15 +29,48 @@
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 30,
         "autoplay": false,
         "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "555defe4-2a7b-4da7-9dbf-14c2620e9000": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--15758407172305__555defe4-2a7b-4da7-9dbf-14c2620e9000-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<b><h2>OLGANUTRIENTS<\/h2><\/b>\n<p>ALL NATURAL BOTANICALS<\/p>\n<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--15758407172305__555defe4-2a7b-4da7-9dbf-14c2620e9000-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Image_11.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__555defe4-2a7b-4da7-9dbf-14c2620e9000-liquid-1",
+        "template--15758407172305__555defe4-2a7b-4da7-9dbf-14c2620e9000-image-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
         "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427"
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "555defe4-2a7b-4da7-9dbf-14c2620e9000"
   ]
 }
