@@ -32,10 +32,10 @@
     class="text-with-icons {% if section.settings.alt %} index-section--alt{% endif %}"
     data-section-id="{{ section.id }}"
     data-section-type="text-with-icons">
-    {%- if section.settings.image and section.settings.alt -%}
+    {%- if section.settings.background_image and section.settings.alt -%}
       <div class="background">
         {%- render 'image-element'
-          , img: section.settings.image,
+          , img: section.settings.background_image,
           classes: 'image-background',
           sizes: sizes,
           sizeVariable: sizeVariable,
