@@ -7038,12 +7038,12 @@ details[open]>.site-nav__deep-dropdown{
   }
 
 .collapsible-trigger--inline{
-  padding:11px 0 11px 35px;
+  padding: 11px 35px 11px 35px;
 }
 
 .collapsible-trigger--inline .collapsible-trigger__icon{
-    left:0;
-    right:auto;
+  left: auto;
+  right: 0;
   }
 
 .collapsible-trigger__icon--circle{
