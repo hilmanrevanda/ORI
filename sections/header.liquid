@@ -29,22 +29,19 @@ menu_alignment options:
   assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
 
   assign overlay_header = false
+  
   if template_name == 'index' and section.settings.sticky_index
     assign overlay_header = true
   endif
+
   if template_name contains 'collection' and collection.image and section.settings.sticky_collection
     assign overlay_header = true
   endif
+
   if template_name contains 'collection-landing'
-    assign overlay_header = true
-  endif
-  if template_name contains 'collection'
-    assign overlay_header = true
-  endif
-  if template_name contains 'about'
-    assign overlay_header = true
-  endif
-  if template_name contains 'the-science'
+      or template_name contains 'collection'
+      or template_name contains 'about'
+      or template_name contains 'the-science'
     assign overlay_header = true
   endif
 -%}
