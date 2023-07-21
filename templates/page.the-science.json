@@ -191,6 +191,50 @@
         "alt": false,
         "has_icon": true
       }
+    },
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        },
+        "02158237-3859-400a-9303-44a34ad7c801": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        },
+        "9f8d05a2-6cbb-413e-a57e-dac24335fef6": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
+        "02158237-3859-400a-9303-44a34ad7c801",
+        "9f8d05a2-6cbb-413e-a57e-dac24335fef6"
+      ],
+      "settings": {
+        "title": "BACK BY SCIENCE",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false
+      }
     }
   },
   "order": [
@@ -199,6 +243,7 @@
     "555defe4-2a7b-4da7-9dbf-14c2620e9000",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "2755424d-b067-42ff-a010-b0497300f467",
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e"
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
 }
