@@ -1,11 +1,15 @@
 {% style %}
   .faq-section-image .content-wrapper {
     display: flex;
-    gap: 40px;
+    gap: 85px;
   }
 
-  .faq-section-image .content {
-    width: 50%;
+  .faq-section-image .content-left {
+    width: 45%;
+  }
+
+  .faq-section-image .content-right {
+    width: 55%;
   }
 
   .faq-section-image .section-header {
@@ -31,7 +35,11 @@
       .faq-section-image .content-wrapper {
         flex-direction: column;
       }
-      .faq-section-image .content {
+      .faq-section-image .content-left {
+        width: 100%;
+      }
+
+      .faq-section-image .content-right {
         width: 100%;
       }
     }
@@ -68,17 +76,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                                    "@type": "FAQPage",
-                                    "mainEntity": [
+                                                            "@type": "FAQPage",
+                                                            "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                                "name": {{ block.settings.title | json }},
+                                                                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                                "@type": "Answer",
-                                                "text": {{ block.settings.text | json }}
+                                                                                "@type": "Answer",
+                                                                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
