@@ -395,6 +395,33 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/About_Image_5.webp"
       }
+    },
+    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5": {
+      "type": "fh-section-faq-with-image",
+      "blocks": {
+        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Oxidative Free Radicals",
+            "text": "<p>Our bodies naturally produce reactive oxygen species (ROS) during various metabolic processes. They also make antioxidants to combat the free radicals. When the balance between ROS production and the body's antioxidant defenses is disrupted, it leads to oxidative stress. Factors like pollution, UV radiation, smoking, poor nutrition, and stress can increase ROS production and overwhelm the body's antioxidant defenses.<\/p><p>Oxidative Stress affects scalp and hair health.<\/p>"
+          }
+        },
+        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Premature Graying",
+            "text": "<p>Increased ROS damages melanocytes (pigment producing cells) resulting in premature graying.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-1",
+        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-2"
+      ],
+      "settings": {
+        "title": "Reasons for Hair and Skin Damage",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -406,6 +433,7 @@
     "2755424d-b067-42ff-a010-b0497300f467",
     "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5"
   ]
 }
