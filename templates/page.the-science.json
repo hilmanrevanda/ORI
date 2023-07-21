@@ -187,36 +187,85 @@
         "75909a6b-db11-4118-9eed-7a1d72a1e93a": {
           "type": "question",
           "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+            "title": "Antioxidants",
+            "text": "<p>are substances that help protect our cells from the damaging effects of oxidative stress. They work by neutralizing harmful molecules called reactive oxygen species (ROS), which are produced naturally in our bodies and can cause damage to cells, including those in the hair and skin.<\/p>"
           }
         },
         "78b207a7-8c1b-4e9b-b600-9a9e76709cbd": {
           "type": "question",
           "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+            "title": "Reduces oxidative stress",
+            "text": "<p>By neutralizing ROS, antioxidants help reduce the level of oxidative stress in your body. This, in turn, helps protect the cells in your hair follicles and skin from damage. By lowering oxidative stress, antioxidants can help maintain the health and vitality of your hair and skin.<\/p>"
           }
         },
         "8c3d9ae2-1ea9-4981-9662-8138217f41aa": {
           "type": "question",
           "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+            "title": "Promotes healthy hair growth",
+            "text": "<p>Antioxidants play a crucial role in supporting healthy hair growth. They protect the cells in your hair follicles, which are responsible for producing new hair strands. By maintaining the health of these cells, antioxidants can help promote optimal hair growth and prevent hair thinning or loss.<\/p>"
           }
         },
         "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8": {
           "type": "question",
           "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+            "title": "Preserves skin youthfulness",
+            "text": "<p>Antioxidants are well-known for their anti-aging properties. They help protect the collagen and elastin fibers in your skin, which are responsible for its firmness and elasticity. By preventing oxidative damage to these fibers, antioxidants help maintain a youthful appearance by reducing the appearance of wrinkles, fine lines, and sagging skin.<\/p>"
           }
         },
         "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
+            "title": "Brightening skin tone",
+            "text": "<p>Antioxidants can also help brighten and even out your skin tone. They inhibit the production of excess melanin, which is responsible for dark spots, hyperpigmentation, and an uneven complexion. By reducing melanin production, antioxidants can help promote a more radiant and uniform skin tone.<\/p>"
+          }
+        },
+        "73617cf5-6044-43f8-8a37-efbc14b11430": {
+          "type": "question",
+          "settings": {
+            "title": "Boosting skin barrier function",
+            "text": "<p>Antioxidants support the integrity of your skin's natural barrier. They help protect the lipids and proteins that make up the barrier, preventing moisture loss and maintaining hydration. By strengthening the skin barrier, antioxidants help keep your skin moisturized, smooth, and protected from external irritants<\/p>"
+          }
+        },
+        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2": {
+          "type": "question",
+          "settings": {
+            "title": "Our products",
+            "text": "<p>All of our products provide different ingredients with powerful antioxidants that help repair damage to cellular structures. See each product for specific ingredients. Some examples of antioxidant ingredients we use: olive leaf extract, soy protein, almond leaf extract, bergamot orange peel, limonene peel, Vit C, Vit E<\/p>"
+          }
+        },
+        "428acdbc-1d2b-414b-b140-b77d55dc1a57": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Vitamins, Minerals and Trace elements",
+            "text": "<p>Provides cells with essential vitamins, minerals and trace elements<\/p>"
+          }
+        },
+        "49a89d0f-1032-4e88-b078-dd29ddf395c6": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Fatty Acids and Nutrients",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "a5ab0dd2-5eee-4171-8f88-61363885977f": {
+          "type": "question",
+          "settings": {
+            "title": "Fights Hormone Disrupting Pathogenic and Toxic Ingredients",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Amino Acids: to help form Protein Structures",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "c13b3a55-ca9d-4621-87bf-3898966004de": {
+          "type": "question",
+          "settings": {
+            "title": "Moisture Retaining Lipids and Emollients",
+            "text": "<p>provide hydration<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by hair transplant physicians for their active properties and benefits to human hair and skin.<\/p><p>ORIGENERE cosmetic products utilize targeted hair and skin organonutrient formulations that act in conjunction to achieve real results<\/p>"
           }
         }
       },
@@ -225,7 +274,14 @@
         "78b207a7-8c1b-4e9b-b600-9a9e76709cbd",
         "8c3d9ae2-1ea9-4981-9662-8138217f41aa",
         "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8",
-        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320"
+        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320",
+        "73617cf5-6044-43f8-8a37-efbc14b11430",
+        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2",
+        "428acdbc-1d2b-414b-b140-b77d55dc1a57",
+        "49a89d0f-1032-4e88-b078-dd29ddf395c6",
+        "a5ab0dd2-5eee-4171-8f88-61363885977f",
+        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7",
+        "c13b3a55-ca9d-4621-87bf-3898966004de"
       ],
       "settings": {
         "title": "",
@@ -248,7 +304,7 @@
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Back By<br>Science",
+            "title": "Back ByScience",
             "text": ""
           }
         },
