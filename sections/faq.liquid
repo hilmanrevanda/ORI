@@ -3,14 +3,14 @@
     text-align: center;
   }
 
-  .faq-section > div {
-    border: solid 1px #000;
-    border-right: 0;
-    border-left: 0;
-  }
-  .faq-section > div:nth-child(2) {
-    border-bottom: 0 !important;
-  }
+  .faq-section > div > div {
+    border: solid 1px {% if section.settings.alt %} #ffffff {% else %} #000000 {% endif %};
+  border-right: 0;
+  border-left: 0;
+}
+.faq-section > div > div:nth-child(2) {
+  border-bottom: 0 !important;
+}
 {% endstyle %}
 
 <div
@@ -31,17 +31,17 @@
       <script type="application/ld+json">
         {
         "@context": "https://schema.org",
-                        "@type": "FAQPage",
-                        "mainEntity": [
+                                                "@type": "FAQPage",
+                                                "mainEntity": [
         {% for block in section.blocks %}
           {% case block.type %}
             {% when 'question' %}
             {
             "@type": "Question",
-                                    "name": {{ block.settings.title | json }},
+                                                                        "name": {{ block.settings.title | json }},
             "acceptedAnswer": {
-                                      "@type": "Answer",
-                                      "text": {{ block.settings.text | json }}
+                                                                          "@type": "Answer",
+                                                                          "text": {{ block.settings.text | json }}
             }
             }{% unless forloop.last %},{% endunless %}
           {% endcase %}
