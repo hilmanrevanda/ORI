@@ -102,300 +102,6 @@
         "background_color": "#000000"
       }
     },
-    "14df5dfc-c0ae-4b97-9054-88a123d8415c": {
-      "type": "faq",
-      "blocks": {
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        },
-        "53f18a7f-fec0-400d-abee-f38b559f75bb": {
-          "type": "question",
-          "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        },
-        "f76f5bbe-56b4-4534-9297-113de775a83a": {
-          "type": "question",
-          "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        },
-        "a6112c6b-e4a2-4803-aca1-25aa2c24c68e": {
-          "type": "question",
-          "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        },
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1",
-        "53f18a7f-fec0-400d-abee-f38b559f75bb",
-        "f76f5bbe-56b4-4534-9297-113de775a83a",
-        "a6112c6b-e4a2-4803-aca1-25aa2c24c68e",
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2"
-      ],
-      "settings": {
-        "title": "REASON FOR HAIR AND SKIN DAMAGE:",
-        "alt": false
-      }
-    },
-    "2755424d-b067-42ff-a010-b0497300f467": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "HOW ORIGENERE HELPS HAIR AND SKIN"
-          }
-        },
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1",
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
-      }
-    },
-    "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5": {
-      "type": "faq",
-      "blocks": {
-        "75909a6b-db11-4118-9eed-7a1d72a1e93a": {
-          "type": "question",
-          "settings": {
-            "title": "Antioxidants",
-            "text": "<p>are substances that help protect our cells from the damaging effects of oxidative stress. They work by neutralizing harmful molecules called reactive oxygen species (ROS), which are produced naturally in our bodies and can cause damage to cells, including those in the hair and skin.<\/p>"
-          }
-        },
-        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd": {
-          "type": "question",
-          "settings": {
-            "title": "Reduces oxidative stress",
-            "text": "<p>By neutralizing ROS, antioxidants help reduce the level of oxidative stress in your body. This, in turn, helps protect the cells in your hair follicles and skin from damage. By lowering oxidative stress, antioxidants can help maintain the health and vitality of your hair and skin.<\/p>"
-          }
-        },
-        "8c3d9ae2-1ea9-4981-9662-8138217f41aa": {
-          "type": "question",
-          "settings": {
-            "title": "Promotes healthy hair growth",
-            "text": "<p>Antioxidants play a crucial role in supporting healthy hair growth. They protect the cells in your hair follicles, which are responsible for producing new hair strands. By maintaining the health of these cells, antioxidants can help promote optimal hair growth and prevent hair thinning or loss.<\/p>"
-          }
-        },
-        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8": {
-          "type": "question",
-          "settings": {
-            "title": "Preserves skin youthfulness",
-            "text": "<p>Antioxidants are well-known for their anti-aging properties. They help protect the collagen and elastin fibers in your skin, which are responsible for its firmness and elasticity. By preventing oxidative damage to these fibers, antioxidants help maintain a youthful appearance by reducing the appearance of wrinkles, fine lines, and sagging skin.<\/p>"
-          }
-        },
-        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320": {
-          "type": "question",
-          "settings": {
-            "title": "Brightening skin tone",
-            "text": "<p>Antioxidants can also help brighten and even out your skin tone. They inhibit the production of excess melanin, which is responsible for dark spots, hyperpigmentation, and an uneven complexion. By reducing melanin production, antioxidants can help promote a more radiant and uniform skin tone.<\/p>"
-          }
-        },
-        "73617cf5-6044-43f8-8a37-efbc14b11430": {
-          "type": "question",
-          "settings": {
-            "title": "Boosting skin barrier function",
-            "text": "<p>Antioxidants support the integrity of your skin's natural barrier. They help protect the lipids and proteins that make up the barrier, preventing moisture loss and maintaining hydration. By strengthening the skin barrier, antioxidants help keep your skin moisturized, smooth, and protected from external irritants<\/p>"
-          }
-        },
-        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2": {
-          "type": "question",
-          "settings": {
-            "title": "Our products",
-            "text": "<p>All of our products provide different ingredients with powerful antioxidants that help repair damage to cellular structures. See each product for specific ingredients. Some examples of antioxidant ingredients we use: olive leaf extract, soy protein, almond leaf extract, bergamot orange peel, limonene peel, Vit C, Vit E<\/p>"
-          }
-        },
-        "428acdbc-1d2b-414b-b140-b77d55dc1a57": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Vitamins, Minerals and Trace elements",
-            "text": "<p>Provides cells with essential vitamins, minerals and trace elements<\/p>"
-          }
-        },
-        "49a89d0f-1032-4e88-b078-dd29ddf395c6": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Fatty Acids and Nutrients",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "a5ab0dd2-5eee-4171-8f88-61363885977f": {
-          "type": "question",
-          "settings": {
-            "title": "Fights Hormone Disrupting Pathogenic and Toxic Ingredients",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Amino Acids: to help form Protein Structures",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "c13b3a55-ca9d-4621-87bf-3898966004de": {
-          "type": "question",
-          "settings": {
-            "title": "Moisture Retaining Lipids and Emollients",
-            "text": "<p>provide hydration<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by hair transplant physicians for their active properties and benefits to human hair and skin.<\/p><p>ORIGENERE cosmetic products utilize targeted hair and skin organonutrient formulations that act in conjunction to achieve real results<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "75909a6b-db11-4118-9eed-7a1d72a1e93a",
-        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd",
-        "8c3d9ae2-1ea9-4981-9662-8138217f41aa",
-        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8",
-        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320",
-        "73617cf5-6044-43f8-8a37-efbc14b11430",
-        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2",
-        "428acdbc-1d2b-414b-b140-b77d55dc1a57",
-        "49a89d0f-1032-4e88-b078-dd29ddf395c6",
-        "a5ab0dd2-5eee-4171-8f88-61363885977f",
-        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7",
-        "c13b3a55-ca9d-4621-87bf-3898966004de"
-      ],
-      "settings": {
-        "title": "",
-        "alt": true,
-        "background_image": "shopify:\/\/shop_images\/About_Image_4.webp"
-      }
-    },
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "All Natural<br>Botanical Extracts",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Back ByScience",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Free of Sulfates& Parabens",
-            "text": ""
-          }
-        },
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Physician<br>Formulated",
-            "text": ""
-          }
-        },
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Cruelty<br>Free",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
-      ],
-      "settings": {
-        "title": "OUR PROMISE",
-        "align_text": "center",
-        "desktop_columns_per_row": 5,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "alt": false,
-        "has_icon": true
-      }
-    },
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "",
-            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
-          }
-        },
-        "02158237-3859-400a-9303-44a34ad7c801": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "",
-            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
-          }
-        },
-        "9f8d05a2-6cbb-413e-a57e-dac24335fef6": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "",
-            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
-        "02158237-3859-400a-9303-44a34ad7c801",
-        "9f8d05a2-6cbb-413e-a57e-dac24335fef6"
-      ],
-      "settings": {
-        "title": "BACK BY SCIENCE",
-        "align_text": "center",
-        "desktop_columns_per_row": 3,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/About_Image_5.webp"
-      }
-    },
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5": {
       "type": "fh-section-faq-with-image",
       "blocks": {
@@ -663,6 +369,249 @@
         "alt": false,
         "image": "shopify:\/\/shop_images\/About_Image_7.webp"
       }
+    },
+    "2755424d-b067-42ff-a010-b0497300f467": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "HOW ORIGENERE HELPS HAIR AND SKIN"
+          }
+        },
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1",
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5": {
+      "type": "faq",
+      "blocks": {
+        "75909a6b-db11-4118-9eed-7a1d72a1e93a": {
+          "type": "question",
+          "settings": {
+            "title": "Antioxidants",
+            "text": "<p>are substances that help protect our cells from the damaging effects of oxidative stress. They work by neutralizing harmful molecules called reactive oxygen species (ROS), which are produced naturally in our bodies and can cause damage to cells, including those in the hair and skin.<\/p>"
+          }
+        },
+        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd": {
+          "type": "question",
+          "settings": {
+            "title": "Reduces oxidative stress",
+            "text": "<p>By neutralizing ROS, antioxidants help reduce the level of oxidative stress in your body. This, in turn, helps protect the cells in your hair follicles and skin from damage. By lowering oxidative stress, antioxidants can help maintain the health and vitality of your hair and skin.<\/p>"
+          }
+        },
+        "8c3d9ae2-1ea9-4981-9662-8138217f41aa": {
+          "type": "question",
+          "settings": {
+            "title": "Promotes healthy hair growth",
+            "text": "<p>Antioxidants play a crucial role in supporting healthy hair growth. They protect the cells in your hair follicles, which are responsible for producing new hair strands. By maintaining the health of these cells, antioxidants can help promote optimal hair growth and prevent hair thinning or loss.<\/p>"
+          }
+        },
+        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8": {
+          "type": "question",
+          "settings": {
+            "title": "Preserves skin youthfulness",
+            "text": "<p>Antioxidants are well-known for their anti-aging properties. They help protect the collagen and elastin fibers in your skin, which are responsible for its firmness and elasticity. By preventing oxidative damage to these fibers, antioxidants help maintain a youthful appearance by reducing the appearance of wrinkles, fine lines, and sagging skin.<\/p>"
+          }
+        },
+        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320": {
+          "type": "question",
+          "settings": {
+            "title": "Brightening skin tone",
+            "text": "<p>Antioxidants can also help brighten and even out your skin tone. They inhibit the production of excess melanin, which is responsible for dark spots, hyperpigmentation, and an uneven complexion. By reducing melanin production, antioxidants can help promote a more radiant and uniform skin tone.<\/p>"
+          }
+        },
+        "73617cf5-6044-43f8-8a37-efbc14b11430": {
+          "type": "question",
+          "settings": {
+            "title": "Boosting skin barrier function",
+            "text": "<p>Antioxidants support the integrity of your skin's natural barrier. They help protect the lipids and proteins that make up the barrier, preventing moisture loss and maintaining hydration. By strengthening the skin barrier, antioxidants help keep your skin moisturized, smooth, and protected from external irritants<\/p>"
+          }
+        },
+        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2": {
+          "type": "question",
+          "settings": {
+            "title": "Our products",
+            "text": "<p>All of our products provide different ingredients with powerful antioxidants that help repair damage to cellular structures. See each product for specific ingredients. Some examples of antioxidant ingredients we use: olive leaf extract, soy protein, almond leaf extract, bergamot orange peel, limonene peel, Vit C, Vit E<\/p>"
+          }
+        },
+        "428acdbc-1d2b-414b-b140-b77d55dc1a57": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Vitamins, Minerals and Trace elements",
+            "text": "<p>Provides cells with essential vitamins, minerals and trace elements<\/p>"
+          }
+        },
+        "49a89d0f-1032-4e88-b078-dd29ddf395c6": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Fatty Acids and Nutrients",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "a5ab0dd2-5eee-4171-8f88-61363885977f": {
+          "type": "question",
+          "settings": {
+            "title": "Fights Hormone Disrupting Pathogenic and Toxic Ingredients",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7": {
+          "type": "question",
+          "settings": {
+            "title": "Essential Amino Acids: to help form Protein Structures",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "c13b3a55-ca9d-4621-87bf-3898966004de": {
+          "type": "question",
+          "settings": {
+            "title": "Moisture Retaining Lipids and Emollients",
+            "text": "<p>provide hydration<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by hair transplant physicians for their active properties and benefits to human hair and skin.<\/p><p>ORIGENERE cosmetic products utilize targeted hair and skin organonutrient formulations that act in conjunction to achieve real results<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "75909a6b-db11-4118-9eed-7a1d72a1e93a",
+        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd",
+        "8c3d9ae2-1ea9-4981-9662-8138217f41aa",
+        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8",
+        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320",
+        "73617cf5-6044-43f8-8a37-efbc14b11430",
+        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2",
+        "428acdbc-1d2b-414b-b140-b77d55dc1a57",
+        "49a89d0f-1032-4e88-b078-dd29ddf395c6",
+        "a5ab0dd2-5eee-4171-8f88-61363885977f",
+        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7",
+        "c13b3a55-ca9d-4621-87bf-3898966004de"
+      ],
+      "settings": {
+        "title": "",
+        "alt": true,
+        "background_image": "shopify:\/\/shop_images\/About_Image_4.webp"
+      }
+    },
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "All Natural<br>Botanical Extracts",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Back ByScience",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Free of Sulfates& Parabens",
+            "text": ""
+          }
+        },
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Physician<br>Formulated",
+            "text": ""
+          }
+        },
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Cruelty<br>Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
+      ],
+      "settings": {
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false,
+        "has_icon": true
+      }
+    },
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        },
+        "02158237-3859-400a-9303-44a34ad7c801": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        },
+        "9f8d05a2-6cbb-413e-a57e-dac24335fef6": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<h2><strong>80%<\/strong><\/h2><p><strong>Saw Improvement in Their Hair<\/strong><\/p><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
+        "02158237-3859-400a-9303-44a34ad7c801",
+        "9f8d05a2-6cbb-413e-a57e-dac24335fef6"
+      ],
+      "settings": {
+        "title": "BACK BY SCIENCE",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/About_Image_5.webp"
+      }
     }
   },
   "order": [
@@ -670,11 +619,10 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "555defe4-2a7b-4da7-9dbf-14c2620e9000",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "14df5dfc-c0ae-4b97-9054-88a123d8415c",
+    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5",
     "2755424d-b067-42ff-a010-b0497300f467",
     "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
 }
