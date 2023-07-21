@@ -66,11 +66,139 @@
         "alt": false,
         "lazyload_images": true
       }
+    },
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
+      "type": "rich-text",
+      "blocks": {
+        "848977ff-6252-4e05-989d-8584e771108f": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Favicon_White.png"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "MOST COMMON HAIR CONCERNS"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "848977ff-6252-4e05-989d-8584e771108f",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "2755424d-b067-42ff-a010-b0497300f467": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "HOW ORIGENERE HELPS HAIR AND SKIN"
+          }
+        },
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1",
+        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "All Natural<br>Botanical Extracts",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Back By<br>Science",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Free of Sulfates& Parabens",
+            "text": ""
+          }
+        },
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Physician<br>Formulated",
+            "text": ""
+          }
+        },
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Cruelty<br>Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
+      ],
+      "settings": {
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false,
+        "has_icon": true
+      }
     }
   },
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
-    "555defe4-2a7b-4da7-9dbf-14c2620e9000"
+    "555defe4-2a7b-4da7-9dbf-14c2620e9000",
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "2755424d-b067-42ff-a010-b0497300f467",
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e"
   ]
 }
