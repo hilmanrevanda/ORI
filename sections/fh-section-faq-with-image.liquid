@@ -8,6 +8,10 @@
     width: 45%;
   }
 
+  .faq-section-image .content-left img {
+    width: 100%;
+  }
+
   .faq-section-image .content-left > *:first-child img {
     margin-bottom: 40px;
   }
@@ -88,17 +92,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                        "@type": "FAQPage",
-                        "mainEntity": [
+                                    "@type": "FAQPage",
+                                    "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                "name": {{ block.settings.title | json }},
+                                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                "@type": "Answer",
-                                "text": {{ block.settings.text | json }}
+                                                "@type": "Answer",
+                                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
