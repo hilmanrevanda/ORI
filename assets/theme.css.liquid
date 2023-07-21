@@ -5,104 +5,63 @@
   http://archetypethemes.co
 */:root
 {
-  --colorAlt: {{ settings.color_alt_bg | default: "#f4f4f4" }}
-  ;
-  --colorAltText: {{ settings.color_alt_text | default: "#000" }}
-  ;
+  --colorAlt: {{ settings.color_alt_bg | default: "#f4f4f4" }};
+  --colorAltText: {{ settings.color_alt_text | default: "#000" }};
 
-  --colorAnnouncement: {{ settings.color_announcement | default: "#1c1d1d" }}
-  ;
-  --colorAnnouncementText: {{ settings.color_announcement_text | default: "#fff" }}
-  ;
+  --colorAnnouncement: {{ settings.color_announcement | default: "#1c1d1d" }};
+  --colorAnnouncementText: {{ settings.color_announcement_text | default: "#fff" }};
 
-  --colorBody: {{ settings.color_body_bg | default: "#fff" }}
-  ;
-  --colorBodyAlpha05: {{ settings.color_body_bg | default: "#fff" | color_modify: "alpha", 0.05 }}
-  ;
-  --colorBodyLightDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 2 }}
-  ;
-  --colorBodyMediumDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 4 }}
-  ;
-  --colorBodyDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 5 }}
-  ;
+  --colorBody: {{ settings.color_body_bg | default: "#fff" }};
+  --colorBodyAlpha05: {{ settings.color_body_bg | default: "#fff" | color_modify: "alpha", 0.05 }};
+  --colorBodyLightDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 2 }};
+  --colorBodyMediumDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 4 }};
+  --colorBodyDim: {{ settings.color_body_bg | default: "#fff" | color_darken: 5 }};
 
-  --colorBtnPrimary: {{ settings.color_button | default: "#000" }}
-  ;
-  --colorBtnPrimaryText: {{ settings.color_button_text | default: "#fff" }}
-  ;
+  --colorBtnPrimary: {{ settings.color_button | default: "#000" }};
+  --colorBtnPrimaryText: {{ settings.color_button_text | default: "#fff" }};
   --colorBtnPrimaryBgTransition: background 0.15s ease;
-  --colorBtnPrimaryActive: {{ settings.color_button | default: "#000" | color_lighten: 20 }}
-  ;
+  --colorBtnPrimaryActive: {{ settings.color_button | default: "#000" | color_lighten: 20 }};
 
-  --colorCartDot: {{ settings.color_cart_dot | default: "#ff4f33" }}
-  ;
-  --colorCartDotText: {{ settings.color_cart_dot_text | default: "#fff" }}
-  ;
+  --colorCartDot: {{ settings.color_cart_dot | default: "#ff4f33" }};
+  --colorCartDotText: {{ settings.color_cart_dot_text | default: "#fff" }};
 
-  --colorDrawers: {{ settings.color_drawer_background | default: "#1c1d1d" }}
-  ;
-  --colorDrawersDim: {{ settings.color_drawer_background | default: "#1c1d1d" | color_darken: 5 }}
-  ;
-  --colorDrawerText: {{ settings.color_drawer_text | default: "#fff" }}
-  ;
-  --colorDrawerTextDarken: {{ settings.color_drawer_text | default: "#fff" | color_darken: 15 }}
-  ;
+  --colorDrawers: {{ settings.color_drawer_background | default: "#1c1d1d" }};
+  --colorDrawersDim: {{ settings.color_drawer_background | default: "#1c1d1d" | color_darken: 5 }};
+  --colorDrawerText: {{ settings.color_drawer_text | default: "#fff" }};
+  --colorDrawerTextDarken: {{ settings.color_drawer_text | default: "#fff" | color_darken: 15 }};
 
-  --colorHeroText: {{ settings.color_image_text | default: "#fff" }}
-  ;
+  --colorHeroText: {{ settings.color_image_text | default: "#fff" }};
 
-  --colorImageOverlay: {{ settings.color_image_overlay | default: "#000" }}
-  ;
-  --colorImageOverlayOpacity: {{ settings.color_image_overlay_opacity | divided_by: 100.0 }}
-  ;
-  --colorImageOverlayTextShadow: {{ settings.color_image_overlay_text_shadow | divided_by: 100.0 }}
-  ;
+  --colorImageOverlay: {{ settings.color_image_overlay | default: "#000" }};
+  --colorImageOverlayOpacity: {{ settings.color_image_overlay_opacity | divided_by: 100.0 }};
+  --colorImageOverlayTextShadow: {{ settings.color_image_overlay_text_shadow | divided_by: 100.0 }};
 
-  --colorInputBg: {{ settings.color_body_bg | default: "#fff" }}
-  ;
-  --colorInputText: {{ settings.color_body_text | default: "#1c1d1d" }}
-  ;
+  --colorInputBg: {{ settings.color_body_bg | default: "#fff" }};
+  --colorInputText: {{ settings.color_body_text | default: "#1c1d1d" }};
 
-  --colorLink: {{ settings.color_body_text | default: "#1c1d1d" }}
-  ;
+  --colorLink: {{ settings.color_body_text | default: "#1c1d1d" }};
 
-  --colorNav: {{ settings.color_body_bg | default: "#fff" }}
-  ;
-  --colorNavText: {{ settings.color_body_text | default: "#000" }}
-  ;
+  --colorNav: {{ settings.color_body_bg | default: "#fff" }};
+  --colorNavText: {{ settings.color_body_text | default: "#000" }};
 
-  --colorNewsletter: {{ settings.color_newsletter | default: "#1c1d1d" }}
-  ;
-  --colorNewsletterText: {{ settings.color_newsletter_text | default: "#fff" }}
-  ;
+  --colorNewsletter: {{ settings.color_newsletter | default: "#1c1d1d" }};
+  --colorNewsletterText: {{ settings.color_newsletter_text | default: "#fff" }};
 
-  --colorSalePrice: {{ settings.color_sale_price | default: "#1c1d1d" }}
-  ;
-  --colorSaleTag: {{ settings.color_sale_tag | default: "#1c1d1d" }}
-  ;
-  --colorSaleTagText: {{ settings.color_sale_tag_text | default: "#ffffff" }}
-  ;
+  --colorSalePrice: {{ settings.color_sale_price | default: "#1c1d1d" }};
+  --colorSaleTag: {{ settings.color_sale_tag | default: "#1c1d1d" }};
+  --colorSaleTagText: {{ settings.color_sale_tag_text | default: "#ffffff" }};
 
-  --colorTextBody: {{ settings.color_body_text | default: "#1c1d1d" }}
-  ;
-  --colorTextBodyAlpha005: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.05 }}
-  ;
-  --colorTextBodyAlpha008: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.08 }}
-  ;
-  --colorTextBodyAlpha01: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.1 }}
-  ;
-  --colorTextBodyAlpha035: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.35 }}
-  ;
-  --colorTextBodyAlpha05: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.5 }}
-  ;
+  --colorTextBody: {{ settings.color_body_text | default: "#1c1d1d" }};
+  --colorTextBodyAlpha005: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.05 }};
+  --colorTextBodyAlpha008: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.08 }};
+  --colorTextBodyAlpha01: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.1 }};
+  --colorTextBodyAlpha035: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.35 }};
+  --colorTextBodyAlpha05: {{ settings.color_body_text | default: "#1c1d1d" | color_modify: "alpha", 0.5 }};
 
-  --colorSmallImageBg: {{ settings.color_small_image_bg | default: "#eee" }}
-  ;
-  --colorLargeImageBg: {{ settings.color_large_image_bg | default: "#1c1d1d" }}
-  ;
+  --colorSmallImageBg: {{ settings.color_small_image_bg | default: "#eee" }};
+  --colorLargeImageBg: {{ settings.color_large_image_bg | default: "#1c1d1d" }};
 
-  --productImageScatter: {{ settings.product_image_scatter | default: false }}
-  ;
+  --productImageScatter: {{ settings.product_image_scatter | default: false }};
 
   --urlIcoSelect: url('{{ 'ico-select.svg' | asset_url | split: '?' | first }}');
 
@@ -110,12 +69,9 @@
   --sizeChartIconMargin: 5px;
 
   --newsletterReminderPadding: 30px 35px;
-  --color-body-text: {{ settings.color_body_text | default: "#1c1d1d" }}
-  ;
-  --color-body: {{ settings.color_body_bg | default: "#fff" }}
-  ;
-  --color-bg: {{ settings.color_body_bg | default: "#fff" }}
-  ;
+  --color-body-text: {{ settings.color_body_text | default: "#1c1d1d" }};
+  --color-body: {{ settings.color_body_bg | default: "#fff" }};
+  --color-bg: {{ settings.color_body_bg | default: "#fff" }};
 }
 
 @keyframes placeholder-shimmer {
@@ -429,7 +385,7 @@
 
 .hero .flickity-button {
   background-color: var(--colorBody);
-  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
   color: var(--colorTextBody);
 }
 
@@ -1158,7 +1114,7 @@ tool-tip[data-tool-tip-open=true] .tool-tip__inner {
 
 newsletter-reminder {
   bottom: 20px;
-  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, .15);
   left: 20px;
   max-width: 240px;
   position: fixed;
@@ -1521,7 +1477,7 @@ newsletter-reminder .color-scheme-none {
 .hotspot__button-content {
   background-color: var(--colorBody);
   border-radius: 5px;
-  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, .2);
   color: var(--colorTextBody);
   left: 50%;
   min-width: 5rem;
@@ -2500,7 +2456,7 @@ predictive-search.is-active .btn--close-search {
 }
 
 .predictive__screen {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, .5);
   display: none;
   height: 100vh;
   left: 0;
@@ -2612,7 +2568,7 @@ predictive-search form {
 }
 
 .results li:hover {
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(0, 0, 0, .05);
 }
 
 .results li a {
@@ -2694,7 +2650,7 @@ predictive-search form {
 }
 
 .results__search-btn:hover {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 0, 0, .05);
 }
 
 @container(min-width: 800px) {
@@ -7978,7 +7934,7 @@ predictive-search h3 {
 
 .site-nav__dropdown {
   background-color: var(--colorBody);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .09);
   display: block;
   left: 0;
   margin: 0;
@@ -8036,7 +7992,7 @@ details[open] > .site-nav__dropdown {
 
 .site-nav__deep-dropdown {
   background-color: var(--colorBody);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, .09);
   left: 100%;
   margin: 0;
   opacity: 0;
@@ -8599,7 +8555,7 @@ details[open] > .site-nav__deep-dropdown {
 .modal--square .modal__centered-content {
   -webkit-overflow-scrolling: touch;
   background-color: var(--colorBody);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
   max-height: 80vh;
   min-height: 200px;
   min-width: 200px;
@@ -8958,7 +8914,7 @@ details[open] > .site-nav__deep-dropdown {
   background-color: var(--colorBody);
   border-radius: 0;
   bottom: 100%;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 0 20px rgba(0, 0, 0, .09);
   color: var(--colorTextBody);
   display: none;
   margin: 0;
@@ -9038,6 +8994,8 @@ details[open] > .site-nav__deep-dropdown {
 
 .collapsible-trigger--inline {
   padding: 11px 35px;
+  width: 100%;
+  text-align: center !important;
 }
 
 .collapsible-trigger--inline .collapsible-trigger__icon {
@@ -9075,12 +9033,12 @@ details[open] > .site-nav__deep-dropdown {
 }
 
 .collapsible-content {
-  transition: opacity 0s cubic-bezier(0.25,0.46,0.45,0.94), height 0s cubic-bezier(0.25,0.46,0.45,0.94);
+  transition: opacity 0s cubic-bezier(0.25,.46,0.45,.94), height 0s cubic-bezier(0.25,.46,0.45,.94);
 }
 
 .collapsible-content.is-open {
   opacity: 1;
-  transition: opacity 0s cubic-bezier(0.25,0.46,0.45,0.94), height 0s cubic-bezier(0.25,0.46,0.45,0.94);
+  transition: opacity 0s cubic-bezier(0.25,.46,0.45,.94), height 0s cubic-bezier(0.25,.46,0.45,.94);
   visibility: visible;
 }
 
@@ -9119,7 +9077,7 @@ details[open] > .site-nav__deep-dropdown {
 
 .collapsible-content__inner {
   opacity: 0;
-  transition: transform 0s cubic-bezier(0.25,0.46,0.45,0.94);
+  transition: transform 0s cubic-bezier(0.25,.46,0.45,.94);
 }
 
 .is-open .collapsible-content__inner {
@@ -10888,7 +10846,7 @@ iframe.zoid-component-frame {
 }
 
 .giftcard__border {
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .3);
   padding: 1.5em;
 }
 
@@ -10970,7 +10928,7 @@ iframe.zoid-component-frame {
 .giftcard__code__inner {
   background-color: #fff;
   border-radius: 4px;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, .1);
   display: inline-block;
   max-width: 450px;
   padding: 0.5em;
@@ -11014,7 +10972,7 @@ iframe.zoid-component-frame {
 
 .giftcard__amount strong {
   display: block;
-  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, .1);
 }
 
 .giftcard__amount--medium {
@@ -11037,7 +10995,7 @@ iframe.zoid-component-frame {
   border-left: 8px solid transparent;
   border-right: 8px solid transparent;
   border-top: 5px solid #333;
-  border-top: 5px solid rgba(51, 51, 51, 0.9);
+  border-top: 5px solid rgba(51, 51, 51, .9);
   bottom: 0;
   content: "";
   display: block;
@@ -11051,7 +11009,7 @@ iframe.zoid-component-frame {
 
 .template-giftcard .tooltip__label {
   background: #333;
-  background: rgba(51, 51, 51, 0.9);
+  background: rgba(51, 51, 51, .9);
   border: none;
   border-radius: 4px;
   display: block;
@@ -11164,7 +11122,7 @@ iframe.zoid-component-frame {
 
 @media screen and (max-width:400px) {
   .giftcard__amount strong {
-    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, .1);
   }
 
   .giftcard__wrap:after,
@@ -12759,7 +12717,7 @@ select .variant-input {
   border-color: var(--colorBody);
   border-radius: 100px;
   bottom: 0;
-  box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.15);
+  box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, .15);
   content: "";
   left: 0;
   position: absolute;
@@ -14092,6 +14050,7 @@ newsletter-reminder .newsletter-reminder__message {
     left: 40px;
     margin: 0 40px 40px;
     max-width: 430px;
+    padding: 40px;
     padding: 40px;
     top: 50%;
     transform: translateY(-50%);

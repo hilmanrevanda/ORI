@@ -7039,6 +7039,8 @@ details[open]>.site-nav__deep-dropdown{
 
 .collapsible-trigger--inline{
   padding: 11px 35px 11px 35px;
+  width: 100%;
+  text-align: center !important;
 }
 
 .collapsible-trigger--inline .collapsible-trigger__icon{
