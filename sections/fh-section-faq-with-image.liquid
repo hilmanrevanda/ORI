@@ -44,7 +44,7 @@
 
   <div class="page-width">
     <div class="content-wrapper">
-      <div class="content-left">
+      <div class="content content-left">
         {%- if section.settings.image -%}
           {%- render 'image-element'
             , img: section.settings.image,
@@ -55,7 +55,7 @@
         {%- endif -%}
       </div>
 
-      <div class="content-right">
+      <div class="content content-right">
         {%- if section.settings.title != blank -%}
           <header class="section-header">
             <h2 class="section-header__title">
@@ -68,17 +68,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                        "@type": "FAQPage",
-                        "mainEntity": [
+                                    "@type": "FAQPage",
+                                    "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                "name": {{ block.settings.title | json }},
+                                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                "@type": "Answer",
-                                "text": {{ block.settings.text | json }}
+                                                "@type": "Answer",
+                                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
