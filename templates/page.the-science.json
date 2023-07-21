@@ -185,7 +185,7 @@
         "title": "OUR PROMISE",
         "align_text": "center",
         "desktop_columns_per_row": 5,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false,
@@ -229,11 +229,12 @@
         "title": "BACK BY SCIENCE",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": true,
-        "has_icon": false
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/About_Image_4.webp"
       }
     },
     "14df5dfc-c0ae-4b97-9054-88a123d8415c": {
