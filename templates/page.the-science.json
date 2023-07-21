@@ -2,11 +2,42 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "THE SCIENCE",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/About_Image_4.webp"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427"
   ]
 }
