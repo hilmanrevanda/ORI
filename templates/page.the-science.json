@@ -130,6 +130,33 @@
         "background_color": "#000000"
       }
     },
+    "14df5dfc-c0ae-4b97-9054-88a123d8415c": {
+      "type": "faq",
+      "blocks": {
+        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is Lorem Ipsum?",
+            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
+          }
+        },
+        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1",
+        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2"
+      ],
+      "settings": {
+        "title": "",
+        "alt": true
+      }
+    },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
       "type": "text-with-icons",
       "blocks": {
@@ -236,32 +263,6 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/Ori_Hero_About.webp"
       }
-    },
-    "14df5dfc-c0ae-4b97-9054-88a123d8415c": {
-      "type": "faq",
-      "blocks": {
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "What is Lorem Ipsum?",
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        },
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-1",
-        "template--15758407172305__14df5dfc-c0ae-4b97-9054-88a123d8415c-question-2"
-      ],
-      "settings": {
-        "title": ""
-      }
     }
   },
   "order": [
@@ -270,8 +271,8 @@
     "555defe4-2a7b-4da7-9dbf-14c2620e9000",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "2755424d-b067-42ff-a010-b0497300f467",
+    "14df5dfc-c0ae-4b97-9054-88a123d8415c",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "14df5dfc-c0ae-4b97-9054-88a123d8415c"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
 }
