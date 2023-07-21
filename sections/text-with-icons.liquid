@@ -1,3 +1,29 @@
+{% style %}
+  #shopify-section-{{ section.id }}.icon {
+    color: {{ section.settings.icon_color }}
+    ;
+  }
+  .text-with-icons {
+    position: relative;
+  }
+
+  .text-with-icons .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .text-with-icons .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+{% endstyle %}
+
 {%- if section.settings.divider -%}
   <div class="section--divider">
   {%- endif -%}
@@ -6,6 +32,17 @@
     class="text-with-icons {% if section.settings.alt %} index-section--alt{% endif %}"
     data-section-id="{{ section.id }}"
     data-section-type="text-with-icons">
+    {%- if section.settings.image and section.settings.alt -%}
+      <div class="background">
+        {%- render 'image-element'
+          , img: section.settings.image,
+          classes: 'image-background',
+          sizes: sizes,
+          sizeVariable: sizeVariable,
+          fallback: fallback, -%}
+      </div>
+    {%- endif -%}
+
     <div class="page-width">
       {%- if section.settings.title != blank -%}
         <div class="text-with-icons__title section-header">
@@ -423,13 +460,6 @@
   </div>
 {%- endif -%}
 
-{% style %}
-  #shopify-section-{{ section.id }}.icon {
-    color: {{ section.settings.icon_color }}
-    ;
-  }
-{% endstyle %}
-
 {% schema %}
   {
     "name": "t:common.text_with_icons.name.label",
@@ -486,6 +516,10 @@
         "id": "has_icon",
         "label": "Has icon",
         "default": true
+      }, {
+        "type": "image_picker",
+        "id": "background_image",
+        "label": "Background Image (alternate section)"
       }
     ],
     "blocks": [
