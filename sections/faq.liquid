@@ -1,10 +1,19 @@
 {% style %}
+  .faq-section {
+    position: relative;
+  }
+
+  .faq-section > div {
+    position: relative;
+    z-index: 10;
+  }
+
   .faq-section .collapsible-content {
     text-align: center;
   }
 
   .faq-section > div > div {
-    border: solid 1px {% if section.settings.alt %} #ffffff {% else %} #000000 {% endif %};
+    border: solid 1px {% if section.settings.alt %}#ffffff{% else %}#000000{% endif %};
   border-right: 0;
   border-left: 0;
 }
@@ -17,6 +26,18 @@
   class="index-section faq-section {% if section.settings.alt %} index-section--alt{% endif %}"
   data-section-id="{{ section.id }}"
   data-section-type="faq-section">
+
+  {%- if section.settings.background_image and section.settings.alt -%}
+    <div class="background">
+      {%- render 'image-element'
+        , img: section.settings.background_image,
+        classes: 'image-background',
+        sizes: sizes,
+        sizeVariable: sizeVariable,
+        fallback: fallback, -%}
+    </div>
+  {%- endif -%}
+
   <div class="page-width">
 
     {%- if section.settings.title != blank -%}
@@ -31,17 +52,17 @@
       <script type="application/ld+json">
         {
         "@context": "https://schema.org",
-                                                "@type": "FAQPage",
-                                                "mainEntity": [
+                                                                                                "@type": "FAQPage",
+                                                                                                "mainEntity": [
         {% for block in section.blocks %}
           {% case block.type %}
             {% when 'question' %}
             {
             "@type": "Question",
-                                                                        "name": {{ block.settings.title | json }},
+                                                                                                                                                "name": {{ block.settings.title | json }},
             "acceptedAnswer": {
-                                                                          "@type": "Answer",
-                                                                          "text": {{ block.settings.text | json }}
+                                                                                                                                                  "@type": "Answer",
+                                                                                                                                                  "text": {{ block.settings.text | json }}
             }
             }{% unless forloop.last %},{% endunless %}
           {% endcase %}
@@ -127,6 +148,10 @@
         "type": "checkbox",
         "id": "alt",
         "label": "t:common.text_with_icons.settings.alt.label"
+      }, {
+        "type": "image_picker",
+        "id": "background_image",
+        "label": "Background Image (alternate section)"
       }
     ],
     "blocks": [
