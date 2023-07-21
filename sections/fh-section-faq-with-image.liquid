@@ -36,17 +36,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                                                            "@type": "FAQPage",
-                                                            "mainEntity": [
+                                                                        "@type": "FAQPage",
+                                                                        "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                                                                "name": {{ block.settings.title | json }},
+                                                                                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                                                                "@type": "Answer",
-                                                                                "text": {{ block.settings.text | json }}
+                                                                                                "@type": "Answer",
+                                                                                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
@@ -56,7 +56,7 @@
           </script>
 
           {%- for block in section.blocks -%}
-            <div {{ block.shopify_attributes }}>
+            <div {{ block.shopify_attributes }} class="faq-item">
               {% case block.type %}
                 {% when 'rich-text' %}
                 <div class="index-section index-section--faq">
