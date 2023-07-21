@@ -61,6 +61,14 @@
             sizeVariable: sizeVariable,
             fallback: fallback, -%}
         {%- endif -%}
+        {%- if section.settings.image_bottom -%}
+          {%- render 'image-element'
+            , img: section.settings.image_bottom,
+            classes: 'image-background',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback, -%}
+        {%- endif -%}
       </div>
 
       <div class="content content-right">
@@ -76,17 +84,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                                                            "@type": "FAQPage",
-                                                            "mainEntity": [
+                        "@type": "FAQPage",
+                        "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                                                                "name": {{ block.settings.title | json }},
+                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                                                                "@type": "Answer",
-                                                                                "text": {{ block.settings.text | json }}
+                                "@type": "Answer",
+                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
@@ -177,7 +185,11 @@
       }, {
         "type": "image_picker",
         "id": "image",
-        "label": "Image"
+        "label": "Image top"
+      }, {
+        "type": "image_picker",
+        "id": "image_bottom",
+        "label": "Image bottom"
       }
     ],
     "blocks": [
