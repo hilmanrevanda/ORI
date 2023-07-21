@@ -1,10 +1,20 @@
 {% style %}
-  .faq-section-image .collapsible-content {
+  .faq-section-image .content-wrapper {
+    display: flex;
+    gap: 40px;
+  }
+
+  .faq-section-image .content {
+    width: 50%;
+  }
+
+  .faq-section-image .section-header {
     text-align: left;
   }
 
   .faq-section-image .collapsible-trigger--inline {
-    text-align: left;
+    text-align: left !important;
+    padding: 11px 35px 11px 0;
   }
 
   .faq-section-image .faq-item {
@@ -13,8 +23,17 @@
       border-right: 0;
       border-left: 0;
     }
-    .faq-section-image .faq-item:nth-child(2) {
+    .faq-section-image .faq-item:nth-child(3) {
       border-bottom: 0 !important;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .faq-section-image .content-wrapper {
+        flex-direction: column;
+      }
+      .faq-section-image .content {
+        width: 100%;
+      }
     }
 {% endstyle %}
 
@@ -25,7 +44,16 @@
 
   <div class="page-width">
     <div class="content-wrapper">
-      <div class="content-left"></div>
+      <div class="content-left">
+        {%- if section.settings.image -%}
+          {%- render 'image-element'
+            , img: section.settings.image,
+            classes: 'image-background',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback, -%}
+        {%- endif -%}
+      </div>
 
       <div class="content-right">
         {%- if section.settings.title != blank -%}
@@ -40,17 +68,17 @@
           <script type="application/ld+json">
             {
             "@context": "https://schema.org",
-                                                                                    "@type": "FAQPage",
-                                                                                    "mainEntity": [
+                        "@type": "FAQPage",
+                        "mainEntity": [
             {% for block in section.blocks %}
               {% case block.type %}
                 {% when 'question' %}
                 {
                 "@type": "Question",
-                                                                                                                "name": {{ block.settings.title | json }},
+                                "name": {{ block.settings.title | json }},
                 "acceptedAnswer": {
-                                                                                                                "@type": "Answer",
-                                                                                                                "text": {{ block.settings.text | json }}
+                                "@type": "Answer",
+                                "text": {{ block.settings.text | json }}
                 }
                 }{% unless forloop.last %},{% endunless %}
               {% endcase %}
@@ -140,7 +168,7 @@
         "label": "t:common.text_with_icons.settings.alt.label"
       }, {
         "type": "image_picker",
-        "id": "Image",
+        "id": "image",
         "label": "Image"
       }
     ],
