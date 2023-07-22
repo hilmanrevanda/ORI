@@ -5127,7 +5127,7 @@ predictive-search h3{
 
 .site-footer{
   font-size:calc((var(--typeBaseSize) - 2px)*0.85);
-  margin-top:40px;
+  /* margin-top:40px; */
 }
 
 @media only screen and (min-width:769px){
@@ -5140,7 +5140,7 @@ predictive-search h3{
 @media only screen and (min-width:769px){
 
 .site-footer{
-    margin-top:80px;
+    /* margin-top:80px; */
 }
 
 .template-index .site-footer{
