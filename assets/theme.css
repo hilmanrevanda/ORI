@@ -2996,13 +2996,13 @@ body,html{
   }
 
 .main-content{
-  min-height:300px;
+  /* min-height:300px; */
 }
 
 @media only screen and (min-width:769px){
 
 .main-content{
-    min-height:700px;
+    /* min-height:700px; */
 }
   }
 
