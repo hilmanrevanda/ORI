@@ -87,7 +87,10 @@ menu_alignment options:
   {% endif %}
 {%- endstyle -%}
 
-<div data-section-id="{{ section.id }}" data-section-type="header-section">
+<div
+  data-section-id="{{ section.id }}"
+  data-section-type="header-section"
+  data-template-name="{{ template_name  }}">
   <div data-header-style="{{ section.settings.header_style }}" class="header-wrapper{% if overlay_header %} header-wrapper--overlay is-light{% endif %}">
 
     {%- if section.settings.show_announcement -%}
