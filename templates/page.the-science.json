@@ -35,8 +35,30 @@
         "lazyload_images": true
       }
     },
+    "567e6f04-97a1-4605-ad03-4313104b59c0": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "69f23054-da00-465b-a0cc-f1d4a6160cec": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Science2.webp",
+            "heading": "OLGANUTRIENTS",
+            "description": "ALL NATURAL BOTANICALS. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "69f23054-da00-465b-a0cc-f1d4a6160cec"
+      ],
+      "settings": {
+      }
+    },
     "555defe4-2a7b-4da7-9dbf-14c2620e9000": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "template--15758407172305__555defe4-2a7b-4da7-9dbf-14c2620e9000-liquid-1": {
           "type": "liquid",
@@ -618,6 +640,7 @@
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "567e6f04-97a1-4605-ad03-4313104b59c0",
     "555defe4-2a7b-4da7-9dbf-14c2620e9000",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5",

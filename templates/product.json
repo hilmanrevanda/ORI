@@ -183,7 +183,7 @@
         "subtitle": "",
         "title": "About the Fragrance",
         "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<\/p>",
-        "button_label": "LEARN MORE",
+        "button_label": "",
         "button_link": "#",
         "button_style": "primary",
         "align_text": "left",
