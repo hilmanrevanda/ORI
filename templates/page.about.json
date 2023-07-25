@@ -358,6 +358,9 @@
     },
     "45f644ef-1201-4560-a33e-b02990151c5d": {
       "type": "fh-section-richtext",
+      "custom_css": [
+        "h2{margin-bottom: 0px;}"
+      ],
       "settings": {
         "text": "<h2>LA VITA A COLORI<\/h2>",
         "background_color": "#000000",
