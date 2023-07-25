@@ -34,43 +34,37 @@
 {%- endif -%}
 
 {%- style -%}
-  .hero-natural--{{ section.id }}{
+  .hero-natural--{{ section.id }} {
     height: 0;
-    padding-bottom: {{ natural_height_ratio | plus: section.settings.desktop_size }}
-    %;
+    padding-bottom: {{ natural_height_ratio | plus: section.settings.desktop_size }}%;
   }
 
   @media screen and (max-width: 768px) {
-    .hero-natural--{{ section.id }}{
-      padding-bottom: {{ natural_height_ratio_mobile | plus: section.settings.mobile_size }}
-      %;
+    .hero-natural--{{ section.id }} {
+      padding-bottom: {{ natural_height_ratio_mobile | plus: section.settings.mobile_size }}%;
     }
   }
 
-  .hero-animated--{{ section.id }}.hero__title {
-    font-size: {{ section.settings.title_size | times: 0.6 }}
-    px;
+  .hero-animated--{{ section.id }} .hero__title {
+    font-size: {{ section.settings.title_size | times: 0.6 }}px;
   }
 
   @media only screen and (min-width: 769px) {
-    .hero-animated--{{ section.id }}.hero__title {
-      font-size: {{ section.settings.title_size }}
-      px;
+    .hero-animated--{{ section.id }} .hero__title {
+      font-size: {{ section.settings.title_size }}px;
     }
   }
 
   .hero-animated--{{ section.id }}[data-style="fading"] .animated__slide--active {
-    animation-duration: {{ slide_speed }}
-    s;
+    animation-duration: {{ slide_speed }}s;
   }
 
   {%- assign accent_exists = false -%}
   {%- assign button_alpha = section.settings.color_accent | color_extract: 'alpha' -%}
   {% unless button_alpha == 0.0 %}
     {%- assign accent_exists = true -%}
-    .hero-animated--{{ section.id }}.btn {
-      background: {{ section.settings.color_accent }}
-       !important;
+    .hero-animated--{{ section.id }} .btn {
+      background: {{ section.settings.color_accent }} !important;
       border: none;
 
       {%- assign accent_brightness = section.settings.color_accent | color_extract: 'lightness' -%}
@@ -81,11 +75,11 @@
     }
   {% endunless %}
 
-  .grid-product__meta {
+  .grid-product__meta{
     min-height: 84px;
   }
 
-  .hero__text-content.vertical-center .hero__link .btn-learn-more {
+  .hero__text-content.vertical-center .hero__link .btn-learn-more{
     background: #fff;
     color: #000;
   }
@@ -209,10 +203,10 @@
 
                     {%- if section.settings.link_text != blank -%}
                       <div class="hero__link appear-delay{% cycle '','-2','-4','-6','-8' %}">
-                        <a href="{{ section.settings.link_learn_more }}" class="btn btn-learn-more">
+                        <a href="{{ section.settings.link_learn_more }}" class="btn {% unless accent_exists %} btn--inverse{% endunless %}">
                           {{ section.settings.link_text_learn_more }}
                         </a>
-                        <a href="{{ section.settings.link }}" class="btn{% unless accent_exists %} btn--inverse{% endunless %}">
+                        <a href="{{ section.settings.link }}" class="btn btn-learn-more">
                           {{ section.settings.link_text }}
                         </a>
                       </div>
