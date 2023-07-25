@@ -76,8 +76,8 @@
         class="content content-left"
         style="background-color: {{ block.settings.background_color }};"
         data-aos>
-        <h2 class="h1 appear-delay" style="background-color: {{ block.settings.text_color }};">{{ block.settings.heading }}</h2>
-        <p class="appear-delay-1" style="background-color: {{ block.settings.text_color }};">{{ block.settings.description }}</p>
+        <h2 class="h1 appear-delay" style="color: {{ block.settings.text_color }};">{{ block.settings.heading }}</h2>
+        <p class="appear-delay-1" style="color: {{ block.settings.text_color }};">{{ block.settings.description }}</p>
         {%- if block.settings.btn_url -%}
           <a href="{{ block.settings.btn_url }}" class="btn btn--inverse appear-delay-2">{{ block.settings.btn_text }}</a>
         {%- endif -%}
