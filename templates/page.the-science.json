@@ -190,309 +190,7 @@
         "text_color": "#000000"
       }
     },
-    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5": {
-      "type": "fh-section-faq-with-image",
-      "disabled": true,
-      "blocks": {
-        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Oxidative Free Radicals",
-            "text": "<p>Our bodies naturally produce reactive oxygen species (ROS) during various metabolic processes. They also make antioxidants to combat the free radicals. When the balance between ROS production and the body's antioxidant defenses is disrupted, it leads to oxidative stress. Factors like pollution, UV radiation, smoking, poor nutrition, and stress can increase ROS production and overwhelm the body's antioxidant defenses.<\/p><p>Oxidative Stress affects scalp and hair health.<\/p>"
-          }
-        },
-        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Premature Graying",
-            "text": "<p>Increased ROS damages melanocytes (pigment producing cells) resulting in premature graying.<\/p>"
-          }
-        },
-        "f9320fe8-0a06-496c-bc25-a6dd4444910f": {
-          "type": "question",
-          "settings": {
-            "title": "Hair thinning and loss",
-            "text": "<p>ROS can damage the cells in the hair follicle leading to weakening, thinning and loss.<\/p>"
-          }
-        },
-        "2f666bf1-69ad-447a-903b-d056f51b3460": {
-          "type": "question",
-          "settings": {
-            "title": "Premature aging",
-            "text": "<p>One of the primary effects of oxidative stress on the skin is premature aging. ROS can damage collagen and elastin fibers, which are responsible for maintaining skin elasticity and firmness. This damage leads to the formation of wrinkles, fine lines, and sagging skin, making you look older than your actual age.<\/p>"
-          }
-        },
-        "8349aa81-b329-41a8-be89-216a1036da8f": {
-          "type": "question",
-          "settings": {
-            "title": "Skin discoloration",
-            "text": "<p>Oxidative stress can also contribute to skin discoloration and uneven skin tone. It can increase the production of melanin, leading to hyperpigmentation, dark spots, and an uneven complexion. These changes can make your skin appear dull and less radiant.<\/p>"
-          }
-        },
-        "8d7ecabb-6c5f-4da7-b593-30fd0d592be1": {
-          "type": "question",
-          "settings": {
-            "title": "Reduced skin barrier function",
-            "text": "<p>The skin's natural barrier function can be compromised due to oxidative stress. ROS can damage the lipids and proteins that make up the skin's protective barrier, allowing moisture to escape and irritants to penetrate more easily. This can result in dryness, sensitivity, and an increased risk of skin problems like eczema and dermatitis.<\/p>"
-          }
-        },
-        "b13ebc6b-ad76-4cbb-929f-e699ffad234d": {
-          "type": "question",
-          "settings": {
-            "title": "Aging Process",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "eb6beaca-4d48-4b74-a68a-367ac768883c": {
-          "type": "question",
-          "settings": {
-            "title": "UV Radiation",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "09320153-447d-4d5b-888a-1e7b949608ee": {
-          "type": "question",
-          "settings": {
-            "title": "Environmental Toxins",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "c6708ef8-ac62-4077-bc17-6a8f71ba7e58": {
-          "type": "question",
-          "settings": {
-            "title": "Improper Nutrition",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "02c7562d-21f3-4791-aae7-e9e752eb7b6d": {
-          "type": "question",
-          "settings": {
-            "title": "Hormone Disruption",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "3d891ac2-1990-4d9b-88a2-83c8b21040ad": {
-          "type": "question",
-          "settings": {
-            "title": "Genetics",
-            "text": "<p>The genetic cause of hair loss involves the male hormone dihydrotestosterone (DHT) and the dermal papilla (DP) cells that are sensitive to it. DP cells are found at the base of hair follicles and are responsible for new growth.<\/p>"
-          }
-        },
-        "fbc22639-a9f4-4b90-869e-d0ccb73756e4": {
-          "type": "question",
-          "settings": {
-            "title": "Formation of DHT",
-            "text": "<p>DHT is derived from the hormone testosterone through an enzyme called 5-alpha-reductase. In some individuals, the enzyme converts testosterone into DHT, which binds to receptors in the hair follicles.<\/p>"
-          }
-        },
-        "2cdf0806-9499-4b7b-9da2-540745eeb4e7": {
-          "type": "question",
-          "settings": {
-            "title": "Sensitivity of Hair Follicles",
-            "text": "<p>Hair follicles on the scalp contain androgen receptors, including receptors for DHT. In individuals with a genetic predisposition, these hair follicles may be more sensitive to the effects of DHT.<\/p>"
-          }
-        },
-        "15310935-02fb-430b-ac37-ff975113e0fd": {
-          "type": "question",
-          "settings": {
-            "title": "Miniaturization of Hair Follicles",
-            "text": "<p>When DHT binds to the androgen receptors in the hair follicles, it can lead to a process called miniaturization. Miniaturization refers to the gradual shrinking and weakening of the affected hair follicles over time.<\/p>"
-          }
-        },
-        "b7da67bc-3490-48e3-98fe-e7798dcbd606": {
-          "type": "question",
-          "settings": {
-            "title": "Shortened Hair Growth Cycle",
-            "text": "<p>DHT can shorten the duration of the hair growth cycle, leading to a reduction in the growth phase of the hair follicles. This results in shorter and thinner hair strands, making the hair appear less dense and eventually leading to hair thinning or hair loss.<\/p>"
-          }
-        },
-        "5741ea87-0914-4d87-b940-bd61076f9b1a": {
-          "type": "question",
-          "settings": {
-            "title": "Progressive Hair Loss",
-            "text": "<p>As the hair follicles continue to be exposed to DHT, they become progressively smaller and weaker with each hair growth cycle. This can eventually lead to the production of vellus hairs, which are short, fine, and barely visible hairs, or even the complete cessation of hair growth from affected follicles.<\/p><p>It's important to note that not everyone with a genetic predisposition to DHT will experience hair loss. The sensitivity of hair follicles to DHT and the extent of hair loss can vary among individuals. Other factors, such as age, overall health, and additional genetic and environmental factors, also contribute to the development of hair loss.<\/p>"
-          }
-        },
-        "d854e8f3-66dc-4272-9ba5-bc264bb7bc35": {
-          "type": "question",
-          "settings": {
-            "title": "Pathogens",
-            "text": "<p>Pathogens are microorganisms, such as bacteria, viruses, and fungi, that can cause infections and diseases. When it comes to hair and skin, pathogens can have various effects depending on the specific microorganism and the area of the body they affect.<\/p>"
-          }
-        },
-        "a2cc29d3-0f21-4964-9e6a-a6543740daf2": {
-          "type": "question",
-          "settings": {
-            "title": "Infections",
-            "text": "<p>Pathogens can cause infections on the skin or scalp. For example, bacteria like Staphylococcus aureus can cause skin infections, leading to symptoms like redness, swelling, and pus-filled lesions. Fungal infections like ringworm can affect the scalp and cause hair loss or patchy areas of hair thinning.<\/p>"
-          }
-        },
-        "1e5a8070-cb29-4c7e-95fe-416e4ff0e1f2": {
-          "type": "question",
-          "settings": {
-            "title": "Inflammation and Irritation",
-            "text": "<p>Some pathogens can trigger an immune response in the skin or scalp, resulting in inflammation and irritation. This can lead to symptoms like redness, itching, and discomfort. Conditions like dermatitis or eczema can be caused by an overactive immune response to pathogens or other triggers.<\/p>"
-          }
-        },
-        "c0eafd8e-2683-4a1b-ac86-973ee2649a82": {
-          "type": "question",
-          "settings": {
-            "title": "Acne",
-            "text": "<p>Certain bacteria, such as Propionibacterium acnes, can contribute to the development of acne. These bacteria reside on the skin and can multiply, leading to clogged pores, inflammation, and the formation of pimples and acne lesions.<\/p>"
-          }
-        },
-        "3e99b571-bce9-49b2-8e06-b9ddec7e39fd": {
-          "type": "question",
-          "settings": {
-            "title": "Viral Infections",
-            "text": "<p>Viruses can also affect the hair and skin. Covid has been associated with hair loss which for most is temporary. Herpes simplex virus can cause cold sores or fever blisters around the lips or mouth. Human papillomavirus (HPV) can cause warts, including common warts that can appear on the hands or feet.<\/p>"
-          }
-        },
-        "f94e4efc-53db-40ca-b871-c0116006645d": {
-          "type": "question",
-          "settings": {
-            "title": "Transmission and Contagion",
-            "text": "<p>Pathogens can be contagious and easily spread from person to person through direct contact or contaminated objects. For example, sharing personal items like combs, brushes, or hats can transmit lice or fungal infections like tinea capitis (scalp ringworm).Our Products: have targeted ingredients with natural antimicrobial properties<\/p>"
-          }
-        },
-        "8fd2a222-3b98-4d68-899f-3e6f17f3d77c": {
-          "type": "question",
-          "settings": {
-            "title": "Damaging Chemicals in Cosmetics",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "8fba5b4a-dcce-4d6f-8e34-88203da251af": {
-          "type": "question",
-          "settings": {
-            "title": "Parabens",
-            "text": "<p>Parabens are preservatives commonly found in cosmetics such as shampoos, conditioners, lotions, and creams. They have been associated with hormone disruption and have been found in breast cancer tumors. Many companies have started to produce paraben-free products in response to these concerns.<\/p>"
-          }
-        },
-        "f9fe55a2-1bf6-4e41-bfbd-a2f581c00302": {
-          "type": "question",
-          "settings": {
-            "title": "Sodium lauryl sulfate (SLS) and sodium laureth sulfate (SLES)",
-            "text": "<p>These surfactants are commonly used in shampoos, body washes, and facial cleansers to create foam and lather. However, they can strip the skin and hair of natural oils, leading to dryness, irritation, and potential damage.<\/p>"
-          }
-        },
-        "3acd1d93-141d-4d36-92a1-65c741b2650e": {
-          "type": "question",
-          "settings": {
-            "title": "Formaldehyde and formaldehyde-releasing preservatives",
-            "text": "<p>These ingredients, such as DMDM hydantoin, imidazolidinyl urea, and quaternium-15, are often used as preservatives in cosmetic products. They can release formaldehyde, a known human carcinogen, and can cause skin irritation, allergies, and sensitivities.<\/p>"
-          }
-        },
-        "ffec7dd9-eff8-4722-9447-d5bccf8e5768": {
-          "type": "question",
-          "settings": {
-            "title": "Fragrances",
-            "text": "<p>Synthetic fragrances are widely used in various hair and skincare products. However, they can contain numerous undisclosed chemicals, including phthalates, which have been linked to hormone disruption and allergic reactions.<\/p>"
-          }
-        },
-        "02aa4676-40dd-4b38-a31e-d985898f88f5": {
-          "type": "question",
-          "settings": {
-            "title": "Alcohol",
-            "text": "<p>High concentrations of alcohol, such as ethanol, isopropyl alcohol, or denatured alcohol, are often found in cosmetics like toners and astringents. Alcohol can be drying to the skin and hair, leading to dehydration and irritation.<\/p>"
-          }
-        },
-        "4dcd96b9-3919-4aa5-90c5-bef4f58b68e6": {
-          "type": "question",
-          "settings": {
-            "title": "Mineral oil and petroleum derivatives",
-            "text": "<p>These ingredients, such as mineral oil, petrolatum, and paraffinum liquidum, are commonly found in moisturizers, lip balms, and hair products. They can create a barrier on the skin, potentially clogging pores and interfering with the skin's natural functions.<\/p>"
-          }
-        },
-        "bd94475b-1fed-4492-9cea-8086ba1f5e66": {
-          "type": "question",
-          "settings": {
-            "title": "Phthalates",
-            "text": "<p>Phthalates are plasticizers used in many cosmetic products, particularly in fragrances and nail polishes. They have been linked to hormone disruption, reproductive issues, and potential adverse effects on the liver, kidneys, and lungs.<\/p>"
-          }
-        },
-        "3d190fb1-9fa1-4861-b8bc-488950edcc55": {
-          "type": "question",
-          "settings": {
-            "title": "Our Products",
-            "text": "<p>Are all natural and free of known irritants<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-1",
-        "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-2",
-        "f9320fe8-0a06-496c-bc25-a6dd4444910f",
-        "2f666bf1-69ad-447a-903b-d056f51b3460",
-        "8349aa81-b329-41a8-be89-216a1036da8f",
-        "8d7ecabb-6c5f-4da7-b593-30fd0d592be1",
-        "b13ebc6b-ad76-4cbb-929f-e699ffad234d",
-        "eb6beaca-4d48-4b74-a68a-367ac768883c",
-        "09320153-447d-4d5b-888a-1e7b949608ee",
-        "c6708ef8-ac62-4077-bc17-6a8f71ba7e58",
-        "02c7562d-21f3-4791-aae7-e9e752eb7b6d",
-        "3d891ac2-1990-4d9b-88a2-83c8b21040ad",
-        "fbc22639-a9f4-4b90-869e-d0ccb73756e4",
-        "2cdf0806-9499-4b7b-9da2-540745eeb4e7",
-        "15310935-02fb-430b-ac37-ff975113e0fd",
-        "b7da67bc-3490-48e3-98fe-e7798dcbd606",
-        "5741ea87-0914-4d87-b940-bd61076f9b1a",
-        "d854e8f3-66dc-4272-9ba5-bc264bb7bc35",
-        "a2cc29d3-0f21-4964-9e6a-a6543740daf2",
-        "1e5a8070-cb29-4c7e-95fe-416e4ff0e1f2",
-        "c0eafd8e-2683-4a1b-ac86-973ee2649a82",
-        "3e99b571-bce9-49b2-8e06-b9ddec7e39fd",
-        "f94e4efc-53db-40ca-b871-c0116006645d",
-        "8fd2a222-3b98-4d68-899f-3e6f17f3d77c",
-        "8fba5b4a-dcce-4d6f-8e34-88203da251af",
-        "f9fe55a2-1bf6-4e41-bfbd-a2f581c00302",
-        "3acd1d93-141d-4d36-92a1-65c741b2650e",
-        "ffec7dd9-eff8-4722-9447-d5bccf8e5768",
-        "02aa4676-40dd-4b38-a31e-d985898f88f5",
-        "4dcd96b9-3919-4aa5-90c5-bef4f58b68e6",
-        "bd94475b-1fed-4492-9cea-8086ba1f5e66",
-        "3d190fb1-9fa1-4861-b8bc-488950edcc55"
-      ],
-      "settings": {
-        "title": "Reasons for Hair and Skin Damage",
-        "alt": false,
-        "image": "shopify:\/\/shop_images\/Origenere_Hair_Follicle_3fbc0101-d2bc-4380-a44c-ca625ea40045.webp",
-        "image_bottom": "shopify:\/\/shop_images\/The_Science3_b19c9ca9-db00-458b-a895-7927fc880d8b.webp"
-      }
-    },
-    "2755424d-b067-42ff-a010-b0497300f467": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "HOW ORIGENERE HELPS HAIR AND SKIN"
-          }
-        },
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p><strong>Lorem Ipsum<\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1",
-        "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
-      }
-    },
-    "5b027f64-fbd6-4d23-91a4-79e2150caea2": {
+    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
       "type": "fh-section-richtext",
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1); margin-bottom: 0px;}"
@@ -500,116 +198,93 @@
       "settings": {
         "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
         "background_color": "#000000",
-        "text_color": "#ffffff",
-        "image": "shopify:\/\/shop_images\/The_Science1.webp"
+        "text_color": "#ffffff"
       }
     },
-    "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5": {
-      "type": "faq",
+    "2fd4e360-08d6-4281-8725-5cffa7dc0c15": {
+      "type": "fh-section-faq",
       "blocks": {
-        "75909a6b-db11-4118-9eed-7a1d72a1e93a": {
+        "dce23cf4-28af-4d7d-b607-d6521a8c2c53": {
           "type": "question",
           "settings": {
-            "title": "Antioxidants",
-            "text": "<p>are substances that help protect our cells from the damaging effects of oxidative stress. They work by neutralizing harmful molecules called reactive oxygen species (ROS), which are produced naturally in our bodies and can cause damage to cells, including those in the hair and skin.<\/p>"
+            "title": "GENETICS",
+            "text": "<p>The genetic cause of hair loss involves the male hormone dihydrotestosterone (DHT) and the dermal papilla (DP) cells that are sensitive to it. DP cells are found at the base of hair follicles and are responsible for new growth.<\/p><p><strong>Formation of DHT:<\/strong> DHT is derived from the hormone testosterone through an enzyme called 5-alpha-reductase. In some individuals, the enzyme converts testosterone into DHT, which binds to receptors in the hair follicles. <\/p><p><strong>Sensitivity of Hair Follicles:<\/strong> Hair follicles on the scalp contain androgen receptors, including receptors for DHT. In individuals with a genetic predisposition, these hair follicles may be more sensitive to the effects of DHT.<\/p><p><strong>Miniaturization of Hair Follicles:<\/strong> When DHT binds to the androgen receptors in the hair follicles, it can lead to a process called miniaturization. Miniaturization refers to the gradual shrinking and weakening of the affected hair follicles over time.<\/p><p><strong>Shortened Hair Growth Cycle: <\/strong>DHT can shorten the duration of the hair growth cycle, leading to a reduction in the growth phase of the hair follicles. This results in shorter and thinner hair strands, making the hair appear less dense and eventually leading to hair thinning or hair loss.<\/p><p><strong>Progressive Hair Loss: <\/strong>As the hair follicles continue to be exposed to DHT, they become progressively smaller and weaker with each hair growth cycle. This can eventually lead to the production of vellus hairs, which are short, fine, and barely visible hairs, or even the complete cessation of hair growth from affected follicles. <\/p><p>It's important to note that not everyone with a genetic predisposition to DHT will experience hair loss. The sensitivity of hair follicles to DHT and the extent of hair loss can vary among individuals. Other factors, such as age, overall health, and additional genetic and environmental factors, also contribute to the development of hair loss.<\/p>"
           }
         },
-        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd": {
+        "ae0e2e8a-eee6-41a1-ab6f-071bf0f45a99": {
           "type": "question",
           "settings": {
-            "title": "Reduces oxidative stress",
-            "text": "<p>By neutralizing ROS, antioxidants help reduce the level of oxidative stress in your body. This, in turn, helps protect the cells in your hair follicles and skin from damage. By lowering oxidative stress, antioxidants can help maintain the health and vitality of your hair and skin.<\/p>"
-          }
-        },
-        "8c3d9ae2-1ea9-4981-9662-8138217f41aa": {
-          "type": "question",
-          "settings": {
-            "title": "Promotes healthy hair growth",
-            "text": "<p>Antioxidants play a crucial role in supporting healthy hair growth. They protect the cells in your hair follicles, which are responsible for producing new hair strands. By maintaining the health of these cells, antioxidants can help promote optimal hair growth and prevent hair thinning or loss.<\/p>"
-          }
-        },
-        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8": {
-          "type": "question",
-          "settings": {
-            "title": "Preserves skin youthfulness",
-            "text": "<p>Antioxidants are well-known for their anti-aging properties. They help protect the collagen and elastin fibers in your skin, which are responsible for its firmness and elasticity. By preventing oxidative damage to these fibers, antioxidants help maintain a youthful appearance by reducing the appearance of wrinkles, fine lines, and sagging skin.<\/p>"
-          }
-        },
-        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320": {
-          "type": "question",
-          "settings": {
-            "title": "Brightening skin tone",
-            "text": "<p>Antioxidants can also help brighten and even out your skin tone. They inhibit the production of excess melanin, which is responsible for dark spots, hyperpigmentation, and an uneven complexion. By reducing melanin production, antioxidants can help promote a more radiant and uniform skin tone.<\/p>"
-          }
-        },
-        "73617cf5-6044-43f8-8a37-efbc14b11430": {
-          "type": "question",
-          "settings": {
-            "title": "Boosting skin barrier function",
-            "text": "<p>Antioxidants support the integrity of your skin's natural barrier. They help protect the lipids and proteins that make up the barrier, preventing moisture loss and maintaining hydration. By strengthening the skin barrier, antioxidants help keep your skin moisturized, smooth, and protected from external irritants<\/p>"
-          }
-        },
-        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2": {
-          "type": "question",
-          "settings": {
-            "title": "Our products",
-            "text": "<p>All of our products provide different ingredients with powerful antioxidants that help repair damage to cellular structures. See each product for specific ingredients. Some examples of antioxidant ingredients we use: olive leaf extract, soy protein, almond leaf extract, bergamot orange peel, limonene peel, Vit C, Vit E<\/p>"
-          }
-        },
-        "428acdbc-1d2b-414b-b140-b77d55dc1a57": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Vitamins, Minerals and Trace elements",
-            "text": "<p>Provides cells with essential vitamins, minerals and trace elements<\/p>"
-          }
-        },
-        "49a89d0f-1032-4e88-b078-dd29ddf395c6": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Fatty Acids and Nutrients",
+            "title": "AGING PROCESS",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
-        "a5ab0dd2-5eee-4171-8f88-61363885977f": {
+        "5ca6834d-5692-4743-9d0e-410d3bacb8f7": {
           "type": "question",
           "settings": {
-            "title": "Fights Hormone Disrupting Pathogenic and Toxic Ingredients",
+            "title": "EXPOSOMES",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
-        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7": {
+        "39bd16a7-1435-4059-8714-039177192fb6": {
           "type": "question",
           "settings": {
-            "title": "Essential Amino Acids: to help form Protein Structures",
+            "title": "UV Radiation",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
-        "c13b3a55-ca9d-4621-87bf-3898966004de": {
+        "6be5704b-0ff4-4c7d-8c7a-b045daa58050": {
           "type": "question",
           "settings": {
-            "title": "Moisture Retaining Lipids and Emollients",
-            "text": "<p>provide hydration<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by hair transplant physicians for their active properties and benefits to human hair and skin.<\/p><p>ORIGENERE cosmetic products utilize targeted hair and skin organonutrient formulations that act in conjunction to achieve real results<\/p>"
+            "title": "Environmental Toxins",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "95441040-35fe-4d63-a040-729cb7942e6a": {
+          "type": "question",
+          "settings": {
+            "title": "Improper Nutrition",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "e47c44e5-09ad-4fa9-afe7-6ecf7364ff86": {
+          "type": "question",
+          "settings": {
+            "title": "Hormone Disruption",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "fec1a216-4019-4530-99ec-ea3beeb48f86": {
+          "type": "question",
+          "settings": {
+            "title": "Pathogens",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "ffe23e2a-29da-4ac4-9b59-1774f08c924a": {
+          "type": "question",
+          "settings": {
+            "title": "Damaging Chemicals in Cosmetics:",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
       "block_order": [
-        "75909a6b-db11-4118-9eed-7a1d72a1e93a",
-        "78b207a7-8c1b-4e9b-b600-9a9e76709cbd",
-        "8c3d9ae2-1ea9-4981-9662-8138217f41aa",
-        "29b7ee6b-8cad-4c69-b2e3-72d227a5a4b8",
-        "3c3f0cbd-e309-4f4c-8f52-f53ad69e4320",
-        "73617cf5-6044-43f8-8a37-efbc14b11430",
-        "29097fe5-c0d7-461f-a2bc-0a1450ecefb2",
-        "428acdbc-1d2b-414b-b140-b77d55dc1a57",
-        "49a89d0f-1032-4e88-b078-dd29ddf395c6",
-        "a5ab0dd2-5eee-4171-8f88-61363885977f",
-        "f2a6ecfa-2708-41db-84be-ac5b312d8ef7",
-        "c13b3a55-ca9d-4621-87bf-3898966004de"
+        "dce23cf4-28af-4d7d-b607-d6521a8c2c53",
+        "ae0e2e8a-eee6-41a1-ab6f-071bf0f45a99",
+        "5ca6834d-5692-4743-9d0e-410d3bacb8f7",
+        "39bd16a7-1435-4059-8714-039177192fb6",
+        "6be5704b-0ff4-4c7d-8c7a-b045daa58050",
+        "95441040-35fe-4d63-a040-729cb7942e6a",
+        "e47c44e5-09ad-4fa9-afe7-6ecf7364ff86",
+        "fec1a216-4019-4530-99ec-ea3beeb48f86",
+        "ffe23e2a-29da-4ac4-9b59-1774f08c924a"
       ],
       "settings": {
-        "title": "",
-        "alt": true,
-        "background_image": "shopify:\/\/shop_images\/Origenere_Skin_Cells.webp"
+        "reverse": true,
+        "image": "shopify:\/\/shop_images\/Origenere_Skin_Cells.webp",
+        "as_background": true,
+        "background_color": "#ffffff",
+        "text_color": "#000000"
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -670,7 +345,7 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false,
+        "alt": true,
         "has_icon": true
       }
     },
@@ -730,10 +405,8 @@
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
-    "a937a41e-d18c-48c1-a32d-1acf83bfc8e5",
-    "2755424d-b067-42ff-a010-b0497300f467",
-    "5b027f64-fbd6-4d23-91a4-79e2150caea2",
-    "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5",
+    "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
+    "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
