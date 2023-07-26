@@ -426,7 +426,7 @@
     "a6813085-76be-4b60-b65e-41b79586a218": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<p>OUR COLLECTIONS<\/p><p>Colors are an essential part of our lives. They influence our moods, perceptions, and<br\/>behaviors. Below we describe the colors of our La Vita a Colori (life in color) used in each line.<\/p><p>By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences<\/p>",
+        "text": "<p><strong>OUR COLLECTIONS<\/strong><\/p><p>Colors are an essential part of our lives. They influence our moods, perceptions, and<br\/>behaviors. Below we describe the colors of our La Vita a Colori (life in color) used in each line.<\/p><p>By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences<\/p>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
