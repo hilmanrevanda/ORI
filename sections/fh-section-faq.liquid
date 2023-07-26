@@ -69,7 +69,70 @@
       min-height: 100vw;
     }
   }
+
+  /* MODAL */
+  .modal {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal.open {
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0s;
+  }
+  .modal-bg {
+    position: absolute;
+    background: teal;
+    width: 100%;
+    height: 100%;
+  }
+  .modal-container {
+    border-radius: 10px;
+    background: #fff;
+    position: relative;
+    padding: 30px;
+  }
+  .modal-close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    outline: none;
+    appearance: none;
+    color: red;
+    background: none;
+    border: 0px;
+    font-weight: bold;
+    cursor: pointer;
+  }
 {%- endstyle -%}
+
+{% javascript %}
+  const modals = document.querySelectorAll("[data-modal]");
+
+  modals.forEach(function (trigger) {
+    trigger.addEventListener("click", function (event) {
+      event.preventDefault();
+      const modal = document.getElementById(trigger.dataset.modal);
+      modal.classList.add("open");
+      const exits = modal.querySelectorAll(".modal-exit");
+      exits.forEach(function (exit) {
+        exit.addEventListener("click", function (event) {
+          event.preventDefault();
+          modal.classList.remove("open");
+        });
+      });
+    });
+  });
+{% endjavascript %}
 
 <div
   data-section-id="{{ section.id }}"
@@ -109,12 +172,20 @@
         style="background-color: {{ section.settings.background_color }}; color: {{ section.settings.text_color }};"
         data-aos>
         {%- for block in section.blocks -%}
-          <button type="button" data-text="{{ block.settings.text | escape }}" data-title="{{ block.settings.title }}">
+          <button type="button" data-modal="modal-one" data-text="{{ block.settings.text | escape }}" data-title="{{ block.settings.title }}">
             <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" viewBox="0 0 20 20"><path fill="#444" d="M17.409 8.929h-6.695V2.258c0-.566-.506-1.029-1.071-1.029s-1.071.463-1.071 1.029v6.671H1.967C1.401 8.929.938 9.435.938 10s.463 1.071 1.029 1.071h6.605V17.7c0 .566.506 1.029 1.071 1.029s1.071-.463 1.071-1.029v-6.629h6.695c.566 0 1.029-.506 1.029-1.071s-.463-1.071-1.029-1.071z"></path></svg>
             </span>
             <span class="h3">{{ block.settings.title }}</span>
           </button>
+          <div class="modal" id="modal-one">
+            <div class="modal-bg modal-exit"></div>
+            <div class="modal-container">
+              <h1>Amazing Modal</h1>
+              <h2>Pure Vanilla JavaScript</h2>
+              <button class="modal-close modal-exit">X</button>
+            </div>
+          </div>
         {%- endfor -%}
       </div>
 
