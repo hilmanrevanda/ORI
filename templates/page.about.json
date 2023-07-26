@@ -158,7 +158,7 @@
       ],
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 60px;}",
-        ".text-with-icons__title{padding-top: 100px; margin-bottom: 20px;}"
+        ".text-with-icons__title {padding-top: 100px; margin-bottom: 20px;}"
       ],
       "settings": {
         "title": "OUR PROMISE",
@@ -354,7 +354,7 @@
           "settings": {
             "reverse": true,
             "image": "shopify:\/\/shop_images\/About_Image_10.webp",
-            "text": "<p><strong>Materials<\/strong><\/p><p>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.<\/p><p><strong>Manufacturing<\/strong><\/p><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><p><strong>Packaging<\/strong><\/p><p>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/p>",
+            "text": "<h2><strong>Materials<\/strong><\/h2><p>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.<\/p><h2><strong>Manufacturing<\/strong><\/h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><h2><strong>Packaging<\/strong><\/h2><p>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -364,7 +364,7 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/About_Image_11.webp",
-            "text": "<p><strong>Shipping<\/strong><\/p><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
+            "text": "<h2><strong>Shipping<\/strong><\/h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p><strong>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/strong><\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -421,7 +421,7 @@
         "h2 {margin-bottom: 0px; font-size: calc(var(--typeHeaderSize) * 1);}"
       ],
       "settings": {
-        "text": "<h2>LA VITA A COLORI<\/h2>",
+        "text": "<h2><strong>BELLISSIMI COLORI<\/strong><\/h2>",
         "background_color": "#000000",
         "text_color": "#ffffff",
         "image": "shopify:\/\/shop_images\/The_Science1.webp"
