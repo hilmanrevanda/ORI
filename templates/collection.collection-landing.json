@@ -64,6 +64,9 @@
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0",
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1"
       ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
