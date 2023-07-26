@@ -146,6 +146,10 @@
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1",
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2"
       ],
+      "custom_css": [
+        ".text-with-icons__blocks {padding-bottom: 60px;}",
+        ".text-with-icons__title {padding-top: 80px; margin-bottom: 20px;}"
+      ],
       "settings": {
         "title": "About Products",
         "align_text": "center",
