@@ -61,17 +61,17 @@
     <script type="application/ld+json">
       {
       "@context": "https://schema.org",
-                                                "@type": "FAQPage",
-                                                "mainEntity": [
+                                                      "@type": "FAQPage",
+                                                      "mainEntity": [
       {% for block in section.blocks %}
         {% case block.type %}
           {% when 'question' %}
           {
           "@type": "Question",
-                                                                                "name": {{ block.settings.title | json }},
+                                                                                          "name": {{ block.settings.title | json }},
           "acceptedAnswer": {
-                                                                                "@type": "Answer",
-                                                                                "text": {{ block.settings.text | json }}
+                                                                                          "@type": "Answer",
+                                                                                          "text": {{ block.settings.text | json }}
           }
           }{% unless forloop.last %},{% endunless %}
         {% endcase %}
@@ -92,18 +92,10 @@
         data-aos>
         {%- for block in section.blocks -%}
           <div>
-            <button
-              type="button"
-              class="collapsible-trigger collapsible-trigger--inline collapsible--auto-height text-left"
-              aria-controls="FAQ-content-{{ block.id }}">
+            <button type="button">
               {%- render 'collapsible-icons-alt', no_circle: true -%}
               <span class="h3">{{ block.settings.title }}</span>
             </button>
-            <div id="FAQ-content-{{ block.id }}" class="collapsible-content collapsible-content--all">
-              <div class="collapsible-content__inner collapsible-content__inner--faq rte">
-                {{ block.settings.text }}
-              </div>
-            </div>
           </div>
         {%- endfor -%}
       </div>
