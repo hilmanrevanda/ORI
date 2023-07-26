@@ -113,6 +113,9 @@
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2",
         "a9b9def1-9b5b-4dcd-810d-578c4928c6ab"
       ],
+      "custom_css": [
+        ".text-with-icons__blocks{padding-top: 60px; padding-bottom: 60px;}"
+      ],
       "settings": {
         "title": "",
         "align_text": "center",
