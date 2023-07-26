@@ -115,7 +115,7 @@
   }
 {%- endstyle -%}
 
-{% javascript %}
+{%- javascript -%}
   const modals = document.querySelectorAll("[data-modal]");
 
   modals.forEach(function (trigger) {
@@ -132,7 +132,7 @@
       });
     });
   });
-{% endjavascript %}
+{%- endjavascript -%}
 
 <div
   data-section-id="{{ section.id }}"
