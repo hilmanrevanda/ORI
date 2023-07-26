@@ -136,6 +136,10 @@
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-1",
         "template--15750521848017__990159f1-1814-4cb7-a15c-598d6d60acb0-168860636943c4bdae-2"
       ],
+      "custom_css": [
+        ".text-with-icons__blocks {padding-top: 60px; padding-bottom: 60px;}",
+        "h3 {font-size: calc(var(--typeHeaderSize) * 1);}"
+      ],
       "settings": {
         "title": "",
         "align_text": "center",
@@ -178,12 +182,14 @@
           "type": "text_block",
           "source": "{{ collection.metafields.custom.collection_cta.value }}",
           "settings": {
+            "reverse": false,
             "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
             "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
             "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
             "btn_text": "{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
             "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
-            "background_color": "{{ collection.metafields.custom.background_color.value }}"
+            "background_color": "{{ collection.metafields.custom.background_color.value }}",
+            "text_color": "#ffffff"
           }
         }
       },
