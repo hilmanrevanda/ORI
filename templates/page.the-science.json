@@ -126,6 +126,27 @@
         "background_color": "#000000"
       }
     },
+    "e7c60625-6a48-44b5-9486-98ff48aeb59a": {
+      "type": "fh-section-faq",
+      "blocks": {
+        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce"
+      ],
+      "settings": {
+        "reverse": true,
+        "image": "shopify:\/\/shop_images\/The_Science3.webp",
+        "background_color": "#ffffff",
+        "text_color": "#000000"
+      }
+    },
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5": {
       "type": "fh-section-faq-with-image",
       "blocks": {
@@ -664,6 +685,7 @@
     "567e6f04-97a1-4605-ad03-4313104b59c0",
     "555defe4-2a7b-4da7-9dbf-14c2620e9000",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "e7c60625-6a48-44b5-9486-98ff48aeb59a",
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5",
     "2755424d-b067-42ff-a010-b0497300f467",
     "5b027f64-fbd6-4d23-91a4-79e2150caea2",
