@@ -1,0 +1,191 @@
+{%- style -%}
+  .fh-section--faq-new .list-item {
+    display: flex;
+    flex-direction: row;
+    min-height: 50vw;
+    max-height: 600px
+  }
+
+  .fh-section--faq-new .list-item .content {
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    position: relative;
+    color: #ffffff;
+    width: 50%;
+  }
+
+  .fh-section--faq-new .list-item .content p {
+    max-width: 100%;
+    width: 500px;
+  }
+
+  .fh-section--faq-new .list-item .content .background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+
+  .fh-section--faq-new .list-item .content .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
+  }
+
+  .fh-section--faq-new .list-item .content .background img {
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .fh-section--faq-new .list-item {
+      min-height: 0;
+      max-height: unset;
+      flex-direction: column !important;
+    }
+
+    .fh-section--faq-new .list-item .content {
+      padding: 40px 20px;
+      width: 100%;
+      min-height: 100vw;
+    }
+  }
+{%- endstyle -%}
+
+<div
+  data-section-id="{{ section.id }}"
+  data-section-type="fh-section-faq-new"
+  class="fh-section--faq-new">
+  {%- if section.blocks.size > 0 -%}
+    <script type="application/ld+json">
+      {
+      "@context": "https://schema.org",
+                                    "@type": "FAQPage",
+                                    "mainEntity": [
+      {% for block in section.blocks %}
+        {% case block.type %}
+          {% when 'question' %}
+          {
+          "@type": "Question",
+                                                            "name": {{ block.settings.title | json }},
+          "acceptedAnswer": {
+                                                            "@type": "Answer",
+                                                            "text": {{ block.settings.text | json }}
+          }
+          }{% unless forloop.last %},{% endunless %}
+        {% endcase %}
+      {% endfor %}
+      ]
+      }
+    </script>
+
+    <div
+      class="list-item"
+      {%- if section.settings.reverse -%}
+      style="flex-direction: row-reverse; "
+      {%- endif -%}>
+      {% comment %} Content Left {% endcomment %}
+      <div
+        class="content content-left"
+        style="background-color: {{ section.settings.background_color }}; color: {{ section.settings.text_color }};"
+        data-aos>
+        {%- for block in section.blocks -%}
+          <div>
+            <button
+              type="button"
+              class="collapsible-trigger collapsible-trigger--inline collapsible--auto-height text-left"
+              aria-controls="FAQ-content-{{ block.id }}">
+              {%- render 'collapsible-icons-alt', no_circle: true -%}
+              <span class="h3">{{ block.settings.title }}</span>
+            </button>
+            <div id="FAQ-content-{{ block.id }}" class="collapsible-content collapsible-content--all">
+              <div class="collapsible-content__inner collapsible-content__inner--faq rte">
+                {{ block.settings.text }}
+              </div>
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+
+      {% comment %} Content Right {% endcomment %}
+      <div class="content content-right" data-aos>
+        <div class="background">
+          {%-
+              render 'image-element',
+            img: section.settings.image,
+            classes: 'image-background',
+            sizes: sizes,
+            sizeVariable: sizeVariable,
+            fallback: fallback -%}
+        </div>
+      </div>
+    </div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+  {
+    "name": "FAQ New",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "reverse",
+        "label": "Reverse",
+        "default": false
+      }, {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }, {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background",
+        "default": "#000000"
+      }, {
+        "type": "color",
+        "id": "text_color",
+        "label": "Text color",
+        "default": "#ffffff"
+      }
+    ],
+    "presets": [
+      {
+        "name": "FAQ New"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "question",
+        "name": "t:sections.faq.blocks.question.name",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "t:sections.faq.blocks.question.settings.title.label",
+            "default": "Frequently asked question"
+          }, {
+            "type": "richtext",
+            "id": "text",
+            "label": "t:sections.faq.blocks.question.settings.text.label",
+            "default": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        ]
+      }
+    ],
+    "disabled_on": {
+      "groups": ["custom.popups"]
+    }
+  }
+{% endschema %}
