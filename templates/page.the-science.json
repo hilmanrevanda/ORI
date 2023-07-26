@@ -185,6 +185,7 @@
       "settings": {
         "reverse": true,
         "image": "shopify:\/\/shop_images\/Origenere_Hair_Follicle_3fbc0101-d2bc-4380-a44c-ca625ea40045.webp",
+        "as_background": false,
         "background_color": "#ffffff",
         "text_color": "#000000"
       }
