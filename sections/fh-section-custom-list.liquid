@@ -54,7 +54,7 @@
     .fh-section--custom-list-grid .list-item {
       min-height: 0;
       max-height: unset;
-      flex-direction: column;
+      flex-direction: column !important;
     }
 
     .fh-section--custom-list-grid .list-item .content {
@@ -70,7 +70,11 @@
   data-section-type="fh-section-custom-list-grid"
   class="fh-section--custom-list-grid">
   {%- for block in section.blocks -%}
-    <div class="list-item">
+    <div
+      class="list-item"
+      {%- if block.settings.reverse -%}
+      style="flex-direction: row-reverse; "
+      {%- endif -%}>
       {% comment %} Content Left {% endcomment %}
       <div
         class="content content-left"
@@ -114,6 +118,12 @@
         "name": "List",
         "settings": [
           {
+            "type": "checkbox",
+            "id": "reverse",
+            "label": "Reverse",
+            "default": true
+          },
+          {
             "type": "image_picker",
             "id": "image",
             "label": "Image"
@@ -129,8 +139,7 @@
             "id": "description",
             "label": "Description text",
             "default": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
-          },
-          {
+          }, {
             "type": "text",
             "id": "btn_text",
             "label": "Button text",
