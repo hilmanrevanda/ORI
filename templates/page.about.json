@@ -156,6 +156,10 @@
         "08590024-1f6a-47b7-ad91-5ab718a59284",
         "f06d5a30-bc17-4c30-9af0-0aea25f8877a"
       ],
+      "custom_css": [
+        ".text-with-icons__blocks {padding-bottom: 60px;}",
+        ".text-with-icons__title{padding-top: 100px; margin-bottom: 20px;}"
+      ],
       "settings": {
         "title": "OUR PROMISE",
         "align_text": "center",
