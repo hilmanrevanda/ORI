@@ -39,56 +39,66 @@
         "6df271c3-f44d-43cf-86d6-68731289f3f1": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/8.png",
             "heading": "Naturale",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/naturale-landing",
-            "background_color": "#000000"
+            "background_color": "#000000",
+            "text_color": "#ffffff"
           }
         },
         "b25c4e2b-daec-4a99-8a53-45621a80986d": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/22.jpg",
             "heading": "Arancio",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/naturale",
-            "background_color": "#fc4c01"
+            "background_color": "#fc4c00",
+            "text_color": "#ffffff"
           }
         },
         "b20f588c-5754-4a1a-9418-e7a8ebfe68bb": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/Skincare_1.jpg",
             "heading": "Buongiorno",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#fec802"
+            "background_color": "#ffc800",
+            "text_color": "#ffffff"
           }
         },
         "6c418037-3c8a-4918-b9e1-ee46b1e5294d": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
             "heading": "Nero",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#2f0555"
+            "background_color": "#2f0555",
+            "text_color": "#ffffff"
           }
         },
         "416cb6e7-d354-47f2-b711-3e1bd366996f": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/13.png",
             "heading": "Sempre",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#441899"
+            "background_color": "#451799",
+            "text_color": "#ffffff"
           }
         }
       },
