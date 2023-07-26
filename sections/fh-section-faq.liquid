@@ -41,9 +41,19 @@
 
   .fh-section--faq-new .list-item .content .background img {
     height: 100%;
-    -o-object-fit: contain;
-    object-fit: contain;
+    -o-object-fit: cover;
+    object-fit: cover;
     width: 100%;
+  }
+
+  .fh-section--faq-new  .list-item .content .background:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,.65) 0%, rgba(255,255,255,0) 100%);
   }
 
   @media only screen and (max-width: 768px) {
@@ -110,15 +120,26 @@
 
       {% comment %} Content Right {% endcomment %}
       <div class="content content-right" data-aos>
-        <div class="background">
+        {%- if section.settings.as_background -%}
+          <div class="background">
+            {%-
+                render 'image-element',
+              img: section.settings.image,
+              classes: 'image-background',
+              sizes: sizes,
+              sizeVariable: sizeVariable,
+              fallback: fallback -%}
+          </div>
+        {%- else -%}
           {%-
-              render 'image-element',
-            img: section.settings.image,
-            classes: 'image-background',
-            sizes: sizes,
-            sizeVariable: sizeVariable,
-            fallback: fallback -%}
-        </div>
+            render 'image-element',
+          img: section.settings.image,
+          classes: 'image-background',
+          sizes: sizes,
+          sizeVariable: sizeVariable,
+          fallback: fallback -%}
+        {%- endif -%}
+
       </div>
     </div>
   {%- endif -%}
@@ -137,7 +158,13 @@
         "type": "image_picker",
         "id": "image",
         "label": "Image"
-      }, {
+      }, 
+      {
+        "type": "checkbox",
+        "id": "as_background",
+        "label": "Set Image as Background",
+        "default": true
+      },{
         "type": "color",
         "id": "background_color",
         "label": "Background",
