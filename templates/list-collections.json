@@ -84,7 +84,7 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#2f0555",
+            "background_color": "#000000",
             "text_color": "#ffffff"
           }
         },
