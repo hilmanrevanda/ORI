@@ -311,6 +311,7 @@
         "b6ffa4a9-ec8b-4e4e-aae3-09216e4ff1e7": {
           "type": "text_block",
           "settings": {
+            "reverse": true,
             "image": "shopify:\/\/shop_images\/About_Image_5.webp",
             "heading": "THE SCIENCE",
             "description": "Our mission is to continuously offer patients state of the art solutions to treat commonhair and skin problems. The future of hair and skincare rests in genetic and cellularresearch. For example, research of cell and gene therapies to treat genetic hair loss focuses on itscauses at cellular and molecular level",
@@ -323,6 +324,7 @@
         "28c1880c-5b4d-4079-81c9-470a73f55b5d": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/About_Image_6.webp",
             "heading": "SUSTAINABILITY",
             "description": "Origenere is dedicated to sustainability and environmental protection. We understand the importance of reducing our carbon footprint and protecting the environment for future generations. We include sustainable practices in every step of the production process. Materials: Our products only contain natural and environmentally safe ingredients frompremium suppliers. Each supplier is International Standard for Organization (ISO) certified.",
