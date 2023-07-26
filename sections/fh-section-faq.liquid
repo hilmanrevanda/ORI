@@ -17,7 +17,7 @@
     width: 50%;
   }
 
-  .fh-section--faq-new .list-item .content button{
+  .fh-section--faq-new .list-item .content .btn-title{
     position: relative;
     width: 100%;
     text-align: left !important;
@@ -172,17 +172,17 @@
         style="background-color: {{ section.settings.background_color }}; color: {{ section.settings.text_color }};"
         data-aos>
         {%- for block in section.blocks -%}
-          <button type="button" data-modal="modal-one" data-text="{{ block.settings.text | escape }}" data-title="{{ block.settings.title }}">
+          <button class="btn-title" type="button" data-modal="modal-{{ block.settings.title | handleize }}">
             <span class="collapsible-trigger__icon collapsible-trigger__icon--open" role="presentation">
               <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-plus" viewBox="0 0 20 20"><path fill="#444" d="M17.409 8.929h-6.695V2.258c0-.566-.506-1.029-1.071-1.029s-1.071.463-1.071 1.029v6.671H1.967C1.401 8.929.938 9.435.938 10s.463 1.071 1.029 1.071h6.605V17.7c0 .566.506 1.029 1.071 1.029s1.071-.463 1.071-1.029v-6.629h6.695c.566 0 1.029-.506 1.029-1.071s-.463-1.071-1.029-1.071z"></path></svg>
             </span>
             <span class="h3">{{ block.settings.title }}</span>
           </button>
-          <div class="modal" id="modal-one">
+          <div class="modal" id="modal-{{ block.settings.title | handleize }}">
             <div class="modal-bg modal-exit"></div>
             <div class="modal-container">
-              <h1>Amazing Modal</h1>
-              <h2>Pure Vanilla JavaScript</h2>
+              <h2 class="h3">{{ block.settings.title }}</h2>
+              {{ block.settings.text }}
               <button class="modal-close modal-exit">X</button>
             </div>
           </div>
