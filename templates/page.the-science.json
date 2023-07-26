@@ -41,6 +41,7 @@
         "69f23054-da00-465b-a0cc-f1d4a6160cec": {
           "type": "text_block",
           "settings": {
+            "reverse": false,
             "image": "shopify:\/\/shop_images\/The_Science2.webp",
             "heading": "OLGANUTRIENTS",
             "description": "ALL NATURAL BOTANICALS. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
@@ -396,6 +397,7 @@
     },
     "2755424d-b067-42ff-a010-b0497300f467": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1": {
           "type": "heading",
@@ -415,11 +417,26 @@
         "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-heading-1",
         "template--15758407172305__2755424d-b067-42ff-a010-b0497300f467-text-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "alt": true,
         "background_color": "#000000"
+      }
+    },
+    "5b027f64-fbd6-4d23-91a4-79e2150caea2": {
+      "type": "fh-section-richtext",
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1); margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/The_Science1.webp"
       }
     },
     "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5": {
@@ -625,6 +642,9 @@
         "02158237-3859-400a-9303-44a34ad7c801",
         "9f8d05a2-6cbb-413e-a57e-dac24335fef6"
       ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
+      ],
       "settings": {
         "title": "BACK BY SCIENCE",
         "align_text": "center",
@@ -646,6 +666,7 @@
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5",
     "2755424d-b067-42ff-a010-b0497300f467",
+    "5b027f64-fbd6-4d23-91a4-79e2150caea2",
     "0ff7a59c-b472-4ca3-85be-99c6f1a54ab5",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
