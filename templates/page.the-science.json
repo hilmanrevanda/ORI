@@ -110,13 +110,77 @@
         "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
+            "title": "GENETICS",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "011e0b9c-1a13-45e0-94a2-2e9dbc79931d": {
+          "type": "question",
+          "settings": {
+            "title": "AGING PROCESS",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "b6f84937-ad2b-4be8-956e-ecd50e4de59e": {
+          "type": "question",
+          "settings": {
+            "title": "EXPOSOMES",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "9dfd635a-ba94-4e70-8b24-c819bdda53fd": {
+          "type": "question",
+          "settings": {
+            "title": "UV Radiation",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "8561de5f-41ce-4467-adb2-ca986165a47d": {
+          "type": "question",
+          "settings": {
+            "title": "Environmental Toxins",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "f07de5f3-6e67-406f-b054-7ced6deb4de6": {
+          "type": "question",
+          "settings": {
+            "title": "Improper Nutrition",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "9bd0a787-d0a6-40f1-919e-c604f7835136": {
+          "type": "question",
+          "settings": {
+            "title": "Hormone Disruption",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "fc09727e-238e-4e21-80c8-97663beb70a9": {
+          "type": "question",
+          "settings": {
+            "title": "Pathogens",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "dcdf4890-a007-4949-97ad-6ddd5b984d3c": {
+          "type": "question",
+          "settings": {
+            "title": "Damaging Chemicals in Cosmetics:",
             "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
       "block_order": [
-        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce"
+        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce",
+        "011e0b9c-1a13-45e0-94a2-2e9dbc79931d",
+        "b6f84937-ad2b-4be8-956e-ecd50e4de59e",
+        "9dfd635a-ba94-4e70-8b24-c819bdda53fd",
+        "8561de5f-41ce-4467-adb2-ca986165a47d",
+        "f07de5f3-6e67-406f-b054-7ced6deb4de6",
+        "9bd0a787-d0a6-40f1-919e-c604f7835136",
+        "fc09727e-238e-4e21-80c8-97663beb70a9",
+        "dcdf4890-a007-4949-97ad-6ddd5b984d3c"
       ],
       "settings": {
         "reverse": true,
@@ -127,6 +191,7 @@
     },
     "a937a41e-d18c-48c1-a32d-1acf83bfc8e5": {
       "type": "fh-section-faq-with-image",
+      "disabled": true,
       "blocks": {
         "template--15758407172305__a937a41e-d18c-48c1-a32d-1acf83bfc8e5-question-1": {
           "type": "question",
