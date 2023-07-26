@@ -61,7 +61,7 @@
         "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-image-1"
       ],
       "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1); font-weight: 700l}"
       ],
       "settings": {
         "full_width": false,
