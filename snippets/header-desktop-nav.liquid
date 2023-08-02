@@ -151,7 +151,7 @@
               <ul class="menu-collections">
                 {% for collection in collections %}
                   {% if collection.all_products_count > 0 and collection.metafields.custom.show_on_menu %}
-                    <li>
+                    <li style="order: {{ collection.metafields.custom.menu_order }};-webkit-order: {{ collection.metafields.custom.menu_order }};">
                       {{- collection.title | link_to: collection.url }}
                       <ul>
                         {% for product in collection.products %}
