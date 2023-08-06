@@ -37,8 +37,9 @@ If you change the number below, it must also be changed in:
   {%- assign grid_item_width = 'grid-product--large' -%}
   {%- assign sizeVariable = '17vw' -%}
   {%- assign fallback = '37vw' -%}
-  {%- assign product_ingredients = product.metafields.custom.product_ingredients | split: ',' | uniq -%}
 {%- endcase -%}
+
+{%- assign product_ingredients = product.metafields.custom.product_ingredients | split: ',' | uniq -%}
 
 {%- style -%}
   .fh-section--product-ingredients .overflow-scroller .grid-product__meta {
