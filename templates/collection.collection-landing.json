@@ -48,7 +48,7 @@
           "type": "heading",
           "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
-            "title": "{{ collection.metafields.custom.collection_about.value.title.value }}"
+            "title": "Pure solutionsfor thinning hair.Purity Unleashed: Revitalize thinning hair the natural wa"
           }
         },
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
@@ -56,7 +56,7 @@
           "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>{{ collection.metafields.custom.collection_about.value.description.value }}<\/p>"
+            "text": "<p>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.<\/p>"
           }
         }
       },
@@ -110,6 +110,7 @@
           "type": "text_block",
           "source": "{{ collection.metafields.custom.column_1.value }}",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "{{ collection.metafields.custom.column_1.value.title.value }}",
             "text": "<p>{{ collection.metafields.custom.column_1.value.description.value }}<\/p>"
@@ -119,6 +120,7 @@
           "type": "text_block",
           "source": "{{ collection.metafields.custom.column_2.value }}",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "{{ collection.metafields.custom.column_2.value.title.value }}",
             "text": "<p>{{ collection.metafields.custom.column_2.value.description.value }}<\/p>"
@@ -128,6 +130,7 @@
           "type": "text_block",
           "source": "{{ collection.metafields.custom.column_3.value }}",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "{{ collection.metafields.custom.column_3.value.title.value }}",
             "text": "<p>{{ collection.metafields.custom.column_3.value.description.value }}<\/p>"
