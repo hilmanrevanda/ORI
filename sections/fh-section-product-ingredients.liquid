@@ -1,12 +1,12 @@
 {% comment %}
-    This sections requires the same `paginate_by` variable value as
-    the other sections for the ajax loading to work.
-    If you change the number below, it must also be changed in:
-    - sections/collection-template
-    - sections/featured-collection-slider
-    - snippets/page-block-featured-collection-slider
-    {% endcomment %}
-    {%- liquid
+This sections requires the same `paginate_by` variable value as
+the other sections for the ajax loading to work.
+If you change the number below, it must also be changed in:
+- sections/collection-template
+- sections/featured-collection-slider
+- snippets/page-block-featured-collection-slider
+{% endcomment %}
+{%- liquid
   assign paginate_by = 6
   assign ajax_paginate = false
   assign collection_count = 6
@@ -14,196 +14,198 @@
   assign template_name = template | replace: '.', ' ' | truncatewords: 2, '' | handle
 -%}
 
-    {% for collection in product.collections %}
-      {% if collection.metafields.custom.background_color %}
-        {% assign background_color = collection.metafields.custom.background_color.value %}
-      {% endif %}
-    {% endfor %}
+{% for collection in product.collections %}
+  {% if collection.metafields.custom.background_color %}
+    {% assign background_color = collection.metafields.custom.background_color.value %}
+  {% endif %}
+{% endfor %}
 
-    {%- assign grid_item_width = 'grid-product--small' -%}
-    {%- assign scrollable = true -%}
-    {%- case section.settings.per_row -%}
-      {%- when 'small' -%}
-      {%- if collection_count <= 3 -%}
-        {%- assign scrollable = false -%}
+{%- assign grid_item_width = 'grid-product--small' -%}
+{%- assign scrollable = true -%}
+{%- case section.settings.per_row -%}
+  {%- when 'small' -%}
+  {%- if collection_count <= 3 -%}
+    {%- assign scrollable = false -%}
+  {%- endif -%}
+  {%- assign sizeVariable = '27vw' -%}
+  {%- assign fallback = '63vw' -%}
+  {%- when 'medium' -%}
+  {%- assign grid_item_width = 'grid-product--medium' -%}
+  {%- assign sizeVariable = '21vw' -%}
+  {%- assign fallback = '53vw' -%}
+  {%- when 'large' -%}
+  {%- assign grid_item_width = 'grid-product--large' -%}
+  {%- assign sizeVariable = '17vw' -%}
+  {%- assign fallback = '37vw' -%}
+  {%- assign product_ingredients = product.metafields.custom.product_ingredients | split: ',' | uniq -%}
+{%- endcase -%}
+
+{%- style -%}
+  .fh-section--product-ingredients .overflow-scroller .grid-product__meta {
+    padding-top: 25px;
+  }
+
+  .fh-section--product-ingredients h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .fh-section--product-ingredients p {
+    margin-bottom: 0;
+  }
+{%- endstyle -%}
+
+{% if product_ingredients.size %}
+  <div class="fh-section--product-ingredients index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
+    <div
+      id="CollectionSection-{{ section.id }}"
+      data-section-id="{{ section.id }}"
+      data-section-type="featured-collection"
+      data-scrollable="true"
+      data-product-sliders-mobile="false"
+      data-paginate="{{ ajax_paginate }}"
+      data-paginate-by="{{ paginate_by }}"
+      data-collection-url="#"
+      data-collection-count="6"
+      data-grid-item-width="{{ grid_item_width }}"
+      data-aos>
+      {%- if section.settings.title != blank -%}
+        <div class="page-width">
+          <header class="section-header" data-aos>
+            <h2 class="section-header__title appear-delay">
+              {{ section.settings.title }}
+            </h2>
+            {%- if section.settings.description != blank -%}
+              <div class="rte section-header__description section-header__description--large appear-delay-1">
+                {{ section.settings.description }}
+              </div>
+            {%- endif -%}
+          </header>
+        </div>
       {%- endif -%}
-      {%- assign sizeVariable = '27vw' -%}
-      {%- assign fallback = '63vw' -%}
-      {%- when 'medium' -%}
-      {%- assign grid_item_width = 'grid-product--medium' -%}
-      {%- assign sizeVariable = '21vw' -%}
-      {%- assign fallback = '53vw' -%}
-      {%- when 'large' -%}
-      {%- assign grid_item_width = 'grid-product--large' -%}
-      {%- assign sizeVariable = '17vw' -%}
-      {%- assign fallback = '37vw' -%}
-      {%- assign product_ingredients = product.metafields.custom.product_ingredients | split: ',' | uniq -%}
-    {%- endcase -%}
 
-    {%- style -%}
-      .fh-section--product-ingredients .overflow-scroller .grid-product__meta {
-        padding-top: 25px;
-      }
+      <div class="overflow-scroll-wrap" data-ajax-loader>
+        <button
+          type="button"
+          class="btn btn--tertiary overflow-scroller__arrow overflow-scroller__arrow--left overflow-scroller--disable-left small--hide"
+          aria-hidden="true"
+          aria-label="{{ 'general.pagination.previous' | t }}"
+          data-arrow>
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            role="presentation"
+            class="icon icon-chevron-left"
+            viewBox="0 0 284.49 498.98">
+            <title>icon-chevron-left</title><path d="M249.49 0a35 35 0 0 1 24.75 59.75L84.49 249.49l189.75 189.74a35.002 35.002 0 1 1-49.5 49.5L10.25 274.24a35 35 0 0 1 0-49.5L224.74 10.25A34.89 34.89 0 0 1 249.49 0Z" /></svg>
+        </button>
+        <button
+          type="button"
+          class="btn btn--tertiary overflow-scroller__arrow overflow-scroller__arrow--right small--hide"
+          aria-hidden="true"
+          aria-label="{{ 'general.pagination.next' | t }}"
+          data-arrow>
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            role="presentation"
+            class="icon icon-chevron-right"
+            viewBox="0 0 284.49 498.98">
+            <title>icon-chevron</title><path d="M35 498.98a35 35 0 0 1-24.75-59.75l189.74-189.74L10.25 59.75a35.002 35.002 0 0 1 49.5-49.5l214.49 214.49a35 35 0 0 1 0 49.5L59.75 488.73A34.89 34.89 0 0 1 35 498.98Z" /></svg>
+        </button>
+        <div class="overflow-scroller" data-pagination-wrapper>
+          <div
+            class="grid grid--uniform grid--scattered-large-2 grid--scattered-small-2"
+            data-aos="overflow__animation"
+            data-product-container>
 
-      .fh-section--product-ingredients h3 {
-        font-size: 30px;
-        margin-bottom: 10px;
-      }
-
-      .fh-section--product-ingredients p {
-        margin-bottom: 0;
-      }
-    {%- endstyle -%}
-
-    {% if product_ingredients.size %}
-      <div class="fh-section--product-ingredients index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
-        <div
-          id="CollectionSection-{{ section.id }}"
-          data-section-id="{{ section.id }}"
-          data-section-type="featured-collection"
-          data-scrollable="true"
-          data-product-sliders-mobile="false"
-          data-paginate="{{ ajax_paginate }}"
-          data-paginate-by="{{ paginate_by }}"
-          data-collection-url="#"
-          data-collection-count="6"
-          data-grid-item-width="{{ grid_item_width }}"
-          data-aos>
-          {%- if section.settings.title != blank -%}
-            <div class="page-width">
-              <header class="section-header" data-aos>
-                <h2 class="section-header__title appear-delay">
-                  {{ section.settings.title }}
-                </h2>
-                {%- if section.settings.description != blank -%}
-                  <div class="rte section-header__description section-header__description--large appear-delay-1">
-                    {{ section.settings.description }}
-                  </div>
-                {%- endif -%}
-              </header>
-            </div>
-          {%- endif -%}
-
-          <div class="overflow-scroll-wrap" data-ajax-loader>
-            <button
-              type="button"
-              class="btn btn--tertiary overflow-scroller__arrow overflow-scroller__arrow--left overflow-scroller--disable-left small--hide"
-              aria-hidden="true"
-              aria-label="{{ 'general.pagination.previous' | t }}"
-              data-arrow>
-              <svg
-                aria-hidden="true"
-                focusable="false"
-                role="presentation"
-                class="icon icon-chevron-left"
-                viewBox="0 0 284.49 498.98">
-                <title>icon-chevron-left</title><path d="M249.49 0a35 35 0 0 1 24.75 59.75L84.49 249.49l189.75 189.74a35.002 35.002 0 1 1-49.5 49.5L10.25 274.24a35 35 0 0 1 0-49.5L224.74 10.25A34.89 34.89 0 0 1 249.49 0Z" /></svg>
-            </button>
-            <button
-              type="button"
-              class="btn btn--tertiary overflow-scroller__arrow overflow-scroller__arrow--right small--hide"
-              aria-hidden="true"
-              aria-label="{{ 'general.pagination.next' | t }}"
-              data-arrow>
-              <svg
-                aria-hidden="true"
-                focusable="false"
-                role="presentation"
-                class="icon icon-chevron-right"
-                viewBox="0 0 284.49 498.98">
-                <title>icon-chevron</title><path d="M35 498.98a35 35 0 0 1-24.75-59.75l189.74-189.74L10.25 59.75a35.002 35.002 0 0 1 49.5-49.5l214.49 214.49a35 35 0 0 1 0 49.5L59.75 488.73A34.89 34.89 0 0 1 35 498.98Z" /></svg>
-            </button>
-            <div class="overflow-scroller" data-pagination-wrapper>
-              <div
-                class="grid grid--uniform grid--scattered-large-2 grid--scattered-small-2"
-                data-aos="overflow__animation"
-                data-product-container>
-
-                {% for item in product.metafields.custom.product_ingredients.value %}
-                  <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}" data-aos>
-                    <div class="grid-product__content">
-                      <div class="grid-product__link">
-                        <div
-                          class="product-slider"
-                          data-image-count="1"
-                          data-id="1234">
-                          <div class="product-slide">
-                            {%- assign slider_image_padding = 100 | append: '%' -%}
-                            <div class="image-wrap" style="height: 0; padding-bottom: {{ slider_image_padding }};">
-                              {% if force_jpg %}
-                                {% assign format = 'jpg' %}
-                              {% endif %}
-                              {%- render 'image-element'
-                                , img: item.image,
-                                sizes: sizes,
-                                sizeVariable: sizeVariable,
-                                fallback: fallback,
-                                widths: '750, 900, 1080',
-                                format: format, -%}
-                            </div>
+            {% for item in product.metafields.custom.product_ingredients.value %}
+              <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}" data-aos>
+                <div class="grid-product__content">
+                  <div class="grid-product__link">
+                    {% if item.image %}
+                      <div
+                        class="product-slider"
+                        data-image-count="1"
+                        data-id="1234">
+                        <div class="product-slide">
+                          {%- assign slider_image_padding = 100 | append: '%' -%}
+                          <div class="image-wrap" style="height: 0; padding-bottom: {{ slider_image_padding }};">
+                            {% if force_jpg %}
+                              {% assign format = 'jpg' %}
+                            {% endif %}
+                            {%- render 'image-element'
+                              , img: item.image,
+                              sizes: sizes,
+                              sizeVariable: sizeVariable,
+                              fallback: fallback,
+                              widths: '750, 900, 1080',
+                              format: format, -%}
                           </div>
                         </div>
-                        <div class="grid-product__meta">
-                          <h3>{{ item.title }}</h3>
-                          <p>{{ item.description }}</p>
-                        </div>
                       </div>
+                    {% endif %}
+                    <div class="grid-product__meta">
+                      <h3>{{ item.title }}</h3>
+                      <p>{{ item.description }}</p>
                     </div>
                   </div>
-                {% endfor %}
+                </div>
               </div>
-            </div>
+            {% endfor %}
           </div>
         </div>
       </div>
-    {% endif %}
+    </div>
+  </div>
+{% endif %}
 
-    {% schema %}
+{% schema %}
+  {
+    "name": "Product Ingredients",
+    "settings": [
       {
-        "name": "Product Ingredients",
-        "settings": [
+        "type": "text",
+        "id": "title",
+        "label": "t:sections.featured-collection-slider.settings.title.label",
+        "default": "Featured collection"
+      }, {
+        "type": "text",
+        "id": "description",
+        "label": "t:sections.featured-collection-slider.settings.description.label"
+      }, {
+        "type": "select",
+        "id": "per_row",
+        "label": "t:sections.featured-collection-slider.settings.per_row.label",
+        "default": "small",
+        "options": [
           {
-            "type": "text",
-            "id": "title",
-            "label": "t:sections.featured-collection-slider.settings.title.label",
-            "default": "Featured collection"
+            "value": "small",
+            "label": "3"
           }, {
-            "type": "text",
-            "id": "description",
-            "label": "t:sections.featured-collection-slider.settings.description.label"
+            "value": "medium",
+            "label": "4"
           }, {
-            "type": "select",
-            "id": "per_row",
-            "label": "t:sections.featured-collection-slider.settings.per_row.label",
-            "default": "small",
-            "options": [
-              {
-                "value": "small",
-                "label": "3"
-              }, {
-                "value": "medium",
-                "label": "4"
-              }, {
-                "value": "large",
-                "label": "5"
-              }
-            ],
-            "info": "t:sections.featured-collection-slider.settings.per_row.info"
-          }, {
-            "type": "checkbox",
-            "id": "alt",
-            "label": "t:sections.featured-collection-slider.settings.alt.label"
+            "value": "large",
+            "label": "5"
           }
         ],
-        "presets": [
-          {
-            "name": "Product Ingredients"
-          }
-        ],
-        "blocks": [],
-        "enabled_on": {
-          "templates": ["product"],
-          "groups": ["*"]
-        }
+        "info": "t:sections.featured-collection-slider.settings.per_row.info"
+      }, {
+        "type": "checkbox",
+        "id": "alt",
+        "label": "t:sections.featured-collection-slider.settings.alt.label"
       }
-    {% endschema %}
+    ],
+    "presets": [
+      {
+        "name": "Product Ingredients"
+      }
+    ],
+    "blocks": [],
+    "enabled_on": {
+      "templates": ["product"],
+      "groups": ["*"]
+    }
+  }
+{% endschema %}
