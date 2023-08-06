@@ -55,7 +55,9 @@ If you change the number below, it must also be changed in:
 {%- endstyle -%}
 
 <div class="fh-section--product-ingredients index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
-
+  <script>
+    console.log({{ product.metafields.custom.product_ingredients | json }});
+  </script>
   <div
     id="CollectionSection-{{ section.id }}"
     data-section-id="{{ section.id }}"
