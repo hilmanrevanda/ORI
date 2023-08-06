@@ -55,6 +55,9 @@ If you change the number below, it must also be changed in:
   }
 {%- endstyle -%}
 
+<script>
+  console.log({{ product_ingredients.size }});
+</script>
 {% if product_ingredients.size > 0 %}
   <div class="fh-section--product-ingredients index-section index-section--overflow-scroller{% if section.settings.alt %} index-section--alt{% endif %}" style="background-color: {{ background_color  }};">
     <div
