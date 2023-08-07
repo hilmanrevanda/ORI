@@ -261,40 +261,50 @@
         "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
           "type": "text_block",
           "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
             "icon": "chat",
-            "title": "All Natural<br>Botanical Extracts",
+            "title": "All Natural Botanical Extracts",
             "text": ""
           }
         },
         "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
           "type": "text_block",
           "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
             "icon": "chat",
-            "title": "Back ByScience",
+            "title": "Back By <br>Science",
             "text": ""
           }
         },
         "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
           "type": "text_block",
           "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
             "icon": "chat",
-            "title": "Free of Sulfates& Parabens",
+            "title": "Free of Sulfates <br>& Parabens",
             "text": ""
           }
         },
         "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
           "type": "text_block",
           "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
             "icon": "chat",
-            "title": "Physician<br>Formulated",
+            "title": "Physician <br>Formulated",
             "text": ""
           }
         },
         "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
           "type": "text_block",
           "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
             "icon": "chat",
-            "title": "Cruelty<br>Free",
+            "title": "Cruelty <br>Free",
             "text": ""
           }
         }
@@ -314,7 +324,7 @@
         "button_label": "",
         "button_link": "",
         "alt": true,
-        "has_icon": true
+        "has_icon": false
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -323,6 +333,7 @@
         "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "",
             "text": "<h3><strong>80% Saw Improvement in Their Hair<\/strong><\/h3><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
@@ -331,6 +342,7 @@
         "02158237-3859-400a-9303-44a34ad7c801": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "",
             "text": "<h3><strong>80% Saw Improvement in Their Hair<\/strong><\/h3><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
@@ -339,6 +351,7 @@
         "9f8d05a2-6cbb-413e-a57e-dac24335fef6": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "",
             "text": "<h3><strong>80% Saw Improvement in Their Hair<\/strong><\/h3><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<\/p>"
