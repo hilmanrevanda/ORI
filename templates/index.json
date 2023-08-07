@@ -150,12 +150,12 @@
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
-        "c3212eb3-d9b4-4238-8084-4b52a23941ed": {
+        "2b2870cb-ec95-4637-8844-f86f2cf14a78": {
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/01_natural-icon.png",
-            "icon": "plant",
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "icon": "chat",
             "title": "",
             "text": ""
           }
@@ -164,7 +164,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/02_back-by-science-icon.png",
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
             "icon": "chat",
             "title": "",
             "text": ""
@@ -174,7 +174,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/03_No_SLS.png",
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
             "icon": "chat",
             "title": "",
             "text": ""
@@ -184,29 +184,29 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/04.png",
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
             "icon": "chat",
             "title": "",
             "text": ""
           }
         },
-        "2b2870cb-ec95-4637-8844-f86f2cf14a78": {
+        "c3212eb3-d9b4-4238-8084-4b52a23941ed": {
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/05_cruelty-free-icon.png",
-            "icon": "chat",
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "plant",
             "title": "",
             "text": ""
           }
         }
       },
       "block_order": [
-        "c3212eb3-d9b4-4238-8084-4b52a23941ed",
+        "2b2870cb-ec95-4637-8844-f86f2cf14a78",
         "276a9478-d311-43e3-a7c6-5fa94725375d",
         "96935b3c-1062-4041-ad04-439eab0f88ec",
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
-        "2b2870cb-ec95-4637-8844-f86f2cf14a78"
+        "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
       "custom_css": [
 
