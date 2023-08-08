@@ -45,11 +45,11 @@
     max-width: 100%;
   }
 
-  {% if section.settings.alt == false %}
+  {% unless section.settings.alt %}
     .index-section--alt .text-with-icons__block-icon img {
       filter: contrast(0) brightness(0);
     }
-  {% endif %}
+  {% endunless %}
 {% endstyle %}
 
 {%- if section.settings.divider -%}
