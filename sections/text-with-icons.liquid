@@ -44,6 +44,12 @@
     margin-right: auto;
     max-width: 100%;
   }
+
+  {% unless section.settings.alt %}
+    .text-with-icons__block-icon img {
+      filter: contrast(0) brightness(0);
+    }
+  {% endunless %}
 {% endstyle %}
 
 {%- if section.settings.divider -%}
@@ -461,7 +467,6 @@
                 {%-
                     render 'image-element',
                   img: block.settings.image,
-                  style: '{%- if section.settings.alt == false -%} filter: contrast(0) brightness(0); {%- endif -%}',
                   sizes: sizes,
                   sizeVariable: sizeVariable,
                   fallback: fallback -%}
