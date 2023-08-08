@@ -121,36 +121,40 @@
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-2": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
             "icon": "chat",
-            "title": "Back ByScience",
+            "title": "Back By <br>Science",
             "text": ""
           }
         },
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-3": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
             "icon": "chat",
-            "title": "Free of Sulfates<br>& Parabens",
+            "title": "Free of Sulfates <br>& Parabens",
             "text": ""
           }
         },
         "08590024-1f6a-47b7-ad91-5ab718a59284": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
             "icon": "chat",
-            "title": "Physician<br>Formulated",
+            "title": "Physician <br>Formulated",
             "text": ""
           }
         },
         "f06d5a30-bc17-4c30-9af0-0aea25f8877a": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
             "icon": "chat",
-            "title": "Cruelty<br>Free",
+            "title": "Cruelty <br>Free",
             "text": ""
           }
         }
