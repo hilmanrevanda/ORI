@@ -44,6 +44,12 @@
     margin-right: auto;
     max-width: 100%;
   }
+
+  {% if section.settings.alt == false %}
+    .index-section--alt .text-with-icons__block-icon img {
+      filter: contrast(0) brightness(0);
+    }
+  {% endif %}
 {% endstyle %}
 
 {%- if section.settings.divider -%}
@@ -59,7 +65,6 @@
         {%- render 'image-element'
           , img: section.settings.background_image,
           classes: 'image-background',
-          style: '{% if section.settings.alt %} filter: contrast(0) brightness(0); {% endif %}',
           sizes: sizes,
           sizeVariable: sizeVariable,
           fallback: fallback, -%}
