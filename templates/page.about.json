@@ -111,6 +111,7 @@
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-1": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "All Natural<br>Botanical Extracts",
             "text": ""
@@ -119,6 +120,7 @@
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-2": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "Back ByScience",
             "text": ""
@@ -127,6 +129,7 @@
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-3": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "Free of Sulfates<br>& Parabens",
             "text": ""
@@ -135,6 +138,7 @@
         "08590024-1f6a-47b7-ad91-5ab718a59284": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "Physician<br>Formulated",
             "text": ""
@@ -143,6 +147,7 @@
         "f06d5a30-bc17-4c30-9af0-0aea25f8877a": {
           "type": "text_block",
           "settings": {
+            "show_image": false,
             "icon": "chat",
             "title": "Cruelty<br>Free",
             "text": ""
@@ -168,7 +173,7 @@
         "button_label": "",
         "button_link": "",
         "alt": false,
-        "has_icon": true
+        "has_icon": false
       }
     },
     "40b54222-0219-4aa7-afd5-218b9042bef6": {
