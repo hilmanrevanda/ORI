@@ -111,9 +111,10 @@
         "template--15750521684177__4a815d38-c6dc-40b9-8238-d4d129437dd8-text_block-1": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
             "icon": "chat",
-            "title": "All Natural<br>Botanical Extracts",
+            "title": "All Natural <br>Botanical Extracts",
             "text": ""
           }
         },
