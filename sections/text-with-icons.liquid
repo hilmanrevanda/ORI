@@ -461,7 +461,7 @@
                 {%-
                     render 'image-element',
                   img: block.settings.image,
-                  style: 'filter: contrast(0) brightness(0);',
+                  style: '{% unless section.settings.alt %} filter: contrast(0) brightness(0); {% endunless %}',
                   sizes: sizes,
                   sizeVariable: sizeVariable,
                   fallback: fallback -%}
