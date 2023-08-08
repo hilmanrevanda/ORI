@@ -46,7 +46,7 @@
   }
 
   {% unless section.settings.alt %}
-    .text-with-icons__block-icon img {
+    [data-section-id='{{ section.id }}'] .text-with-icons__block-icon img {
       filter: contrast(0) brightness(0);
     }
   {% endunless %}
