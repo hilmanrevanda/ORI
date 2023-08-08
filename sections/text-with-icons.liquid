@@ -59,7 +59,7 @@
         {%- render 'image-element'
           , img: section.settings.background_image,
           classes: 'image-background',
-          style: '{% unless section.settings.alt %} filter: contrast(0) brightness(0); {% endunless %}',
+          style: 'filter: contrast(0) brightness(0);',
           sizes: sizes,
           sizeVariable: sizeVariable,
           fallback: fallback, -%}
