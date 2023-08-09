@@ -366,8 +366,8 @@
             "description": "Our mission is to continuously offer patients state of the art solutions to treat commonhair and skin problems. The future of hair and skincare rests in genetic and cellularresearch. For example, research of cell and gene therapies to treat genetic hair loss focuses on itscauses at cellular and molecular level",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
+            "background_color": "#ffffff",
+            "text_color": "#000000"
           }
         },
         "28c1880c-5b4d-4079-81c9-470a73f55b5d": {
@@ -400,8 +400,8 @@
             "reverse": true,
             "image": "shopify:\/\/shop_images\/About_Image_10.webp",
             "text": "<h2><strong>Materials<\/strong><\/h2><p>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.<\/p><h2><strong>Manufacturing<\/strong><\/h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><h2><strong>Packaging<\/strong><\/h2><p>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/p>",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
+            "background_color": "#ffffff",
+            "text_color": "#000000"
           }
         },
         "145dbcd3-dfe4-4e34-a209-a7080f3af960": {
