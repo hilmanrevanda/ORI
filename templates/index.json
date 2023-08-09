@@ -12,6 +12,8 @@
         "c810a8e4-362c-4082-ab9c-229067766d54": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5_eef8f86d-b84f-4e9f-84da-85d221f5dbe7.png",
+            "image_mobile": "shopify:\/\/shop_images\/5_eef8f86d-b84f-4e9f-84da-85d221f5dbe7.png"
           }
         }
       },
