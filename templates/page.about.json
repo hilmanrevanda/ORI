@@ -210,7 +210,7 @@
         "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "image": "shopify:\/\/shop_images\/Dr._Antonio_Armani.webp",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -219,7 +219,7 @@
         "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "code": "<b><h2>Dr. Antonio Armani<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -245,7 +245,7 @@
         "87f98944-4cf6-462a-8583-ec0d480eb96f": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "code": "<b><h2>Dr. Baubac Hayatdavoudi<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -253,7 +253,7 @@
         "3bca06fa-a90c-4499-9789-fbdd1a926e33": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "image": "shopify:\/\/shop_images\/Dr._Baubac_Hayatdavoudi.webp",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -280,7 +280,7 @@
         "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._ANTONIO_ARMANI_Dr._SARA_ARMANI.webp",
+            "image": "shopify:\/\/shop_images\/Dr._Charit.webp",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -289,7 +289,7 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Dr. ANTONIO ARMANI & Dr. SARA ARMANI<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "code": "<b><h2>Dr. Charit<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -306,6 +306,41 @@
         "full_width": false,
         "space_around": true,
         "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "afb85ddf-d5eb-4bef-9996-a0041a3d456e": {
+      "type": "advanced-content",
+      "blocks": {
+        "bcfde751-f708-4e28-839f-ac863a3e43a9": {
+          "type": "liquid",
+          "settings": {
+            "code": "<b><h2>Dr. Rogers<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "c5690d52-6ba8-40bf-a2b2-4bbbbbf8dc15": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr._Rogers.webp",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "bcfde751-f708-4e28-839f-ac863a3e43a9",
+        "c5690d52-6ba8-40bf-a2b2-4bbbbbf8dc15"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "alt": true,
         "lazyload_images": true
       }
     },
@@ -515,6 +550,7 @@
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
     "376fda74-7988-4cbb-b4ac-94b179839c13",
+    "afb85ddf-d5eb-4bef-9996-a0041a3d456e",
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
     "18ae3ab3-4b07-436f-b70d-924588f418cd",
     "3ac974c7-1daa-4820-8838-7d561985784a",
