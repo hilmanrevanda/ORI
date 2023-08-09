@@ -12,7 +12,6 @@
         "c810a8e4-362c-4082-ab9c-229067766d54": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/114.png"
           }
         }
       },
@@ -23,7 +22,7 @@
       "settings": {
         "style": "fading",
         "title": "UNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
-        "title_size": 40,
+        "title_size": 37,
         "subheading": "Want to transform your hair & skin health?",
         "link": "shopify:\/\/collections\/haircare",
         "link_text": "SHOP NOW",
