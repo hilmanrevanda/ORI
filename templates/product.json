@@ -183,13 +183,13 @@
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/About_the_Fragrance.webp",
+        "image": "{{ product.metafields.custom.scent_image_1.value }}",
         "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/About_the_Fragrance_2.webp",
+        "image2": "{{ product.metafields.custom.scent_image_2.value }}",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "About the Fragrance",
-        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<\/p>",
+        "title": "{{ product.metafields.custom.scent_title.value }}",
+        "text": "{{ product.metafields.custom.scent_description | metafield_tag }}",
         "button_label": "",
         "button_link": "#",
         "button_style": "primary",
