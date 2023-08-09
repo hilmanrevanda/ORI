@@ -190,9 +190,9 @@
           "settings": {
             "reverse": false,
             "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
-            "heading": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
-            "description": "{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
-            "btn_text": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
+            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
+            "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
+            "btn_text": "{{ collection.metafields.custom.collection_cta.value.button_text.value }}",
             "btn_url": "{{ collection.metafields.custom.collection_cta.value.button_url.value }}",
             "background_color": "{{ collection.metafields.custom.background_color.value }}",
             "text_color": "#ffffff"
