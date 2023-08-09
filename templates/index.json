@@ -123,7 +123,7 @@
         ".text-with-icons__title {padding-top: 60px; margin-bottom: 20px;}"
       ],
       "settings": {
-        "title": "OUR PRODUCTS ARE FREE FROM:",
+        "title": "OUR PRODUCTS DON'T CONTAIN:",
         "align_text": "center",
         "desktop_columns_per_row": 4,
         "icon_color": "#000000",
