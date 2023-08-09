@@ -85,7 +85,7 @@
         "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>BEVERLY HILLS INNOVATION<\/h2>\n<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+            "code": "<h2>BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP<\/h2>\n<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -187,7 +187,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
       ],
       "settings": {
-        "text": "<h2>ALL NATURAL BOTANICALS<\/h2><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
+        "text": "<h1>ORGANONUTRIENTS<\/h1><h4>PHYSICIAN FORMULATED ALL-NATURAL BOTANICALS<\/h4><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
         "background_color": "#000000",
         "text_color": "#ffffff",
         "image": "shopify:\/\/shop_images\/About_Image_4.webp"
