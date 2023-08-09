@@ -240,9 +240,9 @@
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Our_Story_Image_2.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
         "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/Our_Story_Image_1.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_3676.jpg",
         "image2_mask": "square",
         "subtitle": "",
         "title": "OUR STORY",
