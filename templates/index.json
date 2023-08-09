@@ -280,6 +280,36 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/collections"
       }
+    },
+    "a0e66a1c-fedd-4693-828c-f4971486f48a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "Awaken Your Senses",
+            "title_size": 80,
+            "subheading": "BUONGIORNO VITALITY COLLECTION",
+            "link": "shopify:\/\/collections\/buongiorno-vitality-collection",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_1132-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_1132-3.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -291,6 +321,7 @@
     "featured-collection",
     "text-and-image",
     "scrolling-text",
-    "fh-section-cta"
+    "fh-section-cta",
+    "a0e66a1c-fedd-4693-828c-f4971486f48a"
   ]
 }
