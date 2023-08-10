@@ -44,12 +44,12 @@
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Haircare_1_9af31c14-5ab8-4d8c-a531-9d3abddb5088.jpg",
         "heading_left": "Haircare",
-        "description_left": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "description_left": "",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/haircare",
         "image_right": "shopify:\/\/shop_images\/Skincare_1.jpg",
         "heading_right": "Skincare",
-        "description_right": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "description_right": "",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
