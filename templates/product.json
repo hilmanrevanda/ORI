@@ -176,7 +176,7 @@
       ],
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 60px;}",
-        ".text-with-icons__title {padding-top: 80px; margin-bottom: 20px;}"
+        ".text-with-icons__title {padding-top: 100px; margin-bottom: 20px;}"
       ],
       "settings": {
         "title": "OUR PROMISE",
