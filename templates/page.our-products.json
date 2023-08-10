@@ -6,6 +6,39 @@
       "settings": {
       }
     },
+    "a1e2052b-f315-4b2e-bf01-736b3fefe638": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "PHYSICIAN FORMULATED ALL-NATURAL HAIR & SKIN CARE",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_1446_2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1"
+      ],
+      "custom_css": [
+        ".hero__subtitle {font-size: 22.2px; text-transform: uppercase; font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback); font-weight: var(--typeHeaderWeight); font-style: normal; letter-spacing: var(--typeHeaderSpacing); line-height: var(--typeHeaderLineHeight); word-break: break-word;}",
+        "@media only screen and (min-width: 769px) {.hero__subtitle {font-size: 37px; }}"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "0e92c59b-7e29-4352-abbf-4f063e0dd219": {
       "type": "fh-section-products-grid",
       "settings": {
@@ -24,6 +57,7 @@
   },
   "order": [
     "main",
+    "a1e2052b-f315-4b2e-bf01-736b3fefe638",
     "0e92c59b-7e29-4352-abbf-4f063e0dd219"
   ]
 }
