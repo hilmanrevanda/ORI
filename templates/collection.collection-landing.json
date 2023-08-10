@@ -130,7 +130,7 @@
             "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
             "btn_text": "SHOP NOW",
             "btn_url": "{{ collection.metafields.custom.collection_cta.value.url.value }}",
-            "background_color": "#000000",
+            "background_color": "{{ collection.metafields.custom.background_color.value }}",
             "text_color": "#ffffff"
           }
         }
