@@ -27,13 +27,13 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1"
       ],
       "custom_css": [
-        ".hero__subtitle {font-size: 22.2px; text-transform: uppercase; font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback); font-weight: var(--typeHeaderWeight); font-style: normal; letter-spacing: var(--typeHeaderSpacing); line-height: var(--typeHeaderLineHeight); word-break: break-word;}",
+        ".hero__subtitle {font-size: 22.2px; text-transform: uppercase; font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback); font-weight: var(--typeHeaderWeight); font-style: normal; letter-spacing: var(--typeHeaderSpacing); line-height: var(--typeHeaderLineHeight); word-break: break-word; max-width: 600px;}",
         "@media only screen and (min-width: 769px) {.hero__subtitle {font-size: 37px; }}"
       ],
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 60,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
