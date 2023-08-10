@@ -119,49 +119,74 @@
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-0": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
             "icon": "globe",
-            "title": "Our Story",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "All Natural Botanical Extracts",
+            "text": ""
           }
         },
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
             "icon": "truck",
-            "title": "Our Story",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Back By Science",
+            "text": ""
           }
         },
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2": {
           "type": "text_block",
           "settings": {
-            "show_image": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
             "icon": "shield",
-            "title": "Our Story",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Free of Sulfates & Parabens",
+            "text": ""
+          }
+        },
+        "d8745704-c5e9-4e07-8e1e-0d7e104bacf1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician Formulated",
+            "text": ""
+          }
+        },
+        "fe83e00c-b099-4573-b3e4-1542acb85b7e": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "chat",
+            "title": "Cruelty Free",
+            "text": ""
           }
         }
       },
       "block_order": [
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-0",
         "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1",
-        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2"
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2",
+        "d8745704-c5e9-4e07-8e1e-0d7e104bacf1",
+        "fe83e00c-b099-4573-b3e4-1542acb85b7e"
       ],
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 60px;}",
         ".text-with-icons__title {padding-top: 80px; margin-bottom: 20px;}"
       ],
       "settings": {
-        "title": "About Products",
+        "title": "OUR PROMISE",
         "align_text": "center",
-        "desktop_columns_per_row": 3,
+        "desktop_columns_per_row": 5,
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false,
-        "has_icon": true
+        "has_icon": false
       }
     },
     "fh-section-product-image-grid": {
