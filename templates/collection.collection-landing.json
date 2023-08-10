@@ -34,6 +34,7 @@
     },
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "{{ collection.metafields.custom.rolling_text.value }}",
         "link": "",
