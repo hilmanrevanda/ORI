@@ -8,7 +8,7 @@
           "settings": {
             "title": "",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "{{ collection.metafields.custom.tagline.value }}",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
