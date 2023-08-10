@@ -27,10 +27,11 @@
 {%- if product -%}
   <script>
     console.log('{{ product.id }}');
-    console.log('{{ product.name }}');
+    console.log('{{ product.metafields.custom.hide_scent }}');
   </script>
-{% endif %}
+{%- endif -%}
 
+{%- unless product.metafields.custom.hide_scent -%}
 <div class="index-section{% if section.settings.alt %} index-section--alt{% endif %}">
 
   <div class="page-width feature-row-wrapper feature-row--{{ image_width }}">
@@ -144,6 +145,7 @@
   </div>
 
 </div>
+{%- unless -%}
 
 {% schema %}
   {
