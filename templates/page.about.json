@@ -490,15 +490,15 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Skincare_1.jpg",
-            "text": "NATURALE \/ PURITY",
+            "text": "NATURALE - PURITY COLLECTION",
             "url": "shopify:\/\/pages\/origenere"
           }
         },
         "3119cc58-33a0-4af1-bc4a-81264329377e": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/About_Image_8.webp",
-            "text": "NATURALE \/ PURITY",
+            "image": "shopify:\/\/shop_images\/BUONGIORNO_COLLECTION.webp",
+            "text": "BUONGIORNO - VITALITY COLLECTION",
             "url": "shopify:\/\/pages\/origenere"
           }
         },
