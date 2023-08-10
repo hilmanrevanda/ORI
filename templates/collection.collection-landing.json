@@ -1,18 +1,5 @@
 {
   "sections": {
-    "78f3e7a3-9b00-4389-bac5-1ba78651762b": {
-      "type": "slideshow",
-      "blocks": {},
-      "block_order": [],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8": {
       "type": "scrolling-text",
       "settings": {
@@ -30,14 +17,12 @@
       "blocks": {
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0": {
           "type": "heading",
-          "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
             "title": "Pure solutionsfor thinning hair.Purity Unleashed: Revitalize thinning hair the natural wa"
           }
         },
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
           "type": "text",
-          "source": "{{ collection.metafields.custom.collection_about.value }}",
           "settings": {
             "enlarge_text": false,
             "text": "<p>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.<\/p>"
@@ -99,13 +84,9 @@
     }
   },
   "order": [
-    "78f3e7a3-9b00-4389-bac5-1ba78651762b",
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8",
     "d8eb8fd5-a70c-442b-8673-506cd1a0628a",
-    "e1e647f5-9bf3-4714-8c3e-f95f54685092",
-    "990159f1-1814-4cb7-a15c-598d6d60acb0",
     "main-collection",
-    "7ddf977f-aa86-4341-b77e-b1d88b574ed3",
     "b4b00828-2f91-4336-9e93-8ef59c855d54"
   ]
 }
