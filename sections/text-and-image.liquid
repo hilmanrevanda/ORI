@@ -32,18 +32,18 @@
 {%- endif -%}
 
 {%- unless product.metafields.custom.hide_scent -%}
-<div class="index-section{% if section.settings.alt %} index-section--alt{% endif %}">
+  <div class="index-section{% if section.settings.alt %} index-section--alt{% endif %}">
 
-  <div class="page-width feature-row-wrapper feature-row--{{ image_width }}">
-    {%- capture image_layout -%}
-      <div class="feature-row__item feature-row__images{% if overlap_images %} feature-row__item--overlap-images{% endif %} {% if placeholder_images %}feature-row__item--placeholder-images{% endif %}" data-aos>
-        {%- if section.settings.image != blank -%}
-          <div class="feature-row__first-image">
-            {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
-              <a href="{{ section.settings.button_link }}">
-              {%- endif -%}
-              <div class="image-wrap {% if section.settings.image_mask != 'none' %}svg-mask svg-mask--{{ section.settings.image_mask }}{% endif %}" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image.aspect_ratio }}%;">
-                {%- liquid
+    <div class="page-width feature-row-wrapper feature-row--{{ image_width }}">
+      {%- capture image_layout -%}
+        <div class="feature-row__item feature-row__images{% if overlap_images %} feature-row__item--overlap-images{% endif %} {% if placeholder_images %}feature-row__item--placeholder-images{% endif %}" data-aos>
+          {%- if section.settings.image != blank -%}
+            <div class="feature-row__first-image">
+              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
+                <a href="{{ section.settings.button_link }}">
+                {%- endif -%}
+                <div class="image-wrap {% if section.settings.image_mask != 'none' %}svg-mask svg-mask--{{ section.settings.image_mask }}{% endif %}" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image.aspect_ratio }}%;">
+                  {%- liquid
                     if section.settings.image2 == blank
                       assign sizeVariable = section.settings.image_width | append: 'vw'
                       assign fallback = '100vw'
@@ -59,26 +59,26 @@
                       assign loading = true
                     endif
                   -%}
-                {%- render 'image-element'
-                  , img: section.settings.image,
-                  widths: '180, 360, 540, 750, 900, 1080',
-                  loading: loading,
-                  sizeVariable: sizeVariable,
-                  fallback: fallback,
-                  classes: 'feature-row__image', -%}
-              </div>
-              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
-              </a>
-            {%- endif -%}
-          </div>
-        {%- endif -%}
-        {%- if section.settings.image2 != blank -%}
-          <div class="feature-row__second-image">
-            {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
-              <a href="{{ section.settings.button_link }}">
+                  {%- render 'image-element'
+                    , img: section.settings.image,
+                    widths: '180, 360, 540, 750, 900, 1080',
+                    loading: loading,
+                    sizeVariable: sizeVariable,
+                    fallback: fallback,
+                    classes: 'feature-row__image', -%}
+                </div>
+                {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
+                </a>
               {%- endif -%}
-              <div class="image-wrap {% if section.settings.image2_mask != 'none' %}svg-mask svg-mask--{{ section.settings.image2_mask }}{% endif %}" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image2.aspect_ratio }}%;">
-                {%- liquid
+            </div>
+          {%- endif -%}
+          {%- if section.settings.image2 != blank -%}
+            <div class="feature-row__second-image">
+              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
+                <a href="{{ section.settings.button_link }}">
+                {%- endif -%}
+                <div class="image-wrap {% if section.settings.image2_mask != 'none' %}svg-mask svg-mask--{{ section.settings.image2_mask }}{% endif %}" style="height: 0; padding-bottom: {{ 100 | divided_by: section.settings.image2.aspect_ratio }}%;">
+                  {%- liquid
                     if section.settings.image == blank
                       assign sizeVariable = section.settings.image_width | append: 'vw'
                       assign fallback = '100vw'
@@ -87,65 +87,65 @@
                       assign fallback = '60vw'
                     endif
                   -%}
-                {%- render 'image-element'
-                  , img: section.settings.image2,
-                  widths: '180, 360, 540, 750, 900, 1080',
-                  sizeVariable: sizeVariable,
-                  fallback: fallback,
-                  classes: 'feature-row__image', -%}
+                  {%- render 'image-element'
+                    , img: section.settings.image2,
+                    widths: '180, 360, 540, 750, 900, 1080',
+                    sizeVariable: sizeVariable,
+                    fallback: fallback,
+                    classes: 'feature-row__image', -%}
+                </div>
+                {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
+                </a>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+          {%- if section.settings.image == blank and section.settings.image2 == blank -%}
+            <div class="placeholder-image-wrap">
+              <div class="image-wrap">
+                {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
               </div>
-              {%- if section.settings.button_label != blank and section.settings.button_link != blank -%}
+            </div>
+            <div class="placeholder-image-wrap">
+              <div class="image-wrap">
+                {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+              </div>
+            </div>
+          {%- endif -%}
+        </div>
+      {%- endcapture -%}
+
+      <div class="feature-row">
+        {%- if section.settings.layout == 'left' -%}
+          {{ image_layout }}
+        {%- endif -%}
+
+        <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
+          {%- if section.settings.subtitle != blank -%}
+            <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
+          {%- endif -%}
+          {%- if section.settings.title != blank -%}
+            <h2 class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</h2>
+          {%- endif -%}
+          {%- if section.settings.text != blank -%}
+            <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.text }}</div>
+          {%- endif -%}
+          {%- if section.settings.button_label != blank -%}
+            <div class="appear-delay{% cycle '','-1','-2','-3','-4' %}">
+              <a href="{{ section.settings.button_link }}" class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
+                {{ section.settings.button_label }}
               </a>
-            {%- endif -%}
-          </div>
-        {%- endif -%}
-        {%- if section.settings.image == blank and section.settings.image2 == blank -%}
-          <div class="placeholder-image-wrap">
-            <div class="image-wrap">
-              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
             </div>
-          </div>
-          <div class="placeholder-image-wrap">
-            <div class="image-wrap">
-              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-            </div>
-          </div>
+          {%- endif -%}
+        </div>
+
+        {%- if section.settings.layout == 'right' -%}
+          {{ image_layout }}
         {%- endif -%}
       </div>
-    {%- endcapture -%}
-
-    <div class="feature-row">
-      {%- if section.settings.layout == 'left' -%}
-        {{ image_layout }}
-      {%- endif -%}
-
-      <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
-        {%- if section.settings.subtitle != blank -%}
-          <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
-        {%- endif -%}
-        {%- if section.settings.title != blank -%}
-          <h2 class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</h2>
-        {%- endif -%}
-        {%- if section.settings.text != blank -%}
-          <div class="rte appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.text }}</div>
-        {%- endif -%}
-        {%- if section.settings.button_label != blank -%}
-          <div class="appear-delay{% cycle '','-1','-2','-3','-4' %}">
-            <a href="{{ section.settings.button_link }}" class="btn{% if section.settings.button_style == 'secondary' %} btn--tertiary{% endif %}">
-              {{ section.settings.button_label }}
-            </a>
-          </div>
-        {%- endif -%}
-      </div>
-
-      {%- if section.settings.layout == 'right' -%}
-        {{ image_layout }}
-      {%- endif -%}
     </div>
-  </div>
 
-</div>
-{%- unless -%}
+  </div>
+{%- endunless -%}
 
 {% schema %}
   {
