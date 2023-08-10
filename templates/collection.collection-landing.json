@@ -53,7 +53,7 @@
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
+            "enlarge_text": true,
             "text": "<p>{{ collection.metafields.custom.description | metafield_tag }}<\/p>"
           }
         }
