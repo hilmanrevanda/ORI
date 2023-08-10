@@ -21,7 +21,7 @@
         "template--15750521848017__a94e330c-f600-4033-a3f5-6fec984e9b85-image-1"
       ],
       "custom_css": [
-        ".hero__subtitle {font-size: calc(var(--typeHeaderSize) * 1*0.85); font-weight: 500; text-transform: uppercase;}"
+        ".hero__subtitle {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); font-weight: 500; text-transform: uppercase;}"
       ],
       "settings": {
         "style": "arrows",
@@ -65,6 +65,7 @@
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0",
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
       ],
