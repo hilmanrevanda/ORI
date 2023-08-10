@@ -21,7 +21,8 @@
         "template--15750521848017__a94e330c-f600-4033-a3f5-6fec984e9b85-image-1"
       ],
       "custom_css": [
-        ".hero__subtitle {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); font-weight: 500; text-transform: uppercase;}"
+        ".hero__subtitle {font-size: 22.2px; text-transform: uppercase; font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback); font-weight: var(--typeHeaderWeight); font-style: normal; letter-spacing: var(--typeHeaderSpacing); line-height: var(--typeHeaderLineHeight); word-break: break-word;}",
+        "@media only screen and (min-width: 769px) {.hero__subtitle {font-size: 37px; }}"
       ],
       "settings": {
         "style": "arrows",
