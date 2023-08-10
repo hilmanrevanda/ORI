@@ -127,7 +127,7 @@
             "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
             "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
             "btn_text": "SHOP NOW",
-            "btn_url": "",
+            "btn_url": "{{ collection.metafields.custom.collection_cta.value.url.value }}",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
