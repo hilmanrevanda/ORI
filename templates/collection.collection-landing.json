@@ -110,6 +110,30 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "4163f76b-c163-428d-a215-c5a8d7a62443": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "5e133910-91eb-4818-a05b-38926652a38d": {
+          "type": "text_block",
+          "source": "{{ collection.metafields.custom.collection_cta.value }}",
+          "settings": {
+            "reverse": false,
+            "image": "{{ collection.metafields.custom.collection_cta.value.image.value }}",
+            "heading": "{{ collection.metafields.custom.collection_cta.value.title.value }}",
+            "description": "{{ collection.metafields.custom.collection_cta.value.description.value }}",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "5e133910-91eb-4818-a05b-38926652a38d"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -117,6 +141,7 @@
     "dce1565f-a7d7-4fc3-bc3b-7df3cfff73d8",
     "d8eb8fd5-a70c-442b-8673-506cd1a0628a",
     "main-collection",
-    "b4b00828-2f91-4336-9e93-8ef59c855d54"
+    "b4b00828-2f91-4336-9e93-8ef59c855d54",
+    "4163f76b-c163-428d-a215-c5a8d7a62443"
   ]
 }
