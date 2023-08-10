@@ -20,10 +20,13 @@
       "block_order": [
         "template--15750521848017__a94e330c-f600-4033-a3f5-6fec984e9b85-image-1"
       ],
+      "custom_css": [
+        ".hero__subtitle {font-size: calc(var(--typeHeaderSize) * 1*0.85); font-weight: 500; text-transform: uppercase;}"
+      ],
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 60,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
