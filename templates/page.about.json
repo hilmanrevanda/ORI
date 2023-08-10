@@ -408,7 +408,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/About_Image_11.webp",
+            "image": "shopify:\/\/shop_images\/IMG_7976.jpg",
             "text": "<h2><strong>Shipping<\/strong><\/h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p><strong>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/strong><\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
@@ -478,7 +478,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1);}"
       ],
       "settings": {
-        "text": "<h2>OUR COLLECTIONS<\/h2><p>Colors are an essential part of our lives. They influence our moods, perceptions, and<br\/>behaviors. Below we describe the colors of our La Vita a Colori (life in color) used in each line.<\/p><p>By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences<\/p>",
+        "text": "<h2>OUR COLLECTIONS<\/h2><p>Colors are an essential part of our lives. They influence our moods, perceptions, and behaviors.<\/p><p><strong>Below are the Bellissimi Colori used to represent each line<\/strong>. By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences.<\/p>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
