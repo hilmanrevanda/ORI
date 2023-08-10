@@ -47,14 +47,14 @@
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-0": {
           "type": "heading",
           "settings": {
-            "title": "Pure solutionsfor thinning hair.Purity Unleashed: Revitalize thinning hair the natural wa"
+            "title": "{{ collection.metafields.custom.title.value }}"
           }
         },
         "template--15750521848017__d8eb8fd5-a70c-442b-8673-506cd1a0628a-16886520329ec0a5fb-1": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.<\/p>"
+            "text": "<p>{{ collection.metafields.custom.description | metafield_tag }}<\/p>"
           }
         }
       },
@@ -74,7 +74,6 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "disabled": true,
       "blocks": {
         "collection_description": {
           "type": "collection_description",
@@ -93,6 +92,7 @@
         "collection_description",
         "product_grid"
       ],
+      "disabled": true,
       "settings": {
       }
     },
