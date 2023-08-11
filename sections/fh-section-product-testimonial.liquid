@@ -52,6 +52,12 @@
   {% endfor %}
 {% endif %}
 
+{% if template_name == 'collections' %}
+  {% if collection.metafields.custom.quote %}
+    {% assign quote = collection.metafields.custom.quote %}
+  {% endif %}
+{% endif %}
+
 
 <div
   class="fh-section--product-testimonial index-section index-section--alt text-center"
