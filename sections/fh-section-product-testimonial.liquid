@@ -52,7 +52,10 @@
   {% endfor %}
 {% endif %}
 
-{% if template_name == 'collections' %}
+{% if template_name == 'collection' %}
+  {% if collection.metafields.custom.background_color %}
+    {% assign background_color = collection.metafields.custom.background_color.value %}
+  {% endif %}
   {% if collection.metafields.custom.quote %}
     {% assign quote = collection.metafields.custom.quote %}
   {% endif %}
@@ -65,7 +68,7 @@
 
 <div
   class="fh-section--product-testimonial index-section index-section--alt text-center"
-  {% if template_name == 'product' %}
+  {% if template_name == 'product' or template_name == 'collection' %}
   style="background-color: {{ background_color  }};"
   {% endif %}>
   <div class="page-width page-width--narrow">
