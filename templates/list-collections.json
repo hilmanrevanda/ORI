@@ -41,8 +41,8 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
-            "heading": "Purity Unleashed",
-            "description": "NATURALE - PURITY COLLECTION<br>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.",
+            "heading": "NATURALE - PURITY COLLECTION",
+            "description": "Purity Unleashed: Naturally revitalize thinning hair",
             "btn_text": "SHOP NOW <b><\/b>",
             "btn_url": "shopify:\/\/collections\/naturale-landing",
             "background_color": "#000000",
@@ -54,8 +54,8 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/BUONGIORNO_COLLECTION.webp",
-            "heading": "Awaken Your Senses",
-            "description": "<b>BUONGIORNO - VITALITY COLLECTION<\/b>  <br>Want to wake up on the bright side everyday?  Invigorate your senses with Buongiorno for improved hair and skin vitality.",
+            "heading": "BUONGIORNO - VITALITY COLLECTION",
+            "description": "Awaken your Senses",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/buongiorno-landing",
             "background_color": "#ffc800",
@@ -67,8 +67,8 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/ARANCIO_COLLECTION.webp",
-            "heading": "Nourish your natural glow",
-            "description": "<b>ARANCIO - PRESERVATION COLLECTION<\/b> <br>Want to revive, restore and preserve your hair and skin? Reveal your natural radiance with Arancio hair and skincare.",
+            "heading": "ARANCIO - PRESERVATION COLLECTION",
+            "description": "Nourish your natural glow",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/arancio-landing",
             "background_color": "#fc4c00",
@@ -80,8 +80,8 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
-            "heading": "Revitalize and Elevate your beauty ritual.",
-            "description": "<b>NERO - DETOX COLLECTION<\/b> <br>Suffering from dull, lifeless hair or skin? Discover nature’s elixir for radiant hair and skin with Nero’s naturally detoxifying botanical blends.",
+            "heading": "NERO - DETOX COLLECTION",
+            "description": "Revitalize and Elevate your beauty ritual",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/nero-landing",
             "background_color": "#000000",
