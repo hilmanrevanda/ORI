@@ -1,14 +1,25 @@
-{%- if section.settings.collection_image_enable and collection.image -%}
-  <div class="collection-hero"
-    data-aos="hero__animation">
+{% style %}
+  .collection-hero__content::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    opacity: 0.5;
+  }
+{% endstyle %}
 
-    {%- render 'image-element',
-      img: collection.image,
+{%- if section.settings.collection_image_enable and collection.image -%}
+  <div class="collection-hero" data-aos="hero__animation">
+
+    {%- render 'image-element'
+      , img: collection.image,
       img_width: 2400,
       classes: 'collection-hero__image',
       preload: true,
-      loading: 'eager',
-    -%}
+      loading: 'eager', -%}
 
     <div class="collection-hero__content">
       <div class="page-width text-center">
@@ -46,21 +57,20 @@
 {%- endif -%}
 
 {% schema %}
-{
-  "name": "t:sections.collection-header.name",
-  "settings": [
-    {
-      "type": "checkbox",
-      "id": "collection_image_enable",
-      "label": "t:sections.collection-header.settings.collection_image_enable.label",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "description_enable",
-      "label": "t:sections.collection-header.settings.description_enable.label",
-      "default": true
-    }
-  ]
-}
+  {
+    "name": "t:sections.collection-header.name",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "collection_image_enable",
+        "label": "t:sections.collection-header.settings.collection_image_enable.label",
+        "default": true
+      }, {
+        "type": "checkbox",
+        "id": "description_enable",
+        "label": "t:sections.collection-header.settings.description_enable.label",
+        "default": true
+      }
+    ]
+  }
 {% endschema %}
