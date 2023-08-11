@@ -289,7 +289,7 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Charit Seneviratne, PhD.\n\n<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>",
+            "code": "<b><h2>Charit Seneviratne, PhD.\n\n<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>\n<h3>ASK DR. CHARIT (The Science)<\/h3>\n<b><p>Have a question about the science behind our products?<\/p><\/b>\n\n<a href=\"#\" class=\"button\">Ask Dr. Charit<\/a>",
             "width": "50%",
             "alignment": "center"
           }
@@ -300,7 +300,9 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf"
       ],
       "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}",
+        "h3 {margin-bottom: 10px;}",
+        ".button {padding: 10px 20px !important; display: inline-block; color: #ffffff; background-color: #000000; margin-top: 20px; text-decoration: none;}"
       ],
       "settings": {
         "full_width": false,
