@@ -80,17 +80,8 @@
           "settings": {
             "show_image": false,
             "icon": "plant",
-            "title": "Parabens",
-            "text": "<p>Common preservatives such as methylparaben, ethylparaben, butylparaben found in cosmetics and shampoos implicated in cancer and hormone disruption<\/p>"
-          }
-        },
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-1": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "Artificial Fragrances, <br>Colors or Dyes",
-            "text": "<p>Known to cause allergic reactions, possible hyperactivity in children.<\/p>"
+            "title": "Research Laboratory Results:",
+            "text": "<p>Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish Result: An increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
           }
         },
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2": {
@@ -98,34 +89,23 @@
           "settings": {
             "show_image": false,
             "icon": "chat",
-            "title": "Ammonium Lauryl, <br>Laureth Sulphate",
-            "text": "<p>Common detergents found in shampoos and cleansing products. Known skin irritants that deplete hair and skin’s natural protective layers<\/p>"
-          }
-        },
-        "a9b9def1-9b5b-4dcd-810d-578c4928c6ab": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "Methylisothiazolinone",
-            "text": "<p>Commonly found preservative in cosmetic products that is potentially neurotoxic<\/p>"
+            "title": "In a Third Party Cinical Study: After just 4 weeks of usage, the majority of clients noted:",
+            "text": "<p>THICKER HAIR, LESS HAIR SHEDDING, LESS HAIR BREAKAGE<\/p><p>STRONGER HAIR, REDUCTION IN SCALP DRYNESS<\/p>"
           }
         }
       },
       "block_order": [
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0",
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-1",
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2",
-        "a9b9def1-9b5b-4dcd-810d-578c4928c6ab"
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2"
       ],
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 60px;}",
         ".text-with-icons__title {padding-top: 60px; margin-bottom: 20px;}"
       ],
       "settings": {
-        "title": "OUR PRODUCTS DON'T CONTAIN:",
+        "title": "PHYSCIAN FORMULATED HAIR & SKIN CARE",
         "align_text": "center",
-        "desktop_columns_per_row": 4,
+        "desktop_columns_per_row": 2,
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
