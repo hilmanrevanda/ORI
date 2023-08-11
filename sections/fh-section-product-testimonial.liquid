@@ -33,6 +33,12 @@
     bottom: -30px;
     transform: rotate(180deg);
   }
+
+  .spacing {
+    height: 50px;
+    width: 100%;
+    display: block;
+  }
 {%- endstyle -%}
 
 {%- liquid
@@ -77,6 +83,8 @@
       </div>
     </div>
   </div>
+{% else %}
+  <div class="spacing"></div>
 {% endif %}
 
 {% schema %}
