@@ -198,6 +198,9 @@
     },
     "5c4d193f-12be-430d-acf9-a14c90acc28e": {
       "type": "fh-section-product-ingredients",
+      "custom_css": [
+        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
+      ],
       "settings": {
         "title": "The Ingredients",
         "description": "",
