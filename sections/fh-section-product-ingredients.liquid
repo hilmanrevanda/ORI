@@ -124,11 +124,12 @@ If you change the number below, it must also be changed in:
               <div class="grid__item grid-product {{ grid_item_width }}{% if settings.product_hover_details %} grid-product__hover-details{% endif %}" data-aos>
                 <div class="grid-product__content">
                   <div class="grid-product__link">
-                    {% if item.image %}
-                      <div
-                        class="product-slider"
-                        data-image-count="1"
-                        data-id="1234">
+
+                    <div
+                      class="product-slider"
+                      data-image-count="1"
+                      data-id="1234">
+                      {% if item.image %}
                         <div class="product-slide">
                           {%- assign slider_image_padding = 100 | append: '%' -%}
                           <div class="image-wrap" style="height: 0; padding-bottom: {{ slider_image_padding }};">
@@ -144,8 +145,8 @@ If you change the number below, it must also be changed in:
                               format: format, -%}
                           </div>
                         </div>
-                      </div>
-                    {% endif %}
+                      {% endif %}
+                    </div>
                     <div class="grid-product__meta">
                       <h3>{{ item.title }}</h3>
                       <p>{{ item.description }}</p>
