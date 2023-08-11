@@ -65,22 +65,23 @@
   console.log('{{ template_name  }}');
 </script>
 
-
-<div
-  class="fh-section--product-testimonial index-section index-section--alt text-center"
-  {% if template_name == 'product' or template_name == 'collection' %}
-  style="background-color: {{ background_color  }};"
-  {% endif %}>
-  <div class="page-width page-width--narrow">
-    <div class="enlarge-text">
-      {% if quote %}
-        <p>{{ quote }}</p>
-      {% else %}
-        <p>{{ section.settings.testimonial_text }}</p>
-      {% endif %}
+{% unless quote %}
+  <div
+    class="fh-section--product-testimonial index-section index-section--alt text-center"
+    {% if template_name == 'product' or template_name == 'collection' %}
+    style="background-color: {{ background_color  }};"
+    {% endif %}>
+    <div class="page-width page-width--narrow">
+      <div class="enlarge-text">
+        {% if quote %}
+          <p>{{ quote }}</p>
+        {% else %}
+          <p>{{ section.settings.testimonial_text }}</p>
+        {% endif %}
+      </div>
     </div>
   </div>
-</div>
+{% endunless %}
 
 {% schema %}
   {
