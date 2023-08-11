@@ -61,11 +61,7 @@
   {% endif %}
 {% endif %}
 
-<script>
-  console.log('{{ template_name  }}');
-</script>
-
-{% unless quote %}
+{% if quote %}
   <div
     class="fh-section--product-testimonial index-section index-section--alt text-center"
     {% if template_name == 'product' or template_name == 'collection' %}
@@ -81,7 +77,7 @@
       </div>
     </div>
   </div>
-{% endunless %}
+{% endif %}
 
 {% schema %}
   {
