@@ -41,9 +41,9 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
-            "heading": "NATURALE - PURITY COLLECTION",
-            "description": "<b>Purity Unleashed: Naturally revitalize thinning hair. <\/b><br>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.",
-            "btn_text": "SHOP NOW",
+            "heading": "Purity Unleashed",
+            "description": "NATURALE - PURITY COLLECTION<br>Feeling down about thinning hair or hair loss? Embrace the purity of nature with Naturale for naturally thicker and healthier hair.",
+            "btn_text": "SHOP NOW <b><\/b>",
             "btn_url": "shopify:\/\/collections\/naturale-landing",
             "background_color": "#000000",
             "text_color": "#ffffff"
@@ -54,8 +54,8 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/BUONGIORNO_COLLECTION.webp",
-            "heading": "BUONGIORNO - VITALITY COLLECTION",
-            "description": "<b>Awaken Your Senses.<\/b>  <br>Want to wake up on the bright side everyday?  Invigorate your senses with Buongiorno for improved hair and skin vitality.",
+            "heading": "Awaken Your Senses",
+            "description": "<b>BUONGIORNO - VITALITY COLLECTION<\/b>  <br>Want to wake up on the bright side everyday?  Invigorate your senses with Buongiorno for improved hair and skin vitality.",
             "btn_text": "SHOP NOW",
             "btn_url": "shopify:\/\/collections\/buongiorno-landing",
             "background_color": "#ffc800",
