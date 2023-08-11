@@ -3,7 +3,7 @@
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
-        ".collection-hero__content::before {}"
+
       ],
       "settings": {
         "collection_image_enable": true,
