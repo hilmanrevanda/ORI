@@ -3,11 +3,20 @@
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
-
+        ".collection-hero {margin-bottom: 0px;}"
       ],
       "settings": {
         "collection_image_enable": true,
         "description_enable": true
+      }
+    },
+    "17963223-eb24-4df2-9397-4fc60583858d": {
+      "type": "fh-section-product-testimonial",
+      "custom_css": [
+        ".fh-section--product-testimonial {margin-bottom: 60px;}"
+      ],
+      "settings": {
+        "testimonial_text": ""
       }
     },
     "collection-filters": {
@@ -37,6 +46,7 @@
   },
   "order": [
     "collection-header",
+    "17963223-eb24-4df2-9397-4fc60583858d",
     "collection-filters",
     "main-collection"
   ]
