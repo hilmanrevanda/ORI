@@ -24,13 +24,6 @@
   {% endif %}
 {% endstyle %}
 
-{% if product %}
-  <script>
-    console.log('{{ product.id }}');
-    console.log('{{ product.metafields.custom.hide_scent }}');
-  </script>
-{% endif %}
-
 {% unless product.metafields.custom.hide_scent %}
   <div class="index-section{% if section.settings.alt %} index-section--alt{% endif %}">
 
