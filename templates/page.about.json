@@ -199,7 +199,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h2>MEET OUR FOUNDING ARTISTS<\/h2><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
+        "text": "<h2>Contemporary and Founding Artists<\/h2><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -279,6 +279,7 @@
       "blocks": {
         "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Dr._Charit_4b0c8eec-0f06-42f5-9a0e-568ba2c3ceb9.jpg",
             "link": "",
@@ -288,6 +289,7 @@
         },
         "3e217705-4a55-4c9f-886e-43b00fb004cf": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "code": "<b><h2>Charit Seneviratne, PhD.\n\n<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>\n<h3>ASK DR. CHARIT (The Science)<\/h3>\n<b><p>Have a question about the science behind our products?<\/p><\/b>\n\n<a href=\"mailto:customercare@origenere.com \" class=\"button\">Ask Dr. Charit<\/a>",
             "width": "50%",
@@ -299,6 +301,7 @@
         "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964",
         "3e217705-4a55-4c9f-886e-43b00fb004cf"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}",
         "h3 {margin-bottom: 10px;}",
