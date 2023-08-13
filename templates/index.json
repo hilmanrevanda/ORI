@@ -15,18 +15,24 @@
             "image": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg",
             "image_mobile": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg"
           }
+        },
+        "4fa2665c-8d67-4bda-90f1-32585d69d839": {
+          "type": "image",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "hero-animated-0",
-        "c810a8e4-362c-4082-ab9c-229067766d54"
+        "c810a8e4-362c-4082-ab9c-229067766d54",
+        "4fa2665c-8d67-4bda-90f1-32585d69d839"
       ],
       "settings": {
         "style": "fading",
-        "title": "Want to transform your hair & skin health?",
-        "title_size": 75,
-        "subheading": "UNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
-        "link": "shopify:\/\/collections\/haircare",
+        "title": "WANT TO TRANSFORM YOUR HAIR & SKIN HEALTH?\n\nUNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
+        "title_size": 34,
+        "subheading": "",
+        "link": "shopify:\/\/collections",
         "link_text": "SHOP NOW",
         "link_learn_more": "shopify:\/\/pages\/the-science",
         "link_text_learn_more": "LEARN MORE",
@@ -39,6 +45,14 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
       "type": "rich-text",
       "blocks": {
+        "2a6f4ab4-269b-4b0a-871d-1cb227804962": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "38ae4040-7838-493d-b248-5108007b2756": {
           "type": "image_picker",
           "settings": {
@@ -61,6 +75,7 @@
         }
       },
       "block_order": [
+        "2a6f4ab4-269b-4b0a-871d-1cb227804962",
         "38ae4040-7838-493d-b248-5108007b2756",
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
         "52a655c0-5d52-43d2-a600-7eb4bd00c7c0"
