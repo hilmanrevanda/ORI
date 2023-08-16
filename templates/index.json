@@ -59,6 +59,12 @@
             "image_icon": "shopify:\/\/shop_images\/Favicon_White.png"
           }
         },
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
+          "type": "heading",
+          "settings": {
+            "title": "PHYSICIAN FORMULATED HAIR & SKIN CARE"
+          }
+        },
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
           "type": "text",
           "settings": {
@@ -77,6 +83,7 @@
       "block_order": [
         "2a6f4ab4-269b-4b0a-871d-1cb227804962",
         "38ae4040-7838-493d-b248-5108007b2756",
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
         "52a655c0-5d52-43d2-a600-7eb4bd00c7c0"
       ],
