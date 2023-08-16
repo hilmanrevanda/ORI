@@ -404,7 +404,7 @@
           "settings": {
             "reverse": true,
             "image": "shopify:\/\/shop_images\/IMG_3164.jpg",
-            "text": "<h2><strong>Materials<\/strong><\/h2><p>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.<\/p><h2><strong>Manufacturing<\/strong><\/h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><h2><strong>Packaging<\/strong><\/h2><p>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/p>",
+            "text": "<h2><strong>Materials<\/strong><\/h2><p>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.<\/p><h2><strong>Manufacturing<\/strong><\/h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><h2><strong>Packaging<\/strong><\/h2><p>All of our containers and packaging are recyclable. We aim to offer aluminum and reusable packaging in the future.<\/p>",
             "background_color": "#ffffff",
             "text_color": "#000000"
           }
@@ -414,7 +414,7 @@
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/IMG_7976.jpg",
-            "text": "<h2><strong>Shipping<\/strong><\/h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p><strong>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/strong><\/p>",
+            "text": "<h2><strong>Shipping<\/strong><\/h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
