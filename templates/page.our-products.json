@@ -13,13 +13,13 @@
           "type": "image",
           "settings": {
             "title": "",
-            "title_size": 80,
+            "title_size": 84,
             "subheading": "PHYSICIAN FORMULATED ALL-NATURAL HAIR & SKIN CARE",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_1446_2.jpg"
+            "image": "shopify:\/\/shop_images\/6_ad91c8bc-f96f-4824-af4f-359a9497494a.jpg"
           }
         }
       },
@@ -32,8 +32,8 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 60,
+        "desktop_size": -50,
+        "mobile_size": -50,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
