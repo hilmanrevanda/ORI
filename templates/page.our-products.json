@@ -42,13 +42,13 @@
     "0e92c59b-7e29-4352-abbf-4f063e0dd219": {
       "type": "fh-section-products-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Haircare_1_9af31c14-5ab8-4d8c-a531-9d3abddb5088.jpg",
-        "heading_left": "Haircare",
+        "image_left": "shopify:\/\/shop_images\/IMG_1065.jpg",
+        "heading_left": "HAIR CARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/Skincare_1.jpg",
-        "heading_right": "Skincare",
+        "image_right": "shopify:\/\/shop_images\/IMG_3595-2.jpg",
+        "heading_right": "SKIN CARE",
         "description_right": "",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skin-care"
