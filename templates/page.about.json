@@ -199,9 +199,9 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h2>Contemporary and Founding Artists<\/h2><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
+        "text": "<h1>CONTEMPORARY & FOUNDING ARTISTS<\/h1><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
+        "background_color": "#ffffff",
+        "text_color": "#000000"
       }
     },
     "afb85ddf-d5eb-4bef-9996-a0041a3d456e": {
