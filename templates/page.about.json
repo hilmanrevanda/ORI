@@ -245,7 +245,7 @@
         "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._Charit_4b0c8eec-0f06-42f5-9a0e-568ba2c3ceb9.jpg",
+            "image": "shopify:\/\/shop_images\/Dr._Charit-2.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -254,7 +254,7 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Charit Seneviratne, PhD.\n\n<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>\n<h3>ASK DR. CHARIT (The Science)<\/h3>\n<b><p>Have a question about the science behind our products?<\/p><\/b>\n\n<a href=\"mailto:customercare@origenere.com \" class=\"button\">Ask Dr. Charit<\/a>",
+            "code": "<b><h2>Charit Seneviratne, PhD.\n\n<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair transplantsurgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Ant onio Armani’s illustrious reputation was not limited to Origenere; he was also the visionary behind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned for his groundbreaking contributions in hair restoration, such as pioneering advancements in hairline design and conducting larger FUE sessions, Dr. Antonio Armani leftan indelible mark with his internationally recognized and trademarked Vitruvian Design Method.\n<\/p>\n<h3>ASK DR. CHARIT (The Science)<\/h3>\n<b><p>Have a question about the science behind our products?<\/p><\/b>",
             "width": "50%",
             "alignment": "center"
           }
@@ -274,6 +274,14 @@
         "space_around": true,
         "alt": false,
         "lazyload_images": true
+      }
+    },
+    "bcecefeb-713f-4b72-94f3-2a1b8a676270": {
+      "type": "contact-form",
+      "settings": {
+        "title": "ASK US A QUESTION",
+        "show_phone": false,
+        "narrow_column": true
       }
     },
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30": {
@@ -530,14 +538,6 @@
       "settings": {
         "num_per_row": 4
       }
-    },
-    "bcecefeb-713f-4b72-94f3-2a1b8a676270": {
-      "type": "contact-form",
-      "settings": {
-        "title": "ASK US A QUESTION",
-        "show_phone": false,
-        "narrow_column": true
-      }
     }
   },
   "order": [
@@ -550,6 +550,7 @@
     "d589564f-c7ae-4d08-94b0-a0c6b8773fb8",
     "afb85ddf-d5eb-4bef-9996-a0041a3d456e",
     "376fda74-7988-4cbb-b4ac-94b179839c13",
+    "bcecefeb-713f-4b72-94f3-2a1b8a676270",
     "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
@@ -558,7 +559,6 @@
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
     "45f644ef-1201-4560-a33e-b02990151c5d",
     "a6813085-76be-4b60-b65e-41b79586a218",
-    "50e937b4-5d39-447f-916d-9c573f03bd92",
-    "bcecefeb-713f-4b72-94f3-2a1b8a676270"
+    "50e937b4-5d39-447f-916d-9c573f03bd92"
   ]
 }
