@@ -19,7 +19,7 @@
         "site_icon": "shopify:\/\/shop_images\/favicon.png",
         "show_newsletter": true,
         "newsletter_title": "JOIN OUR A-LIST",
-        "newsletter_richtext": "<p>Subscribe to our newsletter and get exclusive promotions directly to your inbox.<\/p>",
+        "newsletter_richtext": "<p>Subscribe to our newsletter for 20% off next order and exclusive promotions directly to your inbox.<\/p>",
         "show_locale_selector": false,
         "show_currency_selector": false,
         "show_currency_flags": false,
