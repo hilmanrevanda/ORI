@@ -538,6 +538,33 @@
       "settings": {
         "num_per_row": 4
       }
+    },
+    "b4e60d85-daea-4a8b-948f-b29031782436": {
+      "type": "faq",
+      "blocks": {
+        "template--15750521684177__b4e60d85-daea-4a8b-948f-b29031782436-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is Origenere?",
+            "text": "<p>A product line started by physicians specializing in hair loss, hair transplantation and skin problems.<\/p>"
+          }
+        },
+        "template--15750521684177__b4e60d85-daea-4a8b-948f-b29031782436-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Why create a product line? ",
+            "text": "<p>Patients constantly asked what products to use for their hair and skin. We started researching products and discovered that most had chemicals formulated for aesthetic effects rather than efficacy. Some of these chemicals have been shown to have cancer causing potential and other deleterious side effects. As physicians we realize how important it is to read labels and understand everything that we put on and into our bodies to prevent long term complications and diseases.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750521684177__b4e60d85-daea-4a8b-948f-b29031782436-question-1",
+        "template--15750521684177__b4e60d85-daea-4a8b-948f-b29031782436-question-2"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -559,6 +586,7 @@
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
     "45f644ef-1201-4560-a33e-b02990151c5d",
     "a6813085-76be-4b60-b65e-41b79586a218",
-    "50e937b4-5d39-447f-916d-9c573f03bd92"
+    "50e937b4-5d39-447f-916d-9c573f03bd92",
+    "b4e60d85-daea-4a8b-948f-b29031782436"
   ]
 }
