@@ -583,6 +583,13 @@
             "title": "Can I use your products if I have color or chemically treated hair?",
             "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair<\/p>"
           }
+        },
+        "c4c41e46-5d42-4cf6-b24b-7e60f3dfb8cd": {
+          "type": "question",
+          "settings": {
+            "title": "What is meant by Hair Aging?",
+            "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -591,7 +598,8 @@
         "1cfcc6d4-0ee0-4fbd-b710-a79f4e0082a2",
         "f356f627-9a42-46f4-9fea-ed5d5b6b7088",
         "7460669a-ba0e-40c8-b87a-e87723ccef2a",
-        "b5a32075-46c5-4a70-a8ff-8a212ab10825"
+        "b5a32075-46c5-4a70-a8ff-8a212ab10825",
+        "c4c41e46-5d42-4cf6-b24b-7e60f3dfb8cd"
       ],
       "settings": {
         "title": "FAQs",
