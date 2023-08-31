@@ -4,9 +4,38 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "a0183107-367d-499e-9ec6-e9e0ca8a984f": {
+      "type": "faq",
+      "blocks": {
+        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1",
+        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2"
+      ],
+      "settings": {
+        "title": "",
+        "alt": false,
+        "background_image": "shopify:\/\/shop_images\/8_14709da0-f361-45bb-ab54-46784d034951.jpg"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a0183107-367d-499e-9ec6-e9e0ca8a984f"
   ]
 }
