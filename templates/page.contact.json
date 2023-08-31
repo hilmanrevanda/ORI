@@ -12,14 +12,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "Get in touch"
+            "title": "CONTACT US"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We would love to hear your feed and answer any questions you have about our products. <\/p>"
           }
         }
       },
@@ -37,8 +38,8 @@
     "form": {
       "type": "contact-form",
       "settings": {
-        "title": "Contact us",
-        "show_phone": false,
+        "title": "",
+        "show_phone": true,
         "narrow_column": true
       }
     }
