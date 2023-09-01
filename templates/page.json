@@ -35,13 +35,21 @@
             "title": "What is in your products?",
             "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique ingredients and benefits.<\/p>"
           }
+        },
+        "f0c92c56-7803-4dba-8880-1261efcb1b5e": {
+          "type": "question",
+          "settings": {
+            "title": "Do Other products contain similar ingredients?",
+            "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1",
         "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2",
         "2b345839-12a2-45e0-b4d8-cb942f27b453",
-        "38115098-8c27-4b31-8f89-450e00521198"
+        "38115098-8c27-4b31-8f89-450e00521198",
+        "f0c92c56-7803-4dba-8880-1261efcb1b5e"
       ],
       "settings": {
         "title": "",
