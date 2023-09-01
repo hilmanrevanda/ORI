@@ -56,6 +56,13 @@
             "title": "What is meant by Hair Aging?",
             "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.<\/p>"
           }
+        },
+        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9": {
+          "type": "question",
+          "settings": {
+            "title": "How can I help my hair not become thinner or age sooner?",
+            "text": "<p>Just as we take care of our bodies, our hair and skin need proper nourishment starting from within. ORIGENERE® products help address different causes hair and skin to age.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -65,7 +72,8 @@
         "38115098-8c27-4b31-8f89-450e00521198",
         "f0c92c56-7803-4dba-8880-1261efcb1b5e",
         "192c3220-663c-4f90-a9c2-1d9fb5595459",
-        "0104c953-a941-4e74-b1cf-906d4f3e2b84"
+        "0104c953-a941-4e74-b1cf-906d4f3e2b84",
+        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9"
       ],
       "settings": {
         "title": "",
