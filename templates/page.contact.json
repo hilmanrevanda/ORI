@@ -34,14 +34,6 @@
         "background_color": "#000000"
       }
     },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "",
-        "show_phone": true,
-        "narrow_column": true
-      }
-    },
     "5283546a-3735-46f6-a30e-64de1297488e": {
       "type": "text-with-icons",
       "blocks": {
@@ -85,15 +77,53 @@
         "icon_color": "#000",
         "button_label": "",
         "button_link": "",
+        "alt": true,
+        "has_icon": true,
+        "background_image": "shopify:\/\/shop_images\/Naturale_Shampoo___Conditioner_Scent_02.webp"
+      }
+    },
+    "bdef3b48-222c-40a0-925b-19ffce970100": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Feedback and Suggestions"
+          }
+        },
+        "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Your feedback is invaluable to us as we continuously strive to enhance our products and services. If you have any suggestions or comments, please don't hesitate to share them with us at any moment as we are always happy to assist you.<\/p><p>customercare@origenre.com<\/p><p>At Origenere, we're not just about results; we believe in a holistic, sustainable approach to natural beauty and well-being. Thank you for being a part of our journey<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-heading-1",
+        "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
         "alt": false,
-        "has_icon": true
+        "background_color": "#000000"
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "",
+        "show_phone": true,
+        "narrow_column": true
       }
     }
   },
   "order": [
     "main",
     "rich-text",
-    "form",
-    "5283546a-3735-46f6-a30e-64de1297488e"
+    "5283546a-3735-46f6-a30e-64de1297488e",
+    "bdef3b48-222c-40a0-925b-19ffce970100",
+    "form"
   ]
 }
