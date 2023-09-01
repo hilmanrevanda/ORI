@@ -42,6 +42,13 @@
             "title": "Do other products contain similar ingredients?",
             "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin.<\/p>"
           }
+        },
+        "192c3220-663c-4f90-a9c2-1d9fb5595459": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use your products if I have color or chemically treated hair?",
+            "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -49,7 +56,8 @@
         "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2",
         "2b345839-12a2-45e0-b4d8-cb942f27b453",
         "38115098-8c27-4b31-8f89-450e00521198",
-        "f0c92c56-7803-4dba-8880-1261efcb1b5e"
+        "f0c92c56-7803-4dba-8880-1261efcb1b5e",
+        "192c3220-663c-4f90-a9c2-1d9fb5595459"
       ],
       "settings": {
         "title": "",
