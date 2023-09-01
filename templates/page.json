@@ -91,6 +91,13 @@
             "title": "Do your hair products regrow hair?",
             "text": "<p>We do not claim to regrow hair. However our Professional solutions for Hair Problems will help diminish your hair loss and give your own scalp and hair the strength and vitality of younger looking hair. The damaged hair solution helps to make hair healthy and nourished while making it shiny and easy to manage. The dandruff and itchy scalp solution helps to decrease flakes and helps to moisturize the scalp.<\/p>"
           }
+        },
+        "1bcca13c-5612-48dc-8398-ed4a92567e01": {
+          "type": "question",
+          "settings": {
+            "title": "Can all ethnicities use these products?",
+            "text": "<p>Yes. Our products are safe, gentle, simple and effective for all types of hair and scalp conditions.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -105,7 +112,8 @@
         "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
         "b97c9422-1c4a-43df-978f-5e722a2ad08e",
         "e81394be-0965-4dea-a23b-af1066d4acd4",
-        "07fe1d6d-86dd-452a-bf65-72d30447a4d9"
+        "07fe1d6d-86dd-452a-bf65-72d30447a4d9",
+        "1bcca13c-5612-48dc-8398-ed4a92567e01"
       ],
       "settings": {
         "title": "",
