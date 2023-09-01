@@ -82,20 +82,28 @@
         "background_image": "shopify:\/\/shop_images\/Naturale_Shampoo___Conditioner_Scent_02.webp"
       }
     },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "FEEDBACK & SUGGESTIONS",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
     "bdef3b48-222c-40a0-925b-19ffce970100": {
       "type": "rich-text",
       "blocks": {
         "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Feedback and Suggestions"
+            "title": ""
           }
         },
         "template--15750522077393__bdef3b48-222c-40a0-925b-19ffce970100-text-1": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Your feedback is invaluable to us as we continuously strive to enhance our products and services. If you have any suggestions or comments, please don't hesitate to share them with us at any moment as we are always happy to assist you.<\/p><p>customercare@origenre.com<\/p><p>At Origenere, we're not just about results; we believe in a holistic, sustainable approach to natural beauty and well-being. Thank you for being a part of our journey<\/p>"
+            "text": "<h3>Your feedback is invaluable to us as we continuously strive to enhance our products and services. If you have any suggestions or comments, please don't hesitate to share them with us at any moment as we are always happy to assist you.<\/h3><h3>At Origenere, we're not just about results; we believe in a holistic, sustainable approach to natural beauty and well-being. Thank you for being a part of our journey<\/h3>"
           }
         }
       },
@@ -109,21 +117,13 @@
         "alt": false,
         "background_color": "#ffffff"
       }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "",
-        "show_phone": true,
-        "narrow_column": true
-      }
     }
   },
   "order": [
     "main",
     "rich-text",
     "5283546a-3735-46f6-a30e-64de1297488e",
-    "bdef3b48-222c-40a0-925b-19ffce970100",
-    "form"
+    "form",
+    "bdef3b48-222c-40a0-925b-19ffce970100"
   ]
 }
