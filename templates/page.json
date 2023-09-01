@@ -84,6 +84,13 @@
             "title": "Can I be sure the products are safe and effective?",
             "text": "<p>Yes. All our products are made in Italy, EU and USA. Strict standards or manufacturing are followed to prevent any contamination. Only safe, natural preservatives are used. All our products meet FDA and European Union Regulations.<\/p>"
           }
+        },
+        "07fe1d6d-86dd-452a-bf65-72d30447a4d9": {
+          "type": "question",
+          "settings": {
+            "title": "Do your hair products regrow hair?",
+            "text": "<p>We do not claim to regrow hair. However our Professional solutions for Hair Problems will help diminish your hair loss and give your own scalp and hair the strength and vitality of younger looking hair. The damaged hair solution helps to make hair healthy and nourished while making it shiny and easy to manage. The dandruff and itchy scalp solution helps to decrease flakes and helps to moisturize the scalp.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -97,7 +104,8 @@
         "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9",
         "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
         "b97c9422-1c4a-43df-978f-5e722a2ad08e",
-        "e81394be-0965-4dea-a23b-af1066d4acd4"
+        "e81394be-0965-4dea-a23b-af1066d4acd4",
+        "07fe1d6d-86dd-452a-bf65-72d30447a4d9"
       ],
       "settings": {
         "title": "",
