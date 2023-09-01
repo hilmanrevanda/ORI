@@ -63,6 +63,20 @@
             "title": "How can I help my hair not become thinner or age sooner?",
             "text": "<p>Just as we take care of our bodies, our hair and skin need proper nourishment starting from within. ORIGENERE® products help address different causes hair and skin to age.<\/p>"
           }
+        },
+        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68": {
+          "type": "question",
+          "settings": {
+            "title": "Can all sexes use these products?",
+            "text": "<p>All sexes and genders are able to benefit from our Organonutrients.  The ingredients are gentle and effective.<\/p>"
+          }
+        },
+        "b97c9422-1c4a-43df-978f-5e722a2ad08e": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -73,7 +87,9 @@
         "f0c92c56-7803-4dba-8880-1261efcb1b5e",
         "192c3220-663c-4f90-a9c2-1d9fb5595459",
         "0104c953-a941-4e74-b1cf-906d4f3e2b84",
-        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9"
+        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9",
+        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
+        "b97c9422-1c4a-43df-978f-5e722a2ad08e"
       ],
       "settings": {
         "title": "",
