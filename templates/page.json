@@ -77,6 +77,13 @@
             "title": "Can pregnant women use these products?",
             "text": "<p>Pregnant women should not take our hair and skin vitamins or our products with saw palmetto (Naturale shampoo, Naturale Conditioner, Naturale tonic, Naturale hair cream). Buongiorno was designed without saw palmetto with pregnant and breastfeeding women in mind. It is strongly recommended that all products be used on the advice of the pregnant woman's personal physician. Pregnant women have a naturally high estrogen level that typically improves their hair and skin during pregnancy.<\/p>"
           }
+        },
+        "e81394be-0965-4dea-a23b-af1066d4acd4": {
+          "type": "question",
+          "settings": {
+            "title": "Can I be sure the products are safe and effective?",
+            "text": "<p>Yes. All our products are made in Italy, EU and USA. Strict standards or manufacturing are followed to prevent any contamination. Only safe, natural preservatives are used. All our products meet FDA and European Union Regulations.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -89,7 +96,8 @@
         "0104c953-a941-4e74-b1cf-906d4f3e2b84",
         "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9",
         "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
-        "b97c9422-1c4a-43df-978f-5e722a2ad08e"
+        "b97c9422-1c4a-43df-978f-5e722a2ad08e",
+        "e81394be-0965-4dea-a23b-af1066d4acd4"
       ],
       "settings": {
         "title": "",
