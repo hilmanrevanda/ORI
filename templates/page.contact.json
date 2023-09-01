@@ -17,10 +17,9 @@
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "enlarge_text": false,
-            "text": "<p>We would love to hear your feed and answer any questions you have about our products. <\/p>"
+            "text": "<p>We're here to help you achieve the radiance of nature through our physician formulated all-natural, botanical hair and skincare products. If you have any questions, concerns, or simply want to share your experience with us, our dedicated team is ready to assist you. Reach out to us using any of the following methods:<\/p>"
           }
         }
       },
@@ -42,11 +41,59 @@
         "show_phone": true,
         "narrow_column": true
       }
+    },
+    "5283546a-3735-46f6-a30e-64de1297488e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "store",
+            "title": "Customer Support",
+            "text": "<p>Our knowledgeable customer support team is available to provide personalized assistance from Monday to Friday, 9 AM to 6 PM (EST). We're committed to addressing your inquiries promptly and ensuring your satisfaction with our products.<\/p>"
+          }
+        },
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "phone",
+            "title": "Phone & Email Support",
+            "text": "<p>Call us at 310-563-7397 <\/p><p>You can also drop us an email at customercare@origenere.com for any inquiries or assistance you may need. We strive to respond within 24 hours Monday - Friday. <\/p>"
+          }
+        },
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "truck",
+            "title": "Wholesale Inquiries",
+            "text": "<p>If you're interested in partnering with us for wholesale opportunities, please contact Dr. Kristen Rogers at drkristen@origenere.com to discuss collaboration possibilities<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-1",
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-2",
+        "template--15750522077393__5283546a-3735-46f6-a30e-64de1297488e-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false,
+        "has_icon": true
+      }
     }
   },
   "order": [
     "main",
     "rich-text",
-    "form"
+    "form",
+    "5283546a-3735-46f6-a30e-64de1297488e"
   ]
 }
