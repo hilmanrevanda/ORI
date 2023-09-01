@@ -28,12 +28,20 @@
             "title": "What are some of the dangerous chemicals that other products may contain?",
             "text": "<p>A lot of studies are currently ongoing to study long term health effects of commonly used preservatives such as parabens, methylparaben, butylparaben...etc. These have been implicated in breast cancer. Sodium lauryl sulfate and other similar surfactants are known skin irritants but continue to be used heavily in shampoos due to their ability to create more aesthetic sudsing. Other preservatives such as methylisothializones have been implicated as being toxic to the nervous system. Hydroquinone has been implicated as a possible carcinogen and is being currently investigated by the FDA. Cancer rates are on the rise and we do not know why. Environment and genetics are both factors. However it is imperative on us to limit the dependency on possibly toxic ingredients that we use daily. ORIGENERE® has eliminated any potentially harmful ingredients from all our products<\/p>"
           }
+        },
+        "38115098-8c27-4b31-8f89-450e00521198": {
+          "type": "question",
+          "settings": {
+            "title": "What is in your products?",
+            "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique ingredients and benefits.<\/p>"
+          }
         }
       },
       "block_order": [
         "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1",
         "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2",
-        "2b345839-12a2-45e0-b4d8-cb942f27b453"
+        "2b345839-12a2-45e0-b4d8-cb942f27b453",
+        "38115098-8c27-4b31-8f89-450e00521198"
       ],
       "settings": {
         "title": "",
