@@ -98,6 +98,13 @@
             "title": "Can all ethnicities use these products?",
             "text": "<p>Yes. Our products are safe, gentle, simple and effective for all types of hair and scalp conditions.<\/p>"
           }
+        },
+        "7c5ca606-382b-46b2-927d-15885b31a874": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return my products?",
+            "text": "<p>If you are not 100% satisfied with your purchase, you can exchange the product or receive a refund to the original form of payment within 30 days from purchase date.  Allreturnsmust be in their original condition and packaging.  <\/p>"
+          }
         }
       },
       "block_order": [
@@ -113,7 +120,8 @@
         "b97c9422-1c4a-43df-978f-5e722a2ad08e",
         "e81394be-0965-4dea-a23b-af1066d4acd4",
         "07fe1d6d-86dd-452a-bf65-72d30447a4d9",
-        "1bcca13c-5612-48dc-8398-ed4a92567e01"
+        "1bcca13c-5612-48dc-8398-ed4a92567e01",
+        "7c5ca606-382b-46b2-927d-15885b31a874"
       ],
       "settings": {
         "title": "",
