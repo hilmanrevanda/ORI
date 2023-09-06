@@ -350,7 +350,7 @@
       "settings": {
         "full_width": false,
         "space_around": false,
-        "alt": true,
+        "alt": false,
         "lazyload_images": true
       }
     },
