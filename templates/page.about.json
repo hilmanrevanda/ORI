@@ -493,25 +493,6 @@
         "text_color": "#ffffff"
       }
     },
-    "3d2d5cbf-97c3-45a6-bb7a-42075ad07c4d": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "1f39545e-76c0-4e69-85b7-fc6e83188b71": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
-            "text": "NATURALE PURITY COLLECTION",
-            "url": "shopify:\/\/collections\/naturale"
-          }
-        }
-      },
-      "block_order": [
-        "1f39545e-76c0-4e69-85b7-fc6e83188b71"
-      ],
-      "settings": {
-        "num_per_row": 3
-      }
-    },
     "50e937b4-5d39-447f-916d-9c573f03bd92": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -645,7 +626,6 @@
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
     "45f644ef-1201-4560-a33e-b02990151c5d",
     "a6813085-76be-4b60-b65e-41b79586a218",
-    "3d2d5cbf-97c3-45a6-bb7a-42075ad07c4d",
     "50e937b4-5d39-447f-916d-9c573f03bd92",
     "b4e60d85-daea-4a8b-948f-b29031782436"
   ]
