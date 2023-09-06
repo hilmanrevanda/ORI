@@ -225,20 +225,6 @@
         "has_icon": false
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "PHYSICIAN FORMULATED HAIR CARE FOR THINNING HAIR",
-        "description": "",
-        "featured_text": "Featured",
-        "home_featured_products": "haircare",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "a0e66a1c-fedd-4693-828c-f4971486f48a": {
       "type": "slideshow",
       "blocks": {
@@ -267,6 +253,20 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PHYSICIAN FORMULATED HAIR CARE FOR THINNING HAIR",
+        "description": "",
+        "featured_text": "Featured",
+        "home_featured_products": "haircare",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "text-and-image": {
@@ -320,8 +320,8 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "fh-section-product-category-grid",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "featured-collection",
     "a0e66a1c-fedd-4693-828c-f4971486f48a",
+    "featured-collection",
     "text-and-image",
     "scrolling-text",
     "fh-section-cta"
