@@ -57,7 +57,7 @@
             "heading": "BUONGIORNO - VITALITY COLLECTION",
             "description": "Awaken your Senses",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/buongiorno-landing",
+            "btn_url": "shopify:\/\/collections\/buongiorno-vitality-collection",
             "background_color": "#ffc800",
             "text_color": "#ffffff"
           }
@@ -70,7 +70,7 @@
             "heading": "ARANCIO - PRESERVATION COLLECTION",
             "description": "Nourish your natural glow",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/arancio-landing",
+            "btn_url": "shopify:\/\/collections\/arancio-preservation-collection",
             "background_color": "#fc4c00",
             "text_color": "#ffffff"
           }
