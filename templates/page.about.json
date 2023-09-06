@@ -472,6 +472,7 @@
     },
     "45f644ef-1201-4560-a33e-b02990151c5d": {
       "type": "fh-section-richtext",
+      "disabled": true,
       "custom_css": [
         "h2 {margin-bottom: 0px; font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -484,6 +485,7 @@
     },
     "a6813085-76be-4b60-b65e-41b79586a218": {
       "type": "fh-section-richtext",
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -535,6 +537,7 @@
         "89758275-dbea-4413-928a-60af0908a565",
         "32ffb235-1669-4ccc-be00-ae70f1318fde"
       ],
+      "disabled": true,
       "settings": {
         "num_per_row": 2
       }
