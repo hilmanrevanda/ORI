@@ -23,7 +23,7 @@
     "color_image_overlay_text_shadow": 30,
     "color_small_image_bg": "#ffffff",
     "color_large_image_bg": "#000000",
-    "type_header_font_family": "sans-serif",
+    "type_header_font_family": "josefin_sans_n4",
     "type_header_capitalize": false,
     "type_header_spacing": 25,
     "type_header_base_size": 37,
