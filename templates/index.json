@@ -150,7 +150,7 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "shopify:\/\/pages\/the-science",
-        "alt": true,
+        "alt": false,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
