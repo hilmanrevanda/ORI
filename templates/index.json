@@ -150,14 +150,15 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false,
-        "has_icon": false
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
     },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Skincare_1.jpg",
+        "image_left": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png",
         "heading_left": "HAIRCARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
