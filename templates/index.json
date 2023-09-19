@@ -6,7 +6,8 @@
         "hero-animated-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg"
+            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/NaturaleConditioner_2.jpg"
           }
         },
         "c810a8e4-362c-4082-ab9c-229067766d54": {
