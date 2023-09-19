@@ -10,23 +10,25 @@
             "image_mobile": "shopify:\/\/shop_images\/NaturaleConditioner_2.jpg"
           }
         },
-        "c810a8e4-362c-4082-ab9c-229067766d54": {
+        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png",
+            "image_mobile": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png"
+          }
+        },
+        "40998d3a-1e15-405c-add0-660ae70973d5": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg",
             "image_mobile": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg"
           }
-        },
-        "4fa2665c-8d67-4bda-90f1-32585d69d839": {
-          "type": "image",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "hero-animated-0",
-        "c810a8e4-362c-4082-ab9c-229067766d54",
-        "4fa2665c-8d67-4bda-90f1-32585d69d839"
+        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
+        "40998d3a-1e15-405c-add0-660ae70973d5"
       ],
       "settings": {
         "style": "fading",
