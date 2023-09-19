@@ -33,7 +33,7 @@
       "settings": {
         "style": "fading",
         "title": "WANT TO TRANSFORM YOUR HAIR & SKIN?\n\nUNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
-        "title_size": 34,
+        "title_size": 30,
         "subheading": "",
         "link": "shopify:\/\/collections",
         "link_text": "SHOP NOW",
@@ -42,7 +42,7 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "desktop_size": 20,
-        "mobile_size": 100
+        "mobile_size": 50
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
