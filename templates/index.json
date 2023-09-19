@@ -30,13 +30,21 @@
             "image": "shopify:\/\/shop_images\/3_102b2b6b-295c-401e-846c-d3c661ae249e.png",
             "image_mobile": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png"
           }
+        },
+        "20f88331-bb36-476e-9802-1afcc486e375": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png",
+            "image_mobile": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png"
+          }
         }
       },
       "block_order": [
         "hero-animated-0",
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
         "40998d3a-1e15-405c-add0-660ae70973d5",
-        "d9f0b590-870b-4231-87bb-ab2be9b4b59b"
+        "d9f0b590-870b-4231-87bb-ab2be9b4b59b",
+        "20f88331-bb36-476e-9802-1afcc486e375"
       ],
       "settings": {
         "style": "fading",
