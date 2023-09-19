@@ -1,38 +1,5 @@
 {
   "sections": {
-    "ff180b74-8314-48bb-b292-2d315b6f44bc": {
-      "type": "hero-animated",
-      "blocks": {
-        "template--15750522405073__ff180b74-8314-48bb-b292-2d315b6f44bc-image-1": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "template--15750522405073__ff180b74-8314-48bb-b292-2d315b6f44bc-image-2": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522405073__ff180b74-8314-48bb-b292-2d315b6f44bc-image-1",
-        "template--15750522405073__ff180b74-8314-48bb-b292-2d315b6f44bc-image-2"
-      ],
-      "settings": {
-        "style": "gif",
-        "title": "Make an\ninstant impression",
-        "title_size": 80,
-        "subheading": "With fading or GIF-style animated images",
-        "link": "",
-        "link_text": "Optional button",
-        "link_learn_more": "",
-        "link_text_learn_more": "Optional button",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
-    },
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
@@ -78,7 +45,6 @@
     }
   },
   "order": [
-    "ff180b74-8314-48bb-b292-2d315b6f44bc",
     "collection-header",
     "17963223-eb24-4df2-9397-4fc60583858d",
     "collection-filters",
