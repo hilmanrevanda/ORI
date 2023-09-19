@@ -4,11 +4,10 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "settings": {
         "show_announcement_home_only": false,
-        "announcement_text": "Free shipping and returns",
-        "announcement_link": ""
+        "announcement_text": "SHOP OUR NEW HAIR & SKIN CARE COLLECTION: BUONGIORNO",
+        "announcement_link": "shopify:\/\/collections\/buongiorno"
       }
     },
     "header": {
