@@ -140,8 +140,8 @@
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2"
       ],
       "custom_css": [
-        ".text-with-icons__blocks {padding-bottom: 60px;}",
-        ".text-with-icons__title {padding-top: 60px; margin-bottom: 20px;}"
+        ".text-with-icons__blocks {padding-bottom: 10px;}",
+        ".text-with-icons__title {padding-top: 50px; margin-bottom: 10px;}"
       ],
       "settings": {
         "title": "BACKED BY SCIENCE",
