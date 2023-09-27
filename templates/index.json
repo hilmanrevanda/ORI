@@ -57,7 +57,7 @@
         "link_text_learn_more": "LEARN MORE",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "desktop_size": 20,
+        "desktop_size": 10,
         "mobile_size": 50
       }
     },
