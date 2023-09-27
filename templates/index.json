@@ -6,8 +6,8 @@
         "hero-animated-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_Image_New.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/NaturaleConditioner_2.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Female_Hair_Beutiful.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Female_Hair_Beutiful.jpg"
           }
         },
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
@@ -17,34 +17,34 @@
             "image_mobile": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png"
           }
         },
-        "40998d3a-1e15-405c-add0-660ae70973d5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/4_316288bf-64fb-4c32-bfd7-37e133053564.jpg"
-          }
-        },
-        "d9f0b590-870b-4231-87bb-ab2be9b4b59b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_102b2b6b-295c-401e-846c-d3c661ae249e.png",
-            "image_mobile": "shopify:\/\/shop_images\/3_102b2b6b-295c-401e-846c-d3c661ae249e.png"
-          }
-        },
         "20f88331-bb36-476e-9802-1afcc486e375": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png",
             "image_mobile": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png"
           }
+        },
+        "05fb2b91-958b-414e-8b32-dfb885bfd93a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Origenere_Science.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Science.jpg"
+          }
+        },
+        "d9f0b590-870b-4231-87bb-ab2be9b4b59b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Origenere_Female_Hair.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Female_Hair.jpg"
+          }
         }
       },
       "block_order": [
         "hero-animated-0",
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
-        "40998d3a-1e15-405c-add0-660ae70973d5",
-        "d9f0b590-870b-4231-87bb-ab2be9b4b59b",
-        "20f88331-bb36-476e-9802-1afcc486e375"
+        "20f88331-bb36-476e-9802-1afcc486e375",
+        "05fb2b91-958b-414e-8b32-dfb885bfd93a",
+        "d9f0b590-870b-4231-87bb-ab2be9b4b59b"
       ],
       "settings": {
         "style": "fading",
