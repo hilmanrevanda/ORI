@@ -332,6 +332,21 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
+    },
+    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/BuongiornoVitalityCollection.jpg",
+        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
+        "description_left": "VITALITY COLLECTION",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/buongiorno",
+        "image_right": "shopify:\/\/shop_images\/ArancioBodyCreamSet.png",
+        "heading_right": "ARANCIO SKINCARE",
+        "description_right": "PRESERVATION COLLECTION",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/arancio"
+      }
     }
   },
   "order": [
@@ -344,6 +359,7 @@
     "featured-collection",
     "text-and-image",
     "scrolling-text",
-    "fh-section-cta"
+    "fh-section-cta",
+    "0538ae71-f903-4444-84a7-d7fb94248ea3"
   ]
 }
