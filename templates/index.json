@@ -3,18 +3,18 @@
     "hero-animated": {
       "type": "hero-animated",
       "blocks": {
-        "20f88331-bb36-476e-9802-1afcc486e375": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Male_Shower_Naturale.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Male_Shower_Naturale.jpg"
-          }
-        },
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg"
+          }
+        },
+        "20f88331-bb36-476e-9802-1afcc486e375": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Origenere_Male_Shower_Naturale.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Male_Shower_Naturale.jpg"
           }
         },
         "hero-animated-0": {
@@ -40,8 +40,8 @@
         }
       },
       "block_order": [
-        "20f88331-bb36-476e-9802-1afcc486e375",
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
+        "20f88331-bb36-476e-9802-1afcc486e375",
         "hero-animated-0",
         "05fb2b91-958b-414e-8b32-dfb885bfd93a",
         "d9f0b590-870b-4231-87bb-ab2be9b4b59b"
