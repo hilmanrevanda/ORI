@@ -3,11 +3,11 @@
     "hero-animated": {
       "type": "hero-animated",
       "blocks": {
-        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
+        "05fb2b91-958b-414e-8b32-dfb885bfd93a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arancio_Black_Car_Origenere.jpg"
           }
         },
         "20f88331-bb36-476e-9802-1afcc486e375": {
@@ -17,11 +17,11 @@
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Male_Shower_Naturale.jpg"
           }
         },
-        "05fb2b91-958b-414e-8b32-dfb885bfd93a": {
+        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Black_Car_Origenere.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_and_Scalp_Tonic.jpg"
           }
         },
         "hero-animated-0": {
@@ -33,9 +33,9 @@
         }
       },
       "block_order": [
-        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
-        "20f88331-bb36-476e-9802-1afcc486e375",
         "05fb2b91-958b-414e-8b32-dfb885bfd93a",
+        "20f88331-bb36-476e-9802-1afcc486e375",
+        "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
         "hero-animated-0"
       ],
       "settings": {
