@@ -20,8 +20,8 @@
         "05fb2b91-958b-414e-8b32-dfb885bfd93a": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Science_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Science_2.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arancio_Black_Car_Origenere.jpg"
           }
         },
         "hero-animated-0": {
@@ -250,7 +250,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Arancio_Black_Car_Origenere.jpg",
+            "image": "shopify:\/\/shop_images\/NaturaleHairProducts.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_1132-3.jpg"
           }
         }
