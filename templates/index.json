@@ -3,11 +3,11 @@
     "hero-animated": {
       "type": "hero-animated",
       "blocks": {
-        "05fb2b91-958b-414e-8b32-dfb885bfd93a": {
+        "3881c249-cc13-4516-a414-61b309aeda28": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Black_Car_Origenere.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg"
           }
         },
         "20f88331-bb36-476e-9802-1afcc486e375": {
@@ -33,7 +33,7 @@
         }
       },
       "block_order": [
-        "05fb2b91-958b-414e-8b32-dfb885bfd93a",
+        "3881c249-cc13-4516-a414-61b309aeda28",
         "20f88331-bb36-476e-9802-1afcc486e375",
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
         "hero-animated-0"
@@ -269,14 +269,14 @@
         "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1": {
           "type": "image",
           "settings": {
-            "title": "HAIR & SKIN CARE BUNDLES",
+            "title": "AWAKEN YOUR SENSES",
             "title_size": 56,
-            "subheading": "SHOP & SAVE ON YOUR FAVORITES",
+            "subheading": "NEW BUONGIORNO TEA TREE MINT HAIRCARE",
             "link": "shopify:\/\/collections\/origenere-hair-skin-care-sets",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg",
+            "image": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg"
           }
         }
@@ -296,10 +296,10 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "PHYSICIAN FORMULATED HAIR CARE FOR THINNING HAIR",
-        "description": "",
+        "title": "ALL-NATURAL HAIR & SKIN CARE",
+        "description": "BUONGIORNO VITALITY COLLECTION",
         "featured_text": "Featured",
-        "home_featured_products": "haircare",
+        "home_featured_products": "buongiorno",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",
