@@ -105,6 +105,20 @@
         "background_color": "#000000"
       }
     },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP & SAVE WITH OUR HOLIDAY SETS",
+        "description": "OUR BEST SELLING HAIR & SKIN CARE",
+        "featured_text": "",
+        "home_featured_products": "origenere-hair-skin-care-sets",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -339,25 +353,12 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
-    },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SHOP & SAVE WITH OUR HAIR & SKIN CARE BUNDLES",
-        "description": "",
-        "featured_text": "Featured",
-        "home_featured_products": "origenere-hair-skin-care-sets",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
     }
   },
   "order": [
     "hero-animated",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "scrolling-text",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "fh-section-product-category-grid",
@@ -366,7 +367,6 @@
     "featured-collection",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "text-and-image",
-    "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "fh-section-cta"
   ]
 }
