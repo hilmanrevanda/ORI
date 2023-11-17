@@ -113,6 +113,21 @@
         "background_color": "#000000"
       }
     },
+    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/BuongiornoVitalityCollection.jpg",
+        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
+        "description_left": "VITALITY COLLECTION",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/buongiorno",
+        "image_right": "shopify:\/\/shop_images\/ArancioBodyCreamSet.png",
+        "heading_right": "ARANCIO SKINCARE",
+        "description_right": "PRESERVATION COLLECTION",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/arancio"
+      }
+    },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
       "type": "featured-collection",
       "settings": {
@@ -315,21 +330,6 @@
         "alt": false
       }
     },
-    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
-      "type": "fh-section-products-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/BuongiornoVitalityCollection.jpg",
-        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
-        "description_left": "VITALITY COLLECTION",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/buongiorno",
-        "image_right": "shopify:\/\/shop_images\/ArancioBodyCreamSet.png",
-        "heading_right": "ARANCIO SKINCARE",
-        "description_right": "PRESERVATION COLLECTION",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/arancio"
-      }
-    },
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
@@ -366,6 +366,7 @@
   "order": [
     "hero-animated",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "scrolling-text",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
@@ -373,7 +374,6 @@
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "a0e66a1c-fedd-4693-828c-f4971486f48a",
     "featured-collection",
-    "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "text-and-image",
     "fh-section-cta"
   ]
