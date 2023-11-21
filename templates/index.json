@@ -34,15 +34,15 @@
         "cb2ee2e2-e94c-440e-b340-41de086b6baa": {
           "type": "image",
           "settings": {
-            "title": "BUONGIORNO HAIR & SKIN CARE GIFT SET",
-            "title_size": 42,
-            "subheading": "AWAKEN YOUR SENSES",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
             "link": "shopify:\/\/collections\/holiday-gift-sets",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg"
+            "link_text": "SHOP NOW",
+            "color_accent": "#ffc800",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Buongiorno_Black_Friday_Self_Care_Sale.png",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Buongiorno_Black_Friday_Self_Care_Sale.png"
           }
         }
       },
