@@ -6,8 +6,8 @@
       "type": "announcement-bar",
       "settings": {
         "show_announcement_home_only": false,
-        "announcement_text": "SHOP OUR HOLIDAY GIFT SETS",
-        "announcement_link": "shopify:\/\/collections\/holiday-gift-sets"
+        "announcement_text": "SELF CARE SALE - SHOP YOUR FAVORITES",
+        "announcement_link": "shopify:\/\/collections"
       }
     },
     "header": {
