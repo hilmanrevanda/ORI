@@ -16,10 +16,25 @@
             "image": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg"
           }
+        },
+        "231a4bfe-1c35-4d82-ab2f-036eff69af06": {
+          "type": "image",
+          "settings": {
+            "title": "ARANCIO & NERO SKINCARE SET",
+            "title_size": 48,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/holiday-gift-sets",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2252.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2252.jpg"
+          }
         }
       },
       "block_order": [
-        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1"
+        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1",
+        "231a4bfe-1c35-4d82-ab2f-036eff69af06"
       ],
       "settings": {
         "style": "arrows",
