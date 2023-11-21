@@ -31,6 +31,20 @@
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg"
           }
         },
+        "dab928ef-8441-4185-a8da-471cd69953c3": {
+          "type": "image",
+          "settings": {
+            "title": "30 % OFF NATURALE HAIRCARE",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/naturale",
+            "link_text": "SHOP NOW",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Naturale_Hero_Sale_Origenere.png",
+            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hero_Sale_Origenere.png"
+          }
+        },
         "cb2ee2e2-e94c-440e-b340-41de086b6baa": {
           "type": "image",
           "settings": {
@@ -47,6 +61,7 @@
         },
         "231a4bfe-1c35-4d82-ab2f-036eff69af06": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "ARANCIO & NERO SKINCARE SET",
             "title_size": 48,
@@ -63,6 +78,7 @@
       "block_order": [
         "4f5140fb-5f3a-4fc8-9e77-7fe50d1ccbf9",
         "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1",
+        "dab928ef-8441-4185-a8da-471cd69953c3",
         "cb2ee2e2-e94c-440e-b340-41de086b6baa",
         "231a4bfe-1c35-4d82-ab2f-036eff69af06"
       ],
