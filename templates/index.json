@@ -10,10 +10,11 @@
             "title_size": 43,
             "subheading": "",
             "link": "shopify:\/\/collections",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
+            "link_text": "SHOP NOW",
+            "color_accent": "#fc4c00",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Buongiorno_Black_Friday_Self_Care_Sale.png_01.png"
+            "image": "shopify:\/\/shop_images\/Origenere_Buongiorno_Black_Friday_Self_Care_Sale.png_01.png",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Buongiorno_Black_Friday_Self_Care_Sale.png_01.png"
           }
         },
         "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1": {
