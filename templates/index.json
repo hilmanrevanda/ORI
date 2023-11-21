@@ -189,20 +189,6 @@
         "btn_right_url": "shopify:\/\/collections\/arancio"
       }
     },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SHOP & SAVE WITH OUR HOLIDAY SETS",
-        "description": "OUR BEST SELLING HAIR & SKIN CARE",
-        "featured_text": "",
-        "home_featured_products": "origenere-hair-skin-care-sets",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -347,36 +333,6 @@
         "has_icon": false
       }
     },
-    "a0e66a1c-fedd-4693-828c-f4971486f48a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 56,
-            "subheading": "NEW BUONGIORNO TEA TREE MINT HAIRCARE",
-            "link": "shopify:\/\/collections\/origenere-hair-skin-care-sets",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -422,6 +378,51 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
+    },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP & SAVE WITH OUR BUNDLES",
+        "description": "OUR BEST SELLING HAIR & SKIN CARE",
+        "featured_text": "",
+        "home_featured_products": "origenere-hair-skin-care-sets",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "a0e66a1c-fedd-4693-828c-f4971486f48a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 56,
+            "subheading": "NEW BUONGIORNO TEA TREE MINT HAIRCARE",
+            "link": "shopify:\/\/collections\/origenere-hair-skin-care-sets",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -429,14 +430,14 @@
     "hero-animated",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "scrolling-text",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "fh-section-product-category-grid",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "a0e66a1c-fedd-4693-828c-f4971486f48a",
     "featured-collection",
     "text-and-image",
-    "fh-section-cta"
+    "fh-section-cta",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "a0e66a1c-fedd-4693-828c-f4971486f48a"
   ]
 }
