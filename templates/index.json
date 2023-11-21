@@ -1,5 +1,35 @@
 {
   "sections": {
+    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "HOLIDAY GIFT SETS",
+            "title_size": 80,
+            "subheading": "WRAPPED IN COLORFUL GIFT BOXES",
+            "link": "shopify:\/\/collections\/holiday-gift-sets",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "hero-animated": {
       "type": "hero-animated",
       "blocks": {
@@ -46,6 +76,7 @@
         "20f88331-bb36-476e-9802-1afcc486e375",
         "f787f3c2-4368-470b-a022-21e60607713d"
       ],
+      "disabled": true,
       "settings": {
         "style": "fading",
         "title": "WANT TO TRANSFORM YOUR HAIR & SKIN?\n\nUNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
@@ -361,52 +392,10 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
-    },
-    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "HOLIDAY GIFT SETS",
-            "title_size": 80,
-            "subheading": "WRAPPED IN COLORFUL GIFT BOXES",
-            "link": "shopify:\/\/collections\/holiday-gift-sets",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg"
-          }
-        },
-        "630240fd-929c-4ec7-b46c-fd3026218783": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide title.",
-            "title_size": 80,
-            "subheading": "And an optional subheading",
-            "link": "",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1",
-        "630240fd-929c-4ec7-b46c-fd3026218783"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
+    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e",
     "hero-animated",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
@@ -418,7 +407,6 @@
     "a0e66a1c-fedd-4693-828c-f4971486f48a",
     "featured-collection",
     "text-and-image",
-    "fh-section-cta",
-    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e"
+    "fh-section-cta"
   ]
 }
