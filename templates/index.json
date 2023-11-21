@@ -55,7 +55,7 @@
         "style": "arrows",
         "desktop_size": 0,
         "mobile_size": 0,
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 7,
         "lazyload_images": true
       }
