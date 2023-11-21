@@ -361,6 +361,49 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
+    },
+    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "HOLIDAY GIFT SETS",
+            "title_size": 80,
+            "subheading": "WRAPPED IN COLORFUL GIFT BOXES",
+            "link": "shopify:\/\/collections\/holiday-gift-sets",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Holiday_Gift_Boxes.jpg"
+          }
+        },
+        "630240fd-929c-4ec7-b46c-fd3026218783": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1",
+        "630240fd-929c-4ec7-b46c-fd3026218783"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -375,6 +418,7 @@
     "a0e66a1c-fedd-4693-828c-f4971486f48a",
     "featured-collection",
     "text-and-image",
-    "fh-section-cta"
+    "fh-section-cta",
+    "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e"
   ]
 }
