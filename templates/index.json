@@ -30,11 +30,26 @@
             "image": "shopify:\/\/shop_images\/IMG_2252.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_2252.jpg"
           }
+        },
+        "cb2ee2e2-e94c-440e-b340-41de086b6baa": {
+          "type": "image",
+          "settings": {
+            "title": "BUONGIORNO HAIR & SKIN CARE GIFT SET",
+            "title_size": 42,
+            "subheading": "AWAKEN YOUR SENSES",
+            "link": "shopify:\/\/collections\/holiday-gift-sets",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg"
+          }
         }
       },
       "block_order": [
         "template--15750522044625__6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e-image-1",
-        "231a4bfe-1c35-4d82-ab2f-036eff69af06"
+        "231a4bfe-1c35-4d82-ab2f-036eff69af06",
+        "cb2ee2e2-e94c-440e-b340-41de086b6baa"
       ],
       "settings": {
         "style": "arrows",
