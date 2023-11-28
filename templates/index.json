@@ -81,6 +81,7 @@
         "dab928ef-8441-4185-a8da-471cd69953c3",
         "231a4bfe-1c35-4d82-ab2f-036eff69af06"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
@@ -96,7 +97,7 @@
         "3881c249-cc13-4516-a414-61b309aeda28": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0296.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_2252.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_0296.jpg"
           }
         },
@@ -110,8 +111,8 @@
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9991-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_9991-4.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_2435-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2435-2.jpg"
           }
         },
         "20f88331-bb36-476e-9802-1afcc486e375": {
@@ -136,7 +137,6 @@
         "20f88331-bb36-476e-9802-1afcc486e375",
         "f787f3c2-4368-470b-a022-21e60607713d"
       ],
-      "disabled": true,
       "settings": {
         "style": "fading",
         "title": "WANT TO TRANSFORM YOUR HAIR & SKIN?\n\nUNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
