@@ -13,21 +13,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_6001-2.jpg"
-          }
-        },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
-          "type": "image",
-          "settings": {
-            "title": "NOURISH YOUR NATURAL GLOW",
-            "title_size": 46,
-            "subheading": "ARANCIO SKINCARE",
-            "link": "https:\/\/origenere.com\/collections\/arancio",
-            "link_text": "SHOW NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0296-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0296-3.jpg"
+            "image": "shopify:\/\/shop_images\/Arancio_Holiday_skincare_gift_set.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -54,16 +40,44 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Naturale_Hero_Image_ed06557f-346a-47ab-b468-ce7c08837c67.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hero_Image_ed06557f-346a-47ab-b468-ce7c08837c67.jpg"
+            "image": "shopify:\/\/shop_images\/Naturale_Haircare_Holiday_gift_set.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Naturale_Haircare_Holiday_gift_set.jpg"
+          }
+        },
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "NOURISH YOUR NATURAL GLOW",
+            "title_size": 46,
+            "subheading": "ARANCIO SKINCARE",
+            "link": "https:\/\/origenere.com\/collections\/arancio",
+            "link_text": "SHOW NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0296-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0296-3.jpg"
+          }
+        },
+        "7db41333-5c55-4c8a-861a-44ee96bd88a3": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_all_natural_collection.jpg"
           }
         }
       },
       "block_order": [
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e"
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "7db41333-5c55-4c8a-861a-44ee96bd88a3"
       ],
       "settings": {
         "style": "arrows",
