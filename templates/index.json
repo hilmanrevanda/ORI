@@ -16,10 +16,25 @@
             "image": "shopify:\/\/shop_images\/IMG_2145-4.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_2145-4.jpg"
           }
+        },
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "NOURISH YOUR NATURAL GLOW",
+            "title_size": 46,
+            "subheading": "ARANCIO SKINCARE",
+            "link": "https:\/\/origenere.com\/collections\/arancio",
+            "link_text": "SHOW NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0296-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0296-3.jpg"
+          }
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1"
       ],
       "settings": {
         "style": "arrows",
