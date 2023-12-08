@@ -1,5 +1,35 @@
 {
   "sections": {
+    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "BUONGIORNO HAIR & SKIN CARE GIFT SET",
+            "title_size": 55,
+            "subheading": "",
+            "link": "",
+            "link_text": "SHOW NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2145-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2145-4.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e": {
       "type": "slideshow",
       "blocks": {
@@ -137,6 +167,7 @@
         "20f88331-bb36-476e-9802-1afcc486e375",
         "f787f3c2-4368-470b-a022-21e60607713d"
       ],
+      "disabled": true,
       "settings": {
         "style": "fading",
         "title": "WANT TO TRANSFORM YOUR HAIR & SKIN?\n\nUNLOCK THE POWER OF YOUR DNA WITH ORIGENERE",
@@ -456,6 +487,7 @@
     }
   },
   "order": [
+    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e",
     "hero-animated",
     "scrolling-text",
