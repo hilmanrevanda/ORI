@@ -68,7 +68,7 @@
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 90,
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
