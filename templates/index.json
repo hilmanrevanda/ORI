@@ -17,6 +17,20 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_2435-2.jpg"
           }
         },
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 46,
+            "subheading": "BUONGIORNO HAIR & SKINCARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2477-4.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -34,37 +48,23 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "HOLIDAY GIFT SETS",
-            "title_size": 55,
+            "title": "BUONGIORNO HAIR & SKINCARE SET",
+            "title_size": 50,
             "subheading": "",
-            "link": "",
+            "link": "shopify:\/\/products\/buongiorno-holiday-gift-set",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2145-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2145-4.jpg"
-          }
-        },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
-          "type": "image",
-          "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 46,
-            "subheading": "BUONGIORNO HAIR & SKINCARE",
-            "link": "shopify:\/\/collections\/buongiorno",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2477-4.jpg"
+            "image": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg"
           }
         }
       },
       "block_order": [
         "10175eb0-c715-4e62-b5a7-f21b1626da4e",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1"
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
       "settings": {
         "style": "arrows",
