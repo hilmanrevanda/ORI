@@ -3,6 +3,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
+          "type": "image",
+          "settings": {
+            "title": "GIVE THE GIFT OF HEALTHY HAIR & SKIN",
+            "title_size": 44,
+            "subheading": "SHOP OUR HAIR & SKINCARE GIFT SETS",
+            "link": "shopify:\/\/collections\/naturale",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2435-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2435-2.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -30,20 +44,6 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_2145-4.jpg"
           }
         },
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
-          "type": "image",
-          "settings": {
-            "title": "NATURALE HAIRCARE FOR THINNING HAIR",
-            "title_size": 59,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Naturale_Haircare_Holiday_gift_set.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Naturale_Haircare_Holiday_gift_set.jpg"
-          }
-        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -60,9 +60,9 @@
         }
       },
       "block_order": [
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1"
       ],
       "settings": {
