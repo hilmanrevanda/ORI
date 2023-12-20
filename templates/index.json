@@ -47,15 +47,15 @@
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
-            "title": "NOURISH YOUR NATURAL GLOW",
+            "title": "AWAKEN YOUR SENSES",
             "title_size": 46,
-            "subheading": "ARANCIO SKINCARE",
-            "link": "https:\/\/origenere.com\/collections\/arancio",
-            "link_text": "SHOW NOW",
+            "subheading": "BUONGIORNO HAIR & SKINCARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0296-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0296.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2477-4.jpg"
           }
         }
       },
