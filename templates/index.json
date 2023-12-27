@@ -6,15 +6,15 @@
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
           "type": "image",
           "settings": {
-            "title": "GIVE THE GIFT OF HEALTHY HAIR & SKIN",
-            "title_size": 44,
-            "subheading": "SHOP OUR HAIR & SKINCARE GIFT SETS",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "SHOP NOW",
+            "title": "PHYSICIAN FORMULATED BOTANICALS",
+            "title_size": 46,
+            "subheading": "DISCOVER ORIGENERE ORGANONUTRIENTS",
+            "link": "shopify:\/\/pages\/about-us",
+            "link_text": "LEARN MORE",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2435-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2435-2.jpg"
+            "image": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -498,37 +498,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "a0e66a1c-fedd-4693-828c-f4971486f48a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 56,
-            "subheading": "NEW BUONGIORNO TEA TREE MINT HAIRCARE",
-            "link": "shopify:\/\/collections\/origenere-hair-skin-care-sets",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/3_2fbdfea6-b316-4d53-892f-3fdbf8c6a15c.png",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Hair_thinning_Collection.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522044625__a0e66a1c-fedd-4693-828c-f4971486f48a-image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -544,7 +513,6 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49",
-    "a0e66a1c-fedd-4693-828c-f4971486f48a"
+    "caf600f6-2bd2-46cc-8076-f53799e06c49"
   ]
 }
