@@ -31,6 +31,20 @@
             "image_mobile": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg"
           }
         },
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP",
+            "title_size": 50,
+            "subheading": "THE ART OF HAIR & SKIN SCIENCE",
+            "link": "shopify:\/\/pages\/the-science",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Science_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_9269-4_abf868cc-b07c-4971-aa4f-72bed216c3a8.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -44,27 +58,13 @@
             "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg"
           }
-        },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP",
-            "title_size": 50,
-            "subheading": "THE ART OF HAIR & SKIN SCIENCE",
-            "link": "shopify:\/\/pages\/the-science",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Science_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg"
-          }
         }
       },
       "block_order": [
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4"
       ],
       "settings": {
         "style": "arrows",
