@@ -48,14 +48,14 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "BUONGIORNO HAIR & SKINCARE SET",
+            "title": "BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP",
             "title_size": 50,
-            "subheading": "",
-            "link": "shopify:\/\/products\/buongiorno-holiday-gift-set",
+            "subheading": "THE ART OF HAIR & SKIN SCIENCE",
+            "link": "shopify:\/\/pages\/the-science",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg",
+            "image": "shopify:\/\/shop_images\/Origenere_Science_2.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Gift_Set_HEro.jpg"
           }
         }
