@@ -1,1 +1,23 @@
-{"sections":{"main":{"type":"main-cart","settings":{}},"featured-collection":{"type":"featured-collection-slider","settings":{"title":"Popular picks"}}},"order":["main","featured-collection"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "Haircare Favorites",
+        "description": "",
+        "home_featured_products": "hair-care-frontpage",
+        "per_row": "small",
+        "alt": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured-collection"
+  ]
+}

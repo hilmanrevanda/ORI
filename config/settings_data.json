@@ -54,7 +54,7 @@
     "quick_shop_style": "product",
     "product_image_size": "large",
     "product_image_type": "stacked",
-    "cart_type": "sticky",
+    "cart_type": "page",
     "cart_icon": "cart",
     "cart_additional_buttons": true,
     "cart_notes_enable": true,
@@ -200,9 +200,9 @@
         "settings": {
           "button_color": "#000000",
           "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "chat_with_us",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
       }
