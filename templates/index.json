@@ -231,14 +231,6 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
       "type": "rich-text",
       "blocks": {
-        "2a6f4ab4-269b-4b0a-871d-1cb227804962": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
           "type": "heading",
           "settings": {
@@ -267,7 +259,6 @@
         }
       },
       "block_order": [
-        "2a6f4ab4-269b-4b0a-871d-1cb227804962",
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
         "38ae4040-7838-493d-b248-5108007b2756",
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
