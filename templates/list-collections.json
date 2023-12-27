@@ -87,13 +87,27 @@
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
+        },
+        "a821d77f-3983-4bf4-889b-b79907861a96": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/VIOLA_-_ARCHIVE.png",
+            "heading": "SEMPRE - HAIR GROWTH COLLECTION",
+            "description": "SEMPRE Hair Growth ORGANONUTRIENTS",
+            "btn_text": "SHOP NOW",
+            "btn_url": "",
+            "background_color": "#451698",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
         "6df271c3-f44d-43cf-86d6-68731289f3f1",
         "b20f588c-5754-4a1a-9418-e7a8ebfe68bb",
         "b25c4e2b-daec-4a99-8a53-45621a80986d",
-        "6c418037-3c8a-4918-b9e1-ee46b1e5294d"
+        "6c418037-3c8a-4918-b9e1-ee46b1e5294d",
+        "a821d77f-3983-4bf4-889b-b79907861a96"
       ],
       "settings": {
       }
