@@ -3,20 +3,6 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
-          "type": "image",
-          "settings": {
-            "title": "PHYSICIAN FORMULATED BOTANICALS",
-            "title_size": 46,
-            "subheading": "DISCOVER ORIGENERE ORGANONUTRIENTS",
-            "link": "shopify:\/\/pages\/about-us",
-            "link_text": "LEARN MORE",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg"
-          }
-        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -31,18 +17,32 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_0362.jpg"
           }
         },
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
+          "type": "image",
+          "settings": {
+            "title": "PHYSICIAN FORMULATED BOTANICALS",
+            "title_size": 46,
+            "subheading": "DISCOVER ORIGENERE ORGANONUTRIENTS",
+            "link": "shopify:\/\/pages\/about-us",
+            "link_text": "LEARN MORE",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Orange_Grapefruit.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
-            "title": "ARANCIO & NERO SKINCARE",
-            "title_size": 54,
-            "subheading": "ALL-NATURAL SKINCARE SET",
-            "link": "shopify:\/\/products\/arancio-nero-holiday-skin-care-gift-set",
+            "title": "NERO EXFOLIATING  BODY SCRUB",
+            "title_size": 44,
+            "subheading": "Intoxicating Sandalwood, Mandarin & Citrus notes",
+            "link": "shopify:\/\/products\/nero-body-wash",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Arancio_Holiday_skincare_gift_set.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Holiday_skincare_gift_set.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -61,8 +61,8 @@
         }
       },
       "block_order": [
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
