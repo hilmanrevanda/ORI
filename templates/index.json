@@ -292,19 +292,19 @@
         "background_color": "#000000"
       }
     },
-    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
-      "type": "fh-section-products-grid",
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
-        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
-        "description_left": "VITALITY COLLECTION",
+        "image_left": "shopify:\/\/shop_images\/IMG_8193.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
         "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/buongiorno",
-        "image_right": "shopify:\/\/shop_images\/Arancio_Moody.jpg",
-        "heading_right": "ARANCIO SKINCARE",
-        "description_right": "PRESERVATION COLLECTION",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/MaleHandArancioFaceCream.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
         "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/arancio"
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
@@ -347,21 +347,6 @@
         "alt": false,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/Haircare_1_9af31c14-5ab8-4d8c-a531-9d3abddb5088.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -439,6 +424,21 @@
         "has_icon": false
       }
     },
+    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
+        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
+        "description_left": "VITALITY COLLECTION",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/buongiorno",
+        "image_right": "shopify:\/\/shop_images\/Arancio_Moody.jpg",
+        "heading_right": "ARANCIO SKINCARE",
+        "description_right": "PRESERVATION COLLECTION",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/arancio"
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -506,10 +506,10 @@
     "hero-animated",
     "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
-    "0538ae71-f903-4444-84a7-d7fb94248ea3",
-    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "fh-section-product-category-grid",
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
+    "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
