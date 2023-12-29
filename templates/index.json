@@ -58,13 +58,27 @@
             "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg"
           }
+        },
+        "8f6c71e8-494a-4fd5-b7b2-37707e4a086c": {
+          "type": "image",
+          "settings": {
+            "title": "ELEVATE YOUR SELF CARE RITUALS",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/our-products",
+            "link_text": "SHOP HAIR & SKINCARE",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2825-3.jpg"
+          }
         }
       },
       "block_order": [
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4"
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "8f6c71e8-494a-4fd5-b7b2-37707e4a086c"
       ],
       "settings": {
         "style": "arrows",
