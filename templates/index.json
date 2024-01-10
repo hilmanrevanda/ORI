@@ -62,15 +62,15 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "title": "NERO EXFOLIATING  BODY SCRUB",
+            "title": "UNLOCK THE POWER OF YOUR DNA",
             "title_size": 44,
-            "subheading": "Intoxicating Sandalwood, Mandarin & Citrus notes",
-            "link": "shopify:\/\/products\/nero-body-wash",
+            "subheading": "DISCOVER OUR HAIRCARE COLLECTIONS",
+            "link": "shopify:\/\/collections\/hair-care-frontpage",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg"
+            "image": "shopify:\/\/shop_images\/2_5e1503fe-d547-4f38-9cd2-1f3e9b89c75e.png",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8691.jpg"
           }
         }
       },
