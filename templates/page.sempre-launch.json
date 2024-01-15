@@ -12,14 +12,14 @@
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
-            "title": "THE SCIENCE",
+            "title": "SEMPRE ORGANONUTRIENTS",
             "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/The_Science1.webp"
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png"
           }
         }
       },
@@ -42,7 +42,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/The_Science2.webp",
+            "image": "shopify:\/\/shop_images\/SempreSawPalmettoVitamins01.jpg",
             "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
@@ -91,168 +91,6 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
-      }
-    },
-    "adb572db-112e-4a17-bd04-9e6cef093e6c": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>REASON FOR HAIR & SKIN DAMAGE<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
-    "e7c60625-6a48-44b5-9486-98ff48aeb59a": {
-      "type": "fh-section-faq",
-      "blocks": {
-        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce": {
-          "type": "question",
-          "settings": {
-            "title": "GENETICS",
-            "text": "<p>The genetic cause of hair loss involves the male hormone dihydrotestosterone (DHT) and the dermal papilla (DP) cells that are sensitive to it. DP cells are found at the base of hair follicles and are responsible for new growth.<\/p><p><strong>Formation of DHT:<\/strong> DHT is derived from the hormone testosterone through an enzyme called 5-alpha-reductase. In some individuals, the enzyme converts testosterone into DHT, which binds to receptors in the hair follicles. <\/p><p><strong>Sensitivity of Hair Follicles:<\/strong> Hair follicles on the scalp contain androgen receptors, including receptors for DHT. In individuals with a genetic predisposition, these hair follicles may be more sensitive to the effects of DHT.<\/p><p><strong>Miniaturization of Hair Follicles:<\/strong> When DHT binds to the androgen receptors in the hair follicles, it can lead to a process called miniaturization. Miniaturization refers to the gradual shrinking and weakening of the affected hair follicles over time.<\/p><p><strong>Shortened Hair Growth Cycle: <\/strong>DHT can shorten the duration of the hair growth cycle, leading to a reduction in the growth phase of the hair follicles. This results in shorter and thinner hair strands, making the hair appear less dense and eventually leading to hair thinning or hair loss.<\/p><p><strong>Progressive Hair Loss: <\/strong>As the hair follicles continue to be exposed to DHT, they become progressively smaller and weaker with each hair growth cycle. This can eventually lead to the production of vellus hairs, which are short, fine, and barely visible hairs, or even the complete cessation of hair growth from affected follicles. <\/p><p>It's important to note that not everyone with a genetic predisposition to DHT will experience hair loss. The sensitivity of hair follicles to DHT and the extent of hair loss can vary among individuals. Other factors, such as age, overall health, and additional genetic and environmental factors, also contribute to the development of hair loss. <\/p>"
-          }
-        },
-        "011e0b9c-1a13-45e0-94a2-2e9dbc79931d": {
-          "type": "question",
-          "settings": {
-            "title": "AGING PROCESS",
-            "text": "<p>As we age, various structural and functional changes occur in the body. The processes are partly affected by genetics and partly by exposomes (all environmental influences other than genetics).<\/p><p><strong>Skin Aging:<\/strong> <\/p><ul><li><strong>Wrinkles and Fine Lines:<\/strong> The skin gradually loses elasticity and firmness due to a decrease in collagen and elastin production. This results in the formation of wrinkles and fine lines, particularly in areas exposed to the sun and repeated facial expressions.<\/li><li><strong>Dryness and Thinning:<\/strong> Aging skin tends to become drier as the production of natural moisturizing factors, such as hyaluronic acid, declines. The skin's ability to retain moisture diminishes, leading to a rougher, more fragile texture.<\/li><li><strong>Uneven Tone and Hyperpigmentation:<\/strong> Aging skin may develop areas of uneven pigmentation, including age spots, sunspots, and melasma. These occur due to cumulative sun exposure and changes in melanin production.<\/li><li><strong>Slower Cell Turnover and Healing:<\/strong> Skin cell turnover slows down with age, leading to a longer recovery time for wounds, blemishes, and overall healing. The skin's ability to repair and regenerate itself diminishes.<\/li><li><strong>Reduced Oil Production:<\/strong> The sebaceous glands produce less oil as we age, resulting in drier skin. This can make the skin more prone to irritation, itching, and flakiness.<\/li><\/ul><p><\/p><p><strong>Hair Aging:<\/strong><\/p><ul><li><strong>Thinning and Loss: <\/strong>Hair strands become finer and may start to thin due to reduced activity in hair follicles and changes in the hair growth cycle. The rate of hair growth slows down, and the number of active hair follicles decreases, leading to overall hair thinning and, in some cases, hair loss (particularly in males with androgenetic alopecia).<\/li><li><strong>Graying:<\/strong> As we age, the pigment cells in hair follicles gradually produce less melanin, resulting in the appearance of gray or white hair. The age at which graying begins is influenced by genetics and other factors.<\/li><li><strong>Reduced Scalp Oil Production: <\/strong>The sebaceous glands in the scalp produce less oil with age, leading to drier hair and a more prone scalp.<\/li><li><strong>Weakened Hair Structure: <\/strong>Aging hair can become more brittle and prone to breakage due to changes in the hair's protein structure and reduced moisture retention capacity.<\/li><li><strong>Slower Hair Growth:<\/strong> Hair growth rate slows down as we age, resulting in longer periods between hair regrowth cycles.<\/li><\/ul>"
-          }
-        },
-        "b6f84937-ad2b-4be8-956e-ecd50e4de59e": {
-          "type": "question",
-          "settings": {
-            "title": "EXPOSOMES",
-            "text": "<p><strong>Pollution:<\/strong><\/p><p><strong>Oxidative Free Radicals: <\/strong>Our bodies naturally produce reactive oxygen species (ROS) during various metabolic processes. They also make antioxidants to combat the free radicals. When the balance between ROS production and the body's antioxidant defenses is disrupted, it leads to oxidative stress. Factors like pollution, UV radiation, smoking, poor nutrition, and stress can increase ROS production and overwhelm the body's antioxidant defenses. <strong>Oxidative Stress affects scalp and hair health.<\/strong><\/p><p><strong>Hair:<\/strong><\/p><ul><li><strong>Premature Graying:<\/strong> Increased ROS damages melanocytes (pigment producing cells) resulting in premature graying.<\/li><li><strong>Hair thinning and loss:<\/strong> ROS can damage the cells in the hair follicle leading to weakening, thinning and loss. <\/li><\/ul><p><strong>Skin:<\/strong> <\/p><ul><li><strong>Premature aging:<\/strong> One of the primary effects of oxidative stress on the skin is premature aging. ROS can damage collagen and elastin fibers, which are responsible for maintaining skin elasticity and firmness. This damage leads to the formation of wrinkles, fine lines, and sagging skin, making you look older than your actual age.<\/li><li><strong>Skin discoloration:<\/strong> Oxidative stress can also contribute to skin discoloration and uneven skin tone. It can increase the production of melanin, leading to hyperpigmentation, dark spots, and an uneven complexion. These changes can make your skin appear dull and less radiant.<\/li><li><strong>Reduced skin barrier function: <\/strong>The skin's natural barrier function can be compromised due to oxidative stress. ROS can damage the lipids and proteins that make up the skin's protective barrier, allowing moisture to escape and irritants to penetrate more easily. This can result in dryness, sensitivity, and an increased risk of skin problems like eczema and dermatitis.<\/li><\/ul>"
-          }
-        },
-        "9dfd635a-ba94-4e70-8b24-c819bdda53fd": {
-          "type": "question",
-          "settings": {
-            "title": "UV Radiation",
-            "text": "<p>has both short-term and long-term effects on hair and skin health. <\/p><p><strong>Skin Health:<\/strong><\/p><ul><li><strong>Sunburn: <\/strong>Excessive exposure to UV radiation can cause sunburn, characterized by redness, pain, and peeling of the skin. Sunburn damages the skin's DNA and increases the risk of skin cancer.<\/li><li><strong>Premature Aging: <\/strong>Chronic exposure to UV radiation leads to premature aging of the skin. It accelerates the breakdown of collagen and elastin, resulting in the formation of wrinkles, fine lines, and sagging skin.<\/li><li><strong>Hyperpigmentation:<\/strong> UV radiation stimulates the production of melanin, leading to increased pigmentation in the form of sunspots, freckles, and uneven skin tone.<\/li><li><strong>Skin Cancer: <\/strong>Prolonged and unprotected exposure to UV radiation is a major risk factor for developing skin cancer. It damages the DNA in skin cells and can lead to the development of basal cell carcinoma, squamous cell carcinoma, and melanoma. <\/li><\/ul><p><strong>Hair Health:<\/strong> <\/p><ul><li><strong>Hair Color Fading:<\/strong> UV radiation can cause hair color to fade, particularly in dyed or chemically treated hair. It breaks down the pigments in the hair shaft, resulting in a loss of vibrancy and intensity.<\/li><li><strong>Dryness and Brittle Hair:<\/strong> UV radiation can deplete the hair's natural moisture, making it dry, brittle, and prone to breakage. This is especially problematic for individuals with already dry or damaged hair.<\/li><li><strong>Weakened Hair Structure:<\/strong> Exposure to UV radiation can damage the proteins that make up the hair structure, such as keratin. This weakens the hair strands, making them more susceptible to splitting and breakage.<\/li><li><strong>Scalp Damage: <\/strong>The scalp can also be affected by UV radiation, leading to dryness, sunburn, and potential inflammation or irritation.<\/li><\/ul>"
-          }
-        },
-        "8561de5f-41ce-4467-adb2-ca986165a47d": {
-          "type": "question",
-          "settings": {
-            "title": "Environmental Toxins",
-            "text": "<p>Environmental toxins can have detrimental effects on both hair and skin health. Exposure to various pollutants and toxins in the environment can contribute to a range of issues, from skin irritation and inflammation to hair damage and loss. <\/p><p><strong>Skin Health:<\/strong><\/p><ul><li><strong>Irritation and Inflammation:<\/strong> Environmental toxins, such as air pollutants, can cause skin irritation, redness, and inflammation. These toxins can disrupt the skin barrier, leading to increased sensitivity, dryness, and discomfort.<\/li><li><strong>Premature Aging:<\/strong> Exposure to environmental toxins, including UV radiation and pollutants like particulate matter, can accelerate skin aging. It can lead to the breakdown of collagen and elastin, resulting in the formation of wrinkles, fine lines, and sagging skin.<\/li><li><strong>Pigmentation Disorders:<\/strong> Certain environmental toxins, such as heavy metals and chemicals, can contribute to pigmentation disorders like melasma or hyperpigmentation. They can disrupt the melanin production process, leading to uneven skin tone and dark spots.<\/li><li><strong>Oxidative Stress:<\/strong> Environmental toxins generate free radicals in the skin, leading to oxidative stress. This can damage skin cells, impair collagen production, and result in a dull and aged appearance.<\/li><li><strong>Impaired Skin Barrier Function:<\/strong> Exposure to environmental toxins can compromise the skin's natural barrier function, making it more susceptible to dehydration, irritants, and allergens. This can contribute to conditions like dryness, eczema, or contact dermatitis.<\/li><\/ul><p><strong>Hair Health:<\/strong><\/p><ul><li><strong>Dryness and Brittle Hair:<\/strong> Environmental toxins, such as air pollutants and chemicals in water, can strip the hair of its natural oils, leading to dryness and brittleness. This can result in hair breakage, split ends, and a lack of luster. <\/li><li><strong>Scalp Irritation:<\/strong> Exposure to environmental toxins can cause scalp irritation and inflammation, leading to conditions like dandruff, itching, or flaking. <\/li><li><strong>Hair Loss: <\/strong>Certain environmental toxins, including heavy metals and hormonal disruptors, can contribute to hair loss or thinning. They can disrupt the hair growth cycle, damage hair follicles, and impair healthy hair growth. <\/li><li><strong>Color Fading: <\/strong>Environmental toxins, such as UV radiation and pollutants, can cause hair color to fade more quickly. They can break down pigments in the hair strands, leading to loss of vibrancy and dullness.<\/li><\/ul>"
-          }
-        },
-        "f07de5f3-6e67-406f-b054-7ced6deb4de6": {
-          "type": "question",
-          "settings": {
-            "title": "Improper Nutrition",
-            "text": "<p>Nutritional deficiencies or an imbalanced diet lacking essential nutrients can lead to various hair and skin problems.<\/p><p><strong>Skin Health:<\/strong><\/p><ul><li><strong>Dryness and Dullness:<\/strong> Inadequate intake of essential fatty acids, particularly omega-3 fatty acids, can lead to dry and dull skin. These fats play a crucial role in maintaining skin hydration and nourishment.<\/li><li><strong>Reduced Skin Elasticity: <\/strong>Insufficient intake of antioxidants, such as vitamins C and E, can impair collagen production and decrease skin elasticity. This can contribute to the development of wrinkles and fine lines. <\/li><li><strong>Poor Wound Healing:<\/strong> Inadequate protein intake can impair the skin's ability to heal wounds and regenerate new cells. Proteins are essential for the synthesis of collagen, the main structural protein in the skin.<\/li><li><strong>Increased Sensitivity:<\/strong> Nutritional deficiencies can weaken the skin's natural barrier function, making it more susceptible to environmental irritants and allergens. This can lead to increased skin sensitivity, redness, and inflammation. <\/li><li><strong>Acne and Blemishes:<\/strong> Imbalanced diets high in refined carbohydrates and processed foods may contribute to the development of acne and blemishes. These foods can cause spikes in blood sugar levels, leading to increased sebum production and clogged pore <\/li><\/ul><p><strong>Hair Health:<\/strong><\/p><ul><li><strong>Hair Loss:<\/strong> Inadequate intake of protein, iron, zinc, and other essential nutrients can lead to hair loss and thinning. Protein is crucial for hair growth, while iron and zinc support healthy hair follicles and scalp.<\/li><li><strong>Brittle and Dry Hair:<\/strong> Insufficient intake of essential fatty acids, vitamins A and E, and biotin can result in dry, brittle, and dull hair. These nutrients contribute to hair moisture retention, shine, and strength.<\/li><li><strong>Slow Hair Growth: <\/strong>Nutritional deficiencies, particularly those related to vitamins and minerals like B vitamins, vitamin D, and iron, can slow down hair growth. These nutrients are essential for promoting a healthy hair growth cycle.<\/li><li><strong>Lackluster Hair Color:<\/strong> Nutritional deficiencies, such as copper and vitamin B12 deficiency, can affect hair pigmentation and lead to premature graying or changes in hair color.<\/li><\/ul>"
-          }
-        },
-        "9bd0a787-d0a6-40f1-919e-c604f7835136": {
-          "type": "question",
-          "settings": {
-            "title": "Hormone Disruption",
-            "text": "<p>Hormone disruption can have noticeable effects on both hair and skin health. Hormones play a crucial role in regulating various physiological processes, including those that impact the growth, development, and maintenance of hair and skin.<\/p><p><strong>Skin Health: <\/strong><\/p><ul><li><strong>Acne:<\/strong> Hormonal imbalances, particularly an excess of androgens (male hormones), can contribute to the development of acne. Increased sebum production, changes in skin cell turnover, and inflammation can result in clogged pores and acne breakouts.<\/li><li><strong>Skin Sensitivity: <\/strong>Hormonal fluctuations can make the skin more sensitive and reactive. This can lead to increased redness, irritation, and even conditions like rosacea or dermatitis. <\/li><li><strong>Hyperpigmentation:<\/strong> Hormonal changes, such as those during pregnancy or due to hormonal medications, can trigger the overproduction of melanin, resulting in hyperpigmentation or melasma.<\/li><li><strong>Dryness or Oiliness:<\/strong> Hormonal imbalances can disrupt the skin's natural oil production, leading to either excessively dry or oily skin. This can affect skin hydration and contribute to conditions like dry patches or greasy skin.<\/li><li><strong>Premature Aging:<\/strong> Hormone disruption, particularly a decline in estrogen levels during menopause, can accelerate the aging process of the skin. It can lead to decreased collagen production, loss of skin elasticity, and the appearance of wrinkles and fine lines.<\/li><\/ul><p><strong>Hair Health:<\/strong><\/p><ul><li><strong>Hair Loss:<\/strong> Hormonal imbalances, such as elevated levels of androgens (e.g., dihydrotestosterone or DHT), can contribute to hair loss conditions like androgenetic alopecia. DHT can shrink hair follicles, shorten the hair growth cycle, and lead to thinner and weaker hair.<\/li><li><strong>Excessive Hair Growth:<\/strong> Hormonal imbalances, such as increased levels of androgens, can result in hirsutism, a condition characterized by excessive hair growth in areas typically associated with male pattern hair growth (e.g., the face, chest, and back) in women.<\/li><li><strong>Changes in Hair Texture: <\/strong>Hormonal fluctuations, particularly during pregnancy or menopause, can alter the hair's texture. It can lead to changes like increased dryness, frizz, or changes in curl pattern.<\/li><li><strong>Scalp Conditions: <\/strong>Hormone disruption can contribute to scalp conditions like seborrheic dermatitis or scalp psoriasis, resulting in itchiness, flakiness, and overall scalp discomfort.<\/li><\/ul>"
-          }
-        },
-        "fc09727e-238e-4e21-80c8-97663beb70a9": {
-          "type": "question",
-          "settings": {
-            "title": "Pathogens",
-            "text": "<p>Pathogens are microorganisms, such as bacteria, viruses, and fungi, that can cause infections and diseases. When it comes to hair and skin, pathogens can have various effects depending on the specific microorganism and the area of the body they affect. <\/p><p><strong>Infections:<\/strong> Pathogens can cause infections on the skin or scalp. For example, bacteria like Staphylococcus aureus can cause skin infections, leading to symptoms like redness, swelling, and pus-filled lesions. Fungal infections like ringworm can affect the scalp and cause hair loss or patchy areas of hair thinning. <\/p><p><strong>Inflammation and Irritation:<\/strong> Some pathogens can trigger an immune response in the skin or scalp, resulting in inflammation and irritation. This can lead to symptoms like redness, itching, and discomfort. Conditions like dermatitis or eczema can be caused by an overactive immune response to pathogens or other triggers. <\/p><p><strong>Acne:<\/strong> Certain bacteria, such as Propionibacterium acnes, can contribute to the development of acne. These bacteria reside on the skin and can multiply, leading to clogged pores, inflammation, and the formation of pimples and acne lesions. <\/p><p><strong>Viral Infections: <\/strong>Viruses can also affect the hair and skin. Covid has been associated with hair loss which for most is temporary. Herpes simplex virus can cause cold sores or fever blisters around the lips or mouth. Human papillomavirus (HPV) can cause warts, including common warts that can appear on the hands or feet. <\/p><p><strong>Transmission and Contagion: <\/strong>Pathogens can be contagious and easily spread from person to person through direct contact or contaminated objects. For example, sharing personal items like combs, brushes, or hats can transmit lice or fungal infections like tinea capitis (scalp ringworm). <\/p><p><strong>Our Products: <\/strong>have targeted ingredients with natural antimicrobial properties<\/p>"
-          }
-        },
-        "dcdf4890-a007-4949-97ad-6ddd5b984d3c": {
-          "type": "question",
-          "settings": {
-            "title": "Damaging Chemicals in Cosmetics:",
-            "text": "<p><strong>Parabens:<\/strong> Parabens are preservatives commonly found in cosmetics such as shampoos, conditioners, lotions, and creams. They have been associated with hormone disruption and have been found in breast cancer tumors. Many companies have started to produce paraben-free products in response to these concerns. <\/p><p><strong>Sodium lauryl sulfate (SLS) and sodium laureth sulfate (SLES): <\/strong>These surfactants are commonly used in shampoos, body washes, and facial cleansers to create foam and lather. However, they can strip the skin and hair of natural oils, leading to dryness, irritation, and potential damage. <\/p><p><strong>Formaldehyde and formaldehyde-releasing preservatives:<\/strong> These ingredients, such as DMDM hydantoin, imidazolidinyl urea, and quaternium-15, are often used as preservatives in cosmetic products. They can release formaldehyde, a known human carcinogen, and can cause skin irritation, allergies, and sensitivities. <\/p><p><strong>Fragrances:<\/strong> Synthetic fragrances are widely used in various hair and skincare products. However, they can contain numerous undisclosed chemicals, including phthalates, which have been linked to hormone disruption and allergic reactions.<\/p><p><strong>Alcohol:<\/strong> High concentrations of alcohol, such as ethanol, isopropyl alcohol, or denatured alcohol, are often found in cosmetics like toners and astringents. Alcohol can be drying to the skin and hair, leading to dehydration and irritation. <\/p><p><strong>Mineral oil and petroleum derivatives: <\/strong>These ingredients, such as mineral oil, petrolatum, and paraffinum liquidum, are commonly found in moisturizers, lip balms, and hair products. They can create a barrier on the skin, potentially clogging pores and interfering with the skin's natural functions.<\/p><p><strong>Phthalates:<\/strong> Phthalates are plasticizers used in many cosmetic products, particularly in fragrances and nail polishes. They have been linked to hormone disruption, reproductive issues, and potential adverse effects on the liver, kidneys, and lungs. <\/p><p><strong>Our Products:<\/strong> are all natural and free of known irritants.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1498ec04-0a4a-4ca9-ade3-b9f6bd89d3ce",
-        "011e0b9c-1a13-45e0-94a2-2e9dbc79931d",
-        "b6f84937-ad2b-4be8-956e-ecd50e4de59e",
-        "9dfd635a-ba94-4e70-8b24-c819bdda53fd",
-        "8561de5f-41ce-4467-adb2-ca986165a47d",
-        "f07de5f3-6e67-406f-b054-7ced6deb4de6",
-        "9bd0a787-d0a6-40f1-919e-c604f7835136",
-        "fc09727e-238e-4e21-80c8-97663beb70a9",
-        "dcdf4890-a007-4949-97ad-6ddd5b984d3c"
-      ],
-      "settings": {
-        "reverse": true,
-        "image": "shopify:\/\/shop_images\/Origenere_Hair_Follicle_3fbc0101-d2bc-4380-a44c-ca625ea40045.webp",
-        "as_background": false,
-        "background_color": "#ffffff",
-        "text_color": "#000000"
-      }
-    },
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
-    "2fd4e360-08d6-4281-8725-5cffa7dc0c15": {
-      "type": "fh-section-faq",
-      "blocks": {
-        "dce23cf4-28af-4d7d-b607-d6521a8c2c53": {
-          "type": "question",
-          "settings": {
-            "title": "Antioxidants",
-            "text": "<p>Antioxidants are substances that help protect our cells from the damaging effects of oxidative stress. They work by neutralizing harmful molecules called reactive oxygen species (ROS), which are produced naturally in our bodies and can cause damage to cells, including those in the hair and skin.<\/p><p><strong>Reduces oxidative stress:<\/strong> By neutralizing ROS, antioxidants help reduce the level of oxidative stress in your body. This, in turn, helps protect the cells in your hair follicles and skin from damage. By lowering oxidative stress, antioxidants can help maintain the health and vitality of your hair and skin. <\/p><p><strong>Promotes healthy hair growth: <\/strong>Antioxidants play a crucial role in supporting healthy hair growth. They protect the cells in your hair follicles, which are responsible for producing new hair strands. By maintaining the health of these cells, antioxidants can help promote optimal hair growth and prevent hair thinning or loss. <\/p><p><strong>Preserves skin youthfulness: <\/strong>Antioxidants are well-known for their anti-aging properties. They help protect the collagen and elastin fibers in your skin, which are responsible for its firmness and elasticity. By preventing oxidative damage to these fibers, antioxidants help maintain a youthful appearance by reducing the appearance of wrinkles, fine lines, and sagging skin. <\/p><p><strong>Brightening skin tone:<\/strong> Antioxidants can also help brighten and even out your skin tone. They inhibit the production of excess melanin, which is responsible for dark spots, hyperpigmentation, and an uneven complexion. By reducing melanin production, antioxidants can help promote a more radiant and uniform skin tone. <\/p><p><strong>Boosting skin barrier function:<\/strong> Antioxidants support the integrity of your skin's natural barrier. They help protect the lipids and proteins that make up the barrier, preventing moisture loss and maintaining hydration. By strengthening the skin barrier, antioxidants help keep your skin moisturized, smooth, and protected from external irritants.<\/p><p><strong>Our products: <\/strong>All of our products provide different ingredients with powerful antioxidants that help repair damage to cellular structures. See each product for specific ingredients. Some examples of antioxidant ingredients we use: olive leaf extract, soy protein, almond leaf extract, bergamot orange peel, limonene peel, Vit C, Vit E.<\/p>"
-          }
-        },
-        "ae0e2e8a-eee6-41a1-ab6f-071bf0f45a99": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Nutrients",
-            "text": "<p><span style=\"text-decoration:underline\"><strong>Essential Vitamins, Minerals and Trace elements:<\/strong><\/span> Our targeted Organonutrients provide cells with essential vitamins, minerals and trace elements. Essential vitamins, minerals, and trace elements play a vital role in maintaining the health of both hair and skin. They contribute to various physiological processes that promote growth, repair, and overall well-being. <\/p><p><strong>Vitamins:<\/strong> <\/p><ul><li><strong>Vitamin A:<\/strong> Promotes the growth and development of skin cells and helps maintain the integrity of the skin barrier. It also supports the production of sebum, an oily substance that moisturizes the scalp and prevents hair from becoming dry and brittle. <\/li><li><strong>B-complex vitamins (Biotin, Niacin, B5, B6, B12):<\/strong> Biotin is particularly important for hair health as it supports the production of keratin, a protein that forms the structural component of hair. Other B vitamins help improve blood circulation to the scalp, ensuring the delivery of oxygen and nutrients necessary for hair growth. They also support the renewal of skin cells and help maintain healthy skin tone. <\/li><li><strong>Vitamin C:<\/strong> A powerful antioxidant that supports collagen synthesis, which is essential for maintaining the elasticity and strength of both skin and hair. It also aids in the absorption of iron, a mineral necessary for hair growth. <\/li><li><strong>Vitamin E:<\/strong> Another antioxidant that protects the skin and hair from damage caused by free radicals. It promotes blood circulation to the scalp, ensuring adequate nutrient supply to the hair follicles. <\/li><\/ul><p><strong>Minerals:<\/strong> <\/p><ul><li><strong>Iron:<\/strong> Essential for proper oxygen transport and utilization throughout the body, including the hair follicles. Iron deficiency (anemia) can lead to hair loss and dull, dry skin. <\/li><li><strong>Zinc:<\/strong> Supports cell division, tissue growth, and repair, contributing to healthy skin and hair. It also plays a role in regulating oil production in the scalp. <\/li><li><strong>Selenium:<\/strong> An antioxidant that helps protect the skin from oxidative damage. It also contributes to scalp health and the normal functioning of the hair follicles. <\/li><\/ul><p><strong>Trace Elements:<\/strong> <\/p><ul><li><strong>Copper:<\/strong> Necessary for the production of melanin, the pigment responsible for hair color. It also supports collagen synthesis and helps maintain the elasticity of the skin. <\/li><li><strong>Silica:<\/strong> A trace mineral that helps strengthen hair strands and maintain healthy skin by promoting the production of collagen and elastin. <\/li><li><strong>Manganese:<\/strong> Assists in the formation of connective tissue and plays a role in maintaining the integrity of the skin and hair.<\/li><li><strong>Iodine: <\/strong>Required for the proper functioning of the thyroid gland, which regulates metabolism. A balanced thyroid function is crucial for healthy hair growth and skin.<\/li><\/ul>"
-          }
-        },
-        "5ca6834d-5692-4743-9d0e-410d3bacb8f7": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Fatty Acids",
-            "text": "<p><strong>Omega-3 Fatty Acids: <\/strong>Omega-3 fatty acids, such as EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid), are essential fats that provide numerous benefits to the skin and hair. They help maintain the integrity of the skin barrier, keeping it moisturized and preventing dryness and irritation. Omega-3 fatty acids also have anti-inflammatory properties, which can help alleviate skin conditions like eczema and psoriasis. For hair, they promote scalp health by reducing inflammation and nourishing hair follicles, leading to stronger and healthier hair growth. <\/p><p><strong>Omega-6 Fatty Acids:<\/strong> Another group of essential fats, omega-6 fatty acids, include linoleic acid and gamma-linolenic acid (GLA). They contribute to the maintenance of the skin's natural moisture barrier, helping to prevent dryness and promoting a supple complexion. GLA, in particular, has been shown to have anti-inflammatory effects and may help manage inflammatory skin conditions like acne.<\/p>"
-          }
-        },
-        "39bd16a7-1435-4059-8714-039177192fb6": {
-          "type": "question",
-          "settings": {
-            "title": "Essential Amino Acids",
-            "text": "<p>to help form Protein Structures: Essential amino acids are the building blocks of proteins, and they play a crucial role in maintaining the health of both hair and skin. These amino acids cannot be synthesized by the body and must be obtained through diet or supplementation<\/p><p><strong>Keratin Formation:<\/strong> Hair is primarily composed of a protein called keratin. Essential amino acids, such as cysteine, methionine, and lysine, are necessary for the synthesis of keratin. Cysteine, in particular, plays a critical role as it contains sulfur, which contributes to the strength and structural integrity of hair strands. Insufficient intake of essential amino acids can lead to weakened hair structure, increased hair breakage, and slower hair growth. <\/p><p><strong>Collagen Production:<\/strong> Collagen is a structural protein that provides strength, elasticity, and firmness to the skin. Essential amino acids like proline, glycine, and hydroxyproline are crucial for the synthesis of collagen. Proline and glycine, in particular, are the most abundant amino acids found in collagen. Adequate intake of these essential amino acids supports collagen production, which helps maintain skin elasticity, promotes wound healing, and reduces the appearance of wrinkles and fine lines. <\/p><p><strong>Tissue Repair and Renewal:<\/strong> Essential amino acids are essential for the repair and renewal of skin cells. When the skin is damaged due to factors like sun exposure, injury, or inflammation, amino acids are needed to support the regeneration of new skin cells. This process is crucial for maintaining healthy and youthful-looking skin. <\/p><p><strong>Antioxidant Defense:<\/strong> Certain essential amino acids, such as cysteine, methionine, and histidine, also act as antioxidants. They help neutralize free radicals, which are unstable molecules that can cause oxidative stress and damage to skin cells. By reducing oxidative stress, essential amino acids contribute to the overall health and appearance of the skin. <\/p><p><strong>Moisture Retention:<\/strong> Some amino acids, such as serine and threonine, play a role in maintaining skin hydration. They help the skin retain moisture, preventing dryness and promoting a healthy and plump complexion.<\/p>"
-          }
-        },
-        "6be5704b-0ff4-4c7d-8c7a-b045daa58050": {
-          "type": "question",
-          "settings": {
-            "title": "Moisture Retaining Lipids and Emollients",
-            "text": "<p>Improve hydration, softness, and overall health.<\/p><p><strong>Skin Health:<\/strong> <\/p><ul><li><strong>Barrier Protection:<\/strong> Moisture-retaining lipids and emollients, such as ceramides, fatty acids, and cholesterol, help strengthen the skin's natural barrier function. They form a protective layer on the skin's surface, preventing excessive moisture loss and shielding it from environmental aggressors. This barrier protection helps maintain skin hydration, suppleness, and resilience.<\/li><li><strong>Hydration:<\/strong> Emollients help to trap and retain moisture in the skin by forming a barrier that slows down water evaporation. This hydration effect improves skin elasticity and prevents dryness, flakiness, and roughness.<\/li><li><strong>Smoothing and Softening:<\/strong> Emollients fill in gaps and irregularities in the skin's surface, providing a smoother and softer texture. They help to improve the appearance of fine lines and wrinkles, making the skin look more youthful and radiant.<\/li><\/ul><p><strong>Hair Health:<\/strong> <\/p><ul><li><strong>Moisture Retention:<\/strong> Moisture-retaining lipids and emollients play a crucial role in maintaining the hydration balance of the hair. They help to prevent water loss from the hair shaft, keeping it moisturized, flexible, and less prone to breakage. This is particularly important for individuals with dry, damaged, or chemically treated hair.<\/li><li><strong>Detangling and Manageability:<\/strong> Emollients coat the hair shaft, reducing friction and facilitating easy detangling. This leads to improved manageability, reduced hair breakage, and less hair loss during styling or combing.<\/li><li><strong>Enhancing Shine and Smoothness:<\/strong> Emollients impart a silky texture to the hair, enhancing its shine and smoothness. They help to seal the hair cuticle, reducing frizz, flyaways, and static electricity. <\/li><li><strong>Protection against Heat and Environmental Damage:<\/strong> Emollients can provide a protective barrier on the hair surface, shielding it from the damaging effects of heat styling tools, UV radiation, and environmental pollutants. This helps to maintain the hair's integrity, color, and overall health.<\/li><\/ul>"
-          }
-        }
-      },
-      "block_order": [
-        "dce23cf4-28af-4d7d-b607-d6521a8c2c53",
-        "ae0e2e8a-eee6-41a1-ab6f-071bf0f45a99",
-        "5ca6834d-5692-4743-9d0e-410d3bacb8f7",
-        "39bd16a7-1435-4059-8714-039177192fb6",
-        "6be5704b-0ff4-4c7d-8c7a-b045daa58050"
-      ],
-      "settings": {
-        "reverse": true,
-        "image": "shopify:\/\/shop_images\/Origenere_Skin_Cells.webp",
-        "as_background": true,
-        "background_color": "#ffffff",
-        "text_color": "#000000"
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -365,7 +203,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/The_Science4.webp"
+        "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
     }
   },
@@ -374,10 +212,6 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "adb572db-112e-4a17-bd04-9e6cef093e6c",
-    "e7c60625-6a48-44b5-9486-98ff48aeb59a",
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
-    "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
