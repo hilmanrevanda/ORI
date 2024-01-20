@@ -484,7 +484,7 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/9.png",
-        "image_mask": "rounded",
+        "image_mask": "square",
         "image2": "shopify:\/\/shop_images\/SempreSawPalmettoVitamins01.jpg",
         "image2_mask": "portrait",
         "subtitle": "LAUNCHING FEBRUARY 2024",
