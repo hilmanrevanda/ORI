@@ -496,7 +496,7 @@
         "align_text": "center",
         "image_width": "50",
         "layout": "right",
-        "alt": false,
+        "alt": true,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
