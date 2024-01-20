@@ -45,19 +45,22 @@
         "collection2": {
           "type": "collection",
           "settings": {
-            "collection": "buongiorno"
+            "collection": "buongiorno",
+            "image": "shopify:\/\/shop_images\/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
           }
         },
         "collection3": {
           "type": "collection",
           "settings": {
-            "collection": "arancio"
+            "collection": "arancio",
+            "image": "shopify:\/\/shop_images\/IMG_0293-2.jpg"
           }
         },
         "collection4": {
           "type": "collection",
           "settings": {
-            "collection": "nero"
+            "collection": "nero",
+            "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Website.jpg"
           }
         }
       },
