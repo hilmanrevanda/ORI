@@ -1,1 +1,69 @@
-{"sections":{"main":{"type":"article-template","settings":{}},"blog-posts":{"type":"blog-posts","settings":{"title":"You may also like"}}},"order":["main","blog-posts"]}
+{
+  "sections": {
+    "main": {
+      "type": "article-template",
+      "settings": {
+        "blog_show_image": true,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "social_sharing_blog": true
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "blog": "",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "advanced_content_cq7Dbh": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_CjqxNq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3204.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_JF8kiT": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>SHOP NATURALE HAIRCARE FOR THINNING HAIR<\/h2><p>Forumlated by physicians & infused with Sage.<\/h2><p>All-Natural botanicals, Made in Italy<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_CjqxNq",
+        "liquid_JF8kiT"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "blog-posts",
+    "advanced_content_cq7Dbh"
+  ]
+}
