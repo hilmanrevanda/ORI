@@ -6,8 +6,8 @@
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
           "type": "image",
           "settings": {
-            "title": "PHYSICIAN ALL-NATURAL FORMULATED BOTANICALS",
-            "title_size": 56,
+            "title": "PHYSICIAN FORMULATED ALL-NATURAL BOTANICALS",
+            "title_size": 49,
             "subheading": "DISCOVER ORIGENERE ORGANONUTRIENTS",
             "link": "shopify:\/\/pages\/about-us",
             "link_text": "LEARN MORE",
@@ -281,13 +281,14 @@
         "timer_Bzttmw",
         "button_q96FPq"
       ],
+      "disabled": true,
       "settings": {
         "layout": "banner",
         "full_width": true,
         "text_color": "#ffffff",
-        "background_color": "#FFF",
+        "background_color": "#ffffff",
         "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": true
       }
