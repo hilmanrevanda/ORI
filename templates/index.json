@@ -313,20 +313,6 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
-        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
-        "featured_text": "Featured",
-        "home_featured_products": "hair-care-frontpage",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -459,6 +445,21 @@
         "btn_right_url": "shopify:\/\/collections\/arancio"
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
+        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
+        "featured_text": "Featured",
+        "home_featured_products": "hair-care-frontpage",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
@@ -513,10 +514,10 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "scrolling-text",
     "fh-section-product-category-grid",
-    "featured-collection",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
+    "featured-collection",
     "text-and-image",
     "fh-section-cta",
     "caf600f6-2bd2-46cc-8076-f53799e06c49"
