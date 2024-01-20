@@ -555,6 +555,28 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/9.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/SempreSawPalmettoVitamins01.jpg",
+        "image2_mask": "none",
+        "subtitle": "LAUNCHING FEBRUARY 204",
+        "title": "NEW VITAMIN FORMULA",
+        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -571,6 +593,7 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "text_and_image_MHzh9j"
   ]
 }
