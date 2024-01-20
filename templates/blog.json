@@ -19,8 +19,8 @@
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
       "settings": {
-        "title": "Blog posts",
-        "blog": "news",
+        "title": "BLOG LIBRARY",
+        "blog": "ingredient-spotlight",
         "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": true,
