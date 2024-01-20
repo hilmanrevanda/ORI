@@ -243,56 +243,6 @@
         "mobile_size": 30
       }
     },
-    "countdown_7nKyJA": {
-      "type": "countdown",
-      "blocks": {
-        "content_PqfPDe": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE LAUNCH",
-            "heading_size": "h2",
-            "text": "<p>Sempre Organonutrients for Hair Growth. Launching February 2024<\/p>",
-            "content_alignment": "left"
-          }
-        },
-        "timer_Bzttmw": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": "<p>INTRODUCING SEMPRE ORGANONUTRIENTS<\/p>"
-          }
-        },
-        "button_q96FPq": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
-            "button": "Shop Collection",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_PqfPDe",
-        "timer_Bzttmw",
-        "button_q96FPq"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -502,6 +452,55 @@
         "lazyload_images": true
       }
     },
+    "countdown_7nKyJA": {
+      "type": "countdown",
+      "blocks": {
+        "content_PqfPDe": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE LAUNCH",
+            "heading_size": "h2",
+            "text": "<p>Sempre Organonutrients for Hair Growth. Launching February 2024<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_Bzttmw": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>INTRODUCING SEMPRE ORGANONUTRIENTS<\/p>"
+          }
+        },
+        "button_q96FPq": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_PqfPDe",
+        "timer_Bzttmw",
+        "button_q96FPq"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
     "0538ae71-f903-4444-84a7-d7fb94248ea3": {
       "type": "fh-section-products-grid",
       "settings": {
@@ -583,13 +582,13 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e",
     "hero-animated",
-    "countdown_7nKyJA",
     "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_MHzh9j",
+    "countdown_7nKyJA",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
