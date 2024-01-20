@@ -505,6 +505,54 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "countdown_7nKyJA": {
+      "type": "countdown",
+      "blocks": {
+        "content_PqfPDe": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE LAUNCH",
+            "heading_size": "h2",
+            "text": "<p>Sempre Organonutrients for Hair Growth. Launching February 2024<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_Bzttmw": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "02",
+            "day": "1",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": "<p>INTRODUCING SEMPRE ORGANONUTRIENTS<\/p>"
+          }
+        },
+        "button_q96FPq": {
+          "type": "button",
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_PqfPDe",
+        "timer_Bzttmw",
+        "button_q96FPq"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000",
+        "background_color": "#FFF",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -520,6 +568,7 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "countdown_7nKyJA"
   ]
 }
