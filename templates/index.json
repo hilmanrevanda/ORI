@@ -3,20 +3,6 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "UNLOCK THE POWER OF YOUR DNA",
-            "title_size": 64,
-            "subheading": "DISCOVER OUR HAIRCARE COLLECTIONS",
-            "link": "shopify:\/\/collections\/hair-care-frontpage",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8519-5.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8519-5.jpg"
-          }
-        },
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
           "type": "image",
           "settings": {
@@ -31,18 +17,18 @@
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
             "title": "UNLOCK THE POWER OF YOUR DNA",
-            "title_size": 62,
-            "subheading": "Want to transform your hair and skin?",
-            "link": "shopify:\/\/collections",
+            "title_size": 64,
+            "subheading": "DISCOVER OUR HAIRCARE COLLECTIONS",
+            "link": "shopify:\/\/collections\/hair-care-frontpage",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8193-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8193-2.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_8519-5.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8519-5.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -55,8 +41,22 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Science_2.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9269-4_abf868cc-b07c-4971-aa4f-72bed216c3a8.jpg"
+          }
+        },
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "UNLOCK THE POWER OF YOUR DNA",
+            "title_size": 62,
+            "subheading": "Want to transform your hair and skin?",
+            "link": "shopify:\/\/collections",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_8193-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8193-2.jpg"
           }
         },
         "8f6c71e8-494a-4fd5-b7b2-37707e4a086c": {
@@ -75,10 +75,10 @@
         }
       },
       "block_order": [
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e",
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "8f6c71e8-494a-4fd5-b7b2-37707e4a086c"
       ],
       "settings": {
