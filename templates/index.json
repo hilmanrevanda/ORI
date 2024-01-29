@@ -3,6 +3,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "image_hEMipE": {
+          "type": "image",
+          "settings": {
+            "title": "30% OFF \nNATURALE HAIRCARE FOR THIINNING HAIR",
+            "title_size": 46,
+            "subheading": "SAVE ON YOUR FAVORITES",
+            "link": "shopify:\/\/collections\/naturale",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -58,27 +72,14 @@
             "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "30% OFF NATURALE HAIRCARE FOR THIINNING HAIR",
-            "title_size": 46,
-            "subheading": "STOCK UP OUR HAIRCARE",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_3777.jpg"
-          }
         }
       },
       "block_order": [
+        "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "10175eb0-c715-4e62-b5a7-f21b1626da4e",
-        "image_hEMipE"
+        "10175eb0-c715-4e62-b5a7-f21b1626da4e"
       ],
       "settings": {
         "style": "arrows",
