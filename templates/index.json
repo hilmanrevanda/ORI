@@ -59,18 +59,17 @@
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
-        "8f6c71e8-494a-4fd5-b7b2-37707e4a086c": {
+        "image_hEMipE": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "title": "ELEVATE YOUR SELF CARE RITUALS",
-            "title_size": 55,
-            "subheading": "WITH OUR ALL-NATURAL HAIR & SKINCARE COLLECTIONS",
-            "link": "shopify:\/\/pages\/our-products",
-            "link_text": "SHOP HAIR & SKINCARE",
+            "title": "30% OFF NATURALE HAIRCARE FOR THIINNING HAIR",
+            "title_size": 46,
+            "subheading": "STOCK UP OUR HAIRCARE",
+            "link": "shopify:\/\/collections\/naturale",
+            "link_text": "Optional button",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2825-3.jpg"
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         }
       },
@@ -79,7 +78,7 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e",
-        "8f6c71e8-494a-4fd5-b7b2-37707e4a086c"
+        "image_hEMipE"
       ],
       "settings": {
         "style": "arrows",
@@ -184,6 +183,11 @@
     "hero-animated": {
       "type": "hero-animated",
       "blocks": {
+        "image_wK8UN9": {
+          "type": "image",
+          "settings": {
+          }
+        },
         "3881c249-cc13-4516-a414-61b309aeda28": {
           "type": "image",
           "settings": {
@@ -221,6 +225,7 @@
         }
       },
       "block_order": [
+        "image_wK8UN9",
         "3881c249-cc13-4516-a414-61b309aeda28",
         "hero-animated-0",
         "fcf57919-403d-4cdb-8ed0-aebcff1a6cac",
