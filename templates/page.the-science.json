@@ -327,22 +327,6 @@
         "has_icon": false
       }
     },
-    "blog_posts_YGW6BY": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOGS",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": true,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
       "type": "text-with-icons",
       "blocks": {
@@ -383,6 +367,22 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/The_Science4.webp"
       }
+    },
+    "blog_posts_YGW6BY": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOGS",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": true,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
     }
   },
   "order": [
@@ -395,7 +395,7 @@
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "blog_posts_YGW6BY",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "blog_posts_YGW6BY"
   ]
 }
