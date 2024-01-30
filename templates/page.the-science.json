@@ -93,6 +93,47 @@
         "background_color": "#ffffff"
       }
     },
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "",
+            "text": "<h3><strong>RESEARCH LABORATORY RESULTS<\/strong><\/h3><p>(Naturale for Thinning Hair) Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
+          }
+        },
+        "02158237-3859-400a-9303-44a34ad7c801": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "",
+            "text": "<h3><strong>THIRD PARTY CLINICAL STUDY<\/strong><\/h3><p><strong>(Naturale for Thinning Hair) After just 4 weeks of using, the majority of clients noted: <\/strong><\/p><p><strong>THICKER HAIR<\/strong><\/p><p><strong>LESS HAIR SHEDDING<\/strong><\/p><p><strong>STRONGER HAIR<\/strong><\/p><p><strong>REDUCTION IN SCALP DRYNESS<\/strong><\/p><p><strong>LESS HAIR BREAKAGE<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
+        "02158237-3859-400a-9303-44a34ad7c801"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+        "title": "BACKED BY SCIENCE",
+        "align_text": "center",
+        "desktop_columns_per_row": 2,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/The_Science4.webp"
+      }
+    },
     "adb572db-112e-4a17-bd04-9e6cef093e6c": {
       "type": "fh-section-richtext",
       "custom_css": [
@@ -327,47 +368,6 @@
         "has_icon": false
       }
     },
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>RESEARCH LABORATORY RESULTS<\/strong><\/h3><p>(Naturale for Thinning Hair) Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
-          }
-        },
-        "02158237-3859-400a-9303-44a34ad7c801": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>THIRD PARTY CLINICAL STUDY<\/strong><\/h3><p><strong>(Naturale for Thinning Hair) After just 4 weeks of using, the majority of clients noted: <\/strong><\/p><p><strong>THICKER HAIR<\/strong><\/p><p><strong>LESS HAIR SHEDDING<\/strong><\/p><p><strong>STRONGER HAIR<\/strong><\/p><p><strong>REDUCTION IN SCALP DRYNESS<\/strong><\/p><p><strong>LESS HAIR BREAKAGE<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
-        "02158237-3859-400a-9303-44a34ad7c801"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-        "title": "BACKED BY SCIENCE",
-        "align_text": "center",
-        "desktop_columns_per_row": 2,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/The_Science4.webp"
-      }
-    },
     "blog_posts_YGW6BY": {
       "type": "blog-posts",
       "settings": {
@@ -390,12 +390,12 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "blog_posts_YGW6BY"
   ]
 }
