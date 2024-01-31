@@ -307,12 +307,12 @@
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_8193.jpg",
+        "image_left": "shopify:\/\/shop_images\/IMG_2918.jpg",
         "heading_left": "HAIRCARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/MaleHandArancioFaceCream.jpg",
+        "image_right": "shopify:\/\/shop_images\/Arancio_Skincare_Porsche.jpg",
         "heading_right": "SKINCARE",
         "description_right": "",
         "btn_right_text": "SHOP NOW",
