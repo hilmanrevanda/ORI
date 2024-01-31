@@ -101,9 +101,9 @@
         "layout": "banner",
         "full_width": true,
         "text_color": "#ffffff",
-        "background_color": "#FFF",
+        "background_color": "#ffffff",
         "background_image": "shopify:\/\/shop_images\/Origenere_Sempre.png",
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": true
       }
@@ -290,6 +290,35 @@
         "alt": false,
         "lazyload_images": true
       }
+    },
+    "slideshow_wwmUEb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XdtEEK": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE ORGANONUTRIENTS",
+            "title_size": 62,
+            "subheading": "NEW PRODUCTS LAUNCHING FEBRUARY & SPRING 2024",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_XdtEEK"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -300,6 +329,7 @@
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "advanced_content_DtyJpi"
+    "advanced_content_DtyJpi",
+    "slideshow_wwmUEb"
   ]
 }
