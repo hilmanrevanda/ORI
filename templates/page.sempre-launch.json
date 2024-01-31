@@ -243,6 +243,7 @@
         "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
         "02158237-3859-400a-9303-44a34ad7c801"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -257,6 +258,53 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
+    },
+    "featured_product_7JdrYw": {
+      "type": "featured-product",
+      "blocks": {
+        "price_y6kfki": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_XaYhmg": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_8Y4aaJ": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_YeyRYY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_y6kfki",
+        "description_XaYhmg",
+        "variant_picker_8Y4aaJ",
+        "buy_buttons_YeyRYY"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
+        "product_image_size": "small",
+        "product_image_type": "stacked",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -266,6 +314,7 @@
     "countdown_AMTkp9",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "featured_product_7JdrYw"
   ]
 }
