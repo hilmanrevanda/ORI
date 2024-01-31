@@ -7,7 +7,7 @@
       ],
       "settings": {
         "collection_image_enable": true,
-        "description_enable": false
+        "description_enable": true
       }
     },
     "17963223-eb24-4df2-9397-4fc60583858d": {
@@ -42,12 +42,60 @@
       ],
       "settings": {
       }
+    },
+    "featured_product_L7Dx8a": {
+      "type": "featured-product",
+      "blocks": {
+        "price_QTTXic": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_ADFywc": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_zUXy8V": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_GHKEUw": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_QTTXic",
+        "description_ADFywc",
+        "variant_picker_zUXy8V",
+        "buy_buttons_GHKEUw"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
+        "product_image_size": "small",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
     "collection-header",
     "17963223-eb24-4df2-9397-4fc60583858d",
     "collection-filters",
-    "main-collection"
+    "main-collection",
+    "featured_product_L7Dx8a"
   ]
 }
