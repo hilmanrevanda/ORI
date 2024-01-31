@@ -62,7 +62,7 @@
     "social_instagram_link": "https:\/\/www.instagram.com\/origenere",
     "social_facebook_link": "https:\/\/www.facebook.com\/Origenere\/",
     "social_twitter_link": "",
-    "social_pinterest_link": "",
+    "social_pinterest_link": "https:\/\/www.google.com\/search?q=origenere+pinterest&rlz=1C5CHFA_enUS986US988&oq=origenere+pinterest&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDMwOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
     "social_snapchat_link": "",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@origenere",
     "social_tumblr_link": "",
@@ -698,5 +698,10 @@
       "checkout_call_to_action_color": "#a26b25",
       "checkout_use_header_image": false
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
   }
 }
