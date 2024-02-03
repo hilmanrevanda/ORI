@@ -48,10 +48,21 @@
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
+        },
+        "text_block_DnpNGd": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png",
+            "text": "<p>Candle & Bath Salts<\/p>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "9a5aef13-6981-4512-bb36-b707bab54b3b"
+        "9a5aef13-6981-4512-bb36-b707bab54b3b",
+        "text_block_DnpNGd"
       ],
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
