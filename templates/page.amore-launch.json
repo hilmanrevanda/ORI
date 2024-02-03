@@ -36,6 +36,55 @@
         "lazyload_images": true
       }
     },
+    "countdown_AMTkp9": {
+      "type": "countdown",
+      "blocks": {
+        "content_HzQmVF": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE LAUNCH",
+            "heading_size": "h2",
+            "text": "",
+            "content_alignment": "left"
+          }
+        },
+        "timer_eq6Ji9": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "02",
+            "day": "8",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_6yqzbb": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/amore-self-care",
+            "button": "PRE-ORDER",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_HzQmVF",
+        "timer_eq6Ji9",
+        "button_6yqzbb"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify:\/\/shop_images\/Valente_Candle_2.png",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -68,55 +117,6 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-      }
-    },
-    "countdown_AMTkp9": {
-      "type": "countdown",
-      "blocks": {
-        "content_HzQmVF": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE LAUNCH",
-            "heading_size": "h2",
-            "text": "",
-            "content_alignment": "left"
-          }
-        },
-        "timer_eq6Ji9": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_6yqzbb": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-            "button": "PRE-ORDER",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_HzQmVF",
-        "timer_eq6Ji9",
-        "button_6yqzbb"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
       }
     },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
@@ -335,8 +335,8 @@
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
-    "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "countdown_AMTkp9",
+    "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
