@@ -1,0 +1,335 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE HAIR GROWTH COLLECTION",
+            "title_size": 42,
+            "subheading": "Let nature guide your metamorphosis with Sempre all-natural Hair Growth products. ",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Sempre.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -20,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
+      "type": "fh-section-custom-list-richtext",
+      "blocks": {
+        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/SempreSawPalmettoVitamins01.jpg",
+            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "9a5aef13-6981-4512-bb36-b707bab54b3b"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+      }
+    },
+    "countdown_AMTkp9": {
+      "type": "countdown",
+      "blocks": {
+        "content_HzQmVF": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE LAUNCH",
+            "heading_size": "h2",
+            "text": "",
+            "content_alignment": "left"
+          }
+        },
+        "timer_eq6Ji9": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "02",
+            "day": "24",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_6yqzbb": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+            "button": "PRE-ORDER",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_HzQmVF",
+        "timer_eq6Ji9",
+        "button_6yqzbb"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre.png",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
+      "type": "rich-text",
+      "blocks": {
+        "848977ff-6252-4e05-989d-8584e771108f": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Helix.png"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Products Address the Most Common Hair Concerns:"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "848977ff-6252-4e05-989d-8584e771108f",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "icon": "chat",
+            "title": "All Natural Botanical Extracts",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "icon": "chat",
+            "title": "Backed By Science",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "icon": "chat",
+            "title": "Free of Sulfates <br>& Parabens",
+            "text": ""
+          }
+        },
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician <br>Formulated",
+            "text": ""
+          }
+        },
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "chat",
+            "title": "Cruelty <br>Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
+      ],
+      "settings": {
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/IMG_3306.jpg"
+      }
+    },
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "",
+            "text": "<h3><strong>RESEARCH LABORATORY RESULTS<\/strong><\/h3><p>(Naturale for Thinning Hair) Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
+          }
+        },
+        "02158237-3859-400a-9303-44a34ad7c801": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "",
+            "text": "<h3><strong>THIRD PARTY CLINICAL STUDY<\/strong><\/h3><p><strong>(Naturale for Thinning Hair) After just 4 weeks of using, the majority of clients noted: <\/strong><\/p><p><strong>THICKER HAIR<\/strong><\/p><p><strong>LESS HAIR SHEDDING<\/strong><\/p><p><strong>STRONGER HAIR<\/strong><\/p><p><strong>REDUCTION IN SCALP DRYNESS<\/strong><\/p><p><strong>LESS HAIR BREAKAGE<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
+        "02158237-3859-400a-9303-44a34ad7c801"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+        "title": "BACKED BY SCIENCE",
+        "align_text": "center",
+        "desktop_columns_per_row": 2,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
+      }
+    },
+    "advanced_content_DtyJpi": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_dz9mHD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/origenere-sempre-box-2024v2.jpg",
+            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qVKecE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Pre-Order our New Vitamins<\/h2><p>Sempre hair growth Organonutrients<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_dz9mHD",
+        "liquid_qVKecE"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_wwmUEb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XdtEEK": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE ORGANONUTRIENTS",
+            "title_size": 62,
+            "subheading": "NEW PRODUCTS LAUNCHING FEBRUARY & SPRING 2024",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_XdtEEK"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "e8e433ee-440d-4d90-afb3-b82387ee8444",
+    "countdown_AMTkp9",
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "advanced_content_DtyJpi",
+    "slideshow_wwmUEb"
+  ]
+}
