@@ -112,8 +112,8 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": true,
-        "alt": false,
+        "space_around": false,
+        "alt": true,
         "lazyload_images": true
       }
     },
