@@ -31,20 +31,6 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_8519-5.jpg"
           }
         },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "BOTANICAL BRILLIANCE",
-            "title_size": 64,
-            "subheading": "A Physician's review of Sage",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/ingredient-spotlight-sage",
-            "link_text": "LEARN MORE",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3051.jpg"
-          }
-        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -57,6 +43,20 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Sempre_Organonutrients_Vitamins.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_Organonutrients_Vitamins.jpg"
+          }
+        },
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "BOTANICAL BRILLIANCE",
+            "title_size": 64,
+            "subheading": "A Physician's review of Sage",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/ingredient-spotlight-sage",
+            "link_text": "LEARN MORE",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3051.jpg"
           }
         },
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
@@ -78,8 +78,8 @@
       "block_order": [
         "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e"
       ],
       "settings": {
@@ -440,9 +440,7 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/9.png",
         "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/SempreSawPalmettoVitamins01.jpg",
         "image2_mask": "portrait",
         "subtitle": "LAUNCHING FEBRUARY 2024",
         "title": "NEW VITAMIN FORMULA",
