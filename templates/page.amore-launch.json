@@ -12,15 +12,15 @@
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
-            "title": "AMORE SELF LOVE COLLECTION",
+            "title": "AMORE LIMITED EDITION COLLABORATION",
             "title_size": 42,
-            "subheading": "COMING SOON | FEBRUARY 2024",
+            "subheading": "ORIGENERE X YAZAMIN",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/18_a8eecd5f-0911-47e9-825f-9dbe64c4567c.png",
-            "image_mobile": "shopify:\/\/shop_images\/18_a8eecd5f-0911-47e9-825f-9dbe64c4567c.png"
+            "image": "shopify:\/\/shop_images\/Amore_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Amore_1_dbe79948-e635-4fe4-8614-db36fea0bc5f.png"
           }
         }
       },
@@ -82,6 +82,38 @@
         "background_image": "shopify:\/\/shop_images\/Valente_Candle_2.png",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_Xqq46x": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_hkqEtH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_wyPTwP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_hkqEtH",
+        "liquid_wyPTwP"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
         "lazyload_images": true
       }
     },
@@ -336,6 +368,7 @@
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "countdown_AMTkp9",
+    "advanced_content_Xqq46x",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
