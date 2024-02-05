@@ -117,6 +117,38 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_KV4pky": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_k4gYE6": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>FEATURED ARTIST<\/h2><p>Learn more about Yazamin.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_VfbakC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Valente_Candle.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_k4gYE6",
+        "image_VfbakC"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "alt": true,
+        "lazyload_images": true
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -369,6 +401,7 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "countdown_AMTkp9",
     "advanced_content_Xqq46x",
+    "advanced_content_KV4pky",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
