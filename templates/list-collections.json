@@ -40,7 +40,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/VIOLA_-_ARCHIVE.png",
+            "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
             "heading": "SEMPRE  HAIR GROWTH COLLECTION",
             "description": "LAUNCHING FEBRUARY 2024",
             "btn_text": "LEARN MORE",
@@ -51,6 +51,7 @@
         },
         "text_block_rAiiij": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/18.png",
