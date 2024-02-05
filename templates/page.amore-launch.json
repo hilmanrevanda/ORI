@@ -150,6 +150,34 @@
         "lazyload_images": true
       }
     },
+    "rich_text_UaXc6U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9C3UCq": {
+          "type": "heading",
+          "settings": {
+            "title": "AMORE LIMITED EDITION COLLABORATION: ORIGENERE X YAZAMIN"
+          }
+        },
+        "text_rxCB8k": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>Turn your self care into a love affair with Origenere. Our Amore collection include handcrafted candles and bath salts that complement our products to elevate your experience. Amore is self care.<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9C3UCq",
+        "text_rxCB8k"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#a50034"
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -165,6 +193,7 @@
         },
         "9a5aef13-6981-4512-bb36-b707bab54b3b": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/12_59e15b93-9210-4bd7-ba81-e91244910f71.png",
@@ -180,6 +209,25 @@
       ],
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+      }
+    },
+    "fh_section_custom_list_richtext_YDLDM9": {
+      "type": "fh-section-custom-list-richtext",
+      "blocks": {
+        "text_block_L9NQ4m": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L9NQ4m"
       ],
       "settings": {
       }
@@ -403,7 +451,9 @@
     "countdown_AMTkp9",
     "advanced_content_Xqq46x",
     "advanced_content_KV4pky",
+    "rich_text_UaXc6U",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
+    "fh_section_custom_list_richtext_YDLDM9",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
