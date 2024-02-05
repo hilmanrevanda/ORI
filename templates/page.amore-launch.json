@@ -82,6 +82,7 @@
         "background_image": "shopify:\/\/shop_images\/Amore_1_dbe79948-e635-4fe4-8614-db36fea0bc5f.png",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
+        "mobile_image": "shopify:\/\/shop_images\/Amore_1_dbe79948-e635-4fe4-8614-db36fea0bc5f.png",
         "lazyload_images": true
       }
     },
@@ -152,6 +153,16 @@
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
+        "text_block_DnpNGd": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png",
+            "text": "<h3>A crescent moon rises in Milan, the city of mystique and cobblestone streets. A trail of tobacco, desire, and lovers bloom in the night, like jasmine the scent of dreams emerges from the unseen of our psyche. We pause, the best part of our story is yet to come.<\/h3>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
         "9a5aef13-6981-4512-bb36-b707bab54b3b": {
           "type": "text_block",
           "settings": {
@@ -161,21 +172,11 @@
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
-        },
-        "text_block_DnpNGd": {
-          "type": "text_block",
-          "settings": {
-            "reverse": true,
-            "image": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png",
-            "text": "<p>Candle & Bath Salts<\/p>",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
-          }
         }
       },
       "block_order": [
-        "9a5aef13-6981-4512-bb36-b707bab54b3b",
-        "text_block_DnpNGd"
+        "text_block_DnpNGd",
+        "9a5aef13-6981-4512-bb36-b707bab54b3b"
       ],
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
@@ -280,6 +281,7 @@
         "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
         "c700a74e-9fcb-4a24-a738-d07a5fc07792"
       ],
+      "disabled": true,
       "settings": {
         "title": "OUR PROMISE",
         "align_text": "center",
@@ -318,7 +320,6 @@
         "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
         "02158237-3859-400a-9303-44a34ad7c801"
       ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -331,7 +332,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
+        "background_image": "shopify:\/\/shop_images\/Vitalita_candle.png"
       }
     },
     "advanced_content_DtyJpi": {
