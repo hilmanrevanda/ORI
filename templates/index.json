@@ -440,6 +440,7 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
         "image_mask": "square",
         "image2_mask": "portrait",
         "subtitle": "LAUNCHING FEBRUARY 2024",
