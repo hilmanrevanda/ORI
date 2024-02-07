@@ -446,7 +446,7 @@
         "subtitle": "LAUNCHING FEBRUARY 2024",
         "title": "NEW VITAMIN FORMULA",
         "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
-        "button_label": "PRE-ORDER NOW",
+        "button_label": "SHOP NOW",
         "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
         "button_style": "secondary",
         "align_text": "center",
@@ -506,6 +506,20 @@
         "overlay_opacity": 0,
         "mobile_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
         "lazyload_images": true
+      }
+    },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP & SAVE WITH OUR BUNDLES",
+        "description": "OUR BEST SELLING HAIR & SKIN CARE",
+        "featured_text": "",
+        "home_featured_products": "origenere-hair-skin-care-sets",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "0538ae71-f903-4444-84a7-d7fb94248ea3": {
@@ -569,20 +583,6 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
-    },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SHOP & SAVE WITH OUR BUNDLES",
-        "description": "OUR BEST SELLING HAIR & SKIN CARE",
-        "featured_text": "",
-        "home_featured_products": "origenere-hair-skin-care-sets",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
     }
   },
   "order": [
@@ -596,10 +596,10 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_MHzh9j",
     "countdown_7nKyJA",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
-    "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "fh-section-cta"
   ]
 }
