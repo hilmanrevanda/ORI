@@ -583,6 +583,21 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "hero_video_3ppTrD": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless auto-playing hero videos",
+        "link_text": "SHOP NOW",
+        "link": "shopify:\/\/pages\/sempre-hairgrowth",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/910580969?share=copy",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -600,6 +615,7 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "hero_video_3ppTrD"
   ]
 }
