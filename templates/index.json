@@ -17,18 +17,18 @@
             "image_mobile": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg"
           }
         },
-        "image_hEMipE": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "NATURALLY REVITALIZE THINNING HAIR",
-            "title_size": 47,
-            "subheading": "NATURALE HAIR CARE",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "SHOP NOW",
+            "title": "BOTANICAL BRILLIANCE",
+            "title_size": 64,
+            "subheading": "On our blog: A Physician's review of Saw Palmetto",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto",
+            "link_text": "READ OUR BLOG",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_3306.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
@@ -45,18 +45,18 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_8519-5.jpg"
           }
         },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+        "image_hEMipE": {
           "type": "image",
           "settings": {
-            "title": "BOTANICAL BRILLIANCE",
-            "title_size": 64,
-            "subheading": "On our blog: A Physician's review of Saw Palmetto",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto",
-            "link_text": "READ OUR BLOG",
+            "title": "NATURALLY REVITALIZE THINNING HAIR",
+            "title_size": 47,
+            "subheading": "NATURALE HAIR CARE",
+            "link": "shopify:\/\/collections\/naturale",
+            "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3306.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
@@ -77,9 +77,9 @@
       },
       "block_order": [
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_hEMipE",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "image_hEMipE",
         "10175eb0-c715-4e62-b5a7-f21b1626da4e"
       ],
       "settings": {
