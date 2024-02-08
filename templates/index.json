@@ -50,13 +50,13 @@
           "settings": {
             "title": "BOTANICAL BRILLIANCE",
             "title_size": 64,
-            "subheading": "A Physician's review of Sage",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/ingredient-spotlight-sage",
-            "link_text": "LEARN MORE",
+            "subheading": "On our blog: A Physician's review of Saw Palmetto",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto",
+            "link_text": "READ OUR BLOG",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3051.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_3306.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
           }
         },
         "10175eb0-c715-4e62-b5a7-f21b1626da4e": {
