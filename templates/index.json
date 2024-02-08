@@ -583,6 +583,22 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
+    },
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
     }
   },
   "order": [
@@ -600,6 +616,7 @@
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
-    "fh-section-cta"
+    "fh-section-cta",
+    "blog_posts_Y9fLMP"
   ]
 }
