@@ -65,7 +65,7 @@
             "title": "Amore - From Nature, With Love",
             "title_size": 56,
             "subheading": "Turn your self care into a love affair with Origenere",
-            "link": "shopify:\/\/pages\/amore-friday",
+            "link": "shopify:\/\/pages\/amore-selfcare",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
