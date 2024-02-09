@@ -342,12 +342,6 @@
           "settings": {
           }
         },
-        "description_Cwwa3W": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
         "variant_picker_bc8eLW": {
           "type": "variant_picker",
           "settings": {
@@ -367,14 +361,13 @@
       },
       "block_order": [
         "price_T7z98m",
-        "description_Cwwa3W",
         "variant_picker_bc8eLW",
         "buy_buttons_wqYdXW"
       ],
       "settings": {
-        "featured_product": "",
+        "featured_product": "valente-self-care-set",
         "product_image_size": "medium",
-        "product_image_type": "stacked",
+        "product_image_type": "slider",
         "product_zoom_enable": false,
         "enable_video_looping": true,
         "product_video_style": "muted",
