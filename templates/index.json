@@ -3,18 +3,19 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+        "image_xUam77": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-            "title_size": 49,
-            "subheading": "OUR NEW PHYSICIAN FORMULATED COLLECTION",
-            "link": "shopify:\/\/pages\/sempre-hairgrowth",
+            "title": "AMORE: FROM NATURE WITH LOVE",
+            "title_size": 74,
+            "subheading": "Turn your self care into a love affair with Origenere",
+            "link": "shopify:\/\/pages\/amore-selfcare",
             "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_9623Amore_Red_Rose.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/ValenteWeb5_afd362f0-697c-41d0-bc72-8197c7ace2e6.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -29,6 +30,20 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_3306.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
+          }
+        },
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title_size": 49,
+            "subheading": "OUR NEW PHYSICIAN FORMULATED COLLECTION",
+            "link": "shopify:\/\/pages\/sempre-hairgrowth",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
@@ -58,28 +73,14 @@
             "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
-        },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "AMORE: FROM NATURE WITH LOVE",
-            "title_size": 74,
-            "subheading": "Turn your self care into a love affair with Origenere",
-            "link": "shopify:\/\/pages\/amore-selfcare",
-            "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9623Amore_Red_Rose.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/ValenteWeb5_afd362f0-697c-41d0-bc72-8197c7ace2e6.jpg"
-          }
         }
       },
       "block_order": [
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "image_xUam77",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "image_hEMipE",
-        "image_xUam77"
+        "image_hEMipE"
       ],
       "settings": {
         "style": "arrows",
