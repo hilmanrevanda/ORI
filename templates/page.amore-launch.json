@@ -128,6 +128,13 @@
         "background_color": "#a50034"
       }
     },
+    "fh_section_product_image_grid_ejk9nW": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/11.png",
+        "image_right": "shopify:\/\/shop_images\/VitalitaWeb6_48c069fe-6876-48d7-ae82-54c0b0f28f1e.jpg"
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -143,7 +150,6 @@
         },
         "9a5aef13-6981-4512-bb36-b707bab54b3b": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
             "reverse": false,
             "image": "shopify:\/\/shop_images\/12_59e15b93-9210-4bd7-ba81-e91244910f71.png",
@@ -318,6 +324,7 @@
         "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
         "02158237-3859-400a-9303-44a34ad7c801"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -332,67 +339,6 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/Vitalita_candle.png"
       }
-    },
-    "advanced_content_DtyJpi": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_dz9mHD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/origenere-sempre-box-2024v2.jpg",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_qVKecE": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Pre-Order our New Vitamins<\/h2><p>Sempre hair growth Organonutrients<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_dz9mHD",
-        "liquid_qVKecE"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
-    "slideshow_wwmUEb": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XdtEEK": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE ORGANONUTRIENTS",
-            "title_size": 62,
-            "subheading": "NEW PRODUCTS LAUNCHING FEBRUARY & SPRING 2024",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_XdtEEK"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -401,12 +347,11 @@
     "advanced_content_Xqq46x",
     "advanced_content_KV4pky",
     "rich_text_UaXc6U",
+    "fh_section_product_image_grid_ejk9nW",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fh_section_custom_list_richtext_YDLDM9",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "advanced_content_DtyJpi",
-    "slideshow_wwmUEb"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
   ]
 }
