@@ -102,7 +102,7 @@
         "image_VfbakC": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Valente_Candle.png",
+            "image": "shopify:\/\/shop_images\/Amore_04.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -365,6 +365,35 @@
         "product_video_style": "muted",
         "sku_enable": false
       }
+    },
+    "slideshow_Egf3F4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_cxrpNK": {
+          "type": "image",
+          "settings": {
+            "title": "Complete your Amore Self Care Experience",
+            "title_size": 46,
+            "subheading": "LISTEN TO OUR CURATED PLAYLIST",
+            "link": "",
+            "link_text": "LISTEN TO AMORE PLAYLIST",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/VitalitaWeb6_48c069fe-6876-48d7-ae82-54c0b0f28f1e.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_cxrpNK"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -379,6 +408,7 @@
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "featured_product_yVFaXh",
     "fh_section_product_image_grid_7KriaY",
-    "featured_product_WY6yr7"
+    "featured_product_WY6yr7",
+    "slideshow_Egf3F4"
   ]
 }
