@@ -36,56 +36,6 @@
         "lazyload_images": true
       }
     },
-    "countdown_AMTkp9": {
-      "type": "countdown",
-      "blocks": {
-        "content_HzQmVF": {
-          "type": "content",
-          "settings": {
-            "heading": "AMORE LAUNCH",
-            "heading_size": "h2",
-            "text": "",
-            "content_alignment": "left"
-          }
-        },
-        "timer_eq6Ji9": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "02",
-            "day": "8",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_6yqzbb": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/collections\/amore-self-care",
-            "button": "PRE-ORDER",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_HzQmVF",
-        "timer_eq6Ji9",
-        "button_6yqzbb"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Amore_1_dbe79948-e635-4fe4-8614-db36fea0bc5f.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "mobile_image": "shopify:\/\/shop_images\/Amore_1_dbe79948-e635-4fe4-8614-db36fea0bc5f.png",
-        "lazyload_images": true
-      }
-    },
     "advanced_content_Xqq46x": {
       "type": "advanced-content",
       "blocks": {
@@ -124,7 +74,7 @@
         "liquid_k4gYE6": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>FEATURED ARTIST<\/h2><p>Learn more about Yazamin.<\/p>",
+            "code": "<h2>FEATURED ARTIST<\/h2><p>Yazamin is a content creator, astrologer, occultist teacher, and artist. As an influential voice in the realms of lifestyle and wellness, she's curated a distinctive space that empowers her community to practice holistic beauty. She is here to help people transform from within with quality education on self care and products to help them create their own Venus on Earth. \n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -448,7 +398,6 @@
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
-    "countdown_AMTkp9",
     "advanced_content_Xqq46x",
     "advanced_content_KV4pky",
     "rich_text_UaXc6U",
