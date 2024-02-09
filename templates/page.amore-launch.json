@@ -286,6 +286,46 @@
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/Vitalita_candle.png"
       }
+    },
+    "featured_product_yVFaXh": {
+      "type": "featured-product",
+      "blocks": {
+        "price_r9nJP7": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_zicgig": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_RNC3Vf": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_r9nJP7",
+        "variant_picker_zicgig",
+        "buy_buttons_RNC3Vf"
+      ],
+      "settings": {
+        "featured_product": "vitalita-self-care-set",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -297,6 +337,7 @@
     "fh_section_product_image_grid_ejk9nW",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb"
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "featured_product_yVFaXh"
   ]
 }
