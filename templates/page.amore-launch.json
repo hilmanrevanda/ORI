@@ -322,6 +322,7 @@
     "fh_section_product_image_grid_7KriaY": {
       "type": "fh-section-product-image-grid",
       "settings": {
+        "image_left": "shopify:\/\/shop_images\/ValenteWeb5.jpg",
         "image_right": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png"
       }
     },
