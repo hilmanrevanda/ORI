@@ -326,6 +326,13 @@
         "product_video_style": "muted",
         "sku_enable": false
       }
+    },
+    "fh_section_product_image_grid_7KriaY": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/ValenteWeb2.jpg",
+        "image_right": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png"
+      }
     }
   },
   "order": [
@@ -338,6 +345,7 @@
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "featured_product_yVFaXh"
+    "featured_product_yVFaXh",
+    "fh_section_product_image_grid_7KriaY"
   ]
 }
