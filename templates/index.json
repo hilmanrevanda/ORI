@@ -66,8 +66,8 @@
             "title_size": 56,
             "subheading": "Turn your self care into a love affair with Origenere",
             "link": "shopify:\/\/pages\/amore-friday",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/ValenteWeb5_afd362f0-697c-41d0-bc72-8197c7ace2e6.jpg",
             "image_mobile": "shopify:\/\/shop_images\/ValenteWeb5_afd362f0-697c-41d0-bc72-8197c7ace2e6.jpg"
