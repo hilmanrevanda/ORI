@@ -333,6 +333,53 @@
         "image_left": "shopify:\/\/shop_images\/ValenteWeb2.jpg",
         "image_right": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png"
       }
+    },
+    "featured_product_WY6yr7": {
+      "type": "featured-product",
+      "blocks": {
+        "price_T7z98m": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_Cwwa3W": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_bc8eLW": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_wqYdXW": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_T7z98m",
+        "description_Cwwa3W",
+        "variant_picker_bc8eLW",
+        "buy_buttons_wqYdXW"
+      ],
+      "settings": {
+        "featured_product": "",
+        "product_image_size": "medium",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -346,6 +393,7 @@
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "featured_product_yVFaXh",
-    "fh_section_product_image_grid_7KriaY"
+    "fh_section_product_image_grid_7KriaY",
+    "featured_product_WY6yr7"
   ]
 }
