@@ -74,20 +74,12 @@
         "heading_9C3UCq": {
           "type": "heading",
           "settings": {
-            "title": "AMORE LIMITED EDITION COLLABORATION: ORIGENERE X YAZAMIN"
-          }
-        },
-        "text_rxCB8k": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<h3>Turn your self care into a love affair with Origenere. Our Amore collection include handcrafted candles and bath salts that complement our products to elevate your experience. Amore is self care.<\/h3>"
+            "title": "\"Love yourself first and everything else falls into line.\" - Lucille Ball"
           }
         }
       },
       "block_order": [
-        "heading_9C3UCq",
-        "text_rxCB8k"
+        "heading_9C3UCq"
       ],
       "settings": {
         "align_text": "center",
