@@ -124,7 +124,7 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/11.png",
-        "image_right": "shopify:\/\/shop_images\/VitalitaWeb6_48c069fe-6876-48d7-ae82-54c0b0f28f1e.jpg"
+        "image_right": "shopify:\/\/shop_images\/VitalitaWeb5.jpg"
       }
     },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
@@ -322,7 +322,6 @@
     "fh_section_product_image_grid_7KriaY": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/ValenteWeb2.jpg",
         "image_right": "shopify:\/\/shop_images\/ValenteCandle_d1648bf8-df5c-4225-a7da-9fe5a7f90505.png"
       }
     },
