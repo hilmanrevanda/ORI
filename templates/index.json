@@ -319,6 +319,16 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
+    "featured_collection_slider_h66n6a": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP AMORE SELF CARE",
+        "description": "LIMITED EDITION ARTIST COLLABORATION",
+        "home_featured_products": "amore-self-care",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -394,6 +404,27 @@
         "has_icon": false
       }
     },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
+        "image_mask": "square",
+        "image2_mask": "portrait",
+        "subtitle": "LAUNCHING FEBRUARY 2024",
+        "title": "NEW VITAMIN FORMULA",
+        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "secondary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -434,77 +465,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
-      }
-    },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
-        "image_mask": "square",
-        "image2_mask": "portrait",
-        "subtitle": "LAUNCHING FEBRUARY 2024",
-        "title": "NEW VITAMIN FORMULA",
-        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "button_style": "secondary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "countdown_7nKyJA": {
-      "type": "countdown",
-      "blocks": {
-        "content_PqfPDe": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE LAUNCH",
-            "heading_size": "h2",
-            "text": "<p>Sempre Organonutrients for Hair Growth. Launching February 2024<\/p>",
-            "content_alignment": "left"
-          }
-        },
-        "timer_Bzttmw": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": "<p>INTRODUCING SEMPRE ORGANONUTRIENTS<\/p>"
-          }
-        },
-        "button_q96FPq": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
-            "button": "LEARN MORE",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_PqfPDe",
-        "timer_Bzttmw",
-        "button_q96FPq"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "mobile_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "lazyload_images": true
       }
     },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
@@ -599,14 +559,26 @@
         "alt": false
       }
     },
-    "featured_collection_slider_h66n6a": {
-      "type": "featured-collection-slider",
+    "text_and_image_pxqLGz": {
+      "type": "text-and-image",
       "settings": {
-        "title": "SHOP AMORE SELF CARE",
-        "description": "LIMITED EDITION ARTIST COLLABORATION",
-        "home_featured_products": "amore-self-care",
-        "per_row": "medium",
-        "alt": false
+        "image": "shopify:\/\/shop_images\/49.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Amore - From Nature, With Love",
+        "text": "<h5>Amore Awaits: Turn your self care into a love affair. ❤️ Introducing our artist collaboration: ORIGENERE X YAZAMIN 🌹A collection of body wash, candles & bath salts to elevate your self care experience.<\/h5>",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/amore-selfcare",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     }
   },
@@ -617,16 +589,16 @@
     "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
+    "featured_collection_slider_h66n6a",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_MHzh9j",
-    "countdown_7nKyJA",
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
     "blog_posts_Y9fLMP",
-    "featured_collection_slider_h66n6a"
+    "text_and_image_pxqLGz"
   ]
 }
