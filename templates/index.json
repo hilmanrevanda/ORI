@@ -341,6 +341,21 @@
         "lazyload_images": true
       }
     },
+    "fh_section_products_grid_gxEB8w": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Valente_sqaure.png",
+        "heading_left": "VALENTE",
+        "description_left": "SELF CARE SET",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/products\/valente-self-care-set",
+        "image_right": "shopify:\/\/shop_images\/vitalita_square.png",
+        "heading_right": "VITALITÀ",
+        "description_right": "SELF CARE SET",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/products\/vitalita-self-care-set"
+      }
+    },
     "featured_collection_slider_h66n6a": {
       "type": "featured-collection-slider",
       "settings": {
@@ -590,6 +605,7 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
     "text_and_image_pxqLGz",
+    "fh_section_products_grid_gxEB8w",
     "featured_collection_slider_h66n6a",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_MHzh9j",
