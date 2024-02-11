@@ -7,13 +7,13 @@
           "type": "image",
           "settings": {
             "title": "AMORE: FROM NATURE WITH LOVE",
-            "title_size": 74,
+            "title_size": 44,
             "subheading": "Turn your self care into a love affair with Origenere",
             "link": "shopify:\/\/pages\/amore-selfcare",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9623Amore_Red_Rose.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_9645AmoreRedRose_009ea861-caab-44b7-a30e-147e69e26dfa.jpg",
             "image_mobile": "shopify:\/\/shop_images\/ValenteWeb5_afd362f0-697c-41d0-bc72-8197c7ace2e6.jpg"
           }
         },
