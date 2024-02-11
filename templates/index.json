@@ -319,6 +319,28 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
+    "text_and_image_pxqLGz": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg",
+        "image2_mask": "none",
+        "subtitle": "ORIGENERE X YAZAMIN 🌹",
+        "title": "Amore - From Nature, With Love",
+        "text": "<h5>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration. 🌹 A collection of body wash, candles & bath salts to elevate your self care experience.<\/h5>",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/amore-selfcare",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "featured_collection_slider_h66n6a": {
       "type": "featured-collection-slider",
       "settings": {
@@ -326,7 +348,7 @@
         "description": "LIMITED EDITION ARTIST COLLABORATION",
         "home_featured_products": "amore-self-care",
         "per_row": "medium",
-        "alt": false
+        "alt": true
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -558,28 +580,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "text_and_image_pxqLGz": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/49.png",
-        "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg",
-        "image2_mask": "none",
-        "subtitle": "ORIGENERE X YAZAMIN 🌹",
-        "title": "Amore - From Nature, With Love",
-        "text": "<h5>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration. 🌹 A collection of body wash, candles & bath salts to elevate your self care experience.<\/h5>",
-        "button_label": "",
-        "button_link": "shopify:\/\/pages\/amore-selfcare",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -589,6 +589,7 @@
     "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
+    "text_and_image_pxqLGz",
     "featured_collection_slider_h66n6a",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_MHzh9j",
@@ -598,7 +599,6 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "blog_posts_Y9fLMP",
-    "text_and_image_pxqLGz"
+    "blog_posts_Y9fLMP"
   ]
 }
