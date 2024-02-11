@@ -366,6 +366,27 @@
         "alt": true
       }
     },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
+        "image_mask": "square",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "NEW VITAMIN FORMULA",
+        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "secondary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -441,27 +462,6 @@
         "has_icon": false
       }
     },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
-        "image_mask": "square",
-        "image2_mask": "portrait",
-        "subtitle": "",
-        "title": "NEW VITAMIN FORMULA",
-        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "button_style": "secondary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -506,6 +506,7 @@
     },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "SHOP & SAVE WITH OUR BUNDLES",
         "description": "OUR BEST SELLING HAIR & SKIN CARE",
@@ -520,6 +521,7 @@
     },
     "0538ae71-f903-4444-84a7-d7fb94248ea3": {
       "type": "fh-section-products-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
         "heading_left": "BUONGIORNO HAIR & SKIN CARE",
@@ -607,8 +609,8 @@
     "text_and_image_pxqLGz",
     "fh_section_products_grid_gxEB8w",
     "featured_collection_slider_h66n6a",
-    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_MHzh9j",
+    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
