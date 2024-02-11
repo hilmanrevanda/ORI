@@ -598,6 +598,16 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "featured_collection_slider_h66n6a": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP AMORE SELF CARE",
+        "description": "LIMITED EDITION ARTIST COLLABORATION",
+        "home_featured_products": "amore-self-care",
+        "per_row": "medium",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -616,6 +626,7 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "blog_posts_Y9fLMP"
+    "blog_posts_Y9fLMP",
+    "featured_collection_slider_h66n6a"
   ]
 }
