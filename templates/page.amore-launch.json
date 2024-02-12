@@ -366,35 +366,6 @@
         "sku_enable": false
       }
     },
-    "slideshow_Egf3F4": {
-      "type": "slideshow",
-      "blocks": {
-        "image_cxrpNK": {
-          "type": "image",
-          "settings": {
-            "title": "Complete your Amore Self Care Experience",
-            "title_size": 46,
-            "subheading": "LISTEN TO OUR CURATED PLAYLIST",
-            "link": "https:\/\/open.spotify.com\/playlist\/0Vb4b0eKFznzPpldMXlOFw?si=1e1af820a7934e12",
-            "link_text": "LISTEN TO AMORE PLAYLIST",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_cxrpNK"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "featured_product_imiTmG": {
       "type": "featured-product",
       "blocks": {
@@ -443,6 +414,83 @@
         "product_video_style": "muted",
         "sku_enable": false
       }
+    },
+    "slideshow_Egf3F4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_cxrpNK": {
+          "type": "image",
+          "settings": {
+            "title": "Complete your Amore Self Care Experience",
+            "title_size": 46,
+            "subheading": "LISTEN TO OUR CURATED PLAYLIST",
+            "link": "https:\/\/open.spotify.com\/playlist\/0Vb4b0eKFznzPpldMXlOFw?si=1e1af820a7934e12",
+            "link_text": "LISTEN TO AMORE PLAYLIST",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_cxrpNK"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_fVUKjd": {
+      "type": "featured-product",
+      "blocks": {
+        "price_C8eaKY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_keHtwc": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_ebG8jg": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_eM3Xn3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_C8eaKY",
+        "description_keHtwc",
+        "variant_picker_ebG8jg",
+        "buy_buttons_eM3Xn3"
+      ],
+      "settings": {
+        "featured_product": "valente-self-care-set-candle-body-scrub",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -458,7 +506,8 @@
     "featured_product_yVFaXh",
     "fh_section_product_image_grid_7KriaY",
     "featured_product_WY6yr7",
+    "featured_product_imiTmG",
     "slideshow_Egf3F4",
-    "featured_product_imiTmG"
+    "featured_product_fVUKjd"
   ]
 }
