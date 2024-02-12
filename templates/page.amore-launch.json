@@ -492,6 +492,54 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "featured_product_zGtmVp": {
+      "type": "featured-product",
+      "blocks": {
+        "price_VC7kj9": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_XXjECb": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_R7hpW4": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_YPQi7z": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_VC7kj9",
+        "description_XXjECb",
+        "variant_picker_R7hpW4",
+        "buy_buttons_YPQi7z"
+      ],
+      "settings": {
+        "featured_product": "vitalita-self-care-candle-duo",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -509,6 +557,7 @@
     "featured_product_WY6yr7",
     "featured_product_fVUKjd",
     "featured_product_imiTmG",
-    "slideshow_Egf3F4"
+    "slideshow_Egf3F4",
+    "featured_product_zGtmVp"
   ]
 }
