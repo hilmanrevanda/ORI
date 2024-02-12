@@ -319,6 +319,102 @@
         "sku_enable": false
       }
     },
+    "featured_product_zGtmVp": {
+      "type": "featured-product",
+      "blocks": {
+        "price_VC7kj9": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_XXjECb": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_R7hpW4": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_YPQi7z": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_VC7kj9",
+        "description_XXjECb",
+        "variant_picker_R7hpW4",
+        "buy_buttons_YPQi7z"
+      ],
+      "settings": {
+        "featured_product": "vitalita-self-care-candle-duo",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "featured_product_MnNKWj": {
+      "type": "featured-product",
+      "blocks": {
+        "price_CHmbQ8": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_mXDiQx": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_kCBPYh": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_R6j6ih": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_CHmbQ8",
+        "description_mXDiQx",
+        "variant_picker_kCBPYh",
+        "buy_buttons_R6j6ih"
+      ],
+      "settings": {
+        "featured_product": "vitalita-self-care-bath-salts-body-wash-duo",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "fh_section_product_image_grid_7KriaY": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -492,54 +588,6 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
-    },
-    "featured_product_zGtmVp": {
-      "type": "featured-product",
-      "blocks": {
-        "price_VC7kj9": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_XXjECb": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "is_tab": false
-          }
-        },
-        "variant_picker_R7hpW4": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_YPQi7z": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_VC7kj9",
-        "description_XXjECb",
-        "variant_picker_R7hpW4",
-        "buy_buttons_YPQi7z"
-      ],
-      "settings": {
-        "featured_product": "vitalita-self-care-candle-duo",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
     }
   },
   "order": [
@@ -553,11 +601,12 @@
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "featured_product_yVFaXh",
+    "featured_product_zGtmVp",
+    "featured_product_MnNKWj",
     "fh_section_product_image_grid_7KriaY",
     "featured_product_WY6yr7",
     "featured_product_fVUKjd",
     "featured_product_imiTmG",
-    "slideshow_Egf3F4",
-    "featured_product_zGtmVp"
+    "slideshow_Egf3F4"
   ]
 }
