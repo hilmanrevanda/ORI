@@ -366,6 +366,54 @@
         "sku_enable": false
       }
     },
+    "featured_product_fVUKjd": {
+      "type": "featured-product",
+      "blocks": {
+        "price_C8eaKY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_keHtwc": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_ebG8jg": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_eM3Xn3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_C8eaKY",
+        "description_keHtwc",
+        "variant_picker_ebG8jg",
+        "buy_buttons_eM3Xn3"
+      ],
+      "settings": {
+        "featured_product": "valente-self-care-set-candle-body-scrub",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "featured_product_imiTmG": {
       "type": "featured-product",
       "blocks": {
@@ -443,54 +491,6 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
-    },
-    "featured_product_fVUKjd": {
-      "type": "featured-product",
-      "blocks": {
-        "price_C8eaKY": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_keHtwc": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "is_tab": false
-          }
-        },
-        "variant_picker_ebG8jg": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_eM3Xn3": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_C8eaKY",
-        "description_keHtwc",
-        "variant_picker_ebG8jg",
-        "buy_buttons_eM3Xn3"
-      ],
-      "settings": {
-        "featured_product": "valente-self-care-set-candle-body-scrub",
-        "product_image_size": "small",
-        "product_image_type": "slider",
-        "product_zoom_enable": true,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
     }
   },
   "order": [
@@ -506,8 +506,8 @@
     "featured_product_yVFaXh",
     "fh_section_product_image_grid_7KriaY",
     "featured_product_WY6yr7",
+    "featured_product_fVUKjd",
     "featured_product_imiTmG",
-    "slideshow_Egf3F4",
-    "featured_product_fVUKjd"
+    "slideshow_Egf3F4"
   ]
 }
