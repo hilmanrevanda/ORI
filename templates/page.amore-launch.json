@@ -474,9 +474,10 @@
             "subheading": "LISTEN TO OUR CURATED PLAYLIST",
             "link": "https:\/\/open.spotify.com\/playlist\/0Vb4b0eKFznzPpldMXlOFw?si=1e1af820a7934e12",
             "link_text": "LISTEN TO AMORE PLAYLIST",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9603Amore_Red_Rose.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_9620Amore_Red_Rose.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_9620Amore_Red_Rose.jpg"
           }
         }
       },
