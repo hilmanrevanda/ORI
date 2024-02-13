@@ -598,6 +598,21 @@
         "view_all": true,
         "alt": false
       }
+    },
+    "hero_video_hJTHHN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -618,6 +633,7 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "blog_posts_Y9fLMP"
+    "blog_posts_Y9fLMP",
+    "hero_video_hJTHHN"
   ]
 }
