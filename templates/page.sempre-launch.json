@@ -36,6 +36,21 @@
         "lazyload_images": true
       }
     },
+    "hero_video_nx83CF": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912492344",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -285,32 +300,17 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
-    },
-    "hero_video_nx83CF": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/910580969",
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
     }
   },
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "hero_video_nx83CF",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_AbXQBY",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "slideshow_wwmUEb",
-    "hero_video_nx83CF"
+    "slideshow_wwmUEb"
   ]
 }
