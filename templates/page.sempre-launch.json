@@ -59,55 +59,6 @@
       "settings": {
       }
     },
-    "countdown_AMTkp9": {
-      "type": "countdown",
-      "blocks": {
-        "content_HzQmVF": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE LAUNCH",
-            "heading_size": "h2",
-            "text": "",
-            "content_alignment": "left"
-          }
-        },
-        "timer_eq6Ji9": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "02",
-            "day": "24",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_6yqzbb": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-            "button": "PRE-ORDER",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_HzQmVF",
-        "timer_eq6Ji9",
-        "button_6yqzbb"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
-      }
-    },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
       "type": "rich-text",
       "blocks": {
@@ -142,6 +93,53 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
+      }
+    },
+    "featured_product_AbXQBY": {
+      "type": "featured-product",
+      "blocks": {
+        "price_mB64YW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_WRAHJb": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "variant_picker_XcFGwL": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_6rJXKc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price_mB64YW",
+        "description_WRAHJb",
+        "variant_picker_XcFGwL",
+        "buy_buttons_6rJXKc"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -259,38 +257,6 @@
         "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
     },
-    "advanced_content_DtyJpi": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_dz9mHD": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/origenere-sempre-box-2024v2.jpg",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_qVKecE": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Pre-Order our New Vitamins<\/h2><p>Sempre hair growth Organonutrients<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_dz9mHD",
-        "liquid_qVKecE"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
     "slideshow_wwmUEb": {
       "type": "slideshow",
       "blocks": {
@@ -319,17 +285,32 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "hero_video_nx83CF": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/910580969",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "countdown_AMTkp9",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "featured_product_AbXQBY",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "advanced_content_DtyJpi",
-    "slideshow_wwmUEb"
+    "slideshow_wwmUEb",
+    "hero_video_nx83CF"
   ]
 }
