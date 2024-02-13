@@ -279,8 +279,8 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE ORGANONUTRIENTS",
-            "title_size": 62,
-            "subheading": "NEW PRODUCTS LAUNCHING FEBRUARY & SPRING 2024",
+            "title_size": 50,
+            "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -362,6 +362,13 @@
         "align_text": "center",
         "alt": false
       }
+    },
+    "fh_section_product_image_grid_wzKj7Q": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
+        "image_right": "shopify:\/\/shop_images\/SEMPREInstagramsqaure_8ed78f22-b538-4749-9f1c-0eef74d8286b.png"
+      }
     }
   },
   "order": [
@@ -375,6 +382,7 @@
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "slideshow_wwmUEb",
     "text_and_image_8Lnq7h",
-    "text_columns_3UxDma"
+    "text_columns_3UxDma",
+    "fh_section_product_image_grid_wzKj7Q"
   ]
 }
