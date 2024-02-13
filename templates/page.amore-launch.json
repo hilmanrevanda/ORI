@@ -588,6 +588,21 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "hero_video_mMDRda": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -607,6 +622,7 @@
     "featured_product_WY6yr7",
     "featured_product_fVUKjd",
     "featured_product_imiTmG",
-    "slideshow_Egf3F4"
+    "slideshow_Egf3F4",
+    "hero_video_mMDRda"
   ]
 }
