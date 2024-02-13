@@ -300,6 +300,27 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "text_and_image_8Lnq7h": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "NEW AND IMPROVED",
+        "title": "Discover our new hair & skin formula:",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -311,6 +332,7 @@
     "featured_product_AbXQBY",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "slideshow_wwmUEb"
+    "slideshow_wwmUEb",
+    "text_and_image_8Lnq7h"
   ]
 }
