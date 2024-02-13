@@ -157,6 +157,13 @@
         "sku_enable": false
       }
     },
+    "fh_section_product_image_grid_wzKj7Q": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/2_6fb10b2d-f88d-43b2-ab06-ffb6c1899e01.png",
+        "image_right": "shopify:\/\/shop_images\/13.png"
+      }
+    },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
       "type": "text-with-icons",
       "blocks": {
@@ -272,6 +279,46 @@
         "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
     },
+    "text_columns_3UxDma": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_j4jNAD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_b3ca0c33-6a42-4c04-b2d3-50efc9e84117.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "NEW LOOK & FORMULA",
+            "text": "<h3>Our daily hair & skin and vitamins received a Beverly Hills upgrade. <\/h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_AUriJR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "DISCOVER OUR NEW FORMULA",
+            "text": "<p><strong>STAR INGREDIENTS: <\/strong>Vitamins A, C, D, B1, B6, B12, and E, Iron, Zinc, Biotin, Horsetail Extract, Saw Palmetto, Pumpkin Seed Extract, Nettle seed, Spirulina, Bamboo Extract, Hyaluronic Acid, Ashwagandha Root Powder and more.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_j4jNAD",
+        "text_block_AUriJR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "alt": false
+      }
+    },
     "slideshow_wwmUEb": {
       "type": "slideshow",
       "blocks": {
@@ -323,53 +370,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "text_columns_3UxDma": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_j4jNAD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/6_b3ca0c33-6a42-4c04-b2d3-50efc9e84117.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "NEW LOOK & FORMULA",
-            "text": "<h3>Our daily hair & skin and vitamins received a Beverly Hills upgrade. <\/h3>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_AUriJR": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/7.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "DISCOVER OUR NEW FORMULA",
-            "text": "<p><strong>STAR INGREDIENTS: <\/strong>Vitamins A, C, D, B1, B6, B12, and E, Iron, Zinc, Biotin, Horsetail Extract, Saw Palmetto, Pumpkin Seed Extract, Nettle seed, Spirulina, Bamboo Extract, Hyaluronic Acid, Ashwagandha Root Powder and more.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_j4jNAD",
-        "text_block_AUriJR"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "alt": false
-      }
-    },
-    "fh_section_product_image_grid_wzKj7Q": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/2_6fb10b2d-f88d-43b2-ab06-ffb6c1899e01.png",
-        "image_right": "shopify:\/\/shop_images\/13.png"
-      }
     }
   },
   "order": [
@@ -379,11 +379,11 @@
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_AbXQBY",
+    "fh_section_product_image_grid_wzKj7Q",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "slideshow_wwmUEb",
-    "text_and_image_8Lnq7h",
     "text_columns_3UxDma",
-    "fh_section_product_image_grid_wzKj7Q"
+    "slideshow_wwmUEb",
+    "text_and_image_8Lnq7h"
   ]
 }
