@@ -303,6 +303,7 @@
     },
     "text_and_image_8Lnq7h": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/7.png",
         "image_mask": "none",
@@ -321,6 +322,46 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_columns_3UxDma": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_j4jNAD": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_b3ca0c33-6a42-4c04-b2d3-50efc9e84117.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "NEW LOOK & FORMULA",
+            "text": "<h3>Our daily hair & skin and vitamins received a Beverly Hills upgrade. <\/h3>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_AUriJR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/7.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "DISCOVER OUR NEW FORMULA",
+            "text": "<p><strong>STAR INGREDIENTS: <\/strong>Vitamins A, C, D, B1, B6, B12, and E, Iron, Zinc, Biotin, Horsetail Extract, Saw Palmetto, Pumpkin Seed Extract, Nettle seed, Spirulina, Bamboo Extract, Hyaluronic Acid, Ashwagandha Root Powder and more.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_j4jNAD",
+        "text_block_AUriJR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -333,6 +374,7 @@
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "slideshow_wwmUEb",
-    "text_and_image_8Lnq7h"
+    "text_and_image_8Lnq7h",
+    "text_columns_3UxDma"
   ]
 }
