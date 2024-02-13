@@ -320,6 +320,21 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
+    "hero_video_hJTHHN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "text_and_image_pxqLGz": {
       "type": "text-and-image",
       "settings": {
@@ -598,21 +613,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "hero_video_hJTHHN": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/912503601",
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
     }
   },
   "order": [
@@ -622,6 +622,7 @@
     "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
+    "hero_video_hJTHHN",
     "text_and_image_pxqLGz",
     "fh_section_products_grid_gxEB8w",
     "featured_collection_slider_h66n6a",
@@ -633,7 +634,6 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "blog_posts_Y9fLMP",
-    "hero_video_hJTHHN"
+    "blog_posts_Y9fLMP"
   ]
 }
