@@ -322,6 +322,7 @@
     },
     "hero_video_hJTHHN": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
