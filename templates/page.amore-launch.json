@@ -565,9 +565,9 @@
         "image_cxrpNK": {
           "type": "image",
           "settings": {
-            "title": "Complete your Amore Self Care Experience",
-            "title_size": 46,
-            "subheading": "LISTEN TO OUR CURATED PLAYLIST",
+            "title": "COMPLETE YOUR SELF CARE EXPERIENCE",
+            "title_size": 51,
+            "subheading": "",
             "link": "https:\/\/open.spotify.com\/playlist\/0Vb4b0eKFznzPpldMXlOFw?si=1e1af820a7934e12",
             "link_text": "LISTEN TO AMORE PLAYLIST",
             "color_accent": "{{ shop.brand.colors.primary[0].background }}",
