@@ -120,6 +120,21 @@
         "lazyload_images": true
       }
     },
+    "hero_video_mMDRda": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "fh_section_product_image_grid_ejk9nW": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -588,21 +603,6 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
-    },
-    "hero_video_mMDRda": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/912503601",
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
     }
   },
   "order": [
@@ -611,6 +611,7 @@
     "advanced_content_Xqq46x",
     "rich_text_UaXc6U",
     "advanced_content_KV4pky",
+    "hero_video_mMDRda",
     "fh_section_product_image_grid_ejk9nW",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
@@ -622,7 +623,6 @@
     "featured_product_WY6yr7",
     "featured_product_fVUKjd",
     "featured_product_imiTmG",
-    "slideshow_Egf3F4",
-    "hero_video_mMDRda"
+    "slideshow_Egf3F4"
   ]
 }
