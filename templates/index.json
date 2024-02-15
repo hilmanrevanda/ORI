@@ -250,18 +250,6 @@
         "mobile_size": 30
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
-        "link": "shopify:\/\/collections\/hair-care-frontpage",
-        "text_size": 30,
-        "text_spacing": false,
-        "color_scheme": "button",
-        "direction": "left",
-        "speed": 300
-      }
-    },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
       "type": "rich-text",
       "blocks": {
@@ -303,6 +291,18 @@
         "narrow_column": true,
         "alt": true,
         "background_color": "#000000"
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
+        "link": "shopify:\/\/collections\/hair-care-frontpage",
+        "text_size": 30,
+        "text_spacing": false,
+        "color_scheme": "button",
+        "direction": "left",
+        "speed": 300
       }
     },
     "fh-section-product-category-grid": {
@@ -620,8 +620,8 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "6c5c5fd0-9f45-441c-bc2e-a49f3c201e9e",
     "hero-animated",
-    "scrolling-text",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "scrolling-text",
     "fh-section-product-category-grid",
     "hero_video_hJTHHN",
     "text_and_image_pxqLGz",
