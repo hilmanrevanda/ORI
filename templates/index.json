@@ -8,7 +8,7 @@
           "settings": {
             "title": "EMBRACE THE ART OF SELF CARE WITH AMORE",
             "title_size": 49,
-            "subheading": "",
+            "subheading": "ORIGENERE X YAZAMIN",
             "link": "shopify:\/\/collections\/amore-self-care",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
