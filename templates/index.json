@@ -6,15 +6,15 @@
         "image_xUam77": {
           "type": "image",
           "settings": {
-            "title": "AMORE: FROM NATURE WITH LOVE",
-            "title_size": 44,
-            "subheading": "Turn your self care into a love affair with Origenere",
-            "link": "shopify:\/\/pages\/amore-selfcare",
+            "title": "EMBRACE THE ART OF SELF CARE WITH AMORE",
+            "title_size": 53,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/amore-self-care",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9645AmoreRedRose_009ea861-caab-44b7-a30e-147e69e26dfa.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_9645AmoreRedRose_009ea861-caab-44b7-a30e-147e69e26dfa.jpg"
+            "image": "shopify:\/\/shop_images\/vitalita_square.png",
+            "image_mobile": "shopify:\/\/shop_images\/vitalita_square.png"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
