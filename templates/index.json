@@ -3,18 +3,19 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "image_xUam77": {
+        "image_hEMipE": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "title": "EMBRACE THE ART OF SELF CARE WITH AMORE",
-            "title_size": 49,
-            "subheading": "ORIGENERE X YAZAMIN",
-            "link": "shopify:\/\/collections\/amore-self-care",
+            "title": "NATURALLY REVITALIZE THINNING HAIR",
+            "title_size": 47,
+            "subheading": "NATURALE HAIR CARE",
+            "link": "shopify:\/\/collections\/naturale",
             "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9561-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/vitalita_square.png"
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -45,6 +46,20 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
           }
         },
+        "image_xUam77": {
+          "type": "image",
+          "settings": {
+            "title": "NOURISH YOUR NATURAL GLOW",
+            "title_size": 49,
+            "subheading": "ARANCIO SKIN CARE",
+            "link": "shopify:\/\/collections\/arancio",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arancio_Skincare_Porsche.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "disabled": true,
@@ -59,28 +74,14 @@
             "image": "shopify:\/\/shop_images\/IMG_8519-5.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8519-5.jpg"
           }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "NATURALLY REVITALIZE THINNING HAIR",
-            "title_size": 47,
-            "subheading": "NATURALE HAIR CARE",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
-          }
         }
       },
       "block_order": [
-        "image_xUam77",
+        "image_hEMipE",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "image_hEMipE"
+        "image_xUam77",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4"
       ],
       "settings": {
         "style": "arrows",
