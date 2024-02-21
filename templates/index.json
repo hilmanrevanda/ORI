@@ -382,6 +382,7 @@
     },
     "featured_collection_slider_h66n6a": {
       "type": "featured-collection-slider",
+      "disabled": true,
       "settings": {
         "title": "SHOP AMORE SELF CARE",
         "description": "LIMITED EDITION ARTIST COLLABORATION",
