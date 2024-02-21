@@ -358,6 +358,16 @@
         "mobile_height": "auto"
       }
     },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "text_and_image_pxqLGz": {
       "type": "text-and-image",
       "settings": {
@@ -601,16 +611,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
-      }
     }
   },
   "order": [
@@ -622,6 +622,7 @@
     "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "hero_video_hJTHHN",
+    "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
     "featured_collection_slider_h66n6a",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
@@ -631,7 +632,6 @@
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
-    "blog_posts_Y9fLMP",
-    "featured_collection_slider_Bk6Ke3"
+    "blog_posts_Y9fLMP"
   ]
 }
