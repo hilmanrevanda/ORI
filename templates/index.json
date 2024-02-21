@@ -321,6 +321,27 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
+        "image_mask": "square",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "NEW VITAMIN FORMULA",
+        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "secondary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "hero_video_hJTHHN": {
       "type": "hero-video",
       "disabled": true,
@@ -352,8 +373,8 @@
         "button_style": "primary",
         "align_text": "center",
         "image_width": "50",
-        "layout": "right",
-        "alt": false,
+        "layout": "left",
+        "alt": true,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
@@ -382,27 +403,6 @@
         "home_featured_products": "amore-self-care",
         "per_row": "medium",
         "alt": true
-      }
-    },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
-        "image_mask": "square",
-        "image2_mask": "portrait",
-        "subtitle": "",
-        "title": "NEW VITAMIN FORMULA",
-        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "button_style": "secondary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -624,11 +624,11 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "scrolling-text",
     "fh-section-product-category-grid",
+    "text_and_image_MHzh9j",
     "hero_video_hJTHHN",
     "text_and_image_pxqLGz",
     "fh_section_products_grid_gxEB8w",
     "featured_collection_slider_h66n6a",
-    "text_and_image_MHzh9j",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
