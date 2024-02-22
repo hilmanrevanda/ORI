@@ -149,7 +149,9 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9721-2.jpg",
         "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
         "image2_mask": "portrait",
         "subtitle": "",
         "title": "NEW VITAMIN FORMULA",
