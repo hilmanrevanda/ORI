@@ -21,14 +21,14 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-            "title_size": 49,
+            "title_size": 54,
             "subheading": "OUR NEW PHYSICIAN FORMULATED COLLECTION",
             "link": "shopify:\/\/pages\/sempre-hairgrowth",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Vitamins_botanicals.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Organonutrients_vase.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_9848.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_9842-4.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -149,7 +149,6 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
         "image_mask": "square",
         "image2_mask": "portrait",
         "subtitle": "",
