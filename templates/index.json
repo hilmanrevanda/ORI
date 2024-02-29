@@ -48,15 +48,15 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "BOTANICAL BRILLIANCE",
-            "title_size": 64,
-            "subheading": "On our blog: A Physician's review of Saw Palmetto",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
+            "title": "LEAP DAY SALE\n29% OFF TODAY ONLY",
+            "title_size": 87,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3306.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3306.jpg"
+            "image": "shopify:\/\/shop_images\/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2477-4.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
