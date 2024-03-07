@@ -147,102 +147,6 @@
         "speed": 300
       }
     },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9688.jpg",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
-        "image2_mask": "portrait",
-        "subtitle": "",
-        "title": "NEW VITAMIN FORMULA",
-        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "button_style": "secondary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "hero_video_hJTHHN": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/912503601",
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_3777.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_62618358-86fc-4812-b70f-2752170370c9.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
-    "text_and_image_pxqLGz": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/49.png",
-        "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/vitalita_square.png",
-        "image2_mask": "none",
-        "subtitle": "Amore - From Nature, With Love",
-        "title": "ORIGENERE X YAZAMIN",
-        "text": "<h3>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration.  A collection of body wash, candles & bath salts to elevate your self care experience.<\/h3>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/pages\/amore-selfcare",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "left",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "featured_collection_slider_h66n6a": {
-      "type": "featured-collection-slider",
-      "disabled": true,
-      "settings": {
-        "title": "SHOP AMORE SELF CARE",
-        "description": "LIMITED EDITION ARTIST COLLABORATION",
-        "home_featured_products": "amore-self-care",
-        "per_row": "medium",
-        "alt": true
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -319,6 +223,43 @@
         "background_image": "shopify:\/\/shop_images\/IMG_3306.jpg"
       }
     },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_3777.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_62618358-86fc-4812-b70f-2752170370c9.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
+      }
+    },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9688.jpg",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "NEW VITAMIN FORMULA",
+        "text": "<p><strong>SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/strong>: <\/p><p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "secondary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -359,6 +300,43 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
+      }
+    },
+    "hero_video_hJTHHN": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "featured_collection_slider_h66n6a": {
+      "type": "featured-collection-slider",
+      "disabled": true,
+      "settings": {
+        "title": "SHOP AMORE SELF CARE",
+        "description": "LIMITED EDITION ARTIST COLLABORATION",
+        "home_featured_products": "amore-self-care",
+        "per_row": "medium",
+        "alt": true
+      }
+    },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "medium",
+        "alt": false
       }
     },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
@@ -439,6 +417,28 @@
         "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
+    "text_and_image_pxqLGz": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/vitalita_square.png",
+        "image2_mask": "none",
+        "subtitle": "Amore - From Nature, With Love",
+        "title": "ORIGENERE X YAZAMIN",
+        "text": "<h3>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration.  A collection of body wash, candles & bath salts to elevate your self care experience.<\/h3>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/pages\/amore-selfcare",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "left",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "blog_posts_Y9fLMP": {
       "type": "blog-posts",
       "settings": {
@@ -460,19 +460,19 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "scrolling-text",
-    "text_and_image_MHzh9j",
-    "hero_video_hJTHHN",
-    "fh-section-product-category-grid",
-    "featured_collection_slider_Bk6Ke3",
-    "text_and_image_pxqLGz",
-    "featured_collection_slider_h66n6a",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
+    "fh-section-product-category-grid",
+    "text_and_image_MHzh9j",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
+    "hero_video_hJTHHN",
+    "featured_collection_slider_h66n6a",
+    "featured_collection_slider_Bk6Ke3",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
     "fh-section-cta",
+    "text_and_image_pxqLGz",
     "blog_posts_Y9fLMP"
   ]
 }
