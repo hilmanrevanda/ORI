@@ -34,8 +34,8 @@
         "image_CjqxNq": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3673.jpg",
-            "link": "shopify:\/\/collections\/naturale",
+            "image": "shopify:\/\/shop_images\/IMG_9823-5.jpg",
+            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
             "width": "50%",
             "alignment": "center"
           }
@@ -43,7 +43,7 @@
         "liquid_JF8kiT": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>SHOP NATURALE HAIRCARE FOR THINNING HAIR<\/h2><p>Forumlated by physicians & infused with Sage.<\/h2><p>All-Natural botanicals, Made in Italy<\/p>",
+            "code": "<h2>SHOP SEMPRE HAIR GROWTH ORGANONUTRIENTS<\/h2><p>Forumlated by physicians with advanced botanicals and antioxidants that help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. \n\n<\/h2><p>Made with All-Natural botanicals in the USA.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
