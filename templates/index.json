@@ -9,12 +9,12 @@
             "title": "BOTANICAL BRILLIANCE",
             "title_size": 61,
             "subheading": "A Physician's review of Turmeric",
-            "link": "shopify:\/\/collections\/hair-care-frontpage",
-            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/turmeric",
+            "link_text": "READ OUR BLOG",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Valente_sqaure.png"
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg"
           }
         },
         "image_hEMipE": {
@@ -35,13 +35,13 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-            "title_size": 54,
-            "subheading": "OUR NEW PHYSICIAN FORMULATED COLLECTION",
+            "title_size": 51,
+            "subheading": "OUR NEW HAIR & SKIN DAILY VITAMINS",
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9848.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_9936.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9842-4.jpg"
           }
         },
