@@ -219,8 +219,7 @@
         "button_label": "",
         "button_link": "",
         "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_3306.jpg"
+        "has_icon": false
       }
     },
     "fh-section-product-category-grid": {
