@@ -8,9 +8,9 @@
           "settings": {
             "title": "Botanical Brilliance: \nA Physician's review of Turmeric",
             "title_size": 47,
-            "subheading": "LEARN MORE",
+            "subheading": "",
             "link": "shopify:\/\/blogs\/ingredient-spotlight\/turmeric",
-            "link_text": "Optional button",
+            "link_text": "LEARN MORE",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_3709.jpg"
