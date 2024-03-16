@@ -328,16 +328,6 @@
         "alt": true
       }
     },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
       "type": "featured-collection",
       "disabled": true,
@@ -406,6 +396,22 @@
         "lazyload_images": true
       }
     },
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "fh-section-cta": {
       "type": "fh-section-cta",
       "settings": {
@@ -416,8 +422,19 @@
         "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "text_and_image_pxqLGz": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/49.png",
         "image_mask": "none",
@@ -437,22 +454,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
     }
   },
   "order": [
@@ -465,13 +466,13 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "hero_video_hJTHHN",
     "featured_collection_slider_h66n6a",
-    "featured_collection_slider_Bk6Ke3",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured-collection",
     "text-and-image",
+    "blog_posts_Y9fLMP",
     "fh-section-cta",
-    "text_and_image_pxqLGz",
-    "blog_posts_Y9fLMP"
+    "featured_collection_slider_Bk6Ke3",
+    "text_and_image_pxqLGz"
   ]
 }
