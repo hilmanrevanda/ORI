@@ -453,6 +453,38 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "advanced_content_RiUDme": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_GXxG9n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3628-2.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_ywHmFV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Amore Candle & Bath Salts<\/h2><p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_GXxG9n",
+        "liquid_ywHmFV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -472,6 +504,7 @@
     "blog_posts_Y9fLMP",
     "fh-section-cta",
     "featured_collection_slider_Bk6Ke3",
-    "text_and_image_pxqLGz"
+    "text_and_image_pxqLGz",
+    "advanced_content_RiUDme"
   ]
 }
