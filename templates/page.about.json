@@ -19,7 +19,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Ori_Hero_About.webp"
+            "image": "shopify:\/\/shop_images\/IMG_3308.jpg"
           }
         }
       },
@@ -205,8 +205,8 @@
             "description": "Our mission is to continuously offer patients state of the art solutions to treat common hair and skin problems. The future of hair and skincare rests in genetic and cellular research.",
             "btn_text": "LEARN MORE",
             "btn_url": "shopify:\/\/pages\/the-science",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
+            "background_color": "#ffffff",
+            "text_color": "#000000"
           }
         },
         "28c1880c-5b4d-4079-81c9-470a73f55b5d": {
@@ -218,8 +218,8 @@
             "description": "Origenere is dedicated to sustainability and environmental protection. We understand the importance of reducing our carbon footprint and protecting the environment for future generations. We include sustainable practices in every step of the production process. Materials: Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.",
             "btn_text": "SHOP NOW",
             "btn_url": "",
-            "background_color": "#ffffff",
-            "text_color": "#000000"
+            "background_color": "#000000",
+            "text_color": "#ffffff"
           }
         }
       },
