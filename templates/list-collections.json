@@ -1,5 +1,34 @@
 {
   "sections": {
+    "slideshow_PWkgRq": {
+      "type": "slideshow",
+      "blocks": {
+        "image_fHYzH9": {
+          "type": "image",
+          "settings": {
+            "title": "DISCOVER OUR PHYSICIAN FORMULATED COLLECTIONS",
+            "title_size": 53,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_3410.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_fHYzH9"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -20,
+        "mobile_size": -30,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "list-collections-template",
       "disabled": true,
@@ -40,7 +69,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/SEMPREVITAMINSTOAST.jpg",
+            "image": "shopify:\/\/shop_images\/5_302d61a8-ad34-47bf-803e-42c2478524a4.png",
             "heading": "SEMPRE  HAIR GROWTH COLLECTION",
             "description": "LAUNCHING FEBRUARY 2024",
             "btn_text": "LEARN MORE",
@@ -129,6 +158,7 @@
     }
   },
   "order": [
+    "slideshow_PWkgRq",
     "main",
     "fh-section-collection-list",
     "9b149141-ab7c-4351-a94d-bc1523a2a95d"
