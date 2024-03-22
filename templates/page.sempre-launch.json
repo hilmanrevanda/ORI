@@ -584,6 +584,54 @@
         "color": "#FFFFFF",
         "lazyload_images": true
       }
+    },
+    "countdown_YU3UDh": {
+      "type": "countdown",
+      "blocks": {
+        "content_BMnXKD": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE FOAM LAUNCH",
+            "heading_size": "h2",
+            "text": "",
+            "content_alignment": "left"
+          }
+        },
+        "timer_XKiXNh": {
+          "type": "timer",
+          "settings": {
+            "year": "2025",
+            "month": "04",
+            "day": "15",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_tyqpzX": {
+          "type": "button",
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_BMnXKD",
+        "timer_XKiXNh",
+        "button_tyqpzX"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#451799",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -605,6 +653,7 @@
     "featured_product_XJpHd3",
     "image_compare_zm7Qym",
     "testimonials_zgUEBb",
-    "image_compare_QQhQ4x"
+    "image_compare_QQhQ4x",
+    "countdown_YU3UDh"
   ]
 }
