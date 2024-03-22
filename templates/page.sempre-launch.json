@@ -369,6 +369,37 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "image_compare_zm7Qym": {
+      "type": "image-compare",
+      "blocks": {
+        "image_nR6zYE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/before_1.jpg"
+          }
+        },
+        "image_XXMjJt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/after_1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_nR6zYE",
+        "image_XXMjJt"
+      ],
+      "settings": {
+        "heading": "SEMPRE FOAM STUDY RESULTS",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 530,
+        "color": "#FFFFFF",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -383,6 +414,7 @@
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "text_columns_3UxDma",
     "slideshow_wwmUEb",
-    "text_and_image_8Lnq7h"
+    "text_and_image_8Lnq7h",
+    "image_compare_zm7Qym"
   ]
 }
