@@ -80,6 +80,35 @@
         "lazyload_images": true
       }
     },
+    "slideshow_eXqcz3": {
+      "type": "slideshow",
+      "blocks": {
+        "image_AzrNMW": {
+          "type": "image",
+          "settings": {
+            "title": "Let Nature Guide Your Metamorphisis",
+            "title_size": 53,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0234-4.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_AzrNMW"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -562,6 +591,7 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_nx83CF",
     "slideshow_6QRQex",
+    "slideshow_eXqcz3",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_AbXQBY",
