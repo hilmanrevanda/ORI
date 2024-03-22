@@ -58,7 +58,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_3892-4.jpg",
             "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
@@ -160,7 +160,7 @@
     "fh_section_product_image_grid_wzKj7Q": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/2_6fb10b2d-f88d-43b2-ab06-ffb6c1899e01.png",
+        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
         "image_right": "shopify:\/\/shop_images\/13.png"
       }
     },
@@ -431,6 +431,35 @@
         "color": "#FFFFFF",
         "lazyload_images": true
       }
+    },
+    "slideshow_6QRQex": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9mgPyd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9mgPyd"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -447,6 +476,7 @@
     "slideshow_wwmUEb",
     "text_and_image_8Lnq7h",
     "image_compare_zm7Qym",
-    "image_compare_QQhQ4x"
+    "image_compare_QQhQ4x",
+    "slideshow_6QRQex"
   ]
 }
