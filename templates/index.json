@@ -3,6 +3,34 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title_size": 47,
+            "subheading": "OUR NEW HAIR & SKIN DAILY VITAMINS",
+            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_9936.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
+          }
+        },
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+          "type": "image",
+          "settings": {
+            "title": "BOTANICAL BRILLIANCE",
+            "title_size": 61,
+            "subheading": "The more you know, the more you grow.",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/1_da3bad15-c1a3-4206-8a26-5168661ffc70.png",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg"
+          }
+        },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
@@ -17,20 +45,6 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
           }
         },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "BOTANICAL BRILLIANCE",
-            "title_size": 61,
-            "subheading": "A Physician's review of Turmeric",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/turmeric",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg"
-          }
-        },
         "image_hEMipE": {
           "type": "image",
           "settings": {
@@ -43,20 +57,6 @@
             "text_align": "vertical-center horizontal-right",
             "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
-          }
-        },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-            "title_size": 47,
-            "subheading": "OUR NEW HAIR & SKIN DAILY VITAMINS",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
           }
         },
         "image_xUam77": {
@@ -76,10 +76,10 @@
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "image_hEMipE",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "image_hEMipE",
         "image_xUam77"
       ],
       "settings": {
