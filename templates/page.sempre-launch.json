@@ -190,7 +190,61 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
-        "image_right": "shopify:\/\/shop_images\/13.png"
+        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
+      }
+    },
+    "featured_product_xkRigR": {
+      "type": "featured-product",
+      "blocks": {
+        "price_rfgMg4": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_w3ECdj": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_d9LqaH": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_BL4qV7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_rfgMg4",
+        "description_w3ECdj",
+        "variant_picker_d9LqaH",
+        "buy_buttons_BL4qV7"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-foam",
+        "product_image_size": "medium",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "fh_section_product_image_grid_W7KqC4": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0738-2.jpg",
+        "image_right": "shopify:\/\/shop_images\/11_11e82ad0-ef6d-4efb-8500-f9ebba138800.png"
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -308,75 +362,6 @@
         "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
     },
-    "text_columns_3UxDma": {
-      "type": "text-columns",
-      "blocks": {
-        "text_block_j4jNAD": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/6_b3ca0c33-6a42-4c04-b2d3-50efc9e84117.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "NEW LOOK & FORMULA",
-            "text": "<h3>Our daily hair & skin and vitamins received a Beverly Hills upgrade. <\/h3>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "text_block_AUriJR": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/7.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "DISCOVER OUR NEW FORMULA",
-            "text": "<p><strong>STAR INGREDIENTS: <\/strong>Vitamins A, C, D, B1, B6, B12, and E, Iron, Zinc, Biotin, Horsetail Extract, Saw Palmetto, Pumpkin Seed Extract, Nettle seed, Spirulina, Bamboo Extract, Hyaluronic Acid, Ashwagandha Root Powder and more.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_j4jNAD",
-        "text_block_AUriJR"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "alt": false
-      }
-    },
-    "slideshow_wwmUEb": {
-      "type": "slideshow",
-      "blocks": {
-        "image_XdtEEK": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE ORGANONUTRIENTS",
-            "title_size": 50,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Organonutrients_Vitamins.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_XdtEEK"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_8Lnq7h": {
       "type": "text-and-image",
       "disabled": true,
@@ -461,21 +446,21 @@
         "lazyload_images": true
       }
     },
-    "featured_product_xkRigR": {
+    "featured_product_XJpHd3": {
       "type": "featured-product",
       "blocks": {
-        "price_rfgMg4": {
+        "price_fhfiLY": {
           "type": "price",
           "settings": {
           }
         },
-        "description_w3ECdj": {
+        "description_LeN4VY": {
           "type": "description",
           "settings": {
             "is_tab": false
           }
         },
-        "variant_picker_d9LqaH": {
+        "variant_picker_e6ajE6": {
           "type": "variant_picker",
           "settings": {
             "variant_labels": true,
@@ -484,7 +469,7 @@
             "color_swatches": false
           }
         },
-        "buy_buttons_BL4qV7": {
+        "buy_buttons_VB9qbm": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
@@ -493,13 +478,13 @@
         }
       },
       "block_order": [
-        "price_rfgMg4",
-        "description_w3ECdj",
-        "variant_picker_d9LqaH",
-        "buy_buttons_BL4qV7"
+        "price_fhfiLY",
+        "description_LeN4VY",
+        "variant_picker_e6ajE6",
+        "buy_buttons_VB9qbm"
       ],
       "settings": {
-        "featured_product": "sempre-hair-growth-foam",
+        "featured_product": "sempre-hair-growth-kit",
         "product_image_size": "medium",
         "product_image_type": "stacked",
         "product_zoom_enable": false,
@@ -518,13 +503,13 @@
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_AbXQBY",
     "fh_section_product_image_grid_wzKj7Q",
+    "featured_product_xkRigR",
+    "fh_section_product_image_grid_W7KqC4",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "text_columns_3UxDma",
-    "slideshow_wwmUEb",
     "text_and_image_8Lnq7h",
     "image_compare_zm7Qym",
     "image_compare_QQhQ4x",
-    "featured_product_xkRigR"
+    "featured_product_XJpHd3"
   ]
 }
