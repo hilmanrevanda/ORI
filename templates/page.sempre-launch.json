@@ -51,6 +51,35 @@
         "mobile_height": "auto"
       }
     },
+    "slideshow_6QRQex": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9mgPyd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9mgPyd"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -432,33 +461,51 @@
         "lazyload_images": true
       }
     },
-    "slideshow_6QRQex": {
-      "type": "slideshow",
+    "featured_product_xkRigR": {
+      "type": "featured-product",
       "blocks": {
-        "image_9mgPyd": {
-          "type": "image",
+        "price_rfgMg4": {
+          "type": "price",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+          }
+        },
+        "description_w3ECdj": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_d9LqaH": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_BL4qV7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
           }
         }
       },
       "block_order": [
-        "image_9mgPyd"
+        "price_rfgMg4",
+        "description_w3ECdj",
+        "variant_picker_d9LqaH",
+        "buy_buttons_BL4qV7"
       ],
       "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
+        "featured_product": "sempre-hair-growth-foam",
+        "product_image_size": "medium",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     }
   },
@@ -466,6 +513,7 @@
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_nx83CF",
+    "slideshow_6QRQex",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_AbXQBY",
@@ -477,6 +525,6 @@
     "text_and_image_8Lnq7h",
     "image_compare_zm7Qym",
     "image_compare_QQhQ4x",
-    "slideshow_6QRQex"
+    "featured_product_xkRigR"
   ]
 }
