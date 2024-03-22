@@ -61,6 +61,22 @@
         "alt": false
       }
     },
+    "blog_posts_nHfW9r": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
+        "blog": "the-more-you-know-the-more-you-grow",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "blog_posts_wFyhkX": {
       "type": "blog-posts",
       "settings": {
@@ -119,30 +135,14 @@
         "title": "DISCOVER OUR HAIR & SKINCARE COLLECTIONS",
         "alt": false
       }
-    },
-    "blog_posts_nHfW9r": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
-        "blog": "the-more-you-know-the-more-you-grow",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
     }
   },
   "order": [
     "slideshow_bHMPtG",
     "main",
     "blog_posts_xXmDXk",
+    "blog_posts_nHfW9r",
     "blog_posts_wFyhkX",
-    "featured-collections",
-    "blog_posts_nHfW9r"
+    "featured-collections"
   ]
 }
