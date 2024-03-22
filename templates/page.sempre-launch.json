@@ -80,6 +80,55 @@
         "lazyload_images": true
       }
     },
+    "countdown_YU3UDh": {
+      "type": "countdown",
+      "blocks": {
+        "content_BMnXKD": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE FOAM LAUNCH",
+            "heading_size": "h2",
+            "text": "",
+            "content_alignment": "left"
+          }
+        },
+        "timer_XKiXNh": {
+          "type": "timer",
+          "settings": {
+            "year": "2025",
+            "month": "04",
+            "day": "15",
+            "hour": "00",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_tyqpzX": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
+            "button": "LEARN MORE",
+            "button_style": "inverse"
+          }
+        }
+      },
+      "block_order": [
+        "content_BMnXKD",
+        "timer_XKiXNh",
+        "button_tyqpzX"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#451799",
+        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
     "slideshow_eXqcz3": {
       "type": "slideshow",
       "blocks": {
@@ -584,54 +633,6 @@
         "color": "#FFFFFF",
         "lazyload_images": true
       }
-    },
-    "countdown_YU3UDh": {
-      "type": "countdown",
-      "blocks": {
-        "content_BMnXKD": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE FOAM LAUNCH",
-            "heading_size": "h2",
-            "text": "",
-            "content_alignment": "left"
-          }
-        },
-        "timer_XKiXNh": {
-          "type": "timer",
-          "settings": {
-            "year": "2025",
-            "month": "04",
-            "day": "15",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_tyqpzX": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
-            "button": "LEARN MORE",
-            "button_style": "inverse"
-          }
-        }
-      },
-      "block_order": [
-        "content_BMnXKD",
-        "timer_XKiXNh",
-        "button_tyqpzX"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": false,
-        "text_color": "#000000",
-        "background_color": "#451799",
-        "overlay_color": "#000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -639,6 +640,7 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_nx83CF",
     "slideshow_6QRQex",
+    "countdown_YU3UDh",
     "slideshow_eXqcz3",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
@@ -653,7 +655,6 @@
     "featured_product_XJpHd3",
     "image_compare_zm7Qym",
     "testimonials_zgUEBb",
-    "image_compare_QQhQ4x",
-    "countdown_YU3UDh"
+    "image_compare_QQhQ4x"
   ]
 }
