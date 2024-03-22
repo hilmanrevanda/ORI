@@ -384,6 +384,85 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_eKBcPE": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_6bDQDG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7a7JaN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>SUBSCRIBE & SAVE<\/h2><p>Never skip a day when your Sempre hair growth products arrive monthly. scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_6bDQDG",
+        "liquid_7a7JaN"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_XJpHd3": {
+      "type": "featured-product",
+      "blocks": {
+        "price_fhfiLY": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_LeN4VY": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_e6ajE6": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_VB9qbm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_fhfiLY",
+        "description_LeN4VY",
+        "variant_picker_e6ajE6",
+        "buy_buttons_VB9qbm"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-kit",
+        "product_image_size": "medium",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "image_compare_zm7Qym": {
       "type": "image-compare",
       "blocks": {
@@ -446,51 +525,35 @@
         "lazyload_images": true
       }
     },
-    "featured_product_XJpHd3": {
-      "type": "featured-product",
+    "testimonials_zgUEBb": {
+      "type": "testimonials",
       "blocks": {
-        "price_fhfiLY": {
-          "type": "price",
+        "testimonial_A8im4w": {
+          "type": "testimonial",
           "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "image": "shopify:\/\/shop_images\/2_86518c2e-e709-448c-a4be-87df16ea2f91.png",
+            "author": "Author's name"
           }
         },
-        "description_LeN4VY": {
-          "type": "description",
+        "testimonial_B4FXc4": {
+          "type": "testimonial",
           "settings": {
-            "is_tab": false
-          }
-        },
-        "variant_picker_e6ajE6": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_VB9qbm": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_0234-3.jpg",
+            "author": "Author's name"
           }
         }
       },
       "block_order": [
-        "price_fhfiLY",
-        "description_LeN4VY",
-        "variant_picker_e6ajE6",
-        "buy_buttons_VB9qbm"
+        "testimonial_A8im4w",
+        "testimonial_B4FXc4"
       ],
       "settings": {
-        "featured_product": "sempre-hair-growth-kit",
-        "product_image_size": "medium",
-        "product_image_type": "stacked",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
       }
     }
   },
@@ -508,8 +571,10 @@
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "text_and_image_8Lnq7h",
+    "advanced_content_eKBcPE",
+    "featured_product_XJpHd3",
     "image_compare_zm7Qym",
     "image_compare_QQhQ4x",
-    "featured_product_XJpHd3"
+    "testimonials_zgUEBb"
   ]
 }
