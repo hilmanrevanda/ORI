@@ -494,37 +494,6 @@
         "lazyload_images": true
       }
     },
-    "image_compare_QQhQ4x": {
-      "type": "image-compare",
-      "blocks": {
-        "image_7LdJNy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8381.jpg"
-          }
-        },
-        "image_9ULhRk": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8380.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_7LdJNy",
-        "image_9ULhRk"
-      ],
-      "settings": {
-        "heading": "SEMPRE FOAM 4 MONTH RESULTS",
-        "heading_size": "h1",
-        "heading_position": "center",
-        "fullwidth": true,
-        "slider_style": "classic",
-        "height": 600,
-        "color": "#FFFFFF",
-        "lazyload_images": true
-      }
-    },
     "testimonials_zgUEBb": {
       "type": "testimonials",
       "blocks": {
@@ -555,6 +524,37 @@
         "round_images": true,
         "alt": false
       }
+    },
+    "image_compare_QQhQ4x": {
+      "type": "image-compare",
+      "blocks": {
+        "image_7LdJNy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8381.jpg"
+          }
+        },
+        "image_9ULhRk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8380.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_7LdJNy",
+        "image_9ULhRk"
+      ],
+      "settings": {
+        "heading": "SEMPRE FOAM 4 MONTH RESULTS",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 600,
+        "color": "#FFFFFF",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -574,7 +574,7 @@
     "advanced_content_eKBcPE",
     "featured_product_XJpHd3",
     "image_compare_zm7Qym",
-    "image_compare_QQhQ4x",
-    "testimonials_zgUEBb"
+    "testimonials_zgUEBb",
+    "image_compare_QQhQ4x"
   ]
 }
