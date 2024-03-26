@@ -3,18 +3,18 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+        "image_hEMipE": {
           "type": "image",
           "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 65,
-            "subheading": "BUONGIORNO HAIR & SKIN CARE",
-            "link": "shopify:\/\/collections\/buongiorno",
+            "title": "UNLOCK THE POWER OF YOUR DNA",
+            "title_size": 40,
+            "subheading": "NATURALE HAIR CARE",
+            "link": "shopify:\/\/collections\/naturale",
             "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2820.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -31,6 +31,20 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
           }
         },
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 65,
+            "subheading": "BUONGIORNO HAIR & SKIN CARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2820.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -43,20 +57,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/1_da3bad15-c1a3-4206-8a26-5168661ffc70.png",
             "image_mobile": "shopify:\/\/shop_images\/IMG_3763_eea5e782-8242-4192-a77e-13717f5d1262.jpg"
-          }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "UNLOCK THE POWER OF YOUR DNA",
-            "title_size": 40,
-            "subheading": "NATURALE HAIR CARE",
-            "link": "shopify:\/\/collections\/naturale",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
         "image_xUam77": {
@@ -76,15 +76,15 @@
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_hEMipE",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_xUam77"
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -10,
+        "desktop_size": 20,
         "mobile_size": 40,
         "autoplay": true,
         "autoplay_speed": 6,
