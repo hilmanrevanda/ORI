@@ -4,6 +4,7 @@
   "sections": {
     "social": {
       "type": "social",
+      "disabled": true,
       "settings": {
         "enable_home": true,
         "enable_product": true,
