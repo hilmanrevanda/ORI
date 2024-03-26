@@ -355,7 +355,7 @@
         "description_w3ECdj": {
           "type": "description",
           "settings": {
-            "is_tab": false
+            "is_tab": true
           }
         },
         "variant_picker_d9LqaH": {
@@ -384,7 +384,7 @@
       "settings": {
         "featured_product": "sempre-hair-growth-foam",
         "product_image_size": "medium",
-        "product_image_type": "stacked",
+        "product_image_type": "slider",
         "product_zoom_enable": false,
         "enable_video_looping": true,
         "product_video_style": "muted",
