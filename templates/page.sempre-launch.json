@@ -477,7 +477,7 @@
         "liquid_7a7JaN": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>SUBSCRIBE & SAVE<\/h2><p>Never skip a day when your Sempre hair growth products arrive monthly. scripts.<\/p>",
+            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -547,17 +547,17 @@
         "testimonial_A8im4w": {
           "type": "testimonial",
           "settings": {
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, overall I am more than satisfied with Sempre hair growth foam.<\/p>",
             "image": "shopify:\/\/shop_images\/2_86518c2e-e709-448c-a4be-87df16ea2f91.png",
-            "author": "Author's name"
+            "author": "Sandra O."
           }
         },
         "testimonial_B4FXc4": {
           "type": "testimonial",
           "settings": {
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "image": "shopify:\/\/shop_images\/IMG_0234-3.jpg",
-            "author": "Author's name"
+            "testimonial": "<p>I have plaque psoriasis in my hair, so sempre has definitely helped reduce thinning and helped my hair start growing back.<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_8691.jpg",
+            "author": "Josh A."
           }
         }
       },
@@ -566,7 +566,7 @@
         "testimonial_B4FXc4"
       ],
       "settings": {
-        "title": "Customer Reviews",
+        "title": "TESTIMONIALS -",
         "align_text": "center",
         "round_images": true,
         "alt": false

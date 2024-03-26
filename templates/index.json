@@ -3,6 +3,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 65,
+            "subheading": "BUONGIORNO HAIR & SKIN CARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2820.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
+          }
+        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -45,20 +59,6 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 65,
-            "subheading": "BUONGIORNO HAIR & SKIN CARE",
-            "link": "shopify:\/\/collections\/buongiorno",
-            "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2820.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
-          }
-        },
         "image_xUam77": {
           "type": "image",
           "disabled": true,
@@ -76,10 +76,10 @@
         }
       },
       "block_order": [
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_hEMipE",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77"
       ],
       "settings": {
