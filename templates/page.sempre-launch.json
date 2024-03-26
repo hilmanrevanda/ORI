@@ -46,7 +46,7 @@
         "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/927410891",
+        "video_url": "https:\/\/vimeo.com\/912492344",
         "section_height": "650px",
         "mobile_height": "auto"
       }
@@ -66,7 +66,7 @@
         "timer_XKiXNh": {
           "type": "timer",
           "settings": {
-            "year": "2024",
+            "year": "2025",
             "month": "04",
             "day": "15",
             "hour": "00",
@@ -556,6 +556,26 @@
         "sku_enable": false
       }
     },
+    "rich_text_iiWHx9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Jqkbw6": {
+          "type": "heading",
+          "settings": {
+            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jqkbw6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
     "fh_section_product_image_grid_7YhHi4": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -570,14 +590,16 @@
           "type": "testimonial",
           "settings": {
             "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, overall I am more than satisfied with Sempre hair growth foam.<\/p>",
-            "author": "Sandra"
+            "image": "shopify:\/\/shop_images\/2_86518c2e-e709-448c-a4be-87df16ea2f91.png",
+            "author": "Sandra O."
           }
         },
         "testimonial_B4FXc4": {
           "type": "testimonial",
           "settings": {
             "testimonial": "<p>I have plaque psoriasis in my hair, so sempre has definitely helped reduce thinning and helped my hair start growing back.<\/p>",
-            "author": "James"
+            "image": "shopify:\/\/shop_images\/IMG_8691.jpg",
+            "author": "Josh A."
           }
         }
       },
@@ -669,6 +691,7 @@
     "text_and_image_8Lnq7h",
     "advanced_content_eKBcPE",
     "featured_product_XJpHd3",
+    "rich_text_iiWHx9",
     "fh_section_product_image_grid_7YhHi4",
     "testimonials_zgUEBb",
     "fh_section_product_image_grid_NJ7QLt",
