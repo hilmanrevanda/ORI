@@ -520,8 +520,8 @@
         "buy_buttons_VB9qbm": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
           }
         }
       },
