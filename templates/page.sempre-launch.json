@@ -40,7 +40,7 @@
       "type": "hero-video",
       "settings": {
         "title": "",
-        "title_size": 80,
+        "title_size": 86,
         "subheading": "",
         "link_text": "",
         "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
@@ -49,35 +49,6 @@
         "video_url": "https:\/\/vimeo.com\/912492344",
         "section_height": "650px",
         "mobile_height": "auto"
-      }
-    },
-    "slideshow_6QRQex": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9mgPyd": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_9mgPyd"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
       }
     },
     "countdown_YU3UDh": {
@@ -126,6 +97,35 @@
         "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_6QRQex": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9mgPyd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9mgPyd"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
         "lazyload_images": true
       }
     },
@@ -591,8 +591,8 @@
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_nx83CF",
-    "slideshow_6QRQex",
     "countdown_YU3UDh",
+    "slideshow_6QRQex",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "slideshow_eXqcz3",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
