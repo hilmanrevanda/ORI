@@ -505,7 +505,7 @@
         "description_LeN4VY": {
           "type": "description",
           "settings": {
-            "is_tab": false
+            "is_tab": true
           }
         },
         "variant_picker_e6ajE6": {
