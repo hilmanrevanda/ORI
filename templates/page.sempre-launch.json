@@ -208,8 +208,8 @@
         "image_AzrNMW": {
           "type": "image",
           "settings": {
-            "title": "Let Nature Guide Your Metamorphisis",
-            "title_size": 53,
+            "title": "LET NATURE BE YOUR HAIR'S HEALER",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -217,15 +217,30 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_0234-3.jpg"
           }
+        },
+        "image_YaQhjg": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_9936_1752fd85-b3e2-4943-bffd-870cb717b6bd.jpg"
+          }
         }
       },
       "block_order": [
-        "image_AzrNMW"
+        "image_AzrNMW",
+        "image_YaQhjg"
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
+        "desktop_size": -20,
+        "mobile_size": -10,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
