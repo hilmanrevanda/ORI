@@ -600,6 +600,57 @@
         "image_left": "shopify:\/\/shop_images\/3_6d1f8100-c688-4ef7-99fa-0aca0af6a7b3.png",
         "image_right": "shopify:\/\/shop_images\/4_7b3e3fdb-600e-4c12-b089-fc0f86278783.png"
       }
+    },
+    "faq_dNDhd6": {
+      "type": "faq",
+      "blocks": {
+        "question_Ht6etb": {
+          "type": "question",
+          "settings": {
+            "title": "How does this work in conjunction with Sempre Vitamins?",
+            "text": "<p>We believe the best natural approach to hair loss is a comprehensive plan including nutritional oral supplements and targeted topical treatments.  Oral vitamins and topical hair growth treatments work in conjunction to support hair health from both the inside and outside.  Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss. Sempre topical foam has a powerful proprietary blend of botanical ingredients that directly reaches the hair follicles resulting in the appearance of improved hair density and overall hair health. <\/p>"
+          }
+        },
+        "question_MUCfxC": {
+          "type": "question",
+          "settings": {
+            "title": "Will I lose my hair growth if I stop using this product?",
+            "text": "<p>If you stop using Sempre your hair will likely go back to its pre-Sempre state<\/p>"
+          }
+        },
+        "question_CAgedX": {
+          "type": "question",
+          "settings": {
+            "title": "Will I experience shedding if I stop using this product?",
+            "text": "<p>This has not been studied but do not anticipate shedding with cessation of this product. <\/p>"
+          }
+        },
+        "question_HRYVCr": {
+          "type": "question",
+          "settings": {
+            "title": "Should I use this day or night?",
+            "text": "<p>It is recommended to use this product daily when you get out of the shower and are going to leave on the product for 12 hours. You should still use the product daily even if you do not wash your hair daily. <\/p>"
+          }
+        },
+        "question_gThPML": {
+          "type": "question",
+          "settings": {
+            "title": "How should I store this product?",
+            "text": "<p>Keep in a cool and dry place outside of your bathroom. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Ht6etb",
+        "question_MUCfxC",
+        "question_CAgedX",
+        "question_HRYVCr",
+        "question_gThPML"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -622,6 +673,7 @@
     "featured_product_XJpHd3",
     "fh_section_product_image_grid_7YhHi4",
     "testimonials_zgUEBb",
-    "fh_section_product_image_grid_NJ7QLt"
+    "fh_section_product_image_grid_NJ7QLt",
+    "faq_dNDhd6"
   ]
 }
