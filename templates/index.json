@@ -41,8 +41,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2820.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2820.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_2825-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
