@@ -1,5 +1,20 @@
 {
   "sections": {
+    "hero_video_hFqAXm": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "https:\/\/vimeo.com\/927410891",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/927410891",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
@@ -82,6 +97,7 @@
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_xUam77"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
@@ -488,6 +504,7 @@
     }
   },
   "order": [
+    "hero_video_hFqAXm",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
