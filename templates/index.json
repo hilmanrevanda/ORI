@@ -29,7 +29,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2825-4.jpg",
+            "image": "shopify:\/\/shop_images\/3_86aac29e-944d-40db-a152-309f45a45fbf.png",
             "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
           }
         },
@@ -150,6 +150,21 @@
         "background_color": "#000000"
       }
     },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
+      }
+    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
@@ -182,21 +197,6 @@
         "color_scheme": "button",
         "direction": "left",
         "speed": 300
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -507,9 +507,9 @@
     "hero_video_hFqAXm",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "scrolling-text",
-    "fh-section-product-category-grid",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "advanced_content_RiUDme",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
