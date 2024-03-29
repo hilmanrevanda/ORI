@@ -29,7 +29,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].background }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/3_86aac29e-944d-40db-a152-309f45a45fbf.png",
+            "image": "shopify:\/\/shop_images\/IMG_3577.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
           }
         },
