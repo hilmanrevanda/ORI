@@ -13,7 +13,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
           }
         }
       },
@@ -42,7 +43,7 @@
         "text_spacing": false,
         "color_scheme": "button",
         "direction": "left",
-        "speed": 240
+        "speed": 300
       }
     },
     "d8eb8fd5-a70c-442b-8673-506cd1a0628a": {
