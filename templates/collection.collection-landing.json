@@ -6,14 +6,14 @@
         "template--15750521848017__a94e330c-f600-4033-a3f5-6fec984e9b85-image-1": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
+            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title_size": 60,
             "subheading": "{{ collection.metafields.custom.tagline.value }}",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/56.png"
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
           }
         }
       },
