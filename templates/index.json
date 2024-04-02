@@ -19,6 +19,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 70,
+            "subheading": "BUONGIORNO HAIR & SKIN CARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_3577.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3577.jpg"
+          }
+        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -31,20 +45,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_9848.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
-          }
-        },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 70,
-            "subheading": "BUONGIORNO HAIR & SKIN CARE",
-            "link": "shopify:\/\/collections\/buongiorno",
-            "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3577.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
           }
         },
         "image_hEMipE": {
@@ -92,8 +92,8 @@
         }
       },
       "block_order": [
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_xUam77"
