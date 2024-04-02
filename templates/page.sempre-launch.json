@@ -100,6 +100,33 @@
         "lazyload_images": true
       }
     },
+    "rich_text_iiWHx9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Jqkbw6": {
+          "type": "heading",
+          "settings": {
+            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jqkbw6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "fh_section_product_image_grid_7YhHi4": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/2_f55caccd-25e6-4218-b97f-13b867a6d37c.png",
+        "image_right": "shopify:\/\/shop_images\/1_b4141ed2-06c3-4d9e-9730-05a7b716d44b.png"
+      }
+    },
     "slideshow_6QRQex": {
       "type": "slideshow",
       "blocks": {
@@ -246,6 +273,38 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_eKBcPE": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_6bDQDG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7a7JaN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_6bDQDG",
+        "liquid_7a7JaN"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -305,60 +364,6 @@
         "background_color": "#ffffff"
       }
     },
-    "featured_product_AbXQBY": {
-      "type": "featured-product",
-      "blocks": {
-        "price_mB64YW": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_WRAHJb": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_XcFGwL": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_6rJXKc": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": false
-          }
-        }
-      },
-      "block_order": [
-        "price_mB64YW",
-        "description_WRAHJb",
-        "variant_picker_XcFGwL",
-        "buy_buttons_6rJXKc"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
-    },
-    "fh_section_product_image_grid_wzKj7Q": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
-        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
-      }
-    },
     "featured_product_xkRigR": {
       "type": "featured-product",
       "blocks": {
@@ -411,6 +416,89 @@
       "settings": {
         "image_left": "shopify:\/\/shop_images\/IMG_0738-2.jpg",
         "image_right": "shopify:\/\/shop_images\/11_11e82ad0-ef6d-4efb-8500-f9ebba138800.png"
+      }
+    },
+    "testimonials_zgUEBb": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_A8im4w": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, overall I am more than satisfied with Sempre hair growth foam.<\/p>",
+            "author": "Sandra O."
+          }
+        },
+        "testimonial_B4FXc4": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>I have plaque psoriasis in my hair, so sempre has definitely helped reduce thinning and helped my hair start growing back.<\/p>",
+            "author": "Josh A."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_A8im4w",
+        "testimonial_B4FXc4"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS - AFTER 6 MONTHS OF USE",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
+      }
+    },
+    "fh_section_product_image_grid_NJ7QLt": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/3_6d1f8100-c688-4ef7-99fa-0aca0af6a7b3.png",
+        "image_right": "shopify:\/\/shop_images\/4_7b3e3fdb-600e-4c12-b089-fc0f86278783.png"
+      }
+    },
+    "featured_product_AbXQBY": {
+      "type": "featured-product",
+      "blocks": {
+        "price_mB64YW": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_WRAHJb": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "variant_picker_XcFGwL": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_6rJXKc": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price_mB64YW",
+        "description_WRAHJb",
+        "variant_picker_XcFGwL",
+        "buy_buttons_6rJXKc"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -477,38 +565,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_eKBcPE": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_6bDQDG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_7a7JaN": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_6bDQDG",
-        "liquid_7a7JaN"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
     "featured_product_XJpHd3": {
       "type": "featured-product",
       "blocks": {
@@ -557,67 +613,11 @@
         "sku_enable": false
       }
     },
-    "rich_text_iiWHx9": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Jqkbw6": {
-          "type": "heading",
-          "settings": {
-            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Jqkbw6"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
-      }
-    },
-    "fh_section_product_image_grid_7YhHi4": {
+    "fh_section_product_image_grid_wzKj7Q": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/2_f55caccd-25e6-4218-b97f-13b867a6d37c.png",
-        "image_right": "shopify:\/\/shop_images\/1_b4141ed2-06c3-4d9e-9730-05a7b716d44b.png"
-      }
-    },
-    "testimonials_zgUEBb": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_A8im4w": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, overall I am more than satisfied with Sempre hair growth foam.<\/p>",
-            "author": "Sandra O."
-          }
-        },
-        "testimonial_B4FXc4": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>I have plaque psoriasis in my hair, so sempre has definitely helped reduce thinning and helped my hair start growing back.<\/p>",
-            "author": "Josh A."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_A8im4w",
-        "testimonial_B4FXc4"
-      ],
-      "settings": {
-        "title": "TESTIMONIALS - AFTER 6 MONTHS OF USE",
-        "align_text": "center",
-        "round_images": true,
-        "alt": false
-      }
-    },
-    "fh_section_product_image_grid_NJ7QLt": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/3_6d1f8100-c688-4ef7-99fa-0aca0af6a7b3.png",
-        "image_right": "shopify:\/\/shop_images\/4_7b3e3fdb-600e-4c12-b089-fc0f86278783.png"
+        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
+        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
       }
     },
     "faq_dNDhd6": {
@@ -677,23 +677,23 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_nx83CF",
     "countdown_YU3UDh",
+    "rich_text_iiWHx9",
+    "fh_section_product_image_grid_7YhHi4",
     "slideshow_6QRQex",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "slideshow_eXqcz3",
+    "advanced_content_eKBcPE",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "featured_product_AbXQBY",
-    "fh_section_product_image_grid_wzKj7Q",
     "featured_product_xkRigR",
     "fh_section_product_image_grid_W7KqC4",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "text_and_image_8Lnq7h",
-    "advanced_content_eKBcPE",
-    "featured_product_XJpHd3",
-    "rich_text_iiWHx9",
-    "fh_section_product_image_grid_7YhHi4",
     "testimonials_zgUEBb",
     "fh_section_product_image_grid_NJ7QLt",
+    "featured_product_AbXQBY",
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "text_and_image_8Lnq7h",
+    "featured_product_XJpHd3",
+    "fh_section_product_image_grid_wzKj7Q",
     "faq_dNDhd6"
   ]
 }
