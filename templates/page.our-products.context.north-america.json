@@ -1,8 +1,0 @@
-{
-  "parent": "page.our-products.json",
-  "context": {
-    "market": "north-america"
-  },
-  "sections": {
-  }
-}
