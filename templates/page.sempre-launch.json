@@ -13,7 +13,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre.png",
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Sempre.png"
           }
         }
@@ -40,7 +40,7 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/2_f55caccd-25e6-4218-b97f-13b867a6d37c.png",
-        "image_right": "shopify:\/\/shop_images\/1_b4141ed2-06c3-4d9e-9730-05a7b716d44b.png"
+        "image_right": "shopify:\/\/shop_images\/2_f816ff91-6316-4b32-8184-8357f0489892.png"
       }
     },
     "rich_text_iiWHx9": {
