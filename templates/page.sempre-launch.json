@@ -1,11 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
     "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
       "type": "slideshow",
       "blocks": {
@@ -34,6 +28,46 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "fh_section_product_image_grid_7YhHi4": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/2_f55caccd-25e6-4218-b97f-13b867a6d37c.png",
+        "image_right": "shopify:\/\/shop_images\/1_b4141ed2-06c3-4d9e-9730-05a7b716d44b.png"
+      }
+    },
+    "rich_text_iiWHx9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Jqkbw6": {
+          "type": "heading",
+          "settings": {
+            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Jqkbw6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "fh_section_product_image_grid_NJ7QLt": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/3_6d1f8100-c688-4ef7-99fa-0aca0af6a7b3.png",
+        "image_right": "shopify:\/\/shop_images\/4_7b3e3fdb-600e-4c12-b089-fc0f86278783.png"
       }
     },
     "hero_video_nx83CF": {
@@ -98,33 +132,6 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": true
-      }
-    },
-    "rich_text_iiWHx9": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Jqkbw6": {
-          "type": "heading",
-          "settings": {
-            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Jqkbw6"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
-      }
-    },
-    "fh_section_product_image_grid_7YhHi4": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/2_f55caccd-25e6-4218-b97f-13b867a6d37c.png",
-        "image_right": "shopify:\/\/shop_images\/1_b4141ed2-06c3-4d9e-9730-05a7b716d44b.png"
       }
     },
     "slideshow_6QRQex": {
@@ -447,13 +454,6 @@
         "alt": false
       }
     },
-    "fh_section_product_image_grid_NJ7QLt": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/3_6d1f8100-c688-4ef7-99fa-0aca0af6a7b3.png",
-        "image_right": "shopify:\/\/shop_images\/4_7b3e3fdb-600e-4c12-b089-fc0f86278783.png"
-      }
-    },
     "featured_product_AbXQBY": {
       "type": "featured-product",
       "blocks": {
@@ -673,12 +673,13 @@
     }
   },
   "order": [
-    "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "main",
+    "fh_section_product_image_grid_7YhHi4",
+    "rich_text_iiWHx9",
+    "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "countdown_YU3UDh",
-    "rich_text_iiWHx9",
-    "fh_section_product_image_grid_7YhHi4",
     "slideshow_6QRQex",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "slideshow_eXqcz3",
@@ -688,7 +689,6 @@
     "featured_product_xkRigR",
     "fh_section_product_image_grid_W7KqC4",
     "testimonials_zgUEBb",
-    "fh_section_product_image_grid_NJ7QLt",
     "featured_product_AbXQBY",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "text_and_image_8Lnq7h",
