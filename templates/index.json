@@ -273,38 +273,6 @@
         "has_icon": false
       }
     },
-    "advanced_content_RiUDme": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_ywHmFV": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Amore Candle & Bath Salts<\/h2><p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "image_GXxG9n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3628-2.jpg",
-            "link": "shopify:\/\/collections\/amore-self-care",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_ywHmFV",
-        "image_GXxG9n"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -347,6 +315,17 @@
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
     },
+    "featured_collection_slider_h66n6a": {
+      "type": "featured-collection-slider",
+      "disabled": true,
+      "settings": {
+        "title": "SHOP AMORE SELF CARE",
+        "description": "LIMITED EDITION ARTIST COLLABORATION",
+        "home_featured_products": "amore-self-care",
+        "per_row": "medium",
+        "alt": true
+      }
+    },
     "hero_video_hJTHHN": {
       "type": "hero-video",
       "disabled": true,
@@ -363,15 +342,20 @@
         "mobile_height": "auto"
       }
     },
-    "featured_collection_slider_h66n6a": {
-      "type": "featured-collection-slider",
-      "disabled": true,
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
       "settings": {
-        "title": "SHOP AMORE SELF CARE",
-        "description": "LIMITED EDITION ARTIST COLLABORATION",
-        "home_featured_products": "amore-self-care",
-        "per_row": "medium",
-        "alt": true
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
       }
     },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
@@ -382,6 +366,21 @@
         "description": "OUR BEST SELLING HAIR & SKIN CARE",
         "featured_text": "",
         "home_featured_products": "origenere-hair-skin-care-sets",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
+        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
+        "featured_text": "Featured",
+        "home_featured_products": "hair-care-frontpage",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",
@@ -403,21 +402,6 @@
         "description_right": "PRESERVATION COLLECTION",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/arancio"
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
-        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
-        "featured_text": "Featured",
-        "home_featured_products": "hair-care-frontpage",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
       }
     },
     "text-and-image": {
@@ -442,22 +426,6 @@
         "lazyload_images": true
       }
     },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "fh-section-cta": {
       "type": "fh-section-cta",
       "settings": {
@@ -466,6 +434,38 @@
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "advanced_content_RiUDme": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_ywHmFV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Amore Candle & Bath Salts<\/h2><p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_GXxG9n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3628-2.jpg",
+            "link": "shopify:\/\/collections\/amore-self-care",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_ywHmFV",
+        "image_GXxG9n"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
       }
     },
     "featured_collection_slider_Bk6Ke3": {
@@ -510,16 +510,16 @@
     "text_and_image_MHzh9j",
     "scrolling-text",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "advanced_content_RiUDme",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
-    "hero_video_hJTHHN",
     "featured_collection_slider_h66n6a",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49",
-    "0538ae71-f903-4444-84a7-d7fb94248ea3",
-    "featured-collection",
-    "text-and-image",
+    "hero_video_hJTHHN",
     "blog_posts_Y9fLMP",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "featured-collection",
+    "0538ae71-f903-4444-84a7-d7fb94248ea3",
+    "text-and-image",
     "fh-section-cta",
+    "advanced_content_RiUDme",
     "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz"
   ]
