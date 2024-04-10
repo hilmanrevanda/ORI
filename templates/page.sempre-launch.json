@@ -280,97 +280,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_eKBcPE": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_6bDQDG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_7a7JaN": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_6bDQDG",
-        "liquid_7a7JaN"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
-    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
-      "type": "fh-section-custom-list-richtext",
-      "blocks": {
-        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
-          "type": "text_block",
-          "settings": {
-            "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_3892-4.jpg",
-            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "9a5aef13-6981-4512-bb36-b707bab54b3b"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-      }
-    },
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
-      "type": "rich-text",
-      "blocks": {
-        "848977ff-6252-4e05-989d-8584e771108f": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Helix.png"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Products Address the Most Common Hair Concerns:"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "848977ff-6252-4e05-989d-8584e771108f",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
     "featured_product_xkRigR": {
       "type": "featured-product",
       "blocks": {
@@ -409,13 +318,104 @@
         "buy_buttons_BL4qV7"
       ],
       "settings": {
-        "featured_product": "sempre-hair-growth-foam",
+        "featured_product": "sempre-hair-growth-foam-organonutrient-botanical-blend-3-month-trio",
         "product_image_size": "medium",
         "product_image_type": "slider",
         "product_zoom_enable": false,
         "enable_video_looping": true,
         "product_video_style": "muted",
         "sku_enable": false
+      }
+    },
+    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
+      "type": "fh-section-custom-list-richtext",
+      "blocks": {
+        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/IMG_3892-4.jpg",
+            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "9a5aef13-6981-4512-bb36-b707bab54b3b"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+      }
+    },
+    "advanced_content_eKBcPE": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_6bDQDG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_7a7JaN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_6bDQDG",
+        "liquid_7a7JaN"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
+      "type": "rich-text",
+      "blocks": {
+        "848977ff-6252-4e05-989d-8584e771108f": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Helix.png"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Products Address the Most Common Hair Concerns:"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "848977ff-6252-4e05-989d-8584e771108f",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
       }
     },
     "fh_section_product_image_grid_W7KqC4": {
@@ -452,6 +452,13 @@
         "align_text": "center",
         "round_images": true,
         "alt": false
+      }
+    },
+    "fh_section_product_image_grid_wzKj7Q": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
+        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
       }
     },
     "featured_product_AbXQBY": {
@@ -613,13 +620,6 @@
         "sku_enable": false
       }
     },
-    "fh_section_product_image_grid_wzKj7Q": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
-        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
-      }
-    },
     "faq_dNDhd6": {
       "type": "faq",
       "blocks": {
@@ -683,17 +683,17 @@
     "slideshow_6QRQex",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "slideshow_eXqcz3",
-    "advanced_content_eKBcPE",
-    "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_xkRigR",
+    "e8e433ee-440d-4d90-afb3-b82387ee8444",
+    "advanced_content_eKBcPE",
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "fh_section_product_image_grid_W7KqC4",
     "testimonials_zgUEBb",
+    "fh_section_product_image_grid_wzKj7Q",
     "featured_product_AbXQBY",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "text_and_image_8Lnq7h",
     "featured_product_XJpHd3",
-    "fh_section_product_image_grid_wzKj7Q",
     "faq_dNDhd6"
   ]
 }
