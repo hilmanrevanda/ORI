@@ -490,6 +490,52 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "fh_section_collection_grid_a9N4Um": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-metamorphisis"
+          }
+        },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
+            "text": "BUONGIORNO VITALITY",
+            "url": "shopify:\/\/collections\/buongiorno"
+          }
+        },
+        "text_block_CMTXRa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
+            "text": "NERO DETOX EXFOLIATING",
+            "url": "shopify:\/\/collections\/nero"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L7iPcd",
+        "text_block_FJYXiW",
+        "text_block_CMTXRa",
+        "text_block_8iMHhy"
+      ],
+      "settings": {
+        "num_per_row": 4
+      }
     }
   },
   "order": [
@@ -511,6 +557,7 @@
     "featured_collection_slider_Bk6Ke3",
     "fh-section-cta",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT"
+    "text_and_image_xjgKdT",
+    "fh_section_collection_grid_a9N4Um"
   ]
 }
