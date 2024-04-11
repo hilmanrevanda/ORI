@@ -360,6 +360,11 @@
   "customer_accounts": {
     "profile_preview_bar": {
       "close_preview": "Cerrar vista previa"
+    },
+    "orders": {
+      "order_status": {
+        "buy_with_prime_logo_accessibility_label": "Amazon Compra con el logotipo Prime"
+      }
     }
   }
 }
