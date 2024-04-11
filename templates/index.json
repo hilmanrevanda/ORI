@@ -171,9 +171,9 @@
         "image_mask": "square",
         "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
         "image2_mask": "portrait",
-        "subtitle": "",
-        "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-        "text": "<p> A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids. <\/p>",
+        "subtitle": "ALL NATURAL BOTANICALS",
+        "title": "SEMPRE HAIR GROWTH",
+        "text": "<p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids for fuller appearing hair.<\/p>",
         "button_label": "SHOP NOW",
         "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
         "button_style": "secondary",
@@ -426,48 +426,6 @@
         "lazyload_images": true
       }
     },
-    "fh-section-cta": {
-      "type": "fh-section-cta",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-        "heading": "ORGANONUTRIENTS",
-        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
-        "btn_text": "LEARN MORE",
-        "btn_url": "shopify:\/\/pages\/the-science"
-      }
-    },
-    "advanced_content_RiUDme": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_ywHmFV": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2><\/h2><p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>Amore Candle & Bath Salts",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "image_GXxG9n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3628-2.jpg",
-            "link": "shopify:\/\/collections\/amore-self-care",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_ywHmFV",
-        "image_GXxG9n"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
     "featured_collection_slider_Bk6Ke3": {
       "type": "featured-collection-slider",
       "settings": {
@@ -476,6 +434,16 @@
         "home_featured_products": "haircare",
         "per_row": "medium",
         "alt": false
+      }
+    },
+    "fh-section-cta": {
+      "type": "fh-section-cta",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+        "heading": "ORGANONUTRIENTS",
+        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
+        "btn_text": "LEARN MORE",
+        "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
     "text_and_image_pxqLGz": {
@@ -540,9 +508,8 @@
     "featured-collection",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "text-and-image",
-    "fh-section-cta",
-    "advanced_content_RiUDme",
     "featured_collection_slider_Bk6Ke3",
+    "fh-section-cta",
     "text_and_image_pxqLGz",
     "text_and_image_xjgKdT"
   ]
