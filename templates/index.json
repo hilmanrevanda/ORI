@@ -19,32 +19,18 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+        "image_xUam77": {
           "type": "image",
           "settings": {
-            "title": "AWAKEN YOUR SENSES",
-            "title_size": 70,
-            "subheading": "BUONGIORNO HAIR & SKIN CARE",
-            "link": "shopify:\/\/collections\/buongiorno",
+            "title": "NOURISH YOUR NATURAL GLOW",
+            "title_size": 52,
+            "subheading": "ARANCIO SKIN CARE",
+            "link": "shopify:\/\/collections\/arancio",
             "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
+            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2825-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
-          }
-        },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "UNDERSTANDING THE HAIR GROWTH CYCLE",
-            "title_size": 45,
-            "subheading": "A Foundation for Healthy Hair",
-            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know-1",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0092-2.jpg"
+            "image": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -61,6 +47,34 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
           }
         },
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+          "type": "image",
+          "settings": {
+            "title": "UNDERSTANDING THE HAIR GROWTH CYCLE",
+            "title_size": 45,
+            "subheading": "A Foundation for Healthy Hair",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know-1",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0092-2.jpg"
+          }
+        },
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "AWAKEN YOUR SENSES",
+            "title_size": 70,
+            "subheading": "BUONGIORNO HAIR & SKIN CARE",
+            "link": "shopify:\/\/collections\/buongiorno",
+            "link_text": "SHOP NOW",
+            "color_accent": "{{ shop.brand.colors.primary[0].background }}",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2825-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2825-4.jpg"
+          }
+        },
         "image_hEMipE": {
           "type": "image",
           "settings": {
@@ -74,28 +88,14 @@
             "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
-        },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "NOURISH YOUR NATURAL GLOW",
-            "title_size": 52,
-            "subheading": "ARANCIO SKIN CARE",
-            "link": "shopify:\/\/collections\/arancio",
-            "link_text": "SHOP NOW",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg"
-          }
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "image_xUam77",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_hEMipE",
-        "image_xUam77"
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "image_hEMipE"
       ],
       "settings": {
         "style": "arrows",
