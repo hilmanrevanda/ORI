@@ -6,14 +6,14 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "Botanical Brilliance: \nA Physician's review of Turmeric",
-            "title_size": 47,
-            "subheading": "",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/turmeric",
-            "link_text": "LEARN MORE",
+            "title": "ORIGENERE BLOG",
+            "title_size": 64,
+            "subheading": "THE MORE YOU KNOW, THE MORE YOU GROW",
+            "link": "",
+            "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3709.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_3892-4.jpg"
           }
         }
       },
@@ -22,7 +22,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 0,
+        "desktop_size": -30,
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
