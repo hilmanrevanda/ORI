@@ -91,7 +91,7 @@
         "content_BMnXKD": {
           "type": "content",
           "settings": {
-            "heading": "SEMPRE FOAM LAUNCH",
+            "heading": "SEMPRE HAIR GROWTH FOAM LAUNCH",
             "heading_size": "h2",
             "text": "",
             "content_alignment": "left"
@@ -111,6 +111,7 @@
         },
         "button_tyqpzX": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
             "button": "LEARN MORE",
