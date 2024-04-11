@@ -85,8 +85,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Hair_Skin_Bundles.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Skincare_Porsche.jpg"
+            "image": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg"
           }
         }
       },
