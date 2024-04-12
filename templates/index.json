@@ -350,53 +350,11 @@
         "alt": true
       }
     },
-    "logo_list_Hpp7BM": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_image_qPHHCw": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_95.png",
-            "link": ""
-          }
-        },
-        "logo_image_Hfqw8r": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_93.png",
-            "link": ""
-          }
-        },
-        "logo_image_chYGCR": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "logo_image_ybaiqt": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "logo_image_heAWr6": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_image_qPHHCw",
-        "logo_image_Hfqw8r",
-        "logo_image_chYGCR",
-        "logo_image_ybaiqt",
-        "logo_image_heAWr6"
-      ],
+    "fh_section_product_image_grid_mtB8PW": {
+      "type": "fh-section-product-image-grid",
       "settings": {
-        "title": "SEMPRE HAIR GROWTH RESULTS",
-        "logo_opacity": 100,
-        "alt": false
+        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
+        "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
       }
     },
     "fh-section-cta": {
@@ -628,7 +586,7 @@
     "fh_section_collection_grid_a9N4Um",
     "text_and_image_MHzh9j",
     "testimonials_HA8BNa",
-    "logo_list_Hpp7BM",
+    "fh_section_product_image_grid_mtB8PW",
     "fh-section-cta",
     "featured_collection_slider_h66n6a",
     "hero_video_hJTHHN",
