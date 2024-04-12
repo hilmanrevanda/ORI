@@ -164,40 +164,6 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
-        "image2_mask": "portrait",
-        "subtitle": "ALL NATURAL BOTANICALS",
-        "title": "SEMPRE HAIR GROWTH",
-        "text": "<p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids for fuller appearing hair.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
-        "button_style": "secondary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
-        "link": "shopify:\/\/collections\/hair-care-frontpage",
-        "text_size": 30,
-        "text_spacing": false,
-        "color_scheme": "button",
-        "direction": "left",
-        "speed": 300
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -273,222 +239,16 @@
         "has_icon": false
       }
     },
-    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "bills",
-            "title": "Research Laboratory Results: (Naturale Purity Collection)",
-            "text": "<p>Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish. <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution.<\/p>"
-          }
-        },
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "Clinical Research Study: (Naturale Purity Collection)",
-            "text": "<p>In a Third Party Clinical Study: After just 4 weeks of usage, the majority of clients noted:<\/p><p>THICKER HAIR, LESS HAIR SHEDDING, LESS HAIR BREAKAGE, STRONGER HAIR, REDUCTION IN SCALP DRYNESS<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0",
-        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2"
-      ],
-      "custom_css": [
-        ".text-with-icons__blocks {padding-bottom: 10px;}",
-        ".text-with-icons__title {padding-top: 10px; margin-bottom: 10px;}"
-      ],
+    "scrolling-text": {
+      "type": "scrolling-text",
       "settings": {
-        "title": "BACKED BY SCIENCE",
-        "align_text": "center",
-        "desktop_columns_per_row": 2,
-        "icon_color": "#000000",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/the-science",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
-      }
-    },
-    "featured_collection_slider_h66n6a": {
-      "type": "featured-collection-slider",
-      "disabled": true,
-      "settings": {
-        "title": "SHOP AMORE SELF CARE",
-        "description": "LIMITED EDITION ARTIST COLLABORATION",
-        "home_featured_products": "amore-self-care",
-        "per_row": "medium",
-        "alt": true
-      }
-    },
-    "hero_video_hJTHHN": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/912503601",
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
-    },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "SHOP & SAVE WITH OUR BUNDLES",
-        "description": "OUR BEST SELLING HAIR & SKIN CARE",
-        "featured_text": "",
-        "home_featured_products": "origenere-hair-skin-care-sets",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
-        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
-        "featured_text": "Featured",
-        "home_featured_products": "hair-care-frontpage",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
-    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
-      "type": "fh-section-products-grid",
-      "disabled": true,
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
-        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
-        "description_left": "VITALITY COLLECTION",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/buongiorno",
-        "image_right": "shopify:\/\/shop_images\/Arancio_Moody.jpg",
-        "heading_right": "ARANCIO SKINCARE",
-        "description_right": "PRESERVATION COLLECTION",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/arancio"
-      }
-    },
-    "text-and-image": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_3676.jpg",
-        "image2_mask": "square",
-        "subtitle": "",
-        "title": "OUR STORY",
-        "text": "<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin.  Origenere is committed to developing products using the best of science artfully combined with the best of nature.<strong>  <\/strong>We offer all-natural hair and skin care products formulated by physicians and scientists.  <\/p>",
-        "button_label": "Learn More",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "button_style": "secondary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
-    "fh-section-cta": {
-      "type": "fh-section-cta",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-        "heading": "ORGANONUTRIENTS",
-        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
-        "btn_text": "LEARN MORE",
-        "btn_url": "shopify:\/\/pages\/the-science"
-      }
-    },
-    "text_and_image_pxqLGz": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/49.png",
-        "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/vitalita_square.png",
-        "image2_mask": "none",
-        "subtitle": "Amore - From Nature, With Love",
-        "title": "ORIGENERE X YAZAMIN",
-        "text": "<h3>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration.  A collection of body wash, candles & bath salts to elevate your self care experience.<\/h3>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/pages\/amore-selfcare",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "left",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_xjgKdT": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9644AmoreRedRose.jpg",
-        "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/IMG_9561-2_b5b6771a-c978-41e0-b071-2d8f9ade2912.jpg",
-        "image2_mask": "none",
-        "subtitle": "SELF CARE CANDLE & BATH SALTS",
-        "title": "Amore",
-        "text": "<p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/amore-self-care",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
+        "link": "shopify:\/\/collections",
+        "text_size": 30,
+        "text_spacing": false,
+        "color_scheme": "button",
+        "direction": "left",
+        "speed": 300
       }
     },
     "fh_section_collection_grid_a9N4Um": {
@@ -536,6 +296,324 @@
       "settings": {
         "num_per_row": 4
       }
+    },
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
+        "image2_mask": "portrait",
+        "subtitle": "ALL NATURAL BOTANICALS",
+        "title": "SEMPRE HAIR GROWTH",
+        "text": "<p>A unique dietary formula that provides all of the essential nutrients for healthy hair and skin. Advanced botanicals and antioxidants help hair and skin fight the aging process. Provides essential vitamins, minerals, and amino acids for fuller appearing hair.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_style": "secondary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials_HA8BNa": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9LGHbz": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>This product is truly amazing!  I am completely satisfied and notice dramatic results.  Thank you so much for your generosity and tremendous knowledge. This product is revolutionary and every one needs to know about it.<\/p>",
+            "author": "After 6 months of consistent use"
+          }
+        },
+        "testimonial_BphtaB": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9LGHbz",
+        "testimonial_BphtaB"
+      ],
+      "settings": {
+        "title": "USER TESTIMONIALS",
+        "align_text": "center",
+        "round_images": true,
+        "alt": true
+      }
+    },
+    "logo_list_Hpp7BM": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_qPHHCw": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_95.png",
+            "link": ""
+          }
+        },
+        "logo_image_Hfqw8r": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_93.png",
+            "link": ""
+          }
+        },
+        "logo_image_chYGCR": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_image_ybaiqt": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_image_heAWr6": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_qPHHCw",
+        "logo_image_Hfqw8r",
+        "logo_image_chYGCR",
+        "logo_image_ybaiqt",
+        "logo_image_heAWr6"
+      ],
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH RESULTS",
+        "logo_opacity": 100,
+        "alt": false
+      }
+    },
+    "fh-section-cta": {
+      "type": "fh-section-cta",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+        "heading": "ORGANONUTRIENTS",
+        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
+        "btn_text": "LEARN MORE",
+        "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "featured_collection_slider_h66n6a": {
+      "type": "featured-collection-slider",
+      "disabled": true,
+      "settings": {
+        "title": "SHOP AMORE SELF CARE",
+        "description": "LIMITED EDITION ARTIST COLLABORATION",
+        "home_featured_products": "amore-self-care",
+        "per_row": "medium",
+        "alt": true
+      }
+    },
+    "hero_video_hJTHHN": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/912503601",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_3676.jpg",
+        "image2_mask": "square",
+        "subtitle": "",
+        "title": "OUR STORY",
+        "text": "<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin.  Origenere is committed to developing products using the best of science artfully combined with the best of nature.<strong>  <\/strong>We offer all-natural hair and skin care products formulated by physicians and scientists.  <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "SHOP & SAVE WITH OUR BUNDLES",
+        "description": "OUR BEST SELLING HAIR & SKIN CARE",
+        "featured_text": "",
+        "home_featured_products": "origenere-hair-skin-care-sets",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "bills",
+            "title": "Research Laboratory Results: (Naturale Purity Collection)",
+            "text": "<p>Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish. <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution.<\/p>"
+          }
+        },
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "Clinical Research Study: (Naturale Purity Collection)",
+            "text": "<p>In a Third Party Clinical Study: After just 4 weeks of usage, the majority of clients noted:<\/p><p>THICKER HAIR, LESS HAIR SHEDDING, LESS HAIR BREAKAGE, STRONGER HAIR, REDUCTION IN SCALP DRYNESS<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0",
+        "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2"
+      ],
+      "custom_css": [
+        ".text-with-icons__blocks {padding-bottom: 10px;}",
+        ".text-with-icons__title {padding-top: 10px; margin-bottom: 10px;}"
+      ],
+      "settings": {
+        "title": "BACKED BY SCIENCE",
+        "align_text": "center",
+        "desktop_columns_per_row": 2,
+        "icon_color": "#000000",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/the-science",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "NATURALE - HAIR CARE FOR THINNING HAIR",
+        "description": "ALL-NATURAL BOTANICAL HAIRCARE",
+        "featured_text": "Featured",
+        "home_featured_products": "hair-care-frontpage",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "0538ae71-f903-4444-84a7-d7fb94248ea3": {
+      "type": "fh-section-products-grid",
+      "disabled": true,
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_2477-4.jpg",
+        "heading_left": "BUONGIORNO HAIR & SKIN CARE",
+        "description_left": "VITALITY COLLECTION",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/buongiorno",
+        "image_right": "shopify:\/\/shop_images\/Arancio_Moody.jpg",
+        "heading_right": "ARANCIO SKINCARE",
+        "description_right": "PRESERVATION COLLECTION",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/arancio"
+      }
+    },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
+    "text_and_image_pxqLGz": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/49.png",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/vitalita_square.png",
+        "image2_mask": "none",
+        "subtitle": "Amore - From Nature, With Love",
+        "title": "ORIGENERE X YAZAMIN",
+        "text": "<h3>Amore Awaits: Turn your self care into a love affair.  ❤️    Introducing our artist collaboration.  A collection of body wash, candles & bath salts to elevate your self care experience.<\/h3>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/pages\/amore-selfcare",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "left",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_xjgKdT": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9644AmoreRedRose.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/IMG_9561-2_b5b6771a-c978-41e0-b071-2d8f9ade2912.jpg",
+        "image2_mask": "none",
+        "subtitle": "SELF CARE CANDLE & BATH SALTS",
+        "title": "Amore",
+        "text": "<p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/amore-self-care",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -543,21 +621,23 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
-    "text_and_image_MHzh9j",
-    "scrolling-text",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
+    "scrolling-text",
+    "fh_section_collection_grid_a9N4Um",
+    "text_and_image_MHzh9j",
+    "testimonials_HA8BNa",
+    "logo_list_Hpp7BM",
+    "fh-section-cta",
     "featured_collection_slider_h66n6a",
     "hero_video_hJTHHN",
+    "text-and-image",
     "blog_posts_Y9fLMP",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "featured-collection",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
-    "text-and-image",
     "featured_collection_slider_Bk6Ke3",
-    "fh-section-cta",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT",
-    "fh_section_collection_grid_a9N4Um"
+    "text_and_image_xjgKdT"
   ]
 }
