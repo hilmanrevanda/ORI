@@ -343,6 +343,7 @@
         "testimonial_9LGHbz",
         "testimonial_BphtaB"
       ],
+      "disabled": true,
       "settings": {
         "title": "TESTIMONIALS AFTER 6 MONTHS OF USE",
         "align_text": "center",
@@ -352,6 +353,7 @@
     },
     "fh_section_product_image_grid_mtB8PW": {
       "type": "fh-section-product-image-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
         "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
