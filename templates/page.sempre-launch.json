@@ -7,8 +7,8 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE ORGANONUTRIENTS \nHAIR GROWTH COLLECTION",
-            "title_size": 45,
-            "subheading": "Let nature guide your metamorphosis with Sempre all-natural Hair Growth products.         Physician Formulated, Botanically Powered: The secret to fuller hair  ",
+            "title_size": 40,
+            "subheading": "Let nature guide your metamorphosis with Sempre",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -34,6 +34,35 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
+      }
+    },
+    "slideshow_6QRQex": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9mgPyd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9mgPyd"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -20,
+        "mobile_size": -10,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "fh_section_product_image_grid_7YhHi4": {
@@ -132,35 +161,6 @@
         "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
         "overlay_color": "#000000",
         "overlay_opacity": 0,
-        "lazyload_images": true
-      }
-    },
-    "slideshow_6QRQex": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9mgPyd": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_9mgPyd"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
         "lazyload_images": true
       }
     },
@@ -676,12 +676,12 @@
   "order": [
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
+    "slideshow_6QRQex",
     "fh_section_product_image_grid_7YhHi4",
     "rich_text_iiWHx9",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "countdown_YU3UDh",
-    "slideshow_6QRQex",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "slideshow_eXqcz3",
     "featured_product_xkRigR",
