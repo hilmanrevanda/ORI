@@ -2,7 +2,6 @@
   "sections": {
     "hero_video_hFqAXm": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 89,
@@ -97,12 +96,62 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_hEMipE"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
         "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "countdown_BAYjRi": {
+      "type": "countdown",
+      "blocks": {
+        "content_jyggy6": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE FOAM LAUNCH",
+            "heading_size": "h2",
+            "text": "<p>PRE-ORDER TODAY. LAUNCHING 4.15.24<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_JUjpXP": {
+          "type": "timer",
+          "settings": {
+            "year": "2025",
+            "month": "01",
+            "day": "1",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_Q7CxJX": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
+            "button": "PRE-ORDER",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_jyggy6",
+        "timer_JUjpXP",
+        "button_Q7CxJX"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#FFF",
+        "background_color": "#FFF",
+        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
         "lazyload_images": true
       }
     },
@@ -149,19 +198,50 @@
         "background_color": "#000000"
       }
     },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
+    "fh_section_collection_grid_a9N4Um": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-metamorphisis"
+          }
+        },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
+            "text": "BUONGIORNO VITALITY",
+            "url": "shopify:\/\/collections\/buongiorno"
+          }
+        },
+        "text_block_CMTXRa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
+            "text": "NERO DETOX EXFOLIATING",
+            "url": "shopify:\/\/collections\/nero"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L7iPcd",
+        "text_block_FJYXiW",
+        "text_block_CMTXRa",
+        "text_block_8iMHhy"
+      ],
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
+        "num_per_row": 4
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -251,52 +331,6 @@
         "speed": 300
       }
     },
-    "fh_section_collection_grid_a9N4Um": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-metamorphisis"
-          }
-        },
-        "text_block_FJYXiW": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
-            "text": "BUONGIORNO VITALITY",
-            "url": "shopify:\/\/collections\/buongiorno"
-          }
-        },
-        "text_block_CMTXRa": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
-            "text": "NERO DETOX EXFOLIATING",
-            "url": "shopify:\/\/collections\/nero"
-          }
-        },
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-            "text": "NATURALE THINNING HAIR",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_block_L7iPcd",
-        "text_block_FJYXiW",
-        "text_block_CMTXRa",
-        "text_block_8iMHhy"
-      ],
-      "settings": {
-        "num_per_row": 4
-      }
-    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
@@ -316,55 +350,6 @@
         "alt": false,
         "top_padding": true,
         "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "countdown_BAYjRi": {
-      "type": "countdown",
-      "blocks": {
-        "content_jyggy6": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE FOAM LAUNCH",
-            "heading_size": "h2",
-            "text": "<p>PRE-ORDER TODAY. LAUNCHING 4.15.24<\/p>",
-            "content_alignment": "left"
-          }
-        },
-        "timer_JUjpXP": {
-          "type": "timer",
-          "settings": {
-            "year": "2025",
-            "month": "01",
-            "day": "1",
-            "hour": "03",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_Q7CxJX": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
-            "button": "PRE-ORDER",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_jyggy6",
-        "timer_JUjpXP",
-        "button_Q7CxJX"
-      ],
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#FFF",
-        "background_color": "#FFF",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000",
-        "overlay_opacity": 0,
         "lazyload_images": true
       }
     },
@@ -412,6 +397,21 @@
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "featured_collection_slider_h66n6a": {
@@ -626,16 +626,16 @@
   "order": [
     "hero_video_hFqAXm",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
+    "countdown_BAYjRi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
-    "fh-section-product-category-grid",
+    "fh_section_collection_grid_a9N4Um",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "scrolling-text",
-    "fh_section_collection_grid_a9N4Um",
     "text_and_image_MHzh9j",
-    "countdown_BAYjRi",
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "fh-section-cta",
+    "fh-section-product-category-grid",
     "featured_collection_slider_h66n6a",
     "hero_video_hJTHHN",
     "text-and-image",
