@@ -147,10 +147,10 @@
       "settings": {
         "layout": "banner",
         "full_width": true,
-        "text_color": "#FFF",
-        "background_color": "#FFF",
+        "text_color": "#ffffff",
+        "background_color": "#ffffff",
         "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": true
       }
@@ -331,6 +331,21 @@
         "speed": 300
       }
     },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
+      }
+    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
@@ -397,21 +412,6 @@
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "featured_collection_slider_h66n6a": {
@@ -631,11 +631,11 @@
     "fh_section_collection_grid_a9N4Um",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "scrolling-text",
+    "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "fh-section-cta",
-    "fh-section-product-category-grid",
     "featured_collection_slider_h66n6a",
     "hero_video_hJTHHN",
     "text-and-image",
