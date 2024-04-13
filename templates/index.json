@@ -326,7 +326,6 @@
           "type": "testimonial",
           "settings": {
             "testimonial": "<p>This product is truly amazing!  I am completely satisfied and notice dramatic results.  Thank you so much for your generosity and tremendous knowledge. This product is revolutionary and every one needs to know about it.<\/p>",
-            "image": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg",
             "author": "After 6 months of consistent use"
           }
         },
@@ -334,7 +333,6 @@
           "type": "testimonial",
           "settings": {
             "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, over all I am more than satisfied with Sempre hair growth foam. <\/p>",
-            "image": "shopify:\/\/shop_images\/IMG_0234-3.jpg",
             "author": "After 6 months of consistent use"
           }
         }
@@ -343,7 +341,6 @@
         "testimonial_9LGHbz",
         "testimonial_BphtaB"
       ],
-      "disabled": true,
       "settings": {
         "title": "TESTIMONIALS AFTER 6 MONTHS OF USE",
         "align_text": "center",
@@ -353,7 +350,6 @@
     },
     "fh_section_product_image_grid_mtB8PW": {
       "type": "fh-section-product-image-grid",
-      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
         "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
