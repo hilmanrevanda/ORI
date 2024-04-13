@@ -688,6 +688,7 @@
         },
         "variant_picker_AQBk7P": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "variant_labels": false,
             "picker_type": "button",
@@ -711,7 +712,7 @@
       ],
       "settings": {
         "featured_product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
-        "product_image_size": "medium",
+        "product_image_size": "large",
         "product_image_type": "slider",
         "product_zoom_enable": false,
         "enable_video_looping": true,
