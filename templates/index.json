@@ -572,6 +572,55 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "countdown_BAYjRi": {
+      "type": "countdown",
+      "blocks": {
+        "content_jyggy6": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPRE FOAM LAUNCH",
+            "heading_size": "h2",
+            "text": "<p>PRE-ORDER TODAY. LAUNCHING 4.15.24<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "timer_JUjpXP": {
+          "type": "timer",
+          "settings": {
+            "year": "2025",
+            "month": "01",
+            "day": "1",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_Q7CxJX": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
+            "button": "PRE-ORDER",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_jyggy6",
+        "timer_JUjpXP",
+        "button_Q7CxJX"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#FFF",
+        "background_color": "#FFF",
+        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -596,6 +645,7 @@
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT"
+    "text_and_image_xjgKdT",
+    "countdown_BAYjRi"
   ]
 }
