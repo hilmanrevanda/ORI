@@ -300,7 +300,7 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
+        "image": "shopify:\/\/shop_images\/5_a0295607-1e1f-4215-923f-edeaeaff72ed.png",
         "image_mask": "square",
         "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
         "image2_mask": "portrait",
@@ -308,7 +308,7 @@
         "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
         "text": "<p>Sempre hair growth foam & vitamins contains our ORGANONUTRIENT's and proprietary botanical blend crafted after 15 years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.<\/p>",
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-daily-vitamins",
+        "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
         "button_style": "secondary",
         "align_text": "center",
         "image_width": "50",
