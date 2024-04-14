@@ -606,7 +606,7 @@
         "image": "shopify:\/\/shop_images\/IMG_9644AmoreRedRose.jpg",
         "image_mask": "none",
         "image2": "shopify:\/\/shop_images\/IMG_9561-2_b5b6771a-c978-41e0-b071-2d8f9ade2912.jpg",
-        "image2_mask": "none",
+        "image2_mask": "square",
         "subtitle": "SELF CARE CANDLE & BATH SALTS",
         "title": "Amore",
         "text": "<p>Our limited edition Amore Collection candles and bath salts were designed, handcrafted, and cleanly formulated to lift confidence, mindfulness, and relaxation using premium & natural ingredients.<\/p>",
@@ -616,7 +616,7 @@
         "align_text": "center",
         "image_width": "50",
         "layout": "right",
-        "alt": false,
+        "alt": true,
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
