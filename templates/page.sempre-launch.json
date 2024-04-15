@@ -330,29 +330,15 @@
         "background_image": "shopify:\/\/shop_images\/IMG_3306.jpg"
       }
     },
-    "fh_section_product_image_grid_z66Df9": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Testimonial7.png",
-        "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
-      }
-    },
-    "fh_section_product_image_grid_W7KqC4": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0738-2.jpg",
-        "image_right": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
-      }
-    },
     "slideshow_eXqcz3": {
       "type": "slideshow",
       "blocks": {
         "image_AzrNMW": {
           "type": "image",
           "settings": {
-            "title": "SEMPRE FOAM PRE-ORDER AVAILABLE TO FIRST 100 CUSTOMERS",
+            "title": "LIMITED AVAILABILITY SEMPRE FOAM SUBSCRIPTIONS",
             "title_size": 40,
-            "subheading": "LET NATURE BE YOUR HAIR'S HEALER",
+            "subheading": "SUBSCRIBE & SAVE OFF A 3 MONTH SUBSCRIPTION",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -381,11 +367,18 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -20,
+        "desktop_size": -40,
         "mobile_size": -10,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "fh_section_product_image_grid_z66Df9": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sempre_Testimonial7.png",
+        "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
       }
     },
     "featured_product_xkRigR": {
@@ -433,6 +426,13 @@
         "enable_video_looping": true,
         "product_video_style": "muted",
         "sku_enable": false
+      }
+    },
+    "fh_section_product_image_grid_W7KqC4": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0738-2.jpg",
+        "image_right": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -840,10 +840,10 @@
     "countdown_YU3UDh",
     "fh_section_product_image_grid_t67YQM",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "fh_section_product_image_grid_z66Df9",
-    "fh_section_product_image_grid_W7KqC4",
     "slideshow_eXqcz3",
+    "fh_section_product_image_grid_z66Df9",
     "featured_product_xkRigR",
+    "fh_section_product_image_grid_W7KqC4",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "advanced_content_eKBcPE",
     "testimonials_McAdpL",
