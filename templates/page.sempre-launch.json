@@ -65,11 +65,34 @@
         "lazyload_images": true
       }
     },
-    "fh_section_product_image_grid_7YhHi4": {
-      "type": "fh-section-product-image-grid",
+    "slideshow_tcNQ6j": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gtRdY7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_results_landscape1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape1.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_gtRdY7"
+      ],
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png",
-        "image_right": "shopify:\/\/shop_images\/2_5923210d-26ef-4dab-bb82-185fda432736.png"
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "rich_text_iiWHx9": {
@@ -85,6 +108,7 @@
       "block_order": [
         "heading_Jqkbw6"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -94,6 +118,7 @@
     },
     "fh_section_product_image_grid_NJ7QLt": {
       "type": "fh-section-product-image-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/5_8ff21af8-bf60-48f4-b021-34b3e90bb9e3.png",
         "image_right": "shopify:\/\/shop_images\/3_4449e282-2ffa-40ab-8447-a1b07b6a88cf.png"
@@ -739,7 +764,7 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
     "slideshow_6QRQex",
-    "fh_section_product_image_grid_7YhHi4",
+    "slideshow_tcNQ6j",
     "rich_text_iiWHx9",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
