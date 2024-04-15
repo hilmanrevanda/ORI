@@ -81,10 +81,25 @@
             "image": "shopify:\/\/shop_images\/Sempre_results_landscape1.png",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape1.png"
           }
+        },
+        "image_dYGfdr": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_results_landscape3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape3.png"
+          }
         }
       },
       "block_order": [
-        "image_gtRdY7"
+        "image_gtRdY7",
+        "image_dYGfdr"
       ],
       "settings": {
         "style": "arrows",
