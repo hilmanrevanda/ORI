@@ -609,6 +609,12 @@
     "hero_animated_niKnwL": {
       "type": "hero-animated",
       "blocks": {
+        "image_ApXUwf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial7.png"
+          }
+        },
         "image_W6Bcpt": {
           "type": "image",
           "settings": {
@@ -619,15 +625,31 @@
         "image_XE3cmU": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png"
+          }
+        },
+        "image_HnPVFi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
+          }
+        },
+        "image_AY9wdT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial1.png"
           }
         }
       },
       "block_order": [
+        "image_ApXUwf",
         "image_W6Bcpt",
-        "image_XE3cmU"
+        "image_XE3cmU",
+        "image_HnPVFi",
+        "image_AY9wdT"
       ],
       "settings": {
-        "style": "gif",
+        "style": "fading",
         "title": "",
         "title_size": 80,
         "subheading": "",
