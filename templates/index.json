@@ -29,7 +29,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9848.jpg",
+            "image": "shopify:\/\/shop_images\/SempreDuoPic.png",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
           }
         },
@@ -121,10 +121,10 @@
         "timer_JUjpXP": {
           "type": "timer",
           "settings": {
-            "year": "2025",
-            "month": "01",
-            "day": "1",
-            "hour": "03",
+            "year": "2024",
+            "month": "04",
+            "day": "15",
+            "hour": "00",
             "minute": "00",
             "hide_timer": false,
             "text": ""
