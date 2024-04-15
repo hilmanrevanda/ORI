@@ -22,14 +22,14 @@
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
-            "title": "Botanical Brilliance and Physician Precision",
-            "title_size": 54,
-            "subheading": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title_size": 46,
+            "subheading": "Physician Formulated, Naturally Infused",
             "link": "shopify:\/\/pages\/sempre-hairgrowth",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/SempreDuoPic.png",
+            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9721-2.jpg"
           }
         },
