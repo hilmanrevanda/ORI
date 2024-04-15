@@ -502,14 +502,22 @@
         "testimonial_QkVK8j": {
           "type": "testimonial",
           "settings": {
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "testimonial": "<p><strong>My hair has really grown and is thicker. <\/strong><\/p>",
+            "author": "P.H."
+          }
+        },
+        "testimonial_7TntkW": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p><strong>My hair looks better now than before l started using it. <\/strong><\/p>",
+            "author": "D.Q."
           }
         }
       },
       "block_order": [
         "testimonial_x9i6ik",
-        "testimonial_QkVK8j"
+        "testimonial_QkVK8j",
+        "testimonial_7TntkW"
       ],
       "settings": {
         "title": "TESTIMONIALS",
