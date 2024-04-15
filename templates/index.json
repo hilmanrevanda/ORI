@@ -379,6 +379,19 @@
     "slideshow_yVP8XA": {
       "type": "slideshow",
       "blocks": {
+        "image_8zzAmL": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_results1.png"
+          }
+        },
         "image_deHUBa": {
           "type": "image",
           "settings": {
@@ -391,6 +404,20 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png",
             "image_mobile": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png"
+          }
+        },
+        "image_4GJrW9": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png",
+            "image_mobile": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png"
           }
         },
         "image_6Ln96q": {
@@ -407,7 +434,7 @@
             "image_mobile": "shopify:\/\/shop_images\/3_bbd48577-03fa-4ff2-989d-71f977f12326.png"
           }
         },
-        "image_4GJrW9": {
+        "image_4yCqWJ": {
           "type": "image",
           "settings": {
             "title": "",
@@ -417,15 +444,17 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png",
-            "image_mobile": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png"
+            "image": "shopify:\/\/shop_images\/2_5923210d-26ef-4dab-bb82-185fda432736.png",
+            "image_mobile": "shopify:\/\/shop_images\/2_5923210d-26ef-4dab-bb82-185fda432736.png"
           }
         }
       },
       "block_order": [
+        "image_8zzAmL",
         "image_deHUBa",
+        "image_4GJrW9",
         "image_6Ln96q",
-        "image_4GJrW9"
+        "image_4yCqWJ"
       ],
       "settings": {
         "style": "arrows",
