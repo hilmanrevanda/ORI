@@ -670,6 +670,50 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "slideshow_yVP8XA": {
+      "type": "slideshow",
+      "blocks": {
+        "image_deHUBa": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png"
+          }
+        },
+        "image_6Ln96q": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/3_bbd48577-03fa-4ff2-989d-71f977f12326.png",
+            "image_mobile": "shopify:\/\/shop_images\/3_bbd48577-03fa-4ff2-989d-71f977f12326.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_deHUBa",
+        "image_6Ln96q"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -696,6 +740,7 @@
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT"
+    "text_and_image_xjgKdT",
+    "slideshow_yVP8XA"
   ]
 }
