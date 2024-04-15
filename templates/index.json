@@ -368,6 +368,63 @@
         "lazyload_images": true
       }
     },
+    "hero_animated_niKnwL": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_ApXUwf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial7.png"
+          }
+        },
+        "image_W6Bcpt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonial4.png"
+          }
+        },
+        "image_XE3cmU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png"
+          }
+        },
+        "image_HnPVFi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
+          }
+        },
+        "image_AY9wdT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial1.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_ApXUwf",
+        "image_W6Bcpt",
+        "image_XE3cmU",
+        "image_HnPVFi",
+        "image_AY9wdT"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
     "testimonials_HA8BNa": {
       "type": "testimonials",
       "blocks": {
@@ -390,6 +447,7 @@
         "testimonial_9LGHbz",
         "testimonial_BphtaB"
       ],
+      "disabled": true,
       "settings": {
         "title": "TESTIMONIALS AFTER 6 MONTHS OF USE",
         "align_text": "center",
@@ -605,63 +663,6 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
-    },
-    "hero_animated_niKnwL": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_ApXUwf": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial7.png"
-          }
-        },
-        "image_W6Bcpt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonial4.png"
-          }
-        },
-        "image_XE3cmU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png"
-          }
-        },
-        "image_HnPVFi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
-          }
-        },
-        "image_AY9wdT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial1.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_ApXUwf",
-        "image_W6Bcpt",
-        "image_XE3cmU",
-        "image_HnPVFi",
-        "image_AY9wdT"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
     }
   },
   "order": [
@@ -674,6 +675,7 @@
     "scrolling-text",
     "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
+    "hero_animated_niKnwL",
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "fh-section-cta",
@@ -686,7 +688,6 @@
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT",
-    "hero_animated_niKnwL"
+    "text_and_image_xjgKdT"
   ]
 }
