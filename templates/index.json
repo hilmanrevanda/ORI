@@ -368,6 +368,50 @@
         "lazyload_images": true
       }
     },
+    "fh_section_product_image_grid_LhXLVw": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png",
+        "image_right": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png"
+      }
+    },
+    "testimonials_HA8BNa": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9LGHbz": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>This product is truly amazing!  I am completely satisfied and notice dramatic results.  Thank you so much for your generosity and tremendous knowledge. This product is revolutionary and every one needs to know about it.<\/p>",
+            "author": "After 6 months of consistent use"
+          }
+        },
+        "testimonial_BphtaB": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, over all I am more than satisfied with Sempre hair growth foam. <\/p>",
+            "author": "After 6 months of consistent use"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9LGHbz",
+        "testimonial_BphtaB"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "TESTIMONIALS AFTER 6 MONTHS OF USE",
+        "align_text": "center",
+        "round_images": true,
+        "alt": true
+      }
+    },
+    "fh_section_product_image_grid_mtB8PW": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
+        "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
+      }
+    },
     "hero_animated_niKnwL": {
       "type": "hero-animated",
       "blocks": {
@@ -421,45 +465,8 @@
         "link_text_learn_more": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "desktop_size": -10,
+        "desktop_size": -30,
         "mobile_size": 0
-      }
-    },
-    "testimonials_HA8BNa": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_9LGHbz": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>This product is truly amazing!  I am completely satisfied and notice dramatic results.  Thank you so much for your generosity and tremendous knowledge. This product is revolutionary and every one needs to know about it.<\/p>",
-            "author": "After 6 months of consistent use"
-          }
-        },
-        "testimonial_BphtaB": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, over all I am more than satisfied with Sempre hair growth foam. <\/p>",
-            "author": "After 6 months of consistent use"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_9LGHbz",
-        "testimonial_BphtaB"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "TESTIMONIALS AFTER 6 MONTHS OF USE",
-        "align_text": "center",
-        "round_images": true,
-        "alt": true
-      }
-    },
-    "fh_section_product_image_grid_mtB8PW": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
       }
     },
     "fh-section-cta": {
@@ -675,9 +682,10 @@
     "scrolling-text",
     "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
-    "hero_animated_niKnwL",
+    "fh_section_product_image_grid_LhXLVw",
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
+    "hero_animated_niKnwL",
     "fh-section-cta",
     "featured_collection_slider_h66n6a",
     "text-and-image",
