@@ -605,6 +605,41 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "hero_animated_niKnwL": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_W6Bcpt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonial4.png"
+          }
+        },
+        "image_XE3cmU": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "image_W6Bcpt",
+        "image_XE3cmU"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
     }
   },
   "order": [
@@ -629,6 +664,7 @@
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
     "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
-    "text_and_image_xjgKdT"
+    "text_and_image_xjgKdT",
+    "hero_animated_niKnwL"
   ]
 }
