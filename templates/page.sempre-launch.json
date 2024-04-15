@@ -489,6 +489,35 @@
         "lazyload_images": true
       }
     },
+    "testimonials_McAdpL": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_x9i6ik": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p><strong>Love the fragrance of this and shedding has significantly reduced.<\/strong><\/p>",
+            "author": "J.T."
+          }
+        },
+        "testimonial_QkVK8j": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_x9i6ik",
+        "testimonial_QkVK8j"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS",
+        "align_text": "center",
+        "round_images": true,
+        "alt": true
+      }
+    },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
       "type": "rich-text",
       "blocks": {
@@ -571,35 +600,6 @@
         "enable_video_looping": true,
         "product_video_style": "muted",
         "sku_enable": false
-      }
-    },
-    "testimonials_zgUEBb": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_A8im4w": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>Since the start of the treatment my hair falling has stopped completely and the growth of my hair specifically where I had a hair loss has increased significantly, overall I am more than satisfied with Sempre hair growth foam.<\/p>",
-            "author": "Sandra O."
-          }
-        },
-        "testimonial_B4FXc4": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>I have plaque psoriasis in my hair, so sempre has definitely helped reduce thinning and helped my hair start growing back.<\/p>",
-            "author": "Josh A."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_A8im4w",
-        "testimonial_B4FXc4"
-      ],
-      "settings": {
-        "title": "TESTIMONIALS - AFTER 6 MONTHS OF USE",
-        "align_text": "center",
-        "round_images": true,
-        "alt": true
       }
     },
     "fh_section_product_image_grid_wzKj7Q": {
@@ -837,9 +837,9 @@
     "featured_product_xkRigR",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "advanced_content_eKBcPE",
+    "testimonials_McAdpL",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_product_TRLFYX",
-    "testimonials_zgUEBb",
     "fh_section_product_image_grid_wzKj7Q",
     "featured_product_AbXQBY",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
