@@ -144,6 +144,7 @@
         "timer_JUjpXP",
         "button_Q7CxJX"
       ],
+      "disabled": true,
       "settings": {
         "layout": "banner",
         "full_width": true,
