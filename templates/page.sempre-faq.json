@@ -12,14 +12,14 @@
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
-            "title": "THE SCIENCE",
+            "title": "SEMPRE HAIR GROWTH FAQ",
             "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_0070-3.jpg"
           }
         }
       },
@@ -91,6 +91,17 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
+      }
+    },
+    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
+      "type": "fh-section-richtext",
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
+        "background_color": "#000000",
+        "text_color": "#ffffff"
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -231,17 +242,6 @@
         "text_color": "#000000"
       }
     },
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15": {
       "type": "fh-section-faq",
       "blocks": {
@@ -288,6 +288,7 @@
         "39bd16a7-1435-4059-8714-039177192fb6",
         "6be5704b-0ff4-4c7d-8c7a-b045daa58050"
       ],
+      "disabled": true,
       "settings": {
         "reverse": true,
         "image": "shopify:\/\/shop_images\/Origenere_Skin_Cells.webp",
@@ -390,10 +391,10 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "blog_posts_YGW6BY"
