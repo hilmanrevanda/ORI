@@ -246,106 +246,26 @@
         "num_per_row": 4
       }
     },
-    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
-      "type": "text-with-icons",
-      "blocks": {
-        "2b2870cb-ec95-4637-8844-f86f2cf14a78": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
-            "icon": "chat",
-            "title": "All Natural <br>Botanical Extracts",
-            "text": ""
-          }
-        },
-        "276a9478-d311-43e3-a7c6-5fa94725375d": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
-            "icon": "chat",
-            "title": "Backed by <br>Science",
-            "text": ""
-          }
-        },
-        "96935b3c-1062-4041-ad04-439eab0f88ec": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
-            "icon": "chat",
-            "title": "Free of Sulfates <br>& Parabens",
-            "text": ""
-          }
-        },
-        "22f00c2a-61d2-43ef-aed9-5cc6b1957022": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
-            "icon": "chat",
-            "title": "Physician <br>Formulated",
-            "text": ""
-          }
-        },
-        "c3212eb3-d9b4-4238-8084-4b52a23941ed": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
-            "icon": "plant",
-            "title": "Cruelty <br>Free",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "2b2870cb-ec95-4637-8844-f86f2cf14a78",
-        "276a9478-d311-43e3-a7c6-5fa94725375d",
-        "96935b3c-1062-4041-ad04-439eab0f88ec",
-        "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
-        "c3212eb3-d9b4-4238-8084-4b52a23941ed"
-      ],
-      "custom_css": [
-
-      ],
+    "text_and_image_MHzh9j": {
+      "type": "text-and-image",
       "settings": {
-        "title": "OUR PROMISE",
-        "align_text": "center",
-        "desktop_columns_per_row": 5,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
+        "image": "shopify:\/\/shop_images\/5_a0295607-1e1f-4215-923f-edeaeaff72ed.png",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
+        "image2_mask": "portrait",
+        "subtitle": "Rooted in Nature, Refined by Science",
+        "title": "SEMPRE HAIR GROWTH",
+        "text": "<p>Sempre hair growth foam & vitamins contains our ORGANONUTRIENT's and proprietary botanical blend crafted after 15 years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
         "alt": true,
-        "has_icon": false
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
-        "link": "shopify:\/\/collections",
-        "text_size": 30,
-        "text_spacing": false,
-        "color_scheme": "button",
-        "direction": "left",
-        "speed": 300
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
       }
     },
     "slideshow_yVP8XA": {
@@ -437,34 +357,99 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/5_a0295607-1e1f-4215-923f-edeaeaff72ed.png",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
-        "image2_mask": "portrait",
-        "subtitle": "Rooted in Nature, Refined by Science",
-        "title": "SEMPRE HAIR GROWTH",
-        "text": "<p>Sempre hair growth foam & vitamins contains our ORGANONUTRIENT's and proprietary botanical blend crafted after 15 years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
-        "button_style": "secondary",
-        "align_text": "left",
-        "image_width": "66",
-        "layout": "right",
-        "alt": true,
-        "top_padding": false,
-        "bottom_padding": false,
-        "lazyload_images": true
-      }
-    },
     "fh_section_product_image_grid_LhXLVw": {
       "type": "fh-section-product-image-grid",
       "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/4_886bcd87-614a-482a-be47-ca9efeaa84bb.png",
         "image_right": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png"
+      }
+    },
+    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
+      "type": "text-with-icons",
+      "blocks": {
+        "2b2870cb-ec95-4637-8844-f86f2cf14a78": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "icon": "chat",
+            "title": "All Natural <br>Botanical Extracts",
+            "text": ""
+          }
+        },
+        "276a9478-d311-43e3-a7c6-5fa94725375d": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "icon": "chat",
+            "title": "Backed by <br>Science",
+            "text": ""
+          }
+        },
+        "96935b3c-1062-4041-ad04-439eab0f88ec": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "icon": "chat",
+            "title": "Free of Sulfates <br>& Parabens",
+            "text": ""
+          }
+        },
+        "22f00c2a-61d2-43ef-aed9-5cc6b1957022": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician <br>Formulated",
+            "text": ""
+          }
+        },
+        "c3212eb3-d9b4-4238-8084-4b52a23941ed": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "plant",
+            "title": "Cruelty <br>Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "2b2870cb-ec95-4637-8844-f86f2cf14a78",
+        "276a9478-d311-43e3-a7c6-5fa94725375d",
+        "96935b3c-1062-4041-ad04-439eab0f88ec",
+        "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
+        "c3212eb3-d9b4-4238-8084-4b52a23941ed"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
+        "link": "shopify:\/\/collections",
+        "text_size": 30,
+        "text_spacing": false,
+        "color_scheme": "button",
+        "direction": "left",
+        "speed": 300
       }
     },
     "testimonials_HA8BNa": {
@@ -559,6 +544,31 @@
         "text_align": "vertical-center horizontal-center",
         "desktop_size": -30,
         "mobile_size": 0
+      }
+    },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
+      }
+    },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "medium",
+        "alt": false
       }
     },
     "fh-section-cta": {
@@ -708,16 +718,6 @@
         "btn_right_url": "shopify:\/\/collections\/arancio"
       }
     },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
     "text_and_image_pxqLGz": {
       "type": "text-and-image",
       "disabled": true,
@@ -770,15 +770,16 @@
     "countdown_BAYjRi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh_section_collection_grid_a9N4Um",
+    "text_and_image_MHzh9j",
+    "slideshow_yVP8XA",
+    "fh_section_product_image_grid_LhXLVw",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "scrolling-text",
-    "fh-section-product-category-grid",
-    "slideshow_yVP8XA",
-    "text_and_image_MHzh9j",
-    "fh_section_product_image_grid_LhXLVw",
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "hero_animated_niKnwL",
+    "fh-section-product-category-grid",
+    "featured_collection_slider_Bk6Ke3",
     "fh-section-cta",
     "featured_collection_slider_h66n6a",
     "text-and-image",
@@ -787,7 +788,6 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "featured-collection",
     "0538ae71-f903-4444-84a7-d7fb94248ea3",
-    "featured_collection_slider_Bk6Ke3",
     "text_and_image_pxqLGz",
     "text_and_image_xjgKdT"
   ]
