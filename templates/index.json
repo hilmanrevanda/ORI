@@ -546,6 +546,16 @@
         "mobile_size": 0
       }
     },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SHOP OUR BEST SELLING HAIR CARE",
+        "description": "UNLOCK THE POWER OF YOUR DNA",
+        "home_featured_products": "haircare",
+        "per_row": "large",
+        "alt": false
+      }
+    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
@@ -559,16 +569,6 @@
         "description_right": "",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skin-care"
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "medium",
-        "alt": false
       }
     },
     "fh-section-cta": {
@@ -778,8 +778,8 @@
     "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "hero_animated_niKnwL",
-    "fh-section-product-category-grid",
     "featured_collection_slider_Bk6Ke3",
+    "fh-section-product-category-grid",
     "fh-section-cta",
     "featured_collection_slider_h66n6a",
     "text-and-image",
