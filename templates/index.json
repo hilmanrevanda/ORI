@@ -47,20 +47,6 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
           }
         },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "UNDERSTANDING THE HAIR GROWTH CYCLE",
-            "title_size": 45,
-            "subheading": "A Foundation for Healthy Hair",
-            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know-1",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0092-2.jpg"
-          }
-        },
         "image_xUam77": {
           "type": "image",
           "settings": {
@@ -75,8 +61,23 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg"
           }
         },
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+          "type": "image",
+          "settings": {
+            "title": "UNDERSTANDING THE HAIR GROWTH CYCLE",
+            "title_size": 45,
+            "subheading": "A Foundation for Healthy Hair",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know-1",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0092-2.jpg"
+          }
+        },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "AWAKEN YOUR SENSES",
             "title_size": 70,
@@ -93,8 +94,8 @@
       "block_order": [
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "image_hEMipE",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_xUam77",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
       "settings": {
