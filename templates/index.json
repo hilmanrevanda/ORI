@@ -29,8 +29,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0738-4.jpg"
+            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Duo_Hero.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Duo_Hero.jpg"
           }
         },
         "image_hEMipE": {
@@ -104,56 +104,6 @@
         "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 6,
-        "lazyload_images": true
-      }
-    },
-    "countdown_BAYjRi": {
-      "type": "countdown",
-      "blocks": {
-        "content_jyggy6": {
-          "type": "content",
-          "settings": {
-            "heading": "SEMPRE FOAM LAUNCH",
-            "heading_size": "h2",
-            "text": "<p>PRE-ORDER TODAY. AVAILABLE 4.15.24<\/p>",
-            "content_alignment": "left"
-          }
-        },
-        "timer_JUjpXP": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "04",
-            "day": "15",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
-            "text": ""
-          }
-        },
-        "button_Q7CxJX": {
-          "type": "button",
-          "settings": {
-            "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
-            "button": "PRE-ORDER",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "content_jyggy6",
-        "timer_JUjpXP",
-        "button_Q7CxJX"
-      ],
-      "disabled": true,
-      "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#ffffff",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
         "lazyload_images": true
       }
     },
@@ -262,7 +212,7 @@
         "align_text": "left",
         "image_width": "66",
         "layout": "right",
-        "alt": true,
+        "alt": false,
         "top_padding": false,
         "bottom_padding": false,
         "lazyload_images": true
@@ -486,7 +436,7 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/IMG_0738-2_7fb9226a-8116-4706-8c5c-719ea5a81521.jpg"
+        "image_right": "shopify:\/\/shop_images\/Sempre_Duo_Hair_growth_foaming.png"
       }
     },
     "hero_animated_niKnwL": {
@@ -495,41 +445,37 @@
         "image_ApXUwf": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial7.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials1.png"
           }
         },
         "image_W6Bcpt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonial4.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials2.png"
           }
         },
-        "image_XE3cmU": {
+        "image_UBKPtV": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials3.png"
           }
         },
-        "image_HnPVFi": {
+        "image_MqgYTU": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
-          }
-        },
-        "image_AY9wdT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonial1.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials4.png"
           }
         }
       },
       "block_order": [
         "image_ApXUwf",
         "image_W6Bcpt",
-        "image_XE3cmU",
-        "image_HnPVFi",
-        "image_AY9wdT"
+        "image_UBKPtV",
+        "image_MqgYTU"
       ],
       "settings": {
         "style": "fading",
@@ -542,7 +488,7 @@
         "link_text_learn_more": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "desktop_size": -30,
+        "desktop_size": 20,
         "mobile_size": 0
       }
     },
@@ -767,7 +713,6 @@
   "order": [
     "hero_video_hFqAXm",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
-    "countdown_BAYjRi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh_section_collection_grid_a9N4Um",
     "text_and_image_MHzh9j",
