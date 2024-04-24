@@ -56,7 +56,7 @@
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-3-month-kit",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/IMG_9936_1752fd85-b3e2-4943-bffd-870cb717b6bd.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg"
           }
