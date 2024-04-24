@@ -316,6 +316,115 @@
         "image_right": "shopify:\/\/shop_images\/5_27161855-49de-4f2b-bf70-d839bf00b8a1.png"
       }
     },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "SEMPRE HAIR GROWTH ORGANONUTRIENTS - PHYSICIAN FORMULATED, ALL NATURAL BOTANICALS",
+        "link": "shopify:\/\/collections\/sempre-metamorphisis",
+        "text_size": 22,
+        "text_spacing": true,
+        "color_scheme": "button",
+        "direction": "left",
+        "speed": 300
+      }
+    },
+    "fh_section_product_image_grid_mtB8PW": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
+        "image_right": "shopify:\/\/shop_images\/Sempre_Duo_Hair_growth_foaming.png"
+      }
+    },
+    "hero_animated_niKnwL": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_ApXUwf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials1.png"
+          }
+        },
+        "image_W6Bcpt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials2.png"
+          }
+        },
+        "image_UBKPtV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials3.png"
+          }
+        },
+        "image_MqgYTU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials4.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_ApXUwf",
+        "image_W6Bcpt",
+        "image_UBKPtV",
+        "image_MqgYTU"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 30,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 20,
+        "mobile_size": 0
+      }
+    },
+    "rich_text_rDtzW6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8hEQfb": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "heading_cY4PBD": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8hEQfb",
+        "heading_cY4PBD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "HAIR CARE FOR THINNING HAIR",
+        "description": "SUBSCRIBE & SAVE WITH MONTHLY OR 3 MONTH SUBSCRIPTIONS",
+        "home_featured_products": "hair-loss-solutions",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -391,18 +500,6 @@
         "has_icon": false
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "FOR HEALTHIER HAIR - ORGANONUTRIENTS - ALL NATURAL BOTANICALS -",
-        "link": "shopify:\/\/collections",
-        "text_size": 30,
-        "text_spacing": false,
-        "color_scheme": "button",
-        "direction": "left",
-        "speed": 300
-      }
-    },
     "testimonials_HA8BNa": {
       "type": "testimonials",
       "blocks": {
@@ -431,76 +528,6 @@
         "align_text": "center",
         "round_images": true,
         "alt": true
-      }
-    },
-    "fh_section_product_image_grid_mtB8PW": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/Sempre_Duo_Hair_growth_foaming.png"
-      }
-    },
-    "hero_animated_niKnwL": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_ApXUwf": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials1.png"
-          }
-        },
-        "image_W6Bcpt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials2.png"
-          }
-        },
-        "image_UBKPtV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials3.png"
-          }
-        },
-        "image_MqgYTU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials4.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_ApXUwf",
-        "image_W6Bcpt",
-        "image_UBKPtV",
-        "image_MqgYTU"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 30,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 20,
-        "mobile_size": 0
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SHOP OUR BEST SELLING HAIR CARE",
-        "description": "UNLOCK THE POWER OF YOUR DNA",
-        "home_featured_products": "haircare",
-        "per_row": "large",
-        "alt": false
       }
     },
     "fh-section-product-category-grid": {
@@ -719,12 +746,13 @@
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "fh_section_product_image_grid_LhXLVw",
-    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "scrolling-text",
-    "testimonials_HA8BNa",
     "fh_section_product_image_grid_mtB8PW",
     "hero_animated_niKnwL",
+    "rich_text_rDtzW6",
     "featured_collection_slider_Bk6Ke3",
+    "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
+    "testimonials_HA8BNa",
     "fh-section-product-category-grid",
     "fh-section-cta",
     "featured_collection_slider_h66n6a",
