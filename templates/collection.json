@@ -43,8 +43,16 @@
       "settings": {
       }
     },
+    "fh_section_product_image_grid_NHUgUx": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Duo_Hero.jpg",
+        "image_right": "shopify:\/\/shop_images\/IMG_3777.jpg"
+      }
+    },
     "blog_posts_ENdr66": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE BLOGS",
         "blog": "ingredient-spotlight",
@@ -65,6 +73,7 @@
     "17963223-eb24-4df2-9397-4fc60583858d",
     "collection-filters",
     "main-collection",
+    "fh_section_product_image_grid_NHUgUx",
     "blog_posts_ENdr66"
   ]
 }
