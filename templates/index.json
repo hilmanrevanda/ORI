@@ -528,6 +528,33 @@
         "lazyload_images": true
       }
     },
+    "rich_text_JYjgdj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NwNLep": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "heading_BKfKgC": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_NwNLep",
+        "heading_BKfKgC"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
       "type": "featured-collection",
       "settings": {
@@ -584,16 +611,6 @@
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
     },
-    "fh-section-cta": {
-      "type": "fh-section-cta",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-        "heading": "ORGANONUTRIENTS",
-        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
-        "btn_text": "LEARN MORE",
-        "btn_url": "shopify:\/\/pages\/the-science"
-      }
-    },
     "text-and-image": {
       "type": "text-and-image",
       "settings": {
@@ -614,6 +631,16 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
+      }
+    },
+    "fh-section-cta": {
+      "type": "fh-section-cta",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+        "heading": "ORGANONUTRIENTS",
+        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
+        "btn_text": "LEARN MORE",
+        "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
     "blog_posts_Y9fLMP": {
@@ -648,10 +675,11 @@
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-product-category-grid",
     "text_and_image_xjgKdT",
+    "rich_text_JYjgdj",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
-    "fh-section-cta",
     "text-and-image",
+    "fh-section-cta",
     "blog_posts_Y9fLMP"
   ]
 }
