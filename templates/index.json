@@ -643,6 +643,33 @@
         "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
+    "rich_text_NwBtYT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NrCttf": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "heading_4LmKxQ": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_NrCttf",
+        "heading_4LmKxQ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
     "blog_posts_Y9fLMP": {
       "type": "blog-posts",
       "settings": {
@@ -680,6 +707,7 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text-and-image",
     "fh-section-cta",
+    "rich_text_NwBtYT",
     "blog_posts_Y9fLMP"
   ]
 }
