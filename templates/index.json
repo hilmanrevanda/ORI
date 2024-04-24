@@ -37,8 +37,8 @@
           "type": "image",
           "settings": {
             "title": "UNLOCK THE POWER OF YOUR DNA",
-            "title_size": 40,
-            "subheading": "NATURALE HAIR CARE",
+            "title_size": 66,
+            "subheading": "NATURALE HAIR CARE FOR THINNING HAIR",
             "link": "shopify:\/\/collections\/naturale",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
@@ -52,7 +52,7 @@
           "settings": {
             "title": "SEMPRE HAIR GROWTH VITAMINS",
             "title_size": 52,
-            "subheading": "SUBSCRIBE & SAVE TODAY",
+            "subheading": "SUBSCRIBE & SAVE TODAY ON MONTHLY SUBSCRIPTIONS",
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-3-month-kit",
             "link_text": "SHOP NOW",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
