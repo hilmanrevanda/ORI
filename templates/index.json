@@ -507,54 +507,6 @@
         "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
-    "text-and-image": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_4179-2.jpg",
-        "image2_mask": "square",
-        "subtitle": "",
-        "title": "OUR STORY",
-        "text": "<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin.  Origenere is committed to developing products using the best of science artfully combined with the best of nature.<strong>  <\/strong>We offer all-natural hair and skin care products formulated by physicians and scientists.  <\/p>",
-        "button_label": "Learn More",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "button_style": "secondary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "fh-section-cta": {
-      "type": "fh-section-cta",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
-        "heading": "ORGANONUTRIENTS",
-        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
-        "btn_text": "LEARN MORE",
-        "btn_url": "shopify:\/\/pages\/the-science"
-      }
-    },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "text_and_image_xjgKdT": {
       "type": "text-and-image",
       "settings": {
@@ -571,9 +523,23 @@
         "image_width": "50",
         "layout": "right",
         "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
+        "top_padding": false,
+        "bottom_padding": false,
         "lazyload_images": true
+      }
+    },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP & SAVE WITH OUR BUNDLES",
+        "description": "OUR BEST SELLING HAIR & SKIN CARE",
+        "featured_text": "",
+        "home_featured_products": "naturale",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
@@ -618,18 +584,52 @@
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
     },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
+    "fh-section-cta": {
+      "type": "fh-section-cta",
       "settings": {
-        "title": "SHOP & SAVE WITH OUR BUNDLES",
-        "description": "OUR BEST SELLING HAIR & SKIN CARE",
-        "featured_text": "",
-        "home_featured_products": "origenere-hair-skin-care-sets",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
+        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+        "heading": "ORGANONUTRIENTS",
+        "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
+        "btn_text": "LEARN MORE",
+        "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
+        "image_mask": "square",
+        "image2": "shopify:\/\/shop_images\/IMG_4179-2.jpg",
+        "image2_mask": "square",
+        "subtitle": "",
+        "title": "OUR STORY",
+        "text": "<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin.  Origenere is committed to developing products using the best of science artfully combined with the best of nature.<strong>  <\/strong>We offer all-natural hair and skin care products formulated by physicians and scientists.  <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "button_style": "secondary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
         "view_all": true,
-        "alt": true
+        "alt": false
       }
     }
   },
@@ -647,11 +647,11 @@
     "featured_collection_slider_Bk6Ke3",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-product-category-grid",
-    "text-and-image",
-    "fh-section-cta",
-    "blog_posts_Y9fLMP",
     "text_and_image_xjgKdT",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49"
+    "fh-section-cta",
+    "text-and-image",
+    "blog_posts_Y9fLMP"
   ]
 }
