@@ -13,13 +13,14 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE HAIR GROWTH FAQ",
-            "title_size": 40,
+            "title_size": 50,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0070-3.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Botanicals.jpg"
           }
         }
       },
@@ -33,6 +34,34 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "faq_699Emt": {
+      "type": "faq",
+      "blocks": {
+        "question_eDHNzn": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "question_LFFYaB": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_eDHNzn",
+        "question_LFFYaB"
+      ],
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH FAQs",
+        "alt": false,
+        "background_image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg"
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -56,52 +85,6 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-      }
-    },
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
-      "type": "rich-text",
-      "blocks": {
-        "848977ff-6252-4e05-989d-8584e771108f": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Helix.png"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Products Address the Most Common Hair Concerns:"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "848977ff-6252-4e05-989d-8584e771108f",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -143,6 +126,54 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/The_Science4.webp"
+      }
+    },
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
+      "type": "rich-text",
+      "blocks": {
+        "848977ff-6252-4e05-989d-8584e771108f": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Helix.png"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Products Address the Most Common Hair Concerns:"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "848977ff-6252-4e05-989d-8584e771108f",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
+      "type": "fh-section-richtext",
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
+      ],
+      "settings": {
+        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
+        "background_color": "#000000",
+        "text_color": "#ffffff"
       }
     },
     "adb572db-112e-4a17-bd04-9e6cef093e6c": {
@@ -358,6 +389,7 @@
         "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
         "c700a74e-9fcb-4a24-a738-d07a5fc07792"
       ],
+      "disabled": true,
       "settings": {
         "title": "OUR PROMISE",
         "align_text": "center",
@@ -389,10 +421,11 @@
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "faq_699Emt",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
+    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
