@@ -42,12 +42,29 @@
       ],
       "settings": {
       }
+    },
+    "blog_posts_ENdr66": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "BOTANICAL BRILLIANCE BLOGS",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
     }
   },
   "order": [
     "collection-header",
     "17963223-eb24-4df2-9397-4fc60583858d",
     "collection-filters",
-    "main-collection"
+    "main-collection",
+    "blog_posts_ENdr66"
   ]
 }
