@@ -220,6 +220,20 @@
     "slideshow_yVP8XA": {
       "type": "slideshow",
       "blocks": {
+        "image_pcbM8r": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_before_after_results3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results3.png"
+          }
+        },
         "image_fxGLqt": {
           "type": "image",
           "settings": {
@@ -230,8 +244,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results1.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Results_01.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Results_01.png"
           }
         },
         "image_M6BJt7": {
@@ -246,20 +260,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Sempre_before_after_results2.png",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results2.png"
-          }
-        },
-        "image_pcbM8r": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results3.png"
           }
         },
         "image_PbMgC9": {
@@ -292,9 +292,9 @@
         }
       },
       "block_order": [
+        "image_pcbM8r",
         "image_fxGLqt",
         "image_M6BJt7",
-        "image_pcbM8r",
         "image_PbMgC9",
         "image_ATBUN4"
       ],
