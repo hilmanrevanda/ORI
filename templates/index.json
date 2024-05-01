@@ -199,9 +199,9 @@
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/5_a0295607-1e1f-4215-923f-edeaeaff72ed.png",
-        "image_mask": "square",
-        "image2": "shopify:\/\/shop_images\/IMG_3961-2.jpg",
+        "image": "shopify:\/\/shop_images\/Sempre_Foam_white.jpg",
+        "image_mask": "portrait",
+        "image2": "shopify:\/\/shop_images\/Sempre_Vitamins_Tower_beaker.jpg",
         "image2_mask": "portrait",
         "subtitle": "Rooted in Nature, Refined by Science",
         "title": "SEMPRE HAIR GROWTH",
@@ -210,7 +210,7 @@
         "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
         "button_style": "secondary",
         "align_text": "left",
-        "image_width": "66",
+        "image_width": "50",
         "layout": "right",
         "alt": false,
         "top_padding": false,
@@ -324,7 +324,7 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/Sempre_Duo_Hair_growth_foaming.png"
+        "image_right": "shopify:\/\/shop_images\/Sempre_towers_leaning.jpg"
       }
     },
     "hero_animated_niKnwL": {
