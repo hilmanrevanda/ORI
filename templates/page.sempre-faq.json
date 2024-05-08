@@ -12,15 +12,15 @@
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
-            "title": "SEMPRE HAIR GROWTH FAQ",
-            "title_size": 50,
-            "subheading": "",
+            "title": "WELCOME TO YOUR HAIR GROWTH JOURNEY",
+            "title_size": 41,
+            "subheading": "SEMPRE HAIR GROWTH COLLECTION",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Botanicals.jpg"
+            "image": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2_1e5c4844-602f-4dbd-9ab7-5e2f5cfe2102.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2_1e5c4844-602f-4dbd-9ab7-5e2f5cfe2102.jpg"
           }
         }
       },
@@ -42,8 +42,8 @@
         "question_eDHNzn": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "title": "Do participants continue to use their normal minoxidil in addition to the Sempre foam?",
+            "text": "<p>Yes. Sempre Foam can be used with Minoxidil<\/p>"
           }
         },
         "question_LFFYaB": {
