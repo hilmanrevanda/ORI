@@ -545,8 +545,8 @@
     "blog_posts_YGW6BY": {
       "type": "blog-posts",
       "settings": {
-        "title": "LEARN MORE ON OUR BLOGS",
-        "blog": "ingredient-spotlight",
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "the-more-you-know-the-more-you-grow",
         "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": false,
@@ -555,7 +555,7 @@
         "blog_show_excerpt": false,
         "blog_image_size": "wide",
         "view_all": true,
-        "alt": false
+        "alt": true
       }
     }
   },
