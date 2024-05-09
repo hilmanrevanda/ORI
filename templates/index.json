@@ -231,50 +231,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results3.png"
-          }
-        },
-        "image_fxGLqt": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Results_01.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Results_01.png"
-          }
-        },
-        "image_M6BJt7": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results2.png"
-          }
-        },
-        "image_PbMgC9": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results4.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
           }
         },
         "image_ATBUN4": {
@@ -287,17 +245,59 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_before_after_results5.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_before_after_results5.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
+          }
+        },
+        "image_fxGLqt": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
+          }
+        },
+        "image_PbMgC9": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
+          }
+        },
+        "image_M6BJt7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
           }
         }
       },
       "block_order": [
         "image_pcbM8r",
+        "image_ATBUN4",
         "image_fxGLqt",
-        "image_M6BJt7",
         "image_PbMgC9",
-        "image_ATBUN4"
+        "image_M6BJt7"
       ],
       "settings": {
         "style": "dots",
@@ -330,40 +330,40 @@
     "hero_animated_niKnwL": {
       "type": "hero-animated",
       "blocks": {
-        "image_ApXUwf": {
+        "image_B8Meyj": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials1.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
           }
         },
-        "image_W6Bcpt": {
+        "image_mFjyt8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials2.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
           }
         },
-        "image_UBKPtV": {
+        "image_Et78xJ": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials3.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
           }
         },
-        "image_MqgYTU": {
+        "image_cr3KH8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials4.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
           }
         }
       },
       "block_order": [
-        "image_ApXUwf",
-        "image_W6Bcpt",
-        "image_UBKPtV",
-        "image_MqgYTU"
+        "image_B8Meyj",
+        "image_mFjyt8",
+        "image_Et78xJ",
+        "image_cr3KH8"
       ],
       "settings": {
         "style": "fading",
@@ -495,7 +495,7 @@
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
         "heading_left": "HAIRCARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
