@@ -10,27 +10,63 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Botanicals.jpg",
             "link": "https:\/\/www.instagram.com\/reel\/C6pf2k5xabv\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-            "product": "",
+            "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "account": "",
-            "caption": "",
+            "caption": "A flourishing garden and radiant hair both thrive with time and care. Trust nature’s botanicals and watch your hair bloom. 🌿🌹",
             "likes": ""
           }
         },
         "post_jpWWPE": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "link": "",
-            "product": "",
+            "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Model1.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/C6m5K8JI0sW\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "product": "nero-body-wash",
             "account": "",
-            "caption": "",
+            "caption": "🚿 Elevate your shower game with the power of nature! 🌿 Discover the transformative benefits of exfoliating with all-natural botanical body wash. 😍✨",
+            "likes": ""
+          }
+        },
+        "post_jQjLcP": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2730.jpg",
+            "link": "https:\/\/www.instagram.com\/reel\/C6aC_-RRrv8\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "product": "sempre-hair-growth-organonutrients-daily-vitamins",
+            "account": "",
+            "caption": "Complete your hair care routine with Sempre Organonutrients 🌿",
+            "likes": ""
+          }
+        },
+        "post_GcgWTe": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/C6PlQTfuBF8\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
+            "account": "",
+            "caption": "Is your hair ready for summer? ☀️ If you're suffering from hair loss, it's time to start your hair transformation journey with Sempre Hair Growth Collection. 💪🏼",
+            "likes": ""
+          }
+        },
+        "post_BxdRgP": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Helix_01.png",
+            "link": "https:\/\/www.instagram.com\/reel\/C6NIHlERHa9\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
+            "account": "",
+            "caption": "Your DNA doesn’t have to define your future. Unlock the power of your DNA 🧬 with Origenere for healthier, fuller appearing hair.",
             "likes": ""
           }
         }
       },
       "block_order": [
         "post_gkfkze",
-        "post_jpWWPE"
+        "post_jpWWPE",
+        "post_jQjLcP",
+        "post_GcgWTe",
+        "post_BxdRgP"
       ],
       "settings": {
         "enable_home": true,
