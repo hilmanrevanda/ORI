@@ -127,24 +127,61 @@
         "mobile_size": 0
       }
     },
-    "rich_text_iiWHx9": {
-      "type": "rich-text",
+    "text_with_icons_Y4xQih": {
+      "type": "text-with-icons",
       "blocks": {
-        "heading_Jqkbw6": {
-          "type": "heading",
+        "text_block_y47rjj": {
+          "type": "text_block",
           "settings": {
-            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM OUR CUSTOMER..."
+            "show_image": false,
+            "icon": "chat",
+            "title": "PHYSICIAN FORMULATED",
+            "text": "<p>Formulated by physicians in the hair loss field with years of experience. <\/p>"
+          }
+        },
+        "text_block_imaW3C": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "15 YEARS OF RESEARCH",
+            "text": "<p>Our physicians & scientist have spent over 15 years of research to find a natural alternative to hair loss mediactions. <\/p>"
+          }
+        },
+        "text_block_FFiNhd": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "ALL-NATURAL BOTANICALS",
+            "text": "<p>All our products are made with all-natural botanicals designed to enhance the appearance & health of your hair. <\/p>"
+          }
+        },
+        "text_block_KcCMVM": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "MADE IN ITALY",
+            "text": "<p>Manufactured in Italy following strict EU standards. Ingredients are sourced worldwide for their natural benefits. <\/p>"
           }
         }
       },
       "block_order": [
-        "heading_Jqkbw6"
+        "text_block_y47rjj",
+        "text_block_imaW3C",
+        "text_block_FFiNhd",
+        "text_block_KcCMVM"
       ],
       "settings": {
+        "title": "SEMPRE HAIR GROWTH BENEFITS",
         "align_text": "center",
-        "narrow_column": true,
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
         "alt": true,
-        "background_color": "#000000"
+        "has_icon": false
       }
     },
     "fh_section_product_image_grid_NJ7QLt": {
@@ -236,61 +273,84 @@
         "image_right": "shopify:\/\/shop_images\/Sempre_Organonutrients.png"
       }
     },
-    "text_with_icons_Y4xQih": {
-      "type": "text-with-icons",
+    "rich_text_iiWHx9": {
+      "type": "rich-text",
       "blocks": {
-        "text_block_y47rjj": {
-          "type": "text_block",
+        "image_picker_CHXCQx": {
+          "type": "image_picker",
           "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "PHYSICIAN FORMULATED",
-            "text": "<p>Formulated by physicians in the hair loss field with years of experience. <\/p>"
+            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
           }
         },
-        "text_block_imaW3C": {
-          "type": "text_block",
+        "heading_Jqkbw6": {
+          "type": "heading",
           "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "15 YEARS OF RESEARCH",
-            "text": "<p>Our physicians & scientist have spent over 15 years of research to find a natural alternative to hair loss mediactions. <\/p>"
-          }
-        },
-        "text_block_FFiNhd": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "ALL-NATURAL BOTANICALS",
-            "text": "<p>All our products are made with all-natural botanicals designed to enhance the appearance & health of your hair. <\/p>"
-          }
-        },
-        "text_block_KcCMVM": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "MADE IN ITALY",
-            "text": "<p>Manufactured in Italy following strict EU standards. Ingredients are sourced worldwide for their natural benefits. <\/p>"
+            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM OUR CUSTOMER..."
           }
         }
       },
       "block_order": [
-        "text_block_y47rjj",
-        "text_block_imaW3C",
-        "text_block_FFiNhd",
-        "text_block_KcCMVM"
+        "image_picker_CHXCQx",
+        "heading_Jqkbw6"
       ],
       "settings": {
-        "title": "SEMPRE HAIR GROWTH BENEFITS",
         "align_text": "center",
-        "desktop_columns_per_row": 4,
-        "icon_color": "#000",
-        "button_label": "",
-        "button_link": "",
+        "narrow_column": true,
         "alt": true,
-        "has_icon": false
+        "background_color": "#000000"
+      }
+    },
+    "hero_animated_KXDJyT": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_pECGjB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_jmjk7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+          }
+        },
+        "image_TpVp7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
+          }
+        },
+        "image_zRLNMc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_pECGjB",
+        "image_jmjk7e",
+        "image_TpVp7e",
+        "image_zRLNMc"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
       }
     },
     "featured_collection_slider_CkJkV4": {
@@ -383,7 +443,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_3892-4.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_3044-2.jpg",
             "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
@@ -397,128 +457,6 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-      }
-    },
-    "advanced_content_eKBcPE": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_6bDQDG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0844-4.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_7a7JaN": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>SEMPRE HAIR GROWTH ORGANONUTRIENTS DUO<\/h2><p> Sempre hair growth Organonutrients provide an overall dietary boost with powerful natural antioxidant and anti-inflammatory agents to help actively fight signs of aging and improve the natural state of your cells.  They supply essential nutrients directly to the hair follicles through the bloodstream promoting stronger hair growth and reducing hair loss.<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_6bDQDG",
-        "liquid_7a7JaN"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
-      "type": "rich-text",
-      "blocks": {
-        "848977ff-6252-4e05-989d-8584e771108f": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Helix.png"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Products Address the Most Common Hair Concerns:"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "848977ff-6252-4e05-989d-8584e771108f",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
-    "fh_section_product_image_grid_wzKj7Q": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_9842-4.jpg",
-        "image_right": "shopify:\/\/shop_images\/10_4fe51ad3-42f7-44e9-af38-40723bcdb7c0.png"
-      }
-    },
-    "featured_product_AbXQBY": {
-      "type": "featured-product",
-      "blocks": {
-        "price_mB64YW": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_WRAHJb": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_XcFGwL": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_6rJXKc": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": false
-          }
-        }
-      },
-      "block_order": [
-        "price_mB64YW",
-        "description_WRAHJb",
-        "variant_picker_XcFGwL",
-        "buy_buttons_6rJXKc"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-organonutrients-daily-vitamins",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -561,76 +499,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
-      }
-    },
-    "text_and_image_8Lnq7h": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/7.png",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "NEW AND IMPROVED",
-        "title": "Discover our new hair & skin formula:",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "featured_product_XJpHd3": {
-      "type": "featured-product",
-      "blocks": {
-        "price_fhfiLY": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_LeN4VY": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_e6ajE6": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_VB9qbm": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "surface_pickup_enable": false
-          }
-        }
-      },
-      "block_order": [
-        "price_fhfiLY",
-        "description_LeN4VY",
-        "variant_picker_e6ajE6",
-        "buy_buttons_VB9qbm"
-      ],
-      "disabled": true,
-      "settings": {
-        "featured_product": "sempre-hair-growth-kit",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "faq_dNDhd6": {
@@ -683,42 +551,6 @@
         "title": "FAQs",
         "alt": false
       }
-    },
-    "hero_animated_KXDJyT": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_pECGjB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
-          }
-        },
-        "image_jmjk7e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_pECGjB",
-        "image_jmjk7e"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
     }
   },
   "order": [
@@ -726,24 +558,18 @@
     "main",
     "slideshow_6QRQex",
     "hero_animated_XfyFBk",
-    "rich_text_iiWHx9",
+    "text_with_icons_Y4xQih",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "countdown_YU3UDh",
     "fh_section_product_image_grid_t67YQM",
     "fh_section_product_image_grid_z66Df9",
-    "text_with_icons_Y4xQih",
+    "rich_text_iiWHx9",
+    "hero_animated_KXDJyT",
     "featured_collection_slider_CkJkV4",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "advanced_content_eKBcPE",
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "fh_section_product_image_grid_wzKj7Q",
-    "featured_product_AbXQBY",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "text_and_image_8Lnq7h",
-    "featured_product_XJpHd3",
-    "faq_dNDhd6",
-    "hero_animated_KXDJyT"
+    "faq_dNDhd6"
   ]
 }

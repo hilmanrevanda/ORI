@@ -4,7 +4,34 @@
   "sections": {
     "social": {
       "type": "social",
-      "disabled": true,
+      "blocks": {
+        "post_gkfkze": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BuongiornoInstagram_7f1d21f1-cd3c-4457-bdba-41efb5d259c1.png",
+            "link": "",
+            "product": "",
+            "account": "",
+            "caption": "",
+            "likes": ""
+          }
+        },
+        "post_jpWWPE": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "link": "",
+            "product": "",
+            "account": "",
+            "caption": "",
+            "likes": ""
+          }
+        }
+      },
+      "block_order": [
+        "post_gkfkze",
+        "post_jpWWPE"
+      ],
       "settings": {
         "enable_home": true,
         "enable_product": true,
@@ -22,11 +49,11 @@
         "newsletter_richtext": "<p>Subscribe to our newsletter for 20% off next order and exclusive promotions directly to your inbox.<\/p>",
         "show_locale_selector": false,
         "show_currency_selector": false,
-        "show_currency_flags": false,
+        "show_currency_flags": true,
         "show_social_icons": true,
         "menu": "footer",
         "show_payment_icons": false,
-        "show_copyright": false,
+        "show_copyright": true,
         "copyright_text": ""
       }
     }
