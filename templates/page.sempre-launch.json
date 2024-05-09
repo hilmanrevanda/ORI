@@ -6,9 +6,9 @@
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
-            "title": "SEMPRE ORGANONUTRIENTS \nHAIR GROWTH COLLECTION",
-            "title_size": 40,
-            "subheading": "Let nature guide your metamorphosis with Sempre. Sempre hair growth foam contains our ORGANONUTRIENTs and proprietary botanical blend crafted after years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair ",
+            "title": "SEMPRE HAIR GROWTH COLLECTION",
+            "title_size": 53,
+            "subheading": "We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -66,94 +66,65 @@
         "lazyload_images": true
       }
     },
-    "slideshow_tcNQ6j": {
-      "type": "slideshow",
+    "hero_animated_XfyFBk": {
+      "type": "hero-animated",
       "blocks": {
-        "image_gtRdY7": {
+        "image_6hjdf9": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_results_landscape1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape1.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
           }
         },
-        "image_dYGfdr": {
+        "image_aUXLGr": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_results_landscape3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape3.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
           }
         },
-        "image_7yJwmp": {
+        "image_XFwnQ4": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_results_landscape4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape4.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
           }
         },
-        "image_9dLbxF": {
+        "image_FH4tJ8": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_results_landscape6.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape6.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
           }
         },
-        "image_LNCG8q": {
+        "image_X8f9RR": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_results_landscape8.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_results_landscape8.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
           }
         }
       },
       "block_order": [
-        "image_gtRdY7",
-        "image_dYGfdr",
-        "image_7yJwmp",
-        "image_9dLbxF",
-        "image_LNCG8q"
+        "image_6hjdf9",
+        "image_aUXLGr",
+        "image_XFwnQ4",
+        "image_FH4tJ8",
+        "image_X8f9RR"
       ],
       "settings": {
-        "style": "arrows",
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
         "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false
+        "mobile_size": 0
       }
     },
     "rich_text_iiWHx9": {
@@ -162,14 +133,13 @@
         "heading_Jqkbw6": {
           "type": "heading",
           "settings": {
-            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM"
+            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM OUR CUSTOMER..."
           }
         }
       },
       "block_order": [
         "heading_Jqkbw6"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -255,8 +225,82 @@
     "fh_section_product_image_grid_t67YQM": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/SempreDuoSemprefoamingredients_2b203e71-1638-4068-b6b6-5640f6312df0.png",
-        "image_right": "shopify:\/\/shop_images\/SempreResults.png"
+        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
+        "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
+      }
+    },
+    "fh_section_product_image_grid_z66Df9": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/13_af6d5989-677a-4428-905d-c30d421c60ac.png",
+        "image_right": "shopify:\/\/shop_images\/Sempre_Organonutrients.png"
+      }
+    },
+    "text_with_icons_Y4xQih": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_y47rjj": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "PHYSICIAN FORMULATED",
+            "text": "<p>Formulated by physicians in the hair loss field with years of experience. <\/p>"
+          }
+        },
+        "text_block_imaW3C": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "15 YEARS OF RESEARCH",
+            "text": "<p>Our physicians & scientist have spent over 15 years of research to find a natural alternative to hair loss mediactions. <\/p>"
+          }
+        },
+        "text_block_FFiNhd": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "ALL-NATURAL BOTANICALS",
+            "text": "<p>All our products are made with all-natural botanicals designed to enhance the appearance & health of your hair. <\/p>"
+          }
+        },
+        "text_block_KcCMVM": {
+          "type": "text_block",
+          "settings": {
+            "show_image": false,
+            "icon": "chat",
+            "title": "MADE IN ITALY",
+            "text": "<p>Manufactured in Italy following strict EU standards. Ingredients are sourced worldwide for their natural benefits. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_y47rjj",
+        "text_block_imaW3C",
+        "text_block_FFiNhd",
+        "text_block_KcCMVM"
+      ],
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH BENEFITS",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false
+      }
+    },
+    "featured_collection_slider_CkJkV4": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
+        "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
+        "home_featured_products": "sempre-metamorphisis",
+        "per_row": "medium",
+        "alt": false
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -329,112 +373,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_3306.jpg"
-      }
-    },
-    "slideshow_eXqcz3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AzrNMW": {
-          "type": "image",
-          "settings": {
-            "title": "LIMITED AVAILABILITY SEMPRE FOAM SUBSCRIPTIONS",
-            "title_size": 40,
-            "subheading": "SUBSCRIBE & SAVE OFF A 3 MONTH SUBSCRIPTION",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0234-3.jpg"
-          }
-        },
-        "image_YaQhjg": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "Two line\nslide title.",
-            "title_size": 80,
-            "subheading": "And an optional subheading",
-            "link": "",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_9936_1752fd85-b3e2-4943-bffd-870cb717b6bd.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_AzrNMW",
-        "image_YaQhjg"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": -40,
-        "mobile_size": -10,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
-    "fh_section_product_image_grid_z66Df9": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Testimonial7.png",
-        "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
-      }
-    },
-    "featured_product_xkRigR": {
-      "type": "featured-product",
-      "blocks": {
-        "price_rfgMg4": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_w3ECdj": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_d9LqaH": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_BL4qV7": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_rfgMg4",
-        "description_w3ECdj",
-        "variant_picker_d9LqaH",
-        "buy_buttons_BL4qV7"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-foam-organonutrient-botanical-blend-3-month-trio",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
-    },
-    "fh_section_product_image_grid_W7KqC4": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_0738-2.jpg",
-        "image_right": "shopify:\/\/shop_images\/Sempre_Testimonial6.png"
+        "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -492,43 +431,6 @@
         "lazyload_images": true
       }
     },
-    "testimonials_McAdpL": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_x9i6ik": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p><strong>Love the fragrance of this and shedding has significantly reduced.<\/strong><\/p>",
-            "author": "J.T."
-          }
-        },
-        "testimonial_QkVK8j": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p><strong>My hair has really grown and is thicker. <\/strong><\/p>",
-            "author": "P.H."
-          }
-        },
-        "testimonial_7TntkW": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p><strong>My hair looks better now than before l started using it. <\/strong><\/p>",
-            "author": "D.Q."
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_x9i6ik",
-        "testimonial_QkVK8j",
-        "testimonial_7TntkW"
-      ],
-      "settings": {
-        "title": "TESTIMONIALS",
-        "align_text": "center",
-        "round_images": true,
-        "alt": true
-      }
-    },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
       "type": "rich-text",
       "blocks": {
@@ -563,54 +465,6 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
-      }
-    },
-    "featured_product_TRLFYX": {
-      "type": "featured-product",
-      "blocks": {
-        "price_TnD9Kg": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_qLjJgm": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_AQBk7P": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "variant_labels": false,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "buy_buttons_aL8wRq": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_TnD9Kg",
-        "description_qLjJgm",
-        "variant_picker_AQBk7P",
-        "buy_buttons_aL8wRq"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
-        "product_image_size": "large",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "fh_section_product_image_grid_wzKj7Q": {
@@ -829,33 +683,67 @@
         "title": "FAQs",
         "alt": false
       }
+    },
+    "hero_animated_KXDJyT": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_pECGjB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_jmjk7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_pECGjB",
+        "image_jmjk7e"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
     }
   },
   "order": [
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
     "slideshow_6QRQex",
-    "slideshow_tcNQ6j",
+    "hero_animated_XfyFBk",
     "rich_text_iiWHx9",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "countdown_YU3UDh",
     "fh_section_product_image_grid_t67YQM",
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "slideshow_eXqcz3",
     "fh_section_product_image_grid_z66Df9",
-    "featured_product_xkRigR",
-    "fh_section_product_image_grid_W7KqC4",
+    "text_with_icons_Y4xQih",
+    "featured_collection_slider_CkJkV4",
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "advanced_content_eKBcPE",
-    "testimonials_McAdpL",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "featured_product_TRLFYX",
     "fh_section_product_image_grid_wzKj7Q",
     "featured_product_AbXQBY",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "text_and_image_8Lnq7h",
     "featured_product_XJpHd3",
-    "faq_dNDhd6"
+    "faq_dNDhd6",
+    "hero_animated_KXDJyT"
   ]
 }
