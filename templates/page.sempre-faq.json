@@ -266,6 +266,91 @@
         "background_color": "#ffffff"
       }
     },
+    "slideshow_CiEM7p": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zADDrQ": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
+          }
+        },
+        "image_FRTaNY": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
+          }
+        },
+        "image_TNrQNM": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
+          }
+        },
+        "image_QrmVfC": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
+          }
+        },
+        "image_QLRQxV": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_zADDrQ",
+        "image_FRTaNY",
+        "image_TNrQNM",
+        "image_QrmVfC",
+        "image_QLRQxV"
+      ],
+      "settings": {
+        "style": "dots",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
       "type": "fh-section-richtext",
       "disabled": true,
@@ -284,9 +369,62 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
       ],
       "settings": {
-        "text": "<h2>THE REVIEWS ARE IN FROM OUR BIGGEST FANS...<\/h2>",
-        "background_color": "#450298",
+        "text": "<h1>THE REVIEWS ARE IN...<\/h1>",
+        "background_color": "#000000",
         "text_color": "#ffffff"
+      }
+    },
+    "hero_animated_64ewzT": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_tVtrBb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_keDgQM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_LfBBJC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
+          }
+        },
+        "image_WgbTJn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_tVtrBb",
+        "image_keDgQM",
+        "image_LfBBJC",
+        "image_WgbTJn"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
       }
     },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
@@ -362,16 +500,6 @@
         "has_icon": false
       }
     },
-    "featured_collection_slider_PPAjbE": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "HAIR LOSS SOLUTIONS",
-        "description": "PHYSICIAN FORMULATED HAIR CARE",
-        "home_featured_products": "hair-loss-solutions",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
     "contact_form_cUkhfz": {
       "type": "contact-form",
       "custom_css": [
@@ -381,6 +509,37 @@
         "title": "HOW CAN WE HELP YOU ON YOUR HAIR GROWTH JOURNEY?",
         "show_phone": false,
         "narrow_column": true
+      }
+    },
+    "text_and_image_TTaqBw": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sempre_Physician.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "SHARE YOUR HAIR GROWTH JOURNEY",
+        "text": "<p>Follow and share your journey on Instagram & TikTok. <\/p>",
+        "button_label": "",
+        "button_link": "https:\/\/www.instagram.com\/origenere\/?hl=en",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_slider_PPAjbE": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "HAIR LOSS SOLUTIONS",
+        "description": "PHYSICIAN FORMULATED HAIR CARE",
+        "home_featured_products": "hair-loss-solutions",
+        "per_row": "medium",
+        "alt": false
       }
     },
     "blog_posts_YGW6BY": {
@@ -398,97 +557,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "text_with_icons_FFPJLF": {
-      "type": "text-with-icons",
-      "blocks": {
-        "text_block_VwzbXW": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
-          }
-        },
-        "text_block_zcPY3w": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_VwzbXW",
-        "text_block_zcPY3w"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "desktop_columns_per_row": 2,
-        "icon_color": "#000",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_3994-3.jpg"
-      }
-    },
-    "hero_animated_64ewzT": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_tVtrBb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
-          }
-        },
-        "image_keDgQM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
-          }
-        },
-        "image_LfBBJC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
-          }
-        },
-        "image_WgbTJn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_tVtrBb",
-        "image_keDgQM",
-        "image_LfBBJC",
-        "image_WgbTJn"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
     }
   },
   "order": [
@@ -502,13 +570,14 @@
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "faq_699Emt",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "slideshow_CiEM7p",
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
+    "hero_animated_64ewzT",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "featured_collection_slider_PPAjbE",
     "contact_form_cUkhfz",
-    "blog_posts_YGW6BY",
-    "text_with_icons_FFPJLF",
-    "hero_animated_64ewzT"
+    "text_and_image_TTaqBw",
+    "featured_collection_slider_PPAjbE",
+    "blog_posts_YGW6BY"
   ]
 }
