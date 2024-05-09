@@ -192,8 +192,24 @@
         "text_block_CMTXRa",
         "text_block_8iMHhy"
       ],
+      "disabled": true,
       "settings": {
         "num_per_row": 4
+      }
+    },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/haircare",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "text_and_image_MHzh9j": {
@@ -330,18 +346,18 @@
     "hero_animated_niKnwL": {
       "type": "hero-animated",
       "blocks": {
-        "image_B8Meyj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
-          }
-        },
         "image_mFjyt8": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_B8Meyj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
           }
         },
         "image_Et78xJ": {
@@ -360,8 +376,8 @@
         }
       },
       "block_order": [
-        "image_B8Meyj",
         "image_mFjyt8",
+        "image_B8Meyj",
         "image_Et78xJ",
         "image_cr3KH8"
       ],
@@ -490,21 +506,6 @@
         "button_link": "",
         "alt": true,
         "has_icon": false
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/haircare",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skin-care"
       }
     },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
@@ -720,6 +721,7 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh_section_collection_grid_a9N4Um",
+    "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "scrolling-text",
@@ -728,7 +730,6 @@
     "rich_text_rDtzW6",
     "featured_collection_slider_Bk6Ke3",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "fh-section-product-category-grid",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_xjgKdT",
     "rich_text_JYjgdj",
