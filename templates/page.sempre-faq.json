@@ -555,7 +555,7 @@
         "blog_show_excerpt": false,
         "blog_image_size": "wide",
         "view_all": true,
-        "alt": true
+        "alt": false
       }
     }
   },
