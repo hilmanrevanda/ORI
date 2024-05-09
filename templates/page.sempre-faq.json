@@ -362,6 +362,16 @@
         "has_icon": false
       }
     },
+    "featured_collection_slider_PPAjbE": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "HAIR LOSS SOLUTIONS",
+        "description": "PHYSICIAN FORMULATED HAIR CARE",
+        "home_featured_products": "hair-loss-solutions",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "contact_form_cUkhfz": {
       "type": "contact-form",
       "custom_css": [
@@ -427,14 +437,57 @@
         "background_image": "shopify:\/\/shop_images\/IMG_3994-3.jpg"
       }
     },
-    "featured_collection_slider_PPAjbE": {
-      "type": "featured-collection-slider",
+    "hero_animated_64ewzT": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_tVtrBb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_keDgQM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_LfBBJC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
+          }
+        },
+        "image_WgbTJn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_tVtrBb",
+        "image_keDgQM",
+        "image_LfBBJC",
+        "image_WgbTJn"
+      ],
       "settings": {
-        "title": "HAIR LOSS SOLUTIONS",
-        "description": "PHYSICIAN FORMULATED HAIR CARE",
-        "home_featured_products": "hair-loss-solutions",
-        "per_row": "medium",
-        "alt": false
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
       }
     }
   },
@@ -452,9 +505,10 @@
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
+    "featured_collection_slider_PPAjbE",
     "contact_form_cUkhfz",
     "blog_posts_YGW6BY",
     "text_with_icons_FFPJLF",
-    "featured_collection_slider_PPAjbE"
+    "hero_animated_64ewzT"
   ]
 }
