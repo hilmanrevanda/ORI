@@ -13,8 +13,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Sempre.png"
+            "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
           }
         }
       },
@@ -49,7 +49,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0889_16df5242-a97f-4950-9091-06a972035b22.jpg"
+            "image": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg"
           }
         }
       },
@@ -58,7 +59,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -10,
+        "desktop_size": 10,
         "mobile_size": -10,
         "autoplay": false,
         "autoplay_speed": 7,
@@ -186,6 +187,7 @@
     },
     "hero_video_nx83CF": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 86,
