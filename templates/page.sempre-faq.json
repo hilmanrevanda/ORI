@@ -9,22 +9,35 @@
     "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
       "type": "slideshow",
       "blocks": {
+        "image_rND7ww": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center"
+          }
+        },
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
           "type": "image",
           "settings": {
             "title": "WELCOME TO YOUR HAIR GROWTH JOURNEY",
-            "title_size": 41,
+            "title_size": 40,
             "subheading": "SEMPRE HAIR GROWTH COLLECTION",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2_1e5c4844-602f-4dbd-9ab7-5e2f5cfe2102.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2_1e5c4844-602f-4dbd-9ab7-5e2f5cfe2102.jpg"
+            "image": "shopify:\/\/shop_images\/IMG_3045.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_3045.jpg"
           }
         }
       },
       "block_order": [
+        "image_rND7ww",
         "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
       ],
       "settings": {
@@ -34,6 +47,15 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "fh_section_richtext_4fYhEe": {
+      "type": "fh-section-richtext",
+      "settings": {
+        "text": "<h2>Congratulations on taking the first step towards fuller, healthier hair with Sempre All-Natural Hair Growth Foam! Your hair growth journey is like crafting a masterpiece — time and patience are key.<\/h2>",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
       }
     },
     "faq_699Emt": {
@@ -124,8 +146,7 @@
       ],
       "settings": {
         "title": "SEMPRE HAIR GROWTH FAQs",
-        "alt": false,
-        "background_image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg"
+        "alt": true
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -485,6 +506,7 @@
   "order": [
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "fh_section_richtext_4fYhEe",
     "faq_699Emt",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
