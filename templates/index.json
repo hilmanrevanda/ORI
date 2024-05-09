@@ -29,7 +29,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_3044-2.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Groth_Duo_2.jpg"
           }
         },
@@ -100,7 +100,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -10,
+        "desktop_size": -20,
         "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 6,
