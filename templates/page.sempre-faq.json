@@ -13,7 +13,7 @@
           "type": "image",
           "settings": {
             "title": "WELCOME TO YOUR \nHAIR GROWTH JOURNEY",
-            "title_size": 40,
+            "title_size": 57,
             "subheading": "SEMPRE HAIR GROWTH COLLECTION",
             "link": "",
             "link_text": "",
@@ -28,7 +28,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 0,
+        "desktop_size": -10,
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
