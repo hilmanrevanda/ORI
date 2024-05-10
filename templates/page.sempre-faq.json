@@ -19,8 +19,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3994-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3045.jpg"
+            "image": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
           }
         }
       },
@@ -29,7 +28,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -20,
+        "desktop_size": 10,
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
@@ -53,7 +52,7 @@
             "reverse": false,
             "image": "shopify:\/\/shop_images\/IMG_3994-3.jpg",
             "text": "<h2>SEMPRE ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
-            "background_color": "#400086",
+            "background_color": "#000000",
             "text_color": "#ffffff"
           }
         }
