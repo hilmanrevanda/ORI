@@ -84,7 +84,7 @@
     "fh_section_richtext_hQ6Ajx": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<h1>WHAT TO EXPECT?<\/h1><p>Due to the nature of the hair growth cycle, at least 3 months are required to start noticing results. Visible improvements are influenced by the natural phases of hair growth: anagen (growth phase), catagen (transition phase), and telogen (resting phase).<\/p>",
+        "text": "<h1>WHAT TO EXPECT?<\/h1><p>Visible results are influenced by the natural phases of hair growth: anagen (growth), catagen (regression), telogen (resting), and exogen (shedding).  Each hair follicle progresses through these stages independently, and it takes time for the nutrients to take effect and for new, healthier hair to grow<\/p>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -548,7 +548,7 @@
         "image2_mask": "none",
         "subtitle": "",
         "title": "REMINDER TO TAKE YOUR VITAMINS...",
-        "text": "<p>Taking your Sempre vitamins along with Sempre foam to complete your hair care transformation. <\/p>",
+        "text": "<p>Sempre once a day keeps hair loss at bay.<\/p>",
         "button_label": "",
         "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
         "button_style": "primary",
