@@ -150,42 +150,42 @@
         "question_LFFYaB": {
           "type": "question",
           "settings": {
-            "title": "Can participants apply the Sempre foam immediately after their Minoxidil, or should participants wait a few min\/hour?",
+            "title": "When should I apply Sempre foam in relation to minoxidil? ",
             "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.<\/p>"
           }
         },
         "question_PLhBVj": {
           "type": "question",
           "settings": {
-            "title": "Should the foam be applied to dry hair or wet hair as shown on the video?",
+            "title": "Should I apply the foam to wet or dry hair?",
             "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
           }
         },
         "question_GQfE6E": {
           "type": "question",
           "settings": {
-            "title": "The video shows to apply it once a day. What time a day is best to apply the application?",
+            "title": "What time of day should I apply the foam?",
             "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
           }
         },
         "question_NFqiRe": {
           "type": "question",
           "settings": {
-            "title": "Can Sempre be used with Finasteride?",
+            "title": "Can I use Sempre with finasteride?",
             "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
           }
         },
         "question_pJnneH": {
           "type": "question",
           "settings": {
-            "title": "Can Sempre replace Finasteride of Minoxidil?",
+            "title": "Can Sempre replace minoxidil or finasteride?",
             "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
           }
         },
         "question_nepjx4": {
           "type": "question",
           "settings": {
-            "title": "Known side effects?",
+            "title": "Are there known side effects?",
             "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. <\/p>"
           }
         },
@@ -199,15 +199,8 @@
         "question_PEFFeA": {
           "type": "question",
           "settings": {
-            "title": "How to apply Sempre?",
+            "title": "How do I apply Sempre foam?",
             "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.<\/p>"
-          }
-        },
-        "question_bLBQGy": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
@@ -220,8 +213,7 @@
         "question_pJnneH",
         "question_nepjx4",
         "question_bPjRGw",
-        "question_PEFFeA",
-        "question_bLBQGy"
+        "question_PEFFeA"
       ],
       "settings": {
         "title": "SEMPRE HAIR GROWTH FAQs",
