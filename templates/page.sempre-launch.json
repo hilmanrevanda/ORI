@@ -90,6 +90,35 @@
         "lazyload_images": true
       }
     },
+    "slideshow_xiFb3k": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xEKEFg": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Proven_Results_Graph.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_xEKEFg"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -265,35 +294,6 @@
         "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
       }
     },
-    "slideshow_xiFb3k": {
-      "type": "slideshow",
-      "blocks": {
-        "image_xEKEFg": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Proven_Results_Graph.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_xEKEFg"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "fh_section_product_image_grid_z66Df9": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -313,7 +313,7 @@
         "heading_Jqkbw6": {
           "type": "heading",
           "settings": {
-            "title": "AFTER 6 MONTHS OF USING SEMPRE HAIR GROWTH FOAM OUR CUSTOMER..."
+            "title": "THE REVIEWS ARE IN..."
           }
         }
       },
@@ -584,6 +584,7 @@
   "order": [
     "hero_animated_XfyFBk",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
+    "slideshow_xiFb3k",
     "main",
     "slideshow_6QRQex",
     "text_with_icons_Y4xQih",
@@ -591,7 +592,6 @@
     "hero_video_nx83CF",
     "countdown_YU3UDh",
     "fh_section_product_image_grid_t67YQM",
-    "slideshow_xiFb3k",
     "fh_section_product_image_grid_z66Df9",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
