@@ -23,41 +23,6 @@
       "settings": {
       }
     },
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
-      "type": "rich-text",
-      "blocks": {
-        "848977ff-6252-4e05-989d-8584e771108f": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Helix.png"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "To submit a wholesale application, please use the form below:"
-          }
-        },
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h3>View our  Brand Deck  to view our available products. (insert link) <\/h3>"
-          }
-        }
-      },
-      "block_order": [
-        "848977ff-6252-4e05-989d-8584e771108f",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
-        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
     "featured_collections_aKReNW": {
       "type": "featured-collections",
       "blocks": {
@@ -101,6 +66,49 @@
         "alt": true
       }
     },
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
+      "type": "rich-text",
+      "blocks": {
+        "848977ff-6252-4e05-989d-8584e771108f": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Helix.png"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "To submit a wholesale application, please use the form below:"
+          }
+        },
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h3>View our  Brand Deck  to view our available products. (insert link) <\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "848977ff-6252-4e05-989d-8584e771108f",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1",
+        "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "contact_form_UtJfqe": {
+      "type": "contact-form",
+      "settings": {
+        "title": "REQUEST WHOLESALE APPLICATION",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -110,8 +118,9 @@
   },
   "order": [
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "featured_collections_aKReNW",
+    "fd91edb2-8b01-4aab-beac-9f1cda534efc",
+    "contact_form_UtJfqe",
     "main"
   ]
 }
