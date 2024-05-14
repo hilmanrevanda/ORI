@@ -37,12 +37,12 @@
           "type": "image",
           "settings": {
             "title": "NURTURING \nYOUR SCALP",
-            "title_size": 73,
+            "title_size": 64,
             "subheading": "The Foundation of Healthy Hair",
             "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/nurturing-your-scalp-the-foundation-of-healthy-hair",
             "link_text": "READ OUR BLOG",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
+            "text_align": "vertical-center horizontal-left",
             "image": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png",
             "image_mobile": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
           }
