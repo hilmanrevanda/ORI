@@ -80,15 +80,15 @@
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
-            "title": "UNDERSTANDING THE HAIR GROWTH CYCLE",
-            "title_size": 45,
-            "subheading": "A Foundation for Healthy Hair",
-            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/the-more-you-know-1",
+            "title": "NURTURING \nYOUR SCALP",
+            "title_size": 73,
+            "subheading": "The Foundation of Healthy Hair",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/nurturing-your-scalp-the-foundation-of-healthy-hair",
             "link_text": "READ OUR BLOG",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_0092-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0092-2.jpg"
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png",
+            "image_mobile": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
           }
         }
       },
