@@ -1,34 +1,5 @@
 {
   "sections": {
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "WHOLESALE",
-            "title_size": 73,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_2395-2.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": -20,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
       "type": "fh-section-custom-list-richtext",
       "blocks": {
@@ -36,8 +7,8 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_9269-4_abf868cc-b07c-4971-aa4f-72bed216c3a8.jpg",
-            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_1776.jpg",
+            "text": "<h2>BECOME A WHOLESALE PARTNER<\/h2><p><\/p><p>Thank you for your interest in Origenere products physician formulated hair & skin care, we look forward to hearing from you! We are currently accepting wholesale applications from aligned boutiques, spas, hotels, beauty professionals and select online retailers.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -52,45 +23,6 @@
       "settings": {
       }
     },
-    "featured_collections_aKReNW": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_BBbzrK": {
-          "type": "collection",
-          "settings": {
-            "collection": "sempre-hair-growth-collection"
-          }
-        },
-        "collection_mbizGC": {
-          "type": "collection",
-          "settings": {
-            "collection": "skincare"
-          }
-        },
-        "collection_yRxk39": {
-          "type": "collection",
-          "settings": {
-            "collection": "naturale-purity-collection"
-          }
-        },
-        "collection_mpHDmm": {
-          "type": "collection",
-          "settings": {
-            "collection": "buongiorno-vitality-collection"
-          }
-        }
-      },
-      "block_order": [
-        "collection_BBbzrK",
-        "collection_mbizGC",
-        "collection_yRxk39",
-        "collection_mpHDmm"
-      ],
-      "settings": {
-        "title": "",
-        "alt": false
-      }
-    },
     "fd91edb2-8b01-4aab-beac-9f1cda534efc": {
       "type": "rich-text",
       "blocks": {
@@ -103,14 +35,14 @@
         "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
           "type": "heading",
           "settings": {
-            "title": "Our Products Address the Most Common Hair Concerns:"
+            "title": "To submit a wholesale application, please use the form below:"
           }
         },
         "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-text-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
+            "text": "<h3>View our  Brand Deck  to view our available products. (insert link) <\/h3>"
           }
         }
       },
@@ -126,45 +58,51 @@
         "background_color": "#ffffff"
       }
     },
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
-      "type": "text-with-icons",
+    "featured_collections_aKReNW": {
+      "type": "featured-collections",
       "blocks": {
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
-          "type": "text_block",
+        "collection_FyFhfi": {
+          "type": "collection",
           "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>RESEARCH LABORATORY RESULTS<\/strong><\/h3><p>(Naturale for Thinning Hair) Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
+            "collection": ""
           }
         },
-        "02158237-3859-400a-9303-44a34ad7c801": {
-          "type": "text_block",
+        "collection_BBbzrK": {
+          "type": "collection",
           "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>THIRD PARTY CLINICAL STUDY<\/strong><\/h3><p><strong>(Naturale for Thinning Hair) After just 4 weeks of using, the majority of clients noted: <\/strong><\/p><p><strong>THICKER HAIR<\/strong><\/p><p><strong>LESS HAIR SHEDDING<\/strong><\/p><p><strong>STRONGER HAIR<\/strong><\/p><p><strong>REDUCTION IN SCALP DRYNESS<\/strong><\/p><p><strong>LESS HAIR BREAKAGE<\/strong><\/p>"
+            "collection": "sempre-metamorphisis",
+            "image": "shopify:\/\/shop_images\/Sempre_Physician.jpg"
+          }
+        },
+        "collection_mbizGC": {
+          "type": "collection",
+          "settings": {
+            "collection": "skin-care"
+          }
+        },
+        "collection_yRxk39": {
+          "type": "collection",
+          "settings": {
+            "collection": "naturale"
+          }
+        },
+        "collection_mpHDmm": {
+          "type": "collection",
+          "settings": {
+            "collection": "buongiorno"
           }
         }
       },
       "block_order": [
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
-        "02158237-3859-400a-9303-44a34ad7c801"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+        "collection_FyFhfi",
+        "collection_BBbzrK",
+        "collection_mbizGC",
+        "collection_yRxk39",
+        "collection_mpHDmm"
       ],
       "settings": {
-        "title": "BACKED BY SCIENCE",
-        "align_text": "center",
-        "desktop_columns_per_row": 2,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_3126.jpg"
+        "title": "DISCOVER OUR COLLECTIONS",
+        "alt": true
       }
     },
     "main": {
@@ -172,47 +110,12 @@
       "disabled": true,
       "settings": {
       }
-    },
-    "adb572db-112e-4a17-bd04-9e6cef093e6c": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>REASON FOR HAIR & SKIN DAMAGE<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6": {
-      "type": "fh-section-richtext",
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
-      ],
-      "settings": {
-        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
-        "background_color": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
-    "contact_form_cWPtPB": {
-      "type": "contact-form",
-      "settings": {
-        "title": "WHOLESALE REQUEST",
-        "show_phone": true,
-        "narrow_column": true
-      }
     }
   },
   "order": [
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "featured_collections_aKReNW",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
-    "main",
-    "adb572db-112e-4a17-bd04-9e6cef093e6c",
-    "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
-    "contact_form_cWPtPB"
+    "featured_collections_aKReNW",
+    "main"
   ]
 }
