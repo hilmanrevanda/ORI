@@ -114,6 +114,42 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "1715662146b7eac08d": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_preview_badge_homepage_Pb7raP": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge_homepage\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "sempre-hair-growth-organonutrients-hair-skin-vitamins"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_preview_badge_homepage_Pb7raP"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "17156621796b366c4a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_FRAUbD": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_FRAUbD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -121,6 +157,8 @@
     "featured_collections_aKReNW",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "contact_form_UtJfqe",
-    "main"
+    "main",
+    "1715662146b7eac08d",
+    "17156621796b366c4a"
   ]
 }
