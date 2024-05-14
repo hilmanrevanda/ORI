@@ -264,7 +264,7 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_link": "shopify:\/\/collections\/sempre-metamorphisis",
+            "button_link": "shopify:\/\/collections\/sempre-hair-growth-collection",
             "button": "LEARN MORE",
             "button_style": "inverse"
           }
@@ -386,7 +386,7 @@
       "settings": {
         "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
         "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
-        "home_featured_products": "sempre-metamorphisis",
+        "home_featured_products": "sempre-hair-growth-collection",
         "per_row": "medium",
         "alt": false
       }

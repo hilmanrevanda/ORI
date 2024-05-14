@@ -68,7 +68,7 @@
             "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
             "title_size": 45,
             "subheading": "Physician Formulated, Naturally Infused",
-            "link": "shopify:\/\/pages\/sempre-hairgrowth",
+            "link": "shopify:\/\/pages\/sempre-hair-growth",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-left",
@@ -159,7 +159,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
             "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-metamorphisis"
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
           }
         },
         "text_block_FJYXiW": {
@@ -224,7 +224,7 @@
         "title": "SEMPRE HAIR GROWTH",
         "text": "<p>Sempre hair growth foam & vitamins contain our ORGANONUTRIENTS and proprietary botanical blend crafted after 15 years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.<\/p>",
         "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/pages\/sempre-hairgrowth",
+        "button_link": "shopify:\/\/pages\/sempre-hair-growth",
         "button_style": "secondary",
         "align_text": "left",
         "image_width": "50",
@@ -329,7 +329,7 @@
       "type": "scrolling-text",
       "settings": {
         "text": "SEMPRE HAIR GROWTH ORGANONUTRIENTS - PHYSICIAN FORMULATED, ALL NATURAL BOTANICALS",
-        "link": "shopify:\/\/collections\/sempre-metamorphisis",
+        "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
         "text_size": 22,
         "text_spacing": true,
         "color_scheme": "button",
