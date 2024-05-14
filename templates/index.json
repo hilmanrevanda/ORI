@@ -53,7 +53,7 @@
             "title": "UNLOCK THE POWER OF \nYOUR DNA",
             "title_size": 60,
             "subheading": "NATURALE HAIR CARE FOR THINNING HAIR",
-            "link": "shopify:\/\/collections\/naturale",
+            "link": "shopify:\/\/collections\/naturale-purity-collection",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-right",
@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
             "text": "BUONGIORNO VITALITY",
-            "url": "shopify:\/\/collections\/buongiorno"
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
           }
         },
         "text_block_CMTXRa": {
@@ -606,7 +606,7 @@
         "title": "HAIR CARE FOR THINNING HAIR",
         "description": "NATURALE PURITY COLLECTION",
         "featured_text": "",
-        "home_featured_products": "naturale",
+        "home_featured_products": "naturale-purity-collection",
         "rows": 1,
         "per_row_desktop": 4,
         "per_row_mobile": "1",

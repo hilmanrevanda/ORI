@@ -99,14 +99,14 @@
         "collection1": {
           "type": "collection",
           "settings": {
-            "collection": "naturale",
+            "collection": "naturale-purity-collection",
             "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
         "collection2": {
           "type": "collection",
           "settings": {
-            "collection": "buongiorno",
+            "collection": "buongiorno-vitality-collection",
             "image": "shopify:\/\/shop_images\/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
           }
         },

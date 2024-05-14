@@ -100,7 +100,7 @@
             "heading": "NATURALE - PURITY COLLECTION",
             "description": "Purity Unleashed: Naturally revitalize thinning hair",
             "btn_text": "SHOP NOW <b><\/b>",
-            "btn_url": "shopify:\/\/collections\/naturale",
+            "btn_url": "shopify:\/\/collections\/naturale-purity-collection",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -113,7 +113,7 @@
             "heading": "BUONGIORNO - VITALITY COLLECTION",
             "description": "Awaken your Senses",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/buongiorno",
+            "btn_url": "shopify:\/\/collections\/buongiorno-vitality-collection",
             "background_color": "#ffc800",
             "text_color": "#ffffff"
           }
