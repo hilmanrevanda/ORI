@@ -249,6 +249,45 @@
         "show_phone": true,
         "narrow_column": true
       }
+    },
+    "featured_collections_aKReNW": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_BBbzrK": {
+          "type": "collection",
+          "settings": {
+            "collection": "sempre-metamorphisis"
+          }
+        },
+        "collection_mbizGC": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_yRxk39": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_mpHDmm": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_BBbzrK",
+        "collection_mbizGC",
+        "collection_yRxk39",
+        "collection_mpHDmm"
+      ],
+      "settings": {
+        "title": "",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -260,6 +299,7 @@
     "adb572db-112e-4a17-bd04-9e6cef093e6c",
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
-    "contact_form_cWPtPB"
+    "contact_form_cWPtPB",
+    "featured_collections_aKReNW"
   ]
 }
