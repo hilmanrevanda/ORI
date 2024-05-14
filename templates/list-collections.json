@@ -50,7 +50,7 @@
         "24eb9d94-233b-4c10-bab8-4f9f1a35112b": {
           "type": "collection",
           "settings": {
-            "collection": "arancio"
+            "collection": "arancio-preservation-collection"
           }
         }
       },
@@ -126,7 +126,7 @@
             "heading": "ARANCIO - PRESERVATION COLLECTION",
             "description": "Nourish your natural glow",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/arancio",
+            "btn_url": "shopify:\/\/collections\/arancio-preservation-collection",
             "background_color": "#fc4c00",
             "text_color": "#ffffff"
           }
@@ -139,7 +139,7 @@
             "heading": "NERO - DETOX COLLECTION",
             "description": "Revitalize and Elevate your beauty ritual",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/nero",
+            "btn_url": "shopify:\/\/collections\/nero-detox-collection",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }

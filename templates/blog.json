@@ -113,7 +113,7 @@
         "collection3": {
           "type": "collection",
           "settings": {
-            "collection": "arancio",
+            "collection": "arancio-preservation-collection",
             "image": "shopify:\/\/shop_images\/IMG_0293-2.jpg"
           }
         },

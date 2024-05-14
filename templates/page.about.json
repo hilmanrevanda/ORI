@@ -511,7 +511,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ARANCIO_COLLECTION.png",
             "text": "ARANCIO - PRESERVATION COLLECTION",
-            "url": "shopify:\/\/collections\/arancio"
+            "url": "shopify:\/\/collections\/arancio-preservation-collection"
           }
         },
         "32ffb235-1669-4ccc-be00-ae70f1318fde": {
@@ -519,7 +519,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
             "text": "NERO - DETOX COLLECTION",
-            "url": "shopify:\/\/collections\/nero"
+            "url": "shopify:\/\/collections\/nero-detox-collection"
           }
         }
       },
