@@ -731,8 +731,8 @@
         "judge_me_reviews_featured_carousel_Yb8tEH"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "full_width": true,
+        "space_around": false
       }
     }
   },
