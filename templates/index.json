@@ -673,6 +673,24 @@
         "background_color": "#ffffff"
       }
     },
+    "1715662332cf849823": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Yb8tEH": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Yb8tEH"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
     "blog_posts_Y9fLMP": {
       "type": "blog-posts",
       "settings": {
@@ -716,24 +734,6 @@
         "title": "FAQs",
         "alt": true
       }
-    },
-    "1715662332cf849823": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Yb8tEH": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Yb8tEH"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
-      }
     }
   },
   "order": [
@@ -757,8 +757,8 @@
     "text-and-image",
     "fh-section-cta",
     "rich_text_NwBtYT",
+    "1715662332cf849823",
     "blog_posts_Y9fLMP",
-    "faq_fAH4YM",
-    "1715662332cf849823"
+    "faq_fAH4YM"
   ]
 }
