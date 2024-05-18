@@ -19,6 +19,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "image_xUam77": {
+          "type": "image",
+          "settings": {
+            "title": "ASHWAGANDHA",
+            "title_size": 52,
+            "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
+            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-hair-skin-vitamins-trio",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Ashwaghanda1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
+          }
+        },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
@@ -45,20 +59,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
-          }
-        },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "ASHWAGANDHA",
-            "title_size": 52,
-            "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-hair-skin-vitamins-trio",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Ashwaghanda1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
           }
         },
         "image_hEMipE": {
@@ -93,9 +93,9 @@
         }
       },
       "block_order": [
+        "image_xUam77",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "image_xUam77",
         "image_hEMipE",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1"
       ],
@@ -201,12 +201,12 @@
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_9848-2.jpg",
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
         "heading_left": "HAIRCARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
         "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_9842.jpg",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
         "heading_right": "SKINCARE",
         "description_right": "",
         "btn_right_text": "SHOP NOW",
@@ -673,6 +673,22 @@
         "background_color": "#ffffff"
       }
     },
+    "blog_posts_Y9fLMP": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "LEARN MORE ON OUR BLOG",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "1715662332cf849823": {
       "type": "apps",
       "blocks": {
@@ -689,22 +705,6 @@
       "settings": {
         "full_width": true,
         "space_around": false
-      }
-    },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "wide",
-        "view_all": true,
-        "alt": false
       }
     },
     "faq_fAH4YM": {
@@ -757,8 +757,8 @@
     "text-and-image",
     "fh-section-cta",
     "rich_text_NwBtYT",
-    "1715662332cf849823",
     "blog_posts_Y9fLMP",
+    "1715662332cf849823",
     "faq_fAH4YM"
   ]
 }
