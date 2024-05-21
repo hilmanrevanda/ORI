@@ -25,7 +25,7 @@
             "title": "ASHWAGANDHA",
             "title_size": 52,
             "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-hair-skin-vitamins-trio",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physician-s-review-of-ashwagandha",
             "link_text": "READ OUR BLOG",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-left",
