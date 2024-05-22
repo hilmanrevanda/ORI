@@ -61,98 +61,19 @@
         "mobile_size": 0
       }
     },
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE HAIR GROWTH COLLECTION",
-            "title_size": 53,
-            "subheading": "We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
-      ],
+    "hero_video_hgKAJr": {
+      "type": "hero-video",
       "settings": {
-        "style": "arrows",
-        "desktop_size": -20,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
-    "slideshow_xiFb3k": {
-      "type": "slideshow",
-      "blocks": {
-        "image_xEKEFg": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Proven_Results_Graph.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_xEKEFg"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "slideshow_6QRQex": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9mgPyd": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_9mgPyd"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 10,
-        "mobile_size": -10,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "text_with_icons_Y4xQih": {
@@ -209,7 +130,113 @@
         "button_label": "",
         "button_link": "",
         "alt": true,
-        "has_icon": false
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
+      }
+    },
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE HAIR GROWTH COLLECTION",
+            "title_size": 53,
+            "subheading": "We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -20,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow_6QRQex": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9mgPyd": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_9mgPyd"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": -10,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_slider_CkJkV4": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
+        "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
+    "slideshow_xiFb3k": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xEKEFg": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Proven_Results_Graph.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_xEKEFg"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "fh_section_product_image_grid_NJ7QLt": {
@@ -236,69 +263,77 @@
         "mobile_height": "auto"
       }
     },
-    "countdown_YU3UDh": {
-      "type": "countdown",
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
+      "type": "text-with-icons",
       "blocks": {
-        "content_BMnXKD": {
-          "type": "content",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
+          "type": "text_block",
           "settings": {
-            "heading": "SEMPRE HAIR GROWTH FOAM LAUNCH",
-            "heading_size": "h2",
-            "text": "",
-            "content_alignment": "left"
-          }
-        },
-        "timer_XKiXNh": {
-          "type": "timer",
-          "settings": {
-            "year": "2024",
-            "month": "04",
-            "day": "15",
-            "hour": "00",
-            "minute": "00",
-            "hide_timer": false,
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "icon": "chat",
+            "title": "All Natural Botanical Extracts",
             "text": ""
           }
         },
-        "button_tyqpzX": {
-          "type": "button",
-          "disabled": true,
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
+          "type": "text_block",
           "settings": {
-            "button_link": "shopify:\/\/collections\/sempre-hair-growth-collection",
-            "button": "LEARN MORE",
-            "button_style": "inverse"
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "icon": "chat",
+            "title": "Backed By Science",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "icon": "chat",
+            "title": "Free of Sulfates <br>& Parabens",
+            "text": ""
+          }
+        },
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician <br>Formulated",
+            "text": ""
+          }
+        },
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "chat",
+            "title": "Cruelty <br>Free",
+            "text": ""
           }
         }
       },
       "block_order": [
-        "content_BMnXKD",
-        "timer_XKiXNh",
-        "button_tyqpzX"
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
       ],
-      "disabled": true,
       "settings": {
-        "layout": "banner",
-        "full_width": true,
-        "text_color": "#ffffff",
-        "background_color": "#451799",
-        "background_image": "shopify:\/\/shop_images\/Origenere_Sempre_Background.png",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
-      }
-    },
-    "fh_section_product_image_grid_t67YQM": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
-        "image_right": "shopify:\/\/shop_images\/14Semprefoamingredients_500d9db9-a8c8-493a-9d3f-f142c8aaac65.png"
-      }
-    },
-    "fh_section_product_image_grid_z66Df9": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/13_af6d5989-677a-4428-905d-c30d421c60ac.png",
-        "image_right": "shopify:\/\/shop_images\/Sempre_Organonutrients.png"
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
       }
     },
     "rich_text_iiWHx9": {
@@ -381,87 +416,18 @@
         "mobile_size": 0
       }
     },
-    "featured_collection_slider_CkJkV4": {
-      "type": "featured-collection-slider",
+    "fh_section_product_image_grid_t67YQM": {
+      "type": "fh-section-product-image-grid",
       "settings": {
-        "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
-        "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "per_row": "medium",
-        "alt": false
+        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients_a866217b-232a-4a7e-aabd-31530a2e1b38.png",
+        "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
       }
     },
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
-            "icon": "chat",
-            "title": "All Natural Botanical Extracts",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
-            "icon": "chat",
-            "title": "Backed By Science",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
-            "icon": "chat",
-            "title": "Free of Sulfates <br>& Parabens",
-            "text": ""
-          }
-        },
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
-            "icon": "chat",
-            "title": "Physician <br>Formulated",
-            "text": ""
-          }
-        },
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
-            "icon": "chat",
-            "title": "Cruelty <br>Free",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
-      ],
+    "fh_section_product_image_grid_z66Df9": {
+      "type": "fh-section-product-image-grid",
       "settings": {
-        "title": "OUR PROMISE",
-        "align_text": "center",
-        "desktop_columns_per_row": 5,
-        "icon_color": "#ffffff",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
+        "image_left": "shopify:\/\/shop_images\/Origenere_Sempre_Vitamins.jpg",
+        "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -485,48 +451,6 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-      }
-    },
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>RESEARCH LABORATORY RESULTS<\/strong><\/h3><p>(Naturale for Thinning Hair) Our OrganoNutrient solution was applied to dermal papilla cells (cells at the base of the hair follicle that contain stem cells and promote hair growth) in a petri dish <\/p><p><strong>Results<\/strong>: A significant increase in the number of dermal papilla cells after 7 days treated with OrganoNutrient solution compared to no significant increase in cells that were not treated with OrganoNutrient solution<\/p>"
-          }
-        },
-        "02158237-3859-400a-9303-44a34ad7c801": {
-          "type": "text_block",
-          "settings": {
-            "show_image": false,
-            "icon": "chat",
-            "title": "",
-            "text": "<h3><strong>THIRD PARTY CLINICAL STUDY<\/strong><\/h3><p><strong>(Naturale for Thinning Hair) After just 4 weeks of using, the majority of clients noted: <\/strong><\/p><p><strong>THICKER HAIR<\/strong><\/p><p><strong>LESS HAIR SHEDDING<\/strong><\/p><p><strong>STRONGER HAIR<\/strong><\/p><p><strong>REDUCTION IN SCALP DRYNESS<\/strong><\/p><p><strong>LESS HAIR BREAKAGE<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__bb0877f0-6939-4908-ab9c-5ecd59c54ffb-text_block-1",
-        "02158237-3859-400a-9303-44a34ad7c801"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-        "title": "BACKED BY SCIENCE",
-        "align_text": "center",
-        "desktop_columns_per_row": 2,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/beakers-for-science-with-water.jpg"
       }
     },
     "faq_dNDhd6": {
@@ -583,22 +507,21 @@
   },
   "order": [
     "hero_animated_XfyFBk",
+    "hero_video_hgKAJr",
+    "text_with_icons_Y4xQih",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
-    "slideshow_xiFb3k",
     "main",
     "slideshow_6QRQex",
-    "text_with_icons_Y4xQih",
+    "featured_collection_slider_CkJkV4",
+    "slideshow_xiFb3k",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
-    "countdown_YU3UDh",
-    "fh_section_product_image_grid_t67YQM",
-    "fh_section_product_image_grid_z66Df9",
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
-    "featured_collection_slider_CkJkV4",
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
+    "fh_section_product_image_grid_t67YQM",
+    "fh_section_product_image_grid_z66Df9",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
     "faq_dNDhd6"
   ]
 }
