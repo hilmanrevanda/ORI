@@ -29,7 +29,7 @@
             "link_text": "READ OUR BLOG",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Ashwaghanda1.jpg",
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre_LA.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
           }
         },
