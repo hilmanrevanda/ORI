@@ -296,6 +296,35 @@
         "text_color": "#000000"
       }
     },
+    "fh_section_faq_with_image_XhtPXY": {
+      "type": "fh-section-faq-with-image",
+      "blocks": {
+        "question_mTAjiW": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "question_kUtWNp": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_mTAjiW",
+        "question_kUtWNp"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "SEMPRE FOAM FAQs",
+        "alt": false,
+        "image": "shopify:\/\/shop_images\/IMG_3044-2.jpg"
+      }
+    },
     "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
       "type": "text-with-icons",
       "blocks": {
@@ -395,6 +424,7 @@
     "e7c60625-6a48-44b5-9486-98ff48aeb59a",
     "477de7e5-45dd-4cd9-a573-2d9e5216fee6",
     "2fd4e360-08d6-4281-8725-5cffa7dc0c15",
+    "fh_section_faq_with_image_XhtPXY",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
     "blog_posts_YGW6BY"
   ]
