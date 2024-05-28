@@ -1,5 +1,20 @@
 {
   "sections": {
+    "hero_video_hgKAJr": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "hero_animated_XfyFBk": {
       "type": "hero-animated",
       "blocks": {
@@ -59,21 +74,6 @@
         "text_align": "vertical-center horizontal-center",
         "desktop_size": 0,
         "mobile_size": 0
-      }
-    },
-    "hero_video_hgKAJr": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
-        "section_height": "650px",
-        "mobile_height": "auto"
       }
     },
     "text_with_icons_Y4xQih": {
@@ -191,6 +191,7 @@
       "block_order": [
         "image_9mgPyd"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
@@ -208,6 +209,86 @@
         "home_featured_products": "sempre-hair-growth-collection",
         "per_row": "medium",
         "alt": false
+      }
+    },
+    "rich_text_iiWHx9": {
+      "type": "rich-text",
+      "blocks": {
+        "image_picker_CHXCQx": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
+          }
+        },
+        "heading_Jqkbw6": {
+          "type": "heading",
+          "settings": {
+            "title": "THE REVIEWS ARE IN..."
+          }
+        }
+      },
+      "block_order": [
+        "image_picker_CHXCQx",
+        "heading_Jqkbw6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
+      }
+    },
+    "hero_animated_KXDJyT": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_pECGjB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+          }
+        },
+        "image_jmjk7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+          }
+        },
+        "image_TpVp7e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
+          }
+        },
+        "image_zRLNMc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_pECGjB",
+        "image_jmjk7e",
+        "image_TpVp7e",
+        "image_zRLNMc"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
       }
     },
     "slideshow_xiFb3k": {
@@ -336,86 +417,6 @@
         "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
       }
     },
-    "rich_text_iiWHx9": {
-      "type": "rich-text",
-      "blocks": {
-        "image_picker_CHXCQx": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
-          }
-        },
-        "heading_Jqkbw6": {
-          "type": "heading",
-          "settings": {
-            "title": "THE REVIEWS ARE IN..."
-          }
-        }
-      },
-      "block_order": [
-        "image_picker_CHXCQx",
-        "heading_Jqkbw6"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
-      }
-    },
-    "hero_animated_KXDJyT": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_pECGjB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
-          }
-        },
-        "image_jmjk7e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
-          }
-        },
-        "image_TpVp7e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
-          }
-        },
-        "image_zRLNMc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_pECGjB",
-        "image_jmjk7e",
-        "image_TpVp7e",
-        "image_zRLNMc"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
-    },
     "fh_section_product_image_grid_t67YQM": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -506,19 +507,19 @@
     }
   },
   "order": [
-    "hero_animated_XfyFBk",
     "hero_video_hgKAJr",
+    "hero_animated_XfyFBk",
     "text_with_icons_Y4xQih",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
     "slideshow_6QRQex",
     "featured_collection_slider_CkJkV4",
+    "rich_text_iiWHx9",
+    "hero_animated_KXDJyT",
     "slideshow_xiFb3k",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "rich_text_iiWHx9",
-    "hero_animated_KXDJyT",
     "fh_section_product_image_grid_t67YQM",
     "fh_section_product_image_grid_z66Df9",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
