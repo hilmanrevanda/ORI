@@ -512,6 +512,13 @@
             "title": "Should I apply the foam to wet or dry hair?",
             "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
           }
+        },
+        "question_R3xMMj": {
+          "type": "question",
+          "settings": {
+            "title": "What time of day should I apply the foam?",
+            "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
+          }
         }
       },
       "block_order": [
@@ -522,7 +529,8 @@
         "question_gThPML",
         "question_84rxCH",
         "question_n4BxUm",
-        "question_LUQAHq"
+        "question_LUQAHq",
+        "question_R3xMMj"
       ],
       "settings": {
         "title": "FAQs",
