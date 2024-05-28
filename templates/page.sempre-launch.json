@@ -540,6 +540,13 @@
             "title": "Are there known side effects?",
             "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. <\/p>"
           }
+        },
+        "question_qjxMcY": {
+          "type": "question",
+          "settings": {
+            "title": "What is in Sempre?",
+            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
+          }
         }
       },
       "block_order": [
@@ -554,7 +561,8 @@
         "question_R3xMMj",
         "question_H8GNad",
         "question_QW4z7a",
-        "question_Mjfnyt"
+        "question_Mjfnyt",
+        "question_qjxMcY"
       ],
       "settings": {
         "title": "FAQs",
