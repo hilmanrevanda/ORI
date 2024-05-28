@@ -505,6 +505,13 @@
             "title": "When should I apply Sempre foam in relation to minoxidil?",
             "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.<\/p>"
           }
+        },
+        "question_LUQAHq": {
+          "type": "question",
+          "settings": {
+            "title": "Should I apply the foam to wet or dry hair?",
+            "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
+          }
         }
       },
       "block_order": [
@@ -514,7 +521,8 @@
         "question_HRYVCr",
         "question_gThPML",
         "question_84rxCH",
-        "question_n4BxUm"
+        "question_n4BxUm",
+        "question_LUQAHq"
       ],
       "settings": {
         "title": "FAQs",
