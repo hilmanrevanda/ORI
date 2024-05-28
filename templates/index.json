@@ -19,18 +19,18 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
-            "title": "IS YOUR HAIR READY FOR SUMMER?",
-            "title_size": 54,
-            "subheading": "TRANSFORM YOUR HAIR CARE ROUTINE",
-            "link": "shopify:\/\/collections\/hair-loss-solutions",
+            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
+            "title_size": 45,
+            "subheading": "Physician Formulated, Naturally Infused",
+            "link": "shopify:\/\/pages\/sempre-hair-growth",
             "link_text": "SHOP NOW",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-bottom horizontal-right",
-            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Summer_Hair.jpg"
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
@@ -47,18 +47,18 @@
             "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
         },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "SEMPRE HAIR GROWTH ORGANONUTRIENTS",
-            "title_size": 45,
-            "subheading": "Physician Formulated, Naturally Infused",
-            "link": "shopify:\/\/pages\/sempre-hair-growth",
+            "title": "IS YOUR HAIR READY FOR SUMMER?",
+            "title_size": 54,
+            "subheading": "TRANSFORM YOUR HAIR CARE ROUTINE",
+            "link": "shopify:\/\/collections\/hair-loss-solutions",
             "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Summer_Hair.jpg"
           }
         },
         "image_xUam77": {
@@ -92,9 +92,9 @@
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77",
         "image_hEMipE"
       ],
