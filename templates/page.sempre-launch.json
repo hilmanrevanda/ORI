@@ -519,6 +519,13 @@
             "title": "What time of day should I apply the foam?",
             "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
           }
+        },
+        "question_H8GNad": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Sempre with finasteride?",
+            "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
+          }
         }
       },
       "block_order": [
@@ -530,7 +537,8 @@
         "question_84rxCH",
         "question_n4BxUm",
         "question_LUQAHq",
-        "question_R3xMMj"
+        "question_R3xMMj",
+        "question_H8GNad"
       ],
       "settings": {
         "title": "FAQs",
