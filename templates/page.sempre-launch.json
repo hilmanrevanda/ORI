@@ -547,6 +547,13 @@
             "title": "What is in Sempre?",
             "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
           }
+        },
+        "question_GPFEEL": {
+          "type": "question",
+          "settings": {
+            "title": "How do I apply Sempre foam?",
+            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -562,7 +569,8 @@
         "question_H8GNad",
         "question_QW4z7a",
         "question_Mjfnyt",
-        "question_qjxMcY"
+        "question_qjxMcY",
+        "question_GPFEEL"
       ],
       "settings": {
         "title": "FAQs",
