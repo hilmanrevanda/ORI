@@ -63,6 +63,7 @@
         },
         "image_xUam77": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "ASHWAGANDHA",
             "title_size": 52,
@@ -100,7 +101,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 10,
+        "desktop_size": 0,
         "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 6,
