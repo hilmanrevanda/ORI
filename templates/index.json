@@ -102,7 +102,7 @@
       "settings": {
         "style": "arrows",
         "desktop_size": -10,
-        "mobile_size": 30,
+        "mobile_size": 0,
         "autoplay": true,
         "autoplay_speed": 6,
         "lazyload_images": true
@@ -230,8 +230,8 @@
         "image_width": "50",
         "layout": "right",
         "alt": false,
-        "top_padding": false,
-        "bottom_padding": false,
+        "top_padding": true,
+        "bottom_padding": true,
         "lazyload_images": true
       }
     },
