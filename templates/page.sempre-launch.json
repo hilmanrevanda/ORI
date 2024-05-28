@@ -491,6 +491,13 @@
             "title": "How should I store this product?",
             "text": "<p>Keep in a cool and dry place outside of your bathroom. <\/p>"
           }
+        },
+        "question_84rxCH": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Sempre foam with minoxidil?",
+            "text": "<p>Yes. Sempre Foam can be used with Minoxidil<\/p>"
+          }
         }
       },
       "block_order": [
@@ -498,7 +505,8 @@
         "question_MUCfxC",
         "question_CAgedX",
         "question_HRYVCr",
-        "question_gThPML"
+        "question_gThPML",
+        "question_84rxCH"
       ],
       "settings": {
         "title": "FAQs",
