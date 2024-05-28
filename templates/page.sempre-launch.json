@@ -498,6 +498,13 @@
             "title": "Can I use Sempre foam with minoxidil?",
             "text": "<p>Yes. Sempre Foam can be used with Minoxidil<\/p>"
           }
+        },
+        "question_n4BxUm": {
+          "type": "question",
+          "settings": {
+            "title": "When should I apply Sempre foam in relation to minoxidil?",
+            "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -506,7 +513,8 @@
         "question_CAgedX",
         "question_HRYVCr",
         "question_gThPML",
-        "question_84rxCH"
+        "question_84rxCH",
+        "question_n4BxUm"
       ],
       "settings": {
         "title": "FAQs",
