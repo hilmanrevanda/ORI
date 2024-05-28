@@ -19,20 +19,6 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "PROTECT YOUR TRESSES \nFROM SUMMER STRESSES",
-            "title_size": 40,
-            "subheading": "Introduction to Summer Hair Care Tips from a Physician",
-            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/protect-your-tresses-from-summer-stresses-introduction-to-summer-hair-care-tips-from-a-physician",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
-          }
-        },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
@@ -45,6 +31,20 @@
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+          }
+        },
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+          "type": "image",
+          "settings": {
+            "title": "PROTECT YOUR TRESSES \nFROM SUMMER STRESSES",
+            "title_size": 40,
+            "subheading": "Introduction to Summer Hair Care Tips from a Physician",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/protect-your-tresses-from-summer-stresses-introduction-to-summer-hair-care-tips-from-a-physician",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -92,8 +92,8 @@
         }
       },
       "block_order": [
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77",
         "image_hEMipE"
