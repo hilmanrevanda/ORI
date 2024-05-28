@@ -358,102 +358,6 @@
         "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
-    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
-      "type": "fh-section-custom-list-richtext",
-      "blocks": {
-        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
-          "type": "text_block",
-          "settings": {
-            "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_3044-2.jpg",
-            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
-            "background_color": "#000000",
-            "text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "9a5aef13-6981-4512-bb36-b707bab54b3b"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-      }
-    },
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
-            "icon": "chat",
-            "title": "All Natural Botanical Extracts",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
-            "icon": "chat",
-            "title": "Backed By Science",
-            "text": ""
-          }
-        },
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
-            "icon": "chat",
-            "title": "Free of Sulfates <br>& Parabens",
-            "text": ""
-          }
-        },
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
-            "icon": "chat",
-            "title": "Physician <br>Formulated",
-            "text": ""
-          }
-        },
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
-          "type": "text_block",
-          "settings": {
-            "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
-            "icon": "chat",
-            "title": "Cruelty <br>Free",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
-        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
-        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
-        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
-      ],
-      "settings": {
-        "title": "OUR PROMISE",
-        "align_text": "center",
-        "desktop_columns_per_row": 5,
-        "icon_color": "#ffffff",
-        "button_label": "",
-        "button_link": "",
-        "alt": true,
-        "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
-      }
-    },
     "faq_dNDhd6": {
       "type": "faq",
       "blocks": {
@@ -576,6 +480,102 @@
         "title": "FAQs",
         "alt": false
       }
+    },
+    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
+      "type": "fh-section-custom-list-richtext",
+      "blocks": {
+        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/IMG_3044-2.jpg",
+            "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "9a5aef13-6981-4512-bb36-b707bab54b3b"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
+      }
+    },
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "icon": "chat",
+            "title": "All Natural Botanical Extracts",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "icon": "chat",
+            "title": "Backed By Science",
+            "text": ""
+          }
+        },
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "icon": "chat",
+            "title": "Free of Sulfates <br>& Parabens",
+            "text": ""
+          }
+        },
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician <br>Formulated",
+            "text": ""
+          }
+        },
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "icon": "chat",
+            "title": "Cruelty <br>Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-1",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-2",
+        "template--15758407172305__cb62806c-4b56-4021-9a12-9354bcc8c73e-text_block-3",
+        "fc246a4f-8192-40ba-a472-356e3b0e1a3e",
+        "c700a74e-9fcb-4a24-a738-d07a5fc07792"
+      ],
+      "settings": {
+        "title": "OUR PROMISE",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#ffffff",
+        "button_label": "",
+        "button_link": "",
+        "alt": true,
+        "has_icon": false,
+        "background_image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
+      }
     }
   },
   "order": [
@@ -593,8 +593,8 @@
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "fh_section_product_image_grid_z66Df9",
+    "faq_dNDhd6",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
-    "cb62806c-4b56-4021-9a12-9354bcc8c73e",
-    "faq_dNDhd6"
+    "cb62806c-4b56-4021-9a12-9354bcc8c73e"
   ]
 }
