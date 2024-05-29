@@ -442,7 +442,7 @@
           "type": "question",
           "settings": {
             "title": "Are there known side effects?",
-            "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. <\/p>"
+            "text": "<p>Sempre’s primary ingredient is a proprietary botanical blend of compounds studied in clinical studies since 2010. Since that juncture, no side effects have been reported. Further studies will be performed in this regard. <\/p>"
           }
         },
         "question_qjxMcY": {
@@ -456,7 +456,21 @@
           "type": "question",
           "settings": {
             "title": "How do I apply Sempre foam?",
-            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.<\/p>"
+            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium-pressure scalp massage.<\/p>"
+          }
+        },
+        "question_bRAneb": {
+          "type": "question",
+          "settings": {
+            "title": "Does Sempre Foam need to be kept at a certain temperature?",
+            "text": "<p>Sempre foam may be kept at room temperature in a cool dry place outside of your bathroom. Does not need to be refrigerated. <\/p>"
+          }
+        },
+        "question_RkUhDh": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Argon Oil with Sempre?",
+            "text": "<p>Sempre foam may be used in conjunction with Argon oil. There are no known agents that are precluded from use in conjunction with Sempre foam. <\/p><p>You are encouraged to continue the use of products and care of hair as you normally would.  <\/p>"
           }
         }
       },
@@ -474,9 +488,10 @@
         "question_QW4z7a",
         "question_Mjfnyt",
         "question_qjxMcY",
-        "question_GPFEEL"
+        "question_GPFEEL",
+        "question_bRAneb",
+        "question_RkUhDh"
       ],
-      "disabled": true,
       "settings": {
         "title": "FAQs",
         "alt": false
