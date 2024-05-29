@@ -19,7 +19,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Naturale_styling_Vitamin_E.jpg"
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
           }
         }
       },
@@ -32,8 +32,8 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -50,
-        "mobile_size": -50,
+        "desktop_size": -10,
+        "mobile_size": 10,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
@@ -42,7 +42,7 @@
     "0e92c59b-7e29-4352-abbf-4f063e0dd219": {
       "type": "fh-section-products-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/IMG_1065.jpg",
+        "image_left": "shopify:\/\/shop_images\/MenHaircare2-6.jpg",
         "heading_left": "HAIR CARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
