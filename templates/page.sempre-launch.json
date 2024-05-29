@@ -70,7 +70,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
+        "background_image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
       }
     },
     "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
@@ -148,6 +148,35 @@
         "home_featured_products": "sempre-hair-growth-collection",
         "per_row": "medium",
         "alt": false
+      }
+    },
+    "slideshow_xiFb3k": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xEKEFg": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_proven_results_graph.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_xEKEFg"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "rich_text_iiWHx9": {
@@ -235,35 +264,6 @@
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients_a866217b-232a-4a7e-aabd-31530a2e1b38.png",
         "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
-      }
-    },
-    "slideshow_xiFb3k": {
-      "type": "slideshow",
-      "blocks": {
-        "image_xEKEFg": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_proven_results_graph.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_xEKEFg"
-      ],
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
       }
     },
     "fh_section_product_image_grid_NJ7QLt": {
@@ -585,10 +585,10 @@
     "main",
     "slideshow_6QRQex",
     "featured_collection_slider_CkJkV4",
+    "slideshow_xiFb3k",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
     "fh_section_product_image_grid_t67YQM",
-    "slideshow_xiFb3k",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "fh_section_product_image_grid_z66Df9",
