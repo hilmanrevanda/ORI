@@ -150,33 +150,18 @@
         "alt": false
       }
     },
-    "slideshow_xiFb3k": {
-      "type": "slideshow",
-      "blocks": {
-        "image_xEKEFg": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_proven_results_graph.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_xEKEFg"
-      ],
+    "fh_section_product_image_grid_t67YQM": {
+      "type": "fh-section-product-image-grid",
       "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
+        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients_a866217b-232a-4a7e-aabd-31530a2e1b38.png",
+        "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+      }
+    },
+    "fh_section_product_image_grid_z66Df9": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Origenere_Sempre_Vitamins.jpg",
+        "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
     "rich_text_iiWHx9": {
@@ -259,11 +244,33 @@
         "mobile_size": 0
       }
     },
-    "fh_section_product_image_grid_t67YQM": {
-      "type": "fh-section-product-image-grid",
+    "slideshow_xiFb3k": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xEKEFg": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_proven_results_graph.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_xEKEFg"
+      ],
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients_a866217b-232a-4a7e-aabd-31530a2e1b38.png",
-        "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "fh_section_product_image_grid_NJ7QLt": {
@@ -288,13 +295,6 @@
         "video_url": "https:\/\/vimeo.com\/927410891",
         "section_height": "750px",
         "mobile_height": "auto"
-      }
-    },
-    "fh_section_product_image_grid_z66Df9": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Origenere_Sempre_Vitamins.jpg",
-        "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
     "hero_animated_XfyFBk": {
@@ -476,6 +476,7 @@
         "question_qjxMcY",
         "question_GPFEEL"
       ],
+      "disabled": true,
       "settings": {
         "title": "FAQs",
         "alt": false
@@ -498,6 +499,7 @@
       "block_order": [
         "9a5aef13-6981-4512-bb36-b707bab54b3b"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
@@ -585,13 +587,13 @@
     "main",
     "slideshow_6QRQex",
     "featured_collection_slider_CkJkV4",
-    "slideshow_xiFb3k",
+    "fh_section_product_image_grid_t67YQM",
+    "fh_section_product_image_grid_z66Df9",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
-    "fh_section_product_image_grid_t67YQM",
+    "slideshow_xiFb3k",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
-    "fh_section_product_image_grid_z66Df9",
     "hero_animated_XfyFBk",
     "faq_dNDhd6",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
