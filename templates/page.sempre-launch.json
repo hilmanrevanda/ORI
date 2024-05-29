@@ -15,67 +15,6 @@
         "mobile_height": "auto"
       }
     },
-    "hero_animated_XfyFBk": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_6hjdf9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
-          }
-        },
-        "image_aUXLGr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
-          }
-        },
-        "image_XFwnQ4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
-          }
-        },
-        "image_FH4tJ8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
-          }
-        },
-        "image_X8f9RR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_6hjdf9",
-        "image_aUXLGr",
-        "image_XFwnQ4",
-        "image_FH4tJ8",
-        "image_X8f9RR"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
-      }
-    },
     "text_with_icons_Y4xQih": {
       "type": "text-with-icons",
       "blocks": {
@@ -358,6 +297,67 @@
         "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
+    "hero_animated_XfyFBk": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_6hjdf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
+          }
+        },
+        "image_aUXLGr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
+          }
+        },
+        "image_XFwnQ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
+          }
+        },
+        "image_FH4tJ8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
+          }
+        },
+        "image_X8f9RR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_6hjdf9",
+        "image_aUXLGr",
+        "image_XFwnQ4",
+        "image_FH4tJ8",
+        "image_X8f9RR"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
     "faq_dNDhd6": {
       "type": "faq",
       "blocks": {
@@ -580,7 +580,6 @@
   },
   "order": [
     "hero_video_hgKAJr",
-    "hero_animated_XfyFBk",
     "text_with_icons_Y4xQih",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
@@ -593,6 +592,7 @@
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
     "fh_section_product_image_grid_z66Df9",
+    "hero_animated_XfyFBk",
     "faq_dNDhd6",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e"
