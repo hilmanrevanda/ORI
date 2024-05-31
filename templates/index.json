@@ -63,6 +63,7 @@
         },
         "image_xUam77": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "OLIVE LEAF EXTRACT",
             "title_size": 52,
