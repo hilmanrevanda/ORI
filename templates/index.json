@@ -63,17 +63,16 @@
         },
         "image_xUam77": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "title": "ASHWAGANDHA",
+            "title": "OLIVE LEAF EXTRACT",
             "title_size": 52,
             "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
             "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physician-s-review-of-ashwagandha",
             "link_text": "READ OUR BLOG",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre_LA.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Ashwaghanda1.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg"
           }
         },
         "image_hEMipE": {
@@ -101,7 +100,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -10,
+        "desktop_size": -20,
         "mobile_size": 0,
         "autoplay": true,
         "autoplay_speed": 6,
