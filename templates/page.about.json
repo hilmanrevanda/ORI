@@ -279,7 +279,7 @@
         "bcfde751-f708-4e28-839f-ac863a3e43a9": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Kristen Rogers, MD<\/h2><\/b>\n\n<p>Dr. Kristen Rogers became the new driving force at Origenere following the premature loss of Dr. Hayatdavoudi. With a background in internal medicine and a wealth of experience as a hospitalist, she brings a profound understanding of healthcare to our creations. Having spent 11 years caring for patients in a hospital setting, she recognizes the transformative potential of holistic medicine.  Her firm belief in the power of nature, nutrition, and health naturally merge with Origenere’s roots.  Drawing inspiration from an unwavering passion for Italy, Dr. Kristen helps honor our founding artists’ vision of Beverly Hills innovation sculpted in Tuscany.  Each product is made with meticulous care and a deep-seated commitment to quality.  She integrates medical expertise with artistic intuition, culminating harmony between beauty, health and overall well being. \n<\/p>",
+            "code": "<b><h2>Kristen Rogers, MD<\/h2><\/b>\n\n<p>Dr. Kristen Rogers became the driving force at Origenere following the premature loss of Dr. Baubac. With a background in internal medicine and a wealth of experience as a hospitalist, she brings a profound understanding of healthcare to our creations. Having spent 11 years caring for patients in a hospital setting, she recognizes the transformative potential of holistic medicine.  Her firm belief in the power of nature, nutrition, and health naturally merge with Origenere’s roots.  Drawing inspiration from an unwavering passion for Italy, Dr. Kristen helps honor our founding artists’ vision of Beverly Hills innovation sculpted in Tuscany.  Each product is made with meticulous care and a deep-seated commitment to quality.  She integrates medical expertise with artistic intuition, culminating harmony between beauty, health and overall well being. \n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -345,48 +345,13 @@
         "lazyload_images": true
       }
     },
-    "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._Antonio_Armani.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-liquid-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<b><h2>Antonio Armani, MD<\/h2><\/b>\n\n<p>The esteemed Dr. Antonio Armani, along with his accomplished sister and hair\ntransplant surgeon, Dr. Sara Armani, co-founded Originere in 2003. Dr. Antonio\nArmani’s illustrious reputation was not limited to Origenere; he was also the visionary\nbehind AlviArmani, a prestigious global firm specializing in hair transplants. Renowned\nfor his groundbreaking contributions in hair restoration, such as pioneering\nadvancements in hairline design and conducting larger FUE sessions, Dr. Antonio\nArmani left an indelible mark with his internationally recognized and trademarked\nVitruvian Design Method.\n\n<\/p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-image-1",
-        "template--15750521684177__d4b2c4cf-f5d0-494e-98b1-26a293bc0d30-liquid-1"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "alt": true,
-        "lazyload_images": true
-      }
-    },
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7": {
       "type": "advanced-content",
       "blocks": {
         "87f98944-4cf6-462a-8583-ec0d480eb96f": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Baubac Hayatdavoudi, MD<\/h2><\/b>\n\n<p>Following Dr. Antonio’s untimely passing, his protégé, Dr. Baubac Hayatdavoudi,\nassumed leadership as the medical director of AlviArmani and stewardship of\nOrigenere. Dr. Baubac, celebrated for his unparalleled artistry in creating exquisite\nhairlines and density designs, received numerous prestigious accolades like the revered title of Best Hair\nRestoration Doctor in America 2015. Together, these trailblazing physicians personify\nthe essence of Originere, seamlessly merging their unparalleled expertise,\ntireless innovation, and heartfelt dedication to providing transformative solutions for their\ndiscerning clientele. Each of our meticulously crafted products reflects their resolute\ncommitment to enhancing natural beauty and promoting holistic well-being.\n\n<\/p>",
+            "code": "<b><h2>Baubac Hayatdavoudi, MD<\/h2><\/b>\n\n<p> Dr. Baubac Hayatdavoudi,\nwas founder of Origenere and AlviArmani US.  Dr. Baubac, celebrated for his unparalleled artistry in creating exquisite\nhairlines and density designs, received numerous prestigious accolades like the revered title of Best Hair\nRestoration Doctor in America 2015. His holisitc approach was supported by his experience in hair transplantation surgery along with his background as an internal medicine clinician.  \nDr. Baubac's holistic, ethical, and customer first approach is the essence of Originere.  Each of our meticulously crafted products reflects Dr. Baubac's resolute\ncommitment to enhancing natural beauty and promoting holistic well-being.\n\n<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -623,7 +588,6 @@
     "d589564f-c7ae-4d08-94b0-a0c6b8773fb8",
     "afb85ddf-d5eb-4bef-9996-a0041a3d456e",
     "376fda74-7988-4cbb-b4ac-94b179839c13",
-    "d4b2c4cf-f5d0-494e-98b1-26a293bc0d30",
     "fb664bfb-2415-4aeb-ba25-174fd370c5d7",
     "696cf296-7b4a-4a9f-bef1-ed7c516a4252",
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19",
