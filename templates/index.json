@@ -677,7 +677,7 @@
       "settings": {
         "title": "LEARN MORE ON OUR BLOG",
         "blog": "ingredient-spotlight",
-        "post_limit": 6,
+        "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": false,
         "blog_show_comments": false,
