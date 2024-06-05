@@ -33,18 +33,18 @@
             "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
           }
         },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+        "image_xUam77": {
           "type": "image",
           "settings": {
-            "title": "PROTECT YOUR TRESSES FROM SUMMER STRESSES",
-            "title_size": 40,
-            "subheading": "Introduction to Summer Hair Care Tips from a Physician",
-            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/protect-your-tresses-from-summer-stresses-introduction-to-summer-hair-care-tips-from-a-physician",
+            "title": "OLIVE LEAF EXTRACT",
+            "title_size": 52,
+            "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-the-health-benefits-of-olives-for-hair-and-skin",
             "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
+            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -61,42 +61,41 @@
             "image_mobile": "shopify:\/\/shop_images\/Summer_Hair.jpg"
           }
         },
-        "image_xUam77": {
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "disabled": true,
           "settings": {
-            "title": "OLIVE LEAF EXTRACT",
-            "title_size": 52,
-            "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physician-s-review-of-ashwagandha",
+            "title": "PROTECT YOUR TRESSES FROM SUMMER STRESSES",
+            "title_size": 40,
+            "subheading": "Introduction to Summer Hair Care Tips from a Physician",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/protect-your-tresses-from-summer-stresses-introduction-to-summer-hair-care-tips-from-a-physician",
             "link_text": "READ OUR BLOG",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg"
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
         },
         "image_hEMipE": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "title": "UNLOCK THE POWER OF \nYOUR DNA",
-            "title_size": 60,
-            "subheading": "NATURALE HAIR CARE FOR THINNING HAIR",
+            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
+            "title_size": 48,
+            "subheading": "OUR SUMMER GIFT SHOP IS OPEN",
             "link": "shopify:\/\/collections\/naturale-purity-collection",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_3777.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_3777.jpg"
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png"
           }
         }
       },
       "block_order": [
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "image_hEMipE"
       ],
       "settings": {
@@ -104,7 +103,7 @@
         "desktop_size": -20,
         "mobile_size": 0,
         "autoplay": true,
-        "autoplay_speed": 6,
+        "autoplay_speed": 5,
         "lazyload_images": true
       }
     },
