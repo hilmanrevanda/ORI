@@ -733,6 +733,16 @@
         "title": "FAQs",
         "alt": true
       }
+    },
+    "featured_collection_slider_Wfb8Ca": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "AWAKEN YOUR SENSES WITH BUONGIORNO",
+        "description": "VITALITY COLLECTION: TEA TREE MINT SHAMPOO \/ CONDITIONER   & INVIGORATING  BODY WASH",
+        "home_featured_products": "buongiorno-vitality-collection",
+        "per_row": "medium",
+        "alt": false
+      }
     }
   },
   "order": [
@@ -758,6 +768,7 @@
     "rich_text_NwBtYT",
     "blog_posts_Y9fLMP",
     "1715662332cf849823",
-    "faq_fAH4YM"
+    "faq_fAH4YM",
+    "featured_collection_slider_Wfb8Ca"
   ]
 }
