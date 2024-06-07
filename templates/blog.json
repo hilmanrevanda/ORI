@@ -46,6 +46,22 @@
         "blog_image_size": "wide"
       }
     },
+    "blog_posts_qWKJxj": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
       "settings": {
@@ -141,6 +157,7 @@
   "order": [
     "slideshow_bHMPtG",
     "main",
+    "blog_posts_qWKJxj",
     "blog_posts_xXmDXk",
     "blog_posts_nHfW9r",
     "blog_posts_wFyhkX",
