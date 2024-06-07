@@ -35,6 +35,7 @@
         },
         "image_hEMipE": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
             "title_size": 48,
@@ -50,13 +51,13 @@
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
           "settings": {
-            "title": "SEMPRE HAIR GROWTH FOAM",
+            "title": "SEMPRE HAIR GROWTH",
             "title_size": 40,
             "subheading": "Physician Formulated, Naturally Infused",
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
+            "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Origenere_Sempre.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
           }
