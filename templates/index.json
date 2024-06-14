@@ -47,6 +47,20 @@
             "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
           }
         },
+        "image_hEMipE": {
+          "type": "image",
+          "settings": {
+            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
+            "title_size": 48,
+            "subheading": "OUR SUMMER GIFT SHOP IS OPEN",
+            "link": "shopify:\/\/collections\/naturale-purity-collection",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png"
+          }
+        },
         "image_xUam77": {
           "type": "image",
           "disabled": true,
@@ -60,21 +74,6 @@
             "text_align": "vertical-center horizontal-left",
             "image": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg"
-          }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
-            "title_size": 48,
-            "subheading": "OUR SUMMER GIFT SHOP IS OPEN",
-            "link": "shopify:\/\/collections\/naturale-purity-collection",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
@@ -96,8 +95,8 @@
       "block_order": [
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_xUam77",
         "image_hEMipE",
+        "image_xUam77",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
       "settings": {
