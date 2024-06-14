@@ -19,6 +19,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "image_hEMipE": {
+          "type": "image",
+          "settings": {
+            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
+            "title_size": 48,
+            "subheading": "SUMMER GIFT SETS",
+            "link": "shopify:\/\/collections\/naturale-purity-collection",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0174.jpg"
+          }
+        },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
           "settings": {
@@ -45,20 +59,6 @@
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Sempre_towers_leaning_62981dee-ff39-4482-81d2-29d8c0c85de4.jpg"
-          }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
-            "title_size": 48,
-            "subheading": "SUMMER GIFT SETS",
-            "link": "shopify:\/\/collections\/naturale-purity-collection",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0174.jpg"
           }
         },
         "image_xUam77": {
@@ -93,9 +93,9 @@
         }
       },
       "block_order": [
+        "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_hEMipE",
         "image_xUam77",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
