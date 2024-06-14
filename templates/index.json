@@ -37,14 +37,14 @@
           "type": "image",
           "settings": {
             "title": "SEMPRE HAIR GROWTH",
-            "title_size": 40,
+            "title_size": 53,
             "subheading": "Physician Formulated, Naturally Infused",
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_towers_leaning_62981dee-ff39-4482-81d2-29d8c0c85de4.jpg"
           }
         },
         "image_hEMipE": {
@@ -52,13 +52,13 @@
           "settings": {
             "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
             "title_size": 48,
-            "subheading": "OUR SUMMER GIFT SHOP IS OPEN",
+            "subheading": "SUMMER GIFT SETS",
             "link": "shopify:\/\/collections\/naturale-purity-collection",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-right",
             "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Naturale_Hair_Care_4.png"
+            "image_mobile": "shopify:\/\/shop_images\/IMG_0174.jpg"
           }
         },
         "image_xUam77": {
@@ -100,9 +100,9 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
       "settings": {
-        "style": "arrows",
+        "style": "dots",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
