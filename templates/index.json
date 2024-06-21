@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "hero_video_hFqAXm": {
@@ -29,8 +38,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_0174.jpg"
+            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg"
           }
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
