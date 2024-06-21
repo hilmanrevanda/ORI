@@ -30,11 +30,12 @@
       "blocks": {
         "image_hEMipE": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "title": "GIVE THE GIFT OF HAIR & SKIN WELLNESS.",
-            "title_size": 48,
-            "subheading": "SUMMER GIFT SETS",
-            "link": "shopify:\/\/collections\/hair-skin-care-gift-sets",
+            "title": "NOURISH YOUR HAIR FROM WITHIN",
+            "title_size": 51,
+            "subheading": "Top Fruits and Vegetables for Optimal Hair Growth",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/top-picks-best-fruits-and-vegetables-for-hair-growth",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-right",
