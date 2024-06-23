@@ -229,35 +229,7 @@
                           </div>
                         {%- endif -%}
                       </div>
-                      <div class="product-block product-block--price small--text-center" {{ block.shopify_attributes }}>
-                      <div class="product-single__prices">
-                        {%- comment -%}
-                        Check if the product has a compare_at_price higher than the current price
-                        to display the discount. Requested by Dr. Kristen.
-                        {%- endcomment -%}
-                        {%- if current_variant.compare_at_price > current_variant.price -%}
-                          <span class="product__price product__price--compare" data-product-price-compare>
-                            {%- comment -%}
-                            Display the original price with a strikethrough effect.
-                            {%- endcomment -%}
-                            {{ current_variant.compare_at_price | money }}
-                          </span>
-                          <span class="product__price sale-price" data-product-price>
-                            {%- comment -%}
-                            Display the discounted price.
-                            {%- endcomment -%}
-                            {{ current_variant.price | money }}
-                          </span>
-                        {%- else -%}
-                          <span class="product__price" data-product-price>
-                            {%- comment -%}
-                            If there's no discount, display the regular price.
-                            {%- endcomment -%}
-                            {{ current_variant.price | money }}
-                          </span>
-                        {%- endif -%}
-                      </div>
-                    </div>
+                     
 
                     {%- when 'quantity_selector' -%}
                       <div class="product-block" {{ block.shopify_attributes }}>
