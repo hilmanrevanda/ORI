@@ -103,11 +103,11 @@
         "alt": false
       }
     },
-    "blog_posts_wFyhkX": {
+    "blog_posts_9QGzPD": {
       "type": "blog-posts",
       "settings": {
-        "title": "NATURE'S QUEENS",
-        "blog": "roots-of-discovery-women-who-changed-the-world",
+        "title": "HOLISTIC APPROACH",
+        "blog": "holistic-approach",
         "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": true,
@@ -119,11 +119,11 @@
         "alt": false
       }
     },
-    "blog_posts_9QGzPD": {
+    "blog_posts_wFyhkX": {
       "type": "blog-posts",
       "settings": {
-        "title": "HOLISTIC APPROACH",
-        "blog": "holistic-approach",
+        "title": "NATURE'S QUEENS",
+        "blog": "roots-of-discovery-women-who-changed-the-world",
         "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": true,
@@ -185,8 +185,8 @@
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
     "blog_posts_nHfW9r",
-    "blog_posts_wFyhkX",
     "blog_posts_9QGzPD",
+    "blog_posts_wFyhkX",
     "featured-collections"
   ]
 }
