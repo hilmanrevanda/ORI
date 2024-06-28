@@ -1,13 +1,51 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "SEMPRE HAIR GROWTH COLLECTION",
+            "title_size": 53,
+            "subheading": "We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -20,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "hero_video_hgKAJr": {
       "type": "hero-video",
       "settings": {
         "title": "",
         "title_size": 80,
         "subheading": "",
-        "link_text": "",
-        "link": "",
+        "link_text": "SHOP NOW",
+        "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
@@ -71,36 +109,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
-      }
-    },
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE HAIR GROWTH COLLECTION",
-            "title_size": 53,
-            "subheading": "We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Quotes_Testimonials_1.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--15758407172305__1708c96a-c65b-4ef3-bad5-9379b08b9427-image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": -20,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
       }
     },
     "main": {
@@ -596,9 +604,9 @@
     }
   },
   "order": [
+    "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_hgKAJr",
     "text_with_icons_Y4xQih",
-    "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "main",
     "slideshow_6QRQex",
     "featured_collection_slider_CkJkV4",
