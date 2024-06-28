@@ -108,7 +108,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
+        "background_image": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg"
       }
     },
     "main": {
@@ -148,16 +148,6 @@
         "lazyload_images": true
       }
     },
-    "featured_collection_slider_CkJkV4": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
-        "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
     "fh_section_product_image_grid_t67YQM": {
       "type": "fh-section-product-image-grid",
       "settings": {
@@ -172,25 +162,35 @@
         "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
       }
     },
+    "featured_collection_slider_CkJkV4": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "SUBSCRIBE & SAVE ON SUBSCRIPTION BUNDLES",
+        "description": "SAVE UP TO 30% ON SEMPRE HAIR GROWTH MONTHLY SUBSCRIPTIONS",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
     "rich_text_iiWHx9": {
       "type": "rich-text",
       "blocks": {
-        "image_picker_CHXCQx": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
-          }
-        },
         "heading_Jqkbw6": {
           "type": "heading",
           "settings": {
             "title": "THE REVIEWS ARE IN..."
           }
+        },
+        "image_picker_CHXCQx": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
+          }
         }
       },
       "block_order": [
-        "image_picker_CHXCQx",
-        "heading_Jqkbw6"
+        "heading_Jqkbw6",
+        "image_picker_CHXCQx"
       ],
       "settings": {
         "align_text": "center",
@@ -609,9 +609,9 @@
     "text_with_icons_Y4xQih",
     "main",
     "slideshow_6QRQex",
-    "featured_collection_slider_CkJkV4",
     "fh_section_product_image_grid_t67YQM",
     "fh_section_product_image_grid_z66Df9",
+    "featured_collection_slider_CkJkV4",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
     "slideshow_xiFb3k",
