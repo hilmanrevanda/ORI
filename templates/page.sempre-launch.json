@@ -47,7 +47,7 @@
         "link_text": "SHOP NOW",
         "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
         "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
+        "text_align": "vertical-bottom horizontal-center",
         "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
         "section_height": "650px",
         "mobile_height": "auto"
