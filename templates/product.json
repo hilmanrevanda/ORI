@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -261,6 +270,23 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "171955160903592c17": {
+      "type": "apps",
+      "blocks": {
+        "omnisend_email_marketing_sms_product_reviews_anrECA": {
+          "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/product-reviews\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "omnisend_email_marketing_sms_product_reviews_anrECA"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -273,6 +299,7 @@
     "text-and-image",
     "product-recommendations",
     "collection-return",
-    "1693529675d946b804"
+    "1693529675d946b804",
+    "171955160903592c17"
   ]
 }
