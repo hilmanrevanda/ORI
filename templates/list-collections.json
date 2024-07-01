@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow_PWkgRq": {
@@ -50,7 +59,7 @@
         "24eb9d94-233b-4c10-bab8-4f9f1a35112b": {
           "type": "collection",
           "settings": {
-            "collection": "arancio-preservation-collection"
+            "collection": "nourish-your-natural-glow"
           }
         }
       },
@@ -126,7 +135,7 @@
             "heading": "ARANCIO - PRESERVATION COLLECTION",
             "description": "Nourish your natural glow",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/arancio-preservation-collection",
+            "btn_url": "shopify:\/\/collections\/nourish-your-natural-glow",
             "background_color": "#fc4c00",
             "text_color": "#ffffff"
           }
