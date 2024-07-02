@@ -53,6 +53,19 @@
         "mobile_height": "auto"
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "fh_section_product_image_grid_t67YQM": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sempre_hair_growth_botanicals.png",
+        "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
+      }
+    },
     "text_with_icons_Y4xQih": {
       "type": "text-with-icons",
       "blocks": {
@@ -111,55 +124,11 @@
         "background_image": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg"
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "slideshow_6QRQex": {
-      "type": "slideshow",
-      "blocks": {
-        "image_9mgPyd": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Duo_BW.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_9mgPyd"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": -10,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
-    "fh_section_product_image_grid_t67YQM": {
-      "type": "fh-section-product-image-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients_a866217b-232a-4a7e-aabd-31530a2e1b38.png",
-        "image_right": "shopify:\/\/shop_images\/Men_Haircare1-2.jpg"
-      }
-    },
     "fh_section_product_image_grid_z66Df9": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Origenere_Sempre_Vitamins.jpg",
-        "image_right": "shopify:\/\/shop_images\/Semore_organonutrients_ingredients.png"
+        "image_left": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Organonutrients_Botanicals.png",
+        "image_right": "shopify:\/\/shop_images\/Origenere_Sempre_Vitamins_399ab9ea-8d8c-44aa-b73b-259951c46edd.jpg"
       }
     },
     "featured_collection_slider_CkJkV4": {
@@ -550,10 +519,9 @@
   "order": [
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "hero_video_hgKAJr",
-    "text_with_icons_Y4xQih",
     "main",
-    "slideshow_6QRQex",
     "fh_section_product_image_grid_t67YQM",
+    "text_with_icons_Y4xQih",
     "fh_section_product_image_grid_z66Df9",
     "featured_collection_slider_CkJkV4",
     "hero_animated_XfyFBk",
