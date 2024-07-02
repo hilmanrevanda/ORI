@@ -50,7 +50,7 @@
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
         "section_height": "100vh",
-        "mobile_height": "auto"
+        "mobile_height": "300px"
       }
     },
     "main": {
