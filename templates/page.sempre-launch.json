@@ -172,6 +172,67 @@
         "alt": false
       }
     },
+    "hero_animated_XfyFBk": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_6hjdf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
+          }
+        },
+        "image_aUXLGr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
+          }
+        },
+        "image_XFwnQ4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
+          }
+        },
+        "image_FH4tJ8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
+          }
+        },
+        "image_X8f9RR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_6hjdf9",
+        "image_aUXLGr",
+        "image_XFwnQ4",
+        "image_FH4tJ8",
+        "image_X8f9RR"
+      ],
+      "settings": {
+        "style": "fading",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": 0,
+        "mobile_size": 0
+      }
+    },
     "rich_text_iiWHx9": {
       "type": "rich-text",
       "blocks": {
@@ -303,67 +364,6 @@
         "video_url": "https:\/\/vimeo.com\/927410891",
         "section_height": "750px",
         "mobile_height": "auto"
-      }
-    },
-    "hero_animated_XfyFBk": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_6hjdf9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
-          }
-        },
-        "image_aUXLGr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
-          }
-        },
-        "image_XFwnQ4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
-          }
-        },
-        "image_FH4tJ8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
-          }
-        },
-        "image_X8f9RR": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_6hjdf9",
-        "image_aUXLGr",
-        "image_XFwnQ4",
-        "image_FH4tJ8",
-        "image_X8f9RR"
-      ],
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 0,
-        "mobile_size": 0
       }
     },
     "faq_dNDhd6": {
@@ -556,12 +556,12 @@
     "fh_section_product_image_grid_t67YQM",
     "fh_section_product_image_grid_z66Df9",
     "featured_collection_slider_CkJkV4",
+    "hero_animated_XfyFBk",
     "rich_text_iiWHx9",
     "hero_animated_KXDJyT",
     "slideshow_xiFb3k",
     "fh_section_product_image_grid_NJ7QLt",
     "hero_video_nx83CF",
-    "hero_animated_XfyFBk",
     "faq_dNDhd6",
     "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "cb62806c-4b56-4021-9a12-9354bcc8c73e"
