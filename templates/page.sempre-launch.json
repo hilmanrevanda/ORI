@@ -390,95 +390,11 @@
             "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
           }
         },
-        "question_HRYVCr": {
-          "type": "question",
-          "settings": {
-            "title": "Should I use this day or night?",
-            "text": "<p>It is recommended to use this product daily when you get out of the shower and are going to leave on the product for 12 hours. You should still use the product daily even if you do not wash your hair daily. <\/p>"
-          }
-        },
-        "question_gThPML": {
-          "type": "question",
-          "settings": {
-            "title": "How should I store this product?",
-            "text": "<p>Keep in a cool and dry place outside of your bathroom. <\/p>"
-          }
-        },
-        "question_84rxCH": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use Sempre foam with minoxidil?",
-            "text": "<p>Yes. Sempre Foam can be used with Minoxidil<\/p>"
-          }
-        },
-        "question_n4BxUm": {
-          "type": "question",
-          "settings": {
-            "title": "When should I apply Sempre foam in relation to minoxidil?",
-            "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.<\/p>"
-          }
-        },
-        "question_LUQAHq": {
-          "type": "question",
-          "settings": {
-            "title": "Should I apply the foam to wet or dry hair?",
-            "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
-          }
-        },
-        "question_R3xMMj": {
+        "question_k3GRwn": {
           "type": "question",
           "settings": {
             "title": "What time of day should I apply the foam?",
             "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
-          }
-        },
-        "question_H8GNad": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use Sempre with finasteride?",
-            "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
-          }
-        },
-        "question_QW4z7a": {
-          "type": "question",
-          "settings": {
-            "title": "Can Sempre replace minoxidil or finasteride?",
-            "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
-          }
-        },
-        "question_Mjfnyt": {
-          "type": "question",
-          "settings": {
-            "title": "Are there known side effects?",
-            "text": "<p>Sempre’s primary ingredient is a proprietary botanical blend of compounds studied in clinical studies since 2010. Since that juncture, no side effects have been reported. Further studies will be performed in this regard. <\/p>"
-          }
-        },
-        "question_qjxMcY": {
-          "type": "question",
-          "settings": {
-            "title": "What is in Sempre?",
-            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
-          }
-        },
-        "question_GPFEEL": {
-          "type": "question",
-          "settings": {
-            "title": "How do I apply Sempre foam?",
-            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium-pressure scalp massage.<\/p>"
-          }
-        },
-        "question_bRAneb": {
-          "type": "question",
-          "settings": {
-            "title": "Does Sempre Foam need to be kept at a certain temperature?",
-            "text": "<p>Sempre foam may be kept at room temperature in a cool dry place outside of your bathroom. Does not need to be refrigerated. <\/p>"
-          }
-        },
-        "question_RkUhDh": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use Argon Oil with Sempre?",
-            "text": "<p>Sempre foam may be used in conjunction with Argon oil. There are no known agents that are precluded from use in conjunction with Sempre foam. <\/p><p>You are encouraged to continue the use of products and care of hair as you normally would.  <\/p>"
           }
         }
       },
@@ -486,19 +402,7 @@
         "question_Ht6etb",
         "question_MUCfxC",
         "question_CAgedX",
-        "question_HRYVCr",
-        "question_gThPML",
-        "question_84rxCH",
-        "question_n4BxUm",
-        "question_LUQAHq",
-        "question_R3xMMj",
-        "question_H8GNad",
-        "question_QW4z7a",
-        "question_Mjfnyt",
-        "question_qjxMcY",
-        "question_GPFEEL",
-        "question_bRAneb",
-        "question_RkUhDh"
+        "question_k3GRwn"
       ],
       "settings": {
         "title": "FAQs",
