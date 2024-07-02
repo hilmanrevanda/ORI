@@ -32,7 +32,7 @@
           "type": "image",
           "settings": {
             "title": "IS YOUR HAIR \nREADY FOR SUMMER?",
-            "title_size": 54,
+            "title_size": 60,
             "subheading": "TRANSFORM YOUR HAIR CARE ROUTINE",
             "link": "shopify:\/\/collections\/hair-loss-solutions",
             "link_text": "SHOP NOW",
@@ -46,18 +46,19 @@
           "type": "image",
           "settings": {
             "title": "ROSEMARY",
-            "title_size": 56,
+            "title_size": 60,
             "subheading": "Phytochemicals for Hair Health: A Physician's Review",
             "link": "shopify:\/\/blogs\/holistic-approach\/rosemary-take-3",
             "link_text": "LEARN MORE",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-right",
+            "text_align": "vertical-center horizontal-left",
             "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "SEMPRE HAIR GROWTH",
             "title_size": 53,
