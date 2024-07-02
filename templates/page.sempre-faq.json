@@ -70,7 +70,7 @@
     "fh_section_richtext_hQ6Ajx": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<h1>WHAT TO EXPECT?<\/h1><p>Visible results are influenced by the natural phases of hair growth: anagen (growth), catagen (regression), telogen (resting), and exogen (shedding).  Each hair follicle progresses through these stages independently, and it takes time for the nutrients to take effect and for new, healthier hair to grow<\/p>",
+        "text": "<h1>WHAT TO EXPECT?<\/h1><h3>Visible results are influenced by the natural phases of hair growth: anagen (growth), catagen (regression), telogen (resting), and exogen (shedding).  Each hair follicle progresses through these stages independently, and it takes time for the nutrients to take effect and for new, healthier hair to grow<\/h3>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
