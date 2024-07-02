@@ -396,13 +396,53 @@
             "title": "What time of day should I apply the foam?",
             "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
           }
+        },
+        "question_3CFxm3": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use Sempre with finasteride?",
+            "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
+          }
+        },
+        "question_qq3pYC": {
+          "type": "question",
+          "settings": {
+            "title": "Can Sempre replace minoxidil or finasteride?",
+            "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
+          }
+        },
+        "question_LLd4gY": {
+          "type": "question",
+          "settings": {
+            "title": "Are there known side effects?",
+            "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. <\/p>"
+          }
+        },
+        "question_3RXpQB": {
+          "type": "question",
+          "settings": {
+            "title": "What is in Sempre?",
+            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
+          }
+        },
+        "question_HFWjFQ": {
+          "type": "question",
+          "settings": {
+            "title": "How do I apply Sempre foam?",
+            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.<\/p>"
+          }
         }
       },
       "block_order": [
         "question_Ht6etb",
         "question_MUCfxC",
         "question_CAgedX",
-        "question_k3GRwn"
+        "question_k3GRwn",
+        "question_3CFxm3",
+        "question_qq3pYC",
+        "question_LLd4gY",
+        "question_3RXpQB",
+        "question_HFWjFQ"
       ],
       "settings": {
         "title": "FAQs",
