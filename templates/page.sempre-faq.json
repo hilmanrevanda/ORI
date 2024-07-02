@@ -37,7 +37,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 50,
+        "desktop_size": -10,
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
@@ -63,8 +63,8 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/vimeo.com\/943463990",
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "section_height": "100vh",
+        "mobile_height": "100vh"
       }
     },
     "fh_section_richtext_hQ6Ajx": {
