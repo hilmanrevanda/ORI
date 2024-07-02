@@ -52,29 +52,6 @@
         "text_color": "#ffffff"
       }
     },
-    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
-      "type": "fh-section-custom-list-richtext",
-      "blocks": {
-        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
-          "type": "text_block",
-          "settings": {
-            "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<h1>SEMPRE ORGANONUTRIENTS<\/h1><h3>ALL NATURAL BOTANICALS<\/h3><h3>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/h3>",
-            "background_color": "#451799",
-            "text_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "9a5aef13-6981-4512-bb36-b707bab54b3b"
-      ],
-      "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
-      ],
-      "settings": {
-      }
-    },
     "hero_video_FxpX8w": {
       "type": "hero-video",
       "settings": {
@@ -144,6 +121,29 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/Copy_of_VIOLA_LAUNCH_VIDEO.png"
+      }
+    },
+    "e8e433ee-440d-4d90-afb3-b82387ee8444": {
+      "type": "fh-section-custom-list-richtext",
+      "blocks": {
+        "9a5aef13-6981-4512-bb36-b707bab54b3b": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<h1>SEMPRE ORGANONUTRIENTS<\/h1><h3>ALL NATURAL BOTANICALS<\/h3><h3>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/h3>",
+            "background_color": "#451799",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "9a5aef13-6981-4512-bb36-b707bab54b3b"
+      ],
+      "custom_css": [
+        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
+      ],
+      "settings": {
       }
     },
     "faq_699Emt": {
@@ -583,11 +583,11 @@
     "main",
     "1708c96a-c65b-4ef3-bad5-9379b08b9427",
     "fh_section_richtext_4fYhEe",
-    "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "hero_video_FxpX8w",
     "fh_section_richtext_hQ6Ajx",
     "fh_section_product_image_grid_RyzjbR",
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb",
+    "e8e433ee-440d-4d90-afb3-b82387ee8444",
     "faq_699Emt",
     "fd91edb2-8b01-4aab-beac-9f1cda534efc",
     "slideshow_CiEM7p",
