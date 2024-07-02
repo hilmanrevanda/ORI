@@ -72,17 +72,16 @@
         },
         "image_xUam77": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "title": "OLIVE LEAF EXTRACT",
+            "title": "ROSEMARY",
             "title_size": 52,
-            "subheading": "BOTANICAL BRILLIANCE: A PHYSICIAN'S REVIEW",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-the-health-benefits-of-olives-for-hair-and-skin",
-            "link_text": "READ OUR BLOG",
+            "subheading": "Phytochemicals for Hair Health: A Physician's Review",
+            "link": "shopify:\/\/blogs\/holistic-approach\/rosemary-take-3",
+            "link_text": "LEARN MORE",
             "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
             "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_Olive_Leaf_Extract.jpg"
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
           }
         },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
