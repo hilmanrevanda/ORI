@@ -28,6 +28,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "image_xUam77": {
+          "type": "image",
+          "settings": {
+            "title": "ROSEMARY",
+            "title_size": 50,
+            "subheading": "Phytochemicals for Hair Health: A Physician's Review",
+            "link": "shopify:\/\/blogs\/holistic-approach\/rosemary-take-3",
+            "link_text": "LEARN MORE",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
+          }
+        },
         "image_hEMipE": {
           "type": "image",
           "settings": {
@@ -70,20 +84,6 @@
             "image_mobile": "shopify:\/\/shop_images\/Sempre_towers_leaning_62981dee-ff39-4482-81d2-29d8c0c85de4.jpg"
           }
         },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "ROSEMARY",
-            "title_size": 52,
-            "subheading": "Phytochemicals for Hair Health: A Physician's Review",
-            "link": "shopify:\/\/blogs\/holistic-approach\/rosemary-take-3",
-            "link_text": "LEARN MORE",
-            "color_accent": "{{ shop.brand.colors.primary[0].foreground }}",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
-          }
-        },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "disabled": true,
@@ -101,10 +101,10 @@
         }
       },
       "block_order": [
+        "image_xUam77",
         "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_xUam77",
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
       ],
       "settings": {
