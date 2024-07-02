@@ -49,7 +49,7 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-center",
         "video_url": "https:\/\/youtu.be\/I3NHQMSEFBU?si=tlfarGAGiYNpLPRo",
-        "section_height": "650px",
+        "section_height": "100vh",
         "mobile_height": "auto"
       }
     },
