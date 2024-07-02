@@ -28,6 +28,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "IS YOUR HAIR \nREADY FOR SUMMER?",
+            "title_size": 46,
+            "subheading": "TRANSFORM YOUR HAIR CARE ROUTINE",
+            "link": "shopify:\/\/collections\/hair-loss-solutions",
+            "link_text": "SHOP NOW",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
+          }
+        },
         "image_xUam77": {
           "type": "image",
           "settings": {
@@ -40,34 +54,6 @@
             "text_align": "vertical-center horizontal-right",
             "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
-          }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "NOURISH YOUR HAIR FROM WITHIN",
-            "title_size": 41,
-            "subheading": "Top Fruits and Vegetables for Optimal Hair Growth",
-            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/top-picks-best-fruits-and-vegetables-for-hair-growth",
-            "link_text": "READ MORE",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg"
-          }
-        },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "SUMMER HAIR CARE",
-            "title_size": 40,
-            "subheading": "Stop Summer Dandruff: Physician Tips for Dry Scalp",
-            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/stop-summer-dandruff-physician-tips-for-a-flake-free-season",
-            "link_text": "READ OUR BLOG",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -84,28 +70,43 @@
             "image_mobile": "shopify:\/\/shop_images\/Sempre_towers_leaning_62981dee-ff39-4482-81d2-29d8c0c85de4.jpg"
           }
         },
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
+        "image_hEMipE": {
           "type": "image",
           "disabled": true,
           "settings": {
-            "title": "IS YOUR HAIR \nREADY FOR SUMMER?",
-            "title_size": 54,
-            "subheading": "TRANSFORM YOUR HAIR CARE ROUTINE",
-            "link": "shopify:\/\/collections\/hair-loss-solutions",
-            "link_text": "SHOP NOW",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Summer_Hair.jpg"
+            "title": "NOURISH YOUR HAIR FROM WITHIN",
+            "title_size": 41,
+            "subheading": "Top Fruits and Vegetables for Optimal Hair Growth",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/top-picks-best-fruits-and-vegetables-for-hair-growth",
+            "link_text": "READ MORE",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg"
+          }
+        },
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "SUMMER HAIR CARE",
+            "title_size": 40,
+            "subheading": "Stop Summer Dandruff: Physician Tips for Dry Scalp",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician\/stop-summer-dandruff-physician-tips-for-a-flake-free-season",
+            "link_text": "READ OUR BLOG",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
         }
       },
       "block_order": [
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77",
-        "image_hEMipE",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1"
+        "image_hEMipE",
+        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4"
       ],
       "settings": {
         "style": "dots",
