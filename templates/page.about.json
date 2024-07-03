@@ -343,9 +343,8 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf"
       ],
       "custom_css": [
-        "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}",
-        "h3 {margin-bottom: 10px;}",
-        ".button {padding: 10px 20px !important; display: inline-block; color: #ffffff; background-color: #000000; margin-top: 20px; text-decoration: none;}"
+        ".ask-dr-charit-button {display: inline-block !important; padding: 10px 20px !important; font-size: 16px !important; color: #fff !important; \/* Text color *\/ background-color: #007BFF !important; \/* Normal background color *\/ border: none !important; border-radius: 5px !important; text-decoration: none !important; \/* Remove underline *\/ text-align: center !important; cursor: pointer !important; transition: background-color 0.3s ease !important; }",
+        " .ask-dr-charit-button:hover {background-color: #0056b3 !important; \/* Hover background color *\/ }"
       ],
       "settings": {
         "full_width": false,
