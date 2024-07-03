@@ -1,9 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
-        ".collection-hero {margin-bottom: 0px;}"
+        ".collection-hero {margin-bottom: 500px;}"
       ],
       "settings": {
         "collection_image_enable": true,
