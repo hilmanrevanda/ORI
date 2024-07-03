@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -42,7 +51,7 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_9269-4_abf868cc-b07c-4971-aa4f-72bed216c3a8.jpg",
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
             "text": "<h2>ORGANONUTRIENTS<\/h2><p>ALL NATURAL BOTANICALS<\/p><p>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
