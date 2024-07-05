@@ -15,7 +15,7 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "ORIGENERE BLOG",
+            "title": "Origenere Blogs",
             "title_size": 64,
             "subheading": "Botanical Brilliance",
             "link": "",
@@ -37,6 +37,27 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "rich_text_7fVKH3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qi4nB6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Botanical hair products are gaining traction as a natural and effective means to promote hair growth and scalp health. Unlike chemical-laden hair treatments, botanical methods harness the power of herbs to nourish and revitalize hair. This approach not only offers potential hair growth benefits but also emphasizes holistic care with fewer side effects. Let's explore the world of botanical hair therapy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qi4nB6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
       }
     },
     "main": {
@@ -185,6 +206,7 @@
   },
   "order": [
     "slideshow_bHMPtG",
+    "rich_text_7fVKH3",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
