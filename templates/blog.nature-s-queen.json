@@ -17,7 +17,7 @@
           "settings": {
             "title": "ORIGENERE BLOG",
             "title_size": 64,
-            "subheading": "",
+            "subheading": "NATURE'S QUEEN",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -57,6 +57,7 @@
     },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
@@ -73,6 +74,7 @@
     },
     "blog_posts_qWKJxj": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "IS YOUR HAIR READY FOR SUMMER?",
         "blog": "is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
@@ -89,6 +91,7 @@
     },
     "blog_posts_nHfW9r": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
         "blog": "the-more-you-know-the-more-you-grow",
@@ -105,6 +108,7 @@
     },
     "blog_posts_9QGzPD": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "HOLISTIC APPROACH",
         "blog": "holistic-approach",
