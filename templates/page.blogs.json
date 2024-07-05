@@ -23,12 +23,13 @@
           "settings": {
             "title": "",
             "title_size": 84,
-            "subheading": "PHYSICIAN FORMULATED ALL-NATURAL HAIR & SKIN CARE",
-            "link": "",
+            "subheading": "Holistic Approach",
+            "link": "shopify:\/\/blogs\/holistic-approach",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
           }
         }
       },
@@ -48,25 +49,89 @@
         "lazyload_images": true
       }
     },
-    "0e92c59b-7e29-4352-abbf-4f063e0dd219": {
-      "type": "fh-section-products-grid",
+    "fh_section_custom_list_KRc8QC": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "text_block_hhnG6x": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "heading": "Holistic Approach",
+            "description": "A Do IT Yourself Blog For All Things Scalp And Hair",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/holistic-approach",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_YBkzrx": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/IMG_7767.jpg",
+            "heading": "Botanical Brilliance",
+            "description": "The Powerful Botanicals Behind Powerful Hair Products",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/ingredient-spotlight",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_W9xgkq": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "heading": "The More You Know The More You Grow",
+            "description": "Understand The Details Behind Hair And Scalp Science",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_RWWmep": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
+            "heading": "Summer Hair Care Tips",
+            "description": "Learn The Ins And Outs Of The Impact of Summer Time on Those Locks and How To Best Care For Your Hair During Summer",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_QJ6RWA": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Buongiorno_Summer_Hair_Sun_Damage.jpg",
+            "heading": "Nature's Queen",
+            "description": "Empowering Women Through Science and Wellness",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/roots-of-discovery-women-who-changed-the-world",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hhnG6x",
+        "text_block_YBkzrx",
+        "text_block_W9xgkq",
+        "text_block_RWWmep",
+        "text_block_QJ6RWA"
+      ],
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/MenHaircare2-6.jpg",
-        "heading_left": "HAIR CARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_3595-2.jpg",
-        "heading_right": "SKIN CARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
       }
     }
   },
   "order": [
     "main",
     "a1e2052b-f315-4b2e-bf01-736b3fefe638",
-    "0e92c59b-7e29-4352-abbf-4f063e0dd219"
+    "fh_section_custom_list_KRc8QC"
   ]
 }
