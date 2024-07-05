@@ -17,7 +17,7 @@
           "settings": {
             "title": "ORIGENERE BLOG",
             "title_size": 64,
-            "subheading": "Holistic Approach",
+            "subheading": "Botanical Brilliance",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -57,7 +57,6 @@
     },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
-      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
@@ -108,6 +107,7 @@
     },
     "blog_posts_9QGzPD": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "HOLISTIC APPROACH",
         "blog": "holistic-approach",
