@@ -17,7 +17,7 @@
           "settings": {
             "title": "ORIGENERE BLOG",
             "title_size": 64,
-            "subheading": "Botanical Brilliance",
+            "subheading": "The More You Know The More You Grow",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -57,6 +57,7 @@
     },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
@@ -90,7 +91,6 @@
     },
     "blog_posts_nHfW9r": {
       "type": "blog-posts",
-      "disabled": true,
       "settings": {
         "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
         "blog": "the-more-you-know-the-more-you-grow",
