@@ -57,6 +57,7 @@
     },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
@@ -73,6 +74,7 @@
     },
     "blog_posts_qWKJxj": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "IS YOUR HAIR READY FOR SUMMER?",
         "blog": "is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
@@ -89,6 +91,7 @@
     },
     "blog_posts_nHfW9r": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
         "blog": "the-more-you-know-the-more-you-grow",
@@ -121,6 +124,7 @@
     },
     "blog_posts_wFyhkX": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "NATURE'S QUEENS",
         "blog": "roots-of-discovery-women-who-changed-the-world",
