@@ -12,7 +12,7 @@
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
-        ".collection-hero {margin-top: 0px;}"
+        ".collection-hero {margin-bottom: 0px;}"
       ],
       "settings": {
         "collection_image_enable": true,
