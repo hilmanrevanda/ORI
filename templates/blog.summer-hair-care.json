@@ -39,6 +39,27 @@
         "lazyload_images": true
       }
     },
+    "rich_text_fQNjQe": {
+      "type": "rich-text",
+      "blocks": {
+        "text_6riHjr": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>Summer presents unique challenges for hair health due to intense heat and sun exposure. Our articles on <em>Summer Hair<\/em> <em>Tips<\/em> will help you protect your locks while enjoying the sunny days. Learn how to guard your hair against UV rays, prevent dryness, and reduce frizz. Stay informed and keep your hair looking its best all summer long.<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_6riHjr"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -185,6 +206,7 @@
   },
   "order": [
     "slideshow_bHMPtG",
+    "rich_text_fQNjQe",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
