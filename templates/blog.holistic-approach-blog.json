@@ -39,6 +39,27 @@
         "lazyload_images": true
       }
     },
+    "rich_text_bMMKrr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_VXb9FV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>With the rise of botanicals, natural hair growth remedies have become increasingly popular. Our articles provide detailed guides on do-it-yourself homemade remedies for hair growth.  Dive into our expert  tips and start your journey to longer, stronger hair today.<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_VXb9FV"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -185,6 +206,7 @@
   },
   "order": [
     "slideshow_bHMPtG",
+    "rich_text_bMMKrr",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
