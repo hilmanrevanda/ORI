@@ -39,6 +39,27 @@
         "lazyload_images": true
       }
     },
+    "rich_text_VEJqxa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_frUbrC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>Understanding the core principles of hair science and scalp health is crucial for appreciating hair growth products. Read our articles on science and hair. <\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_frUbrC"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -185,6 +206,7 @@
   },
   "order": [
     "slideshow_bHMPtG",
+    "rich_text_VEJqxa",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
