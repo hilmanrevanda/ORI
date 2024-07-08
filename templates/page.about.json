@@ -223,7 +223,7 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/IMG_4179-2.jpg",
+            "image": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere9.jpg",
             "heading": "SUSTAINABILITY",
             "description": "Origenere is dedicated to sustainability and environmental protection. We understand the importance of reducing our carbon footprint and protecting the environment for future generations. We include sustainable practices in every step of the production process. Materials: Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.",
             "btn_text": "SHOP NOW",
@@ -343,8 +343,8 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf"
       ],
       "custom_css": [
-        ".ask-dr-charit-button {display: inline-block !important; padding: 10px 20px !important; font-size: 16px !important; color: #fff !important; \/* Text color *\/ background-color: #007BFF !important; \/* Normal background color *\/ border: none !important; border-radius: 5px !important; text-decoration: none !important; \/* Remove underline *\/ text-align: center !important; cursor: pointer !important; transition: background-color 0.3s ease !important; }",
-        " .ask-dr-charit-button:hover {background-color: #0056b3 !important; \/* Hover background color *\/ }"
+        ".ask-dr-charit-button {display: inline-block !important; padding: 10px 20px !important; font-size: 16px !important; color: #fff !important; \/* Text color *\/ background-color: #007bff !important; \/* Normal background color *\/ border: none !important; border-radius: 5px !important; text-decoration: none !important; \/* Remove underline *\/ text-align: center !important; cursor: pointer !important; transition: background-color 0.3s ease !important;}",
+        ".ask-dr-charit-button:hover {background-color: #0056b3 !important; \/* Hover background color *\/}"
       ],
       "settings": {
         "full_width": false,
