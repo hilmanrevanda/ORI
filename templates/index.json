@@ -28,6 +28,20 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
+        "image_xUam77": {
+          "type": "image",
+          "settings": {
+            "title": "ALOE VERA",
+            "title_size": 60,
+            "subheading": "Aloe Benefits for Hair: A Physician's Review",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/aloe-benefits-for-hair-a-physicians-review",
+            "link_text": "LEARN MORE",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/Slices_of_Aloe_Vera_Botanical_Origenere29.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Aloe_Vera_Plant.jpg"
+          }
+        },
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
@@ -40,20 +54,6 @@
             "text_align": "vertical-center horizontal-left",
             "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
-          }
-        },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "ALOE VERA",
-            "title_size": 60,
-            "subheading": "Aloe Benefits for Hair: A Physician's Review",
-            "link": "shopify:\/\/blogs\/holistic-approach\/rosemary-take-3",
-            "link_text": "LEARN MORE",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Slices_of_Aloe_Vera_Botanical_Origenere29.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Aloe_Vera_Plant.jpg"
           }
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
@@ -102,8 +102,8 @@
         }
       },
       "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "image_xUam77",
+        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "image_hEMipE",
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4"
