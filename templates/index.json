@@ -33,7 +33,7 @@
           "settings": {
             "title": "ALOE VERA",
             "title_size": 60,
-            "subheading": "Aloe Benefits for Hair: A Physician's Review",
+            "subheading": "BOTANICAL BRILLIANCE: A Physician's Review",
             "link": "shopify:\/\/blogs\/ingredient-spotlight\/aloe-benefits-for-hair-a-physicians-review",
             "link_text": "LEARN MORE",
             "color_accent": "#ffffff",
@@ -58,6 +58,7 @@
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "SEMPRE HAIR GROWTH",
             "title_size": 53,
