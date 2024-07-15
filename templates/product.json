@@ -62,7 +62,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "is_tab": false
+            "is_tab": true
           }
         },
         "tab": {
