@@ -234,6 +234,14 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
+      },
+      "7553055287323118546": {
+        "type": "shopify:\/\/apps\/tinytabs\/blocks\/tabs-embed\/cd5da974-394e-41cb-b448-0c9a6d16a42d",
+        "disabled": false,
+        "settings": {
+          "css_selector": "",
+          "custom_css": ""
+        }
       }
     }
   },
