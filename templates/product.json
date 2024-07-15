@@ -107,8 +107,8 @@
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ"
       ],
       "settings": {
-        "product_image_size": "large",
-        "product_image_type": "stacked",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
         "thumbnail_height": "flexible",
         "product_zoom_enable": true,
         "enable_video_looping": true,
