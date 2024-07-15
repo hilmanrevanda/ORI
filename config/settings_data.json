@@ -239,7 +239,7 @@
         "type": "shopify:\/\/apps\/tinytabs\/blocks\/tabs-embed\/cd5da974-394e-41cb-b448-0c9a6d16a42d",
         "disabled": false,
         "settings": {
-          "css_selector": "",
+          "css_selector": "h5",
           "custom_css": ""
         }
       }
