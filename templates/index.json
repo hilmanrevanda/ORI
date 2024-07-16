@@ -9,6 +9,21 @@
 */
 {
   "sections": {
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/hair-care",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skincare"
+      }
+    },
     "hero_video_hFqAXm": {
       "type": "hero-video",
       "disabled": true,
@@ -216,21 +231,6 @@
         "num_per_row": 4
       }
     },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
-      }
-    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
@@ -359,7 +359,7 @@
       "type": "fh-section-product-image-grid",
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/Sempre_towers_leaning.jpg"
+        "image_right": "shopify:\/\/shop_images\/SempreDuoSemprefoamingredients.png"
       }
     },
     "hero_animated_niKnwL": {
@@ -766,11 +766,11 @@
     }
   },
   "order": [
+    "fh-section-product-category-grid",
     "hero_video_hFqAXm",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh_section_collection_grid_a9N4Um",
-    "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "scrolling-text",
