@@ -143,8 +143,8 @@
         "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/pages\/about-us",
-            "link_text": "ABOUT US"
+            "link": "shopify:\/\/collections",
+            "link_text": "COLLECTIONS"
           }
         }
       },
