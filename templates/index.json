@@ -591,6 +591,27 @@
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
       }
     },
+    "text_and_image_waTcxK": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Peri_Operative_Healing_Post_Op_Botanicals.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "for every step of your journey",
+        "title": "HAIR TRANSPLANT KITS",
+        "text": "<p>Comprehensive hair transplant peri-operative kits designed for every stage of your hair transplant journey. Each kit is tailored to provide targeted care for your scalp, promoting successful hair transplants and long-term hair health.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "rich_text_JYjgdj": {
       "type": "rich-text",
       "blocks": {
@@ -722,27 +743,6 @@
       "settings": {
         "num_per_row": 4
       }
-    },
-    "text_and_image_waTcxK": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Peri_Operative_Healing_Post_Op_Botanicals.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "for every step of your journey",
-        "title": "HAIR TRANSPLANT KITS",
-        "text": "<p>Comprehensive hair transplant peri-operative kits designed for every stage of your hair transplant journey. Each kit is tailored to provide targeted care for your scalp, promoting successful hair transplants and long-term hair health.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -762,11 +762,11 @@
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
+    "text_and_image_waTcxK",
     "rich_text_JYjgdj",
     "text-and-image",
     "fh-section-cta",
     "blog_posts_Y9fLMP",
-    "fh_section_collection_grid_a9N4Um",
-    "text_and_image_waTcxK"
+    "fh_section_collection_grid_a9N4Um"
   ]
 }
