@@ -27,7 +27,7 @@
       "type": "header",
       "settings": {
         "header_style": "button",
-        "main_menu_alignment": "right",
+        "main_menu_alignment": "left-center",
         "sticky_index": true,
         "sticky_collection": true,
         "header_search_enable": true,
