@@ -294,6 +294,7 @@
         "image_PbMgC9",
         "image_M6BJt7"
       ],
+      "disabled": true,
       "settings": {
         "style": "dots",
         "desktop_size": 10,
@@ -327,24 +328,6 @@
         "home_featured_products": "hair-loss-solutions",
         "per_row": "medium",
         "alt": false
-      }
-    },
-    "1715662332cf849823": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Yb8tEH": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Yb8tEH"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
       }
     },
     "fh_section_collection_grid_a9N4Um": {
@@ -424,6 +407,27 @@
         "image_right": "shopify:\/\/shop_images\/SempreDuoSemprefoamingredients.png"
       }
     },
+    "text_and_image_xjgKdT": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+        "image_mask": "none",
+        "image2_mask": "square",
+        "subtitle": "HAIR CARE FOR THINNING HAIR",
+        "title": "NATURALE",
+        "text": "<p>Naturale is our purity line.  Its hypoallergenic formula was designed without any fragrance or pigment for patients with eczema and sensitive skin.  See each product for its unique benefits: all products contain antioxidants, nutrients, vitamins, and botanicals known to help combat thinning hair and improve hair and skin health.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/naturale-purity-collection",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "left",
+        "alt": true,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
     "hero_animated_niKnwL": {
       "type": "hero-animated",
       "blocks": {
@@ -476,6 +480,24 @@
         "text_align": "vertical-center horizontal-center",
         "desktop_size": 20,
         "mobile_size": 0
+      }
+    },
+    "1715662332cf849823": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Yb8tEH": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Yb8tEH"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
       }
     },
     "rich_text_rDtzW6": {
@@ -579,27 +601,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/IMG_3308.jpg"
-      }
-    },
-    "text_and_image_xjgKdT": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-        "image_mask": "none",
-        "image2_mask": "square",
-        "subtitle": "HAIR CARE FOR THINNING HAIR",
-        "title": "NATURALE",
-        "text": "<p>Naturale is our purity line.  Its hypoallergenic formula was designed without any fragrance or pigment for patients with eczema and sensitive skin.  See each product for its unique benefits: all products contain antioxidants, nutrients, vitamins, and botanicals known to help combat thinning hair and improve hair and skin health.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/naturale-purity-collection",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": false,
-        "bottom_padding": false,
-        "lazyload_images": true
       }
     },
     "caf600f6-2bd2-46cc-8076-f53799e06c49": {
@@ -774,32 +775,24 @@
         "alt": false
       }
     },
-    "faq_fAH4YM": {
-      "type": "faq",
-      "blocks": {
-        "question_pJnLAe": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        },
-        "question_8BXGRp": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_pJnLAe",
-        "question_8BXGRp"
-      ],
-      "disabled": true,
+    "text_and_image_RGCDnx": {
+      "type": "text-and-image",
       "settings": {
-        "title": "FAQs",
-        "alt": true
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "left",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     }
   },
@@ -812,14 +805,14 @@
     "slideshow_yVP8XA",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
-    "1715662332cf849823",
     "fh_section_collection_grid_a9N4Um",
     "scrolling-text",
     "fh_section_product_image_grid_mtB8PW",
+    "text_and_image_xjgKdT",
     "hero_animated_niKnwL",
+    "1715662332cf849823",
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "text_and_image_xjgKdT",
     "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "rich_text_JYjgdj",
@@ -828,6 +821,6 @@
     "featured_collection_slider_Wfb8Ca",
     "rich_text_NwBtYT",
     "blog_posts_Y9fLMP",
-    "faq_fAH4YM"
+    "text_and_image_RGCDnx"
   ]
 }
