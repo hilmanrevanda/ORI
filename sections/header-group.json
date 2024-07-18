@@ -28,7 +28,7 @@
       "settings": {
         "header_style": "bar",
         "main_menu_alignment": "left-center",
-        "sticky_index": true,
+        "sticky_index": false,
         "sticky_collection": true,
         "header_search_enable": true,
         "logo": "shopify:\/\/shop_images\/Origenere_helix_logo_transparent.png",
