@@ -15,24 +15,23 @@
         "image_thiPMe": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
+            "title": "SUMMER HAIR CARE",
+            "title_size": 48,
+            "subheading": "UNLOCK THE POWER OF YOUR DNA",
             "link": "shopify:\/\/collections\/hair-care",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Origenere_Summer_Hair_Care_Rituals.png"
+            "image": "shopify:\/\/shop_images\/Origenere_Summer_hair_care_rituals_web.png"
           }
         }
       },
       "block_order": [
         "image_thiPMe"
       ],
-      "disabled": true,
       "settings": {
         "style": "minimal",
-        "desktop_size": 0,
+        "desktop_size": 10,
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
