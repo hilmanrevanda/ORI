@@ -9,6 +9,36 @@
 */
 {
   "sections": {
+    "slideshow_pJEQBi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_thiPMe": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/hair-care",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Origenere_Summer_Hair_Care_Rituals.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_thiPMe"
+      ],
+      "disabled": true,
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
       "type": "slideshow",
       "blocks": {
@@ -763,38 +793,10 @@
         "title": "FAQs",
         "alt": true
       }
-    },
-    "slideshow_pJEQBi": {
-      "type": "slideshow",
-      "blocks": {
-        "image_thiPMe": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/hair-care",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Origenere_Summer_Hair_Care_Rituals.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_thiPMe"
-      ],
-      "settings": {
-        "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
+    "slideshow_pJEQBi",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
@@ -818,7 +820,6 @@
     "rich_text_NwBtYT",
     "blog_posts_Y9fLMP",
     "1715662332cf849823",
-    "faq_fAH4YM",
-    "slideshow_pJEQBi"
+    "faq_fAH4YM"
   ]
 }
