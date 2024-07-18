@@ -602,6 +602,20 @@
         "lazyload_images": true
       }
     },
+    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HAIR CARE FOR THINNING HAIR",
+        "description": "NATURALE PURITY COLLECTION",
+        "featured_text": "",
+        "home_featured_products": "naturale-purity-collection",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -628,6 +642,7 @@
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-0",
         "template--15750522044625__4158dc4d-e39f-4bb9-90bb-b6bda71b6213-16878841835a1734b3-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 10px;}",
         ".text-with-icons__title {padding-top: 10px; margin-bottom: 10px;}"
@@ -669,20 +684,6 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
-      }
-    },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "HAIR CARE FOR THINNING HAIR",
-        "description": "NATURALE PURITY COLLECTION",
-        "featured_text": "",
-        "home_featured_products": "naturale-purity-collection",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
       }
     },
     "text-and-image": {
@@ -817,9 +818,9 @@
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_xjgKdT",
+    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "rich_text_JYjgdj",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "text-and-image",
     "fh-section-cta",
     "featured_collection_slider_Wfb8Ca",
