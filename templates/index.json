@@ -639,6 +639,27 @@
         "background_color": "#ffffff"
       }
     },
+    "text_and_image_pa8hkh": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "INVIGORATE YOUR SKINCARE ROUTINE",
+        "title": "BOTANICAL SKINCARE",
+        "text": "<p>Discover our physician formulated botanical formulas. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "left",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text-and-image": {
       "type": "text-and-image",
       "disabled": true,
@@ -686,7 +707,7 @@
         "blog_show_excerpt": false,
         "blog_image_size": "portrait",
         "view_all": true,
-        "alt": false
+        "alt": true
       }
     },
     "fh_section_collection_grid_a9N4Um": {
@@ -740,29 +761,9 @@
         "text_block_8iMHhy",
         "text_block_w3xYqL"
       ],
+      "disabled": true,
       "settings": {
         "num_per_row": 4
-      }
-    },
-    "text_and_image_pa8hkh": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "INVIGORATE YOUR SKINCARE ROUTINE",
-        "title": "BOTANICAL SKINCARE",
-        "text": "<p>Discover our physician formulated botanical formulas. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "left",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     }
   },
@@ -785,10 +786,10 @@
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_waTcxK",
     "rich_text_JYjgdj",
+    "text_and_image_pa8hkh",
     "text-and-image",
     "fh-section-cta",
     "blog_posts_Y9fLMP",
-    "fh_section_collection_grid_a9N4Um",
-    "text_and_image_pa8hkh"
+    "fh_section_collection_grid_a9N4Um"
   ]
 }
