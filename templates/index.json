@@ -191,77 +191,6 @@
         "btn_right_url": "shopify:\/\/collections\/skincare"
       }
     },
-    "hero_video_hFqAXm": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "title_size": 89,
-        "subheading": "",
-        "link_text": "",
-        "link": "https:\/\/vimeo.com\/927410891",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/927410891",
-        "section_height": "750px",
-        "mobile_height": "auto"
-      }
-    },
-    "fh_section_collection_grid_a9N4Um": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
-          }
-        },
-        "text_block_FJYXiW": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
-            "text": "BUONGIORNO VITALITY",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
-          }
-        },
-        "text_block_CMTXRa": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
-            "text": "NERO DETOX EXFOLIATING",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
-          }
-        },
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-            "text": "NATURALE THINNING HAIR",
-            "url": ""
-          }
-        },
-        "text_block_w3xYqL": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "text": "ARANCIO PRESERVATION",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_L7iPcd",
-        "text_block_FJYXiW",
-        "text_block_CMTXRa",
-        "text_block_8iMHhy",
-        "text_block_w3xYqL"
-      ],
-      "settings": {
-        "num_per_row": 4
-      }
-    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "settings": {
@@ -374,8 +303,91 @@
         "lazyload_images": true
       }
     },
+    "hero_video_hFqAXm": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "title_size": 89,
+        "subheading": "",
+        "link_text": "",
+        "link": "https:\/\/vimeo.com\/927410891",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/927410891",
+        "section_height": "750px",
+        "mobile_height": "auto"
+      }
+    },
+    "featured_collection_slider_Bk6Ke3": {
+      "type": "featured-collection-slider",
+      "settings": {
+        "title": "HAIR CARE FOR THINNING HAIR",
+        "description": "SUBSCRIBE & SAVE WITH MONTHLY OR 3 MONTH SUBSCRIPTIONS",
+        "home_featured_products": "hair-loss-solutions",
+        "per_row": "medium",
+        "alt": false
+      }
+    },
+    "fh_section_collection_grid_a9N4Um": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
+            "text": "BUONGIORNO VITALITY",
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_CMTXRa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
+            "text": "NERO DETOX EXFOLIATING",
+            "url": "shopify:\/\/collections\/nero-detox-collection"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": ""
+          }
+        },
+        "text_block_w3xYqL": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
+            "text": "ARANCIO PRESERVATION",
+            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L7iPcd",
+        "text_block_FJYXiW",
+        "text_block_CMTXRa",
+        "text_block_8iMHhy",
+        "text_block_w3xYqL"
+      ],
+      "disabled": true,
+      "settings": {
+        "num_per_row": 4
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "SEMPRE HAIR GROWTH ORGANONUTRIENTS - PHYSICIAN FORMULATED, ALL NATURAL BOTANICALS",
         "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
@@ -388,6 +400,7 @@
     },
     "fh_section_product_image_grid_mtB8PW": {
       "type": "fh-section-product-image-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
         "image_right": "shopify:\/\/shop_images\/SempreDuoSemprefoamingredients.png"
@@ -472,16 +485,6 @@
         "narrow_column": true,
         "alt": false,
         "background_color": "#ffffff"
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "HAIR CARE FOR THINNING HAIR",
-        "description": "SUBSCRIBE & SAVE WITH MONTHLY OR 3 MONTH SUBSCRIPTIONS",
-        "home_featured_products": "hair-loss-solutions",
-        "per_row": "medium",
-        "alt": false
       }
     },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
@@ -802,15 +805,15 @@
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "fh-section-product-category-grid",
-    "hero_video_hFqAXm",
-    "fh_section_collection_grid_a9N4Um",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
+    "hero_video_hFqAXm",
+    "featured_collection_slider_Bk6Ke3",
+    "fh_section_collection_grid_a9N4Um",
     "scrolling-text",
     "fh_section_product_image_grid_mtB8PW",
     "hero_animated_niKnwL",
     "rich_text_rDtzW6",
-    "featured_collection_slider_Bk6Ke3",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_xjgKdT",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
