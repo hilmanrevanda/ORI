@@ -14,15 +14,14 @@
       "blocks": {
         "image_thiPMe": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "title": "SUMMER HAIR CARE",
-            "title_size": 48,
-            "subheading": "UNLOCK THE POWER OF YOUR DNA",
+            "title": "UNLOCK THE POWER OF YOUR DNA",
+            "title_size": 40,
+            "subheading": "SUMMER HAIR CARE ESSENTIALS",
             "link": "shopify:\/\/collections\/hair-care",
             "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-left",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Origenere_Summer_hair_care_rituals_web.png"
           }
         }
@@ -30,7 +29,6 @@
       "block_order": [
         "image_thiPMe"
       ],
-      "disabled": true,
       "settings": {
         "style": "minimal",
         "desktop_size": 10,
@@ -52,7 +50,7 @@
             "link": "shopify:\/\/collections\/hair-care",
             "link_text": "SHOP NOW",
             "color_accent": "#ffffff",
-            "text_align": "vertical-bottom horizontal-left",
+            "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
@@ -125,6 +123,7 @@
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
         "image_hEMipE"
       ],
+      "disabled": true,
       "settings": {
         "style": "dots",
         "desktop_size": -10,
