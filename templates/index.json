@@ -688,6 +688,7 @@
     },
     "text-and-image": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_8048-2.jpg",
         "image_mask": "square",
@@ -710,6 +711,7 @@
     },
     "fh-section-cta": {
       "type": "fh-section-cta",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
         "heading": "ORGANONUTRIENTS",
@@ -767,7 +769,7 @@
         "blog_show_comments": false,
         "blog_show_author": true,
         "blog_show_excerpt": false,
-        "blog_image_size": "wide",
+        "blog_image_size": "square",
         "view_all": true,
         "alt": false
       }
