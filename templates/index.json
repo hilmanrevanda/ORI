@@ -46,13 +46,13 @@
         "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
           "type": "image",
           "settings": {
-            "title": "SUMMER HAIR CARE",
-            "title_size": 53,
+            "title": "UNLOCK THE POWER \nOF YOUR DNA",
+            "title_size": 47,
             "subheading": "PHYSICIAN FORMULATED HAIR CARE",
             "link": "shopify:\/\/collections\/hair-care",
             "link_text": "SHOP NOW",
             "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-left",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
             "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
           }
@@ -127,7 +127,7 @@
       ],
       "settings": {
         "style": "dots",
-        "desktop_size": 0,
+        "desktop_size": -10,
         "mobile_size": 30,
         "autoplay": true,
         "autoplay_speed": 5,
