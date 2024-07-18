@@ -705,7 +705,7 @@
         "blog_show_comments": false,
         "blog_show_author": true,
         "blog_show_excerpt": false,
-        "blog_image_size": "portrait",
+        "blog_image_size": "square",
         "view_all": true,
         "alt": true
       }
