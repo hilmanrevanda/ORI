@@ -763,6 +763,35 @@
         "title": "FAQs",
         "alt": true
       }
+    },
+    "slideshow_pJEQBi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_thiPMe": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/hair-care",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Origenere_Summer_Hair_Care_Rituals.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_thiPMe"
+      ],
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -789,6 +818,7 @@
     "rich_text_NwBtYT",
     "blog_posts_Y9fLMP",
     "1715662332cf849823",
-    "faq_fAH4YM"
+    "faq_fAH4YM",
+    "slideshow_pJEQBi"
   ]
 }
