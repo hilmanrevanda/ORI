@@ -330,62 +330,6 @@
         "alt": false
       }
     },
-    "fh_section_collection_grid_a9N4Um": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
-          }
-        },
-        "text_block_FJYXiW": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
-            "text": "BUONGIORNO VITALITY",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
-          }
-        },
-        "text_block_CMTXRa": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
-            "text": "NERO DETOX EXFOLIATING",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
-          }
-        },
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-            "text": "NATURALE THINNING HAIR",
-            "url": ""
-          }
-        },
-        "text_block_w3xYqL": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "text": "ARANCIO PRESERVATION",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_L7iPcd",
-        "text_block_FJYXiW",
-        "text_block_CMTXRa",
-        "text_block_8iMHhy",
-        "text_block_w3xYqL"
-      ],
-      "disabled": true,
-      "settings": {
-        "num_per_row": 4
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -588,6 +532,7 @@
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
         "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -601,20 +546,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/IMG_3308.jpg"
-      }
-    },
-    "caf600f6-2bd2-46cc-8076-f53799e06c49": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "HAIR CARE FOR THINNING HAIR",
-        "description": "NATURALE PURITY COLLECTION",
-        "featured_text": "",
-        "home_featured_products": "naturale-purity-collection",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
       }
     },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
@@ -721,44 +652,6 @@
         "btn_url": "shopify:\/\/pages\/the-science"
       }
     },
-    "featured_collection_slider_Wfb8Ca": {
-      "type": "featured-collection-slider",
-      "disabled": true,
-      "settings": {
-        "title": "AWAKEN YOUR SENSES WITH BUONGIORNO",
-        "description": "VITALITY COLLECTION: TEA TREE MINT SHAMPOO \/ CONDITIONER   & INVIGORATING  BODY WASH",
-        "home_featured_products": "buongiorno-vitality-collection",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
-    "rich_text_NwBtYT": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_NrCttf": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "heading_4LmKxQ": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_NrCttf",
-        "heading_4LmKxQ"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
     "blog_posts_Y9fLMP": {
       "type": "blog-posts",
       "settings": {
@@ -775,24 +668,59 @@
         "alt": false
       }
     },
-    "text_and_image_RGCDnx": {
-      "type": "text-and-image",
+    "fh_section_collection_grid_a9N4Um": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
+            "text": "BUONGIORNO VITALITY",
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_CMTXRa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
+            "text": "NERO DETOX EXFOLIATING",
+            "url": "shopify:\/\/collections\/nero-detox-collection"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": ""
+          }
+        },
+        "text_block_w3xYqL": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
+            "text": "ARANCIO PRESERVATION",
+            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L7iPcd",
+        "text_block_FJYXiW",
+        "text_block_CMTXRa",
+        "text_block_8iMHhy",
+        "text_block_w3xYqL"
+      ],
       "settings": {
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "left",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
+        "num_per_row": 4
       }
     }
   },
@@ -805,7 +733,6 @@
     "slideshow_yVP8XA",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
-    "fh_section_collection_grid_a9N4Um",
     "scrolling-text",
     "fh_section_product_image_grid_mtB8PW",
     "text_and_image_xjgKdT",
@@ -813,14 +740,11 @@
     "1715662332cf849823",
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "caf600f6-2bd2-46cc-8076-f53799e06c49",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "rich_text_JYjgdj",
     "text-and-image",
     "fh-section-cta",
-    "featured_collection_slider_Wfb8Ca",
-    "rich_text_NwBtYT",
     "blog_posts_Y9fLMP",
-    "text_and_image_RGCDnx"
+    "fh_section_collection_grid_a9N4Um"
   ]
 }
