@@ -62,6 +62,7 @@
         },
         "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "shopify:\/\/collections",
             "link_text": "COLLECTIONS"
@@ -76,7 +77,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": true,
+        "narrow_column": false,
         "alt": true,
         "background_color": "#000000"
       }
