@@ -177,6 +177,21 @@
         "lazyload_images": true
       }
     },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/hair-care",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skincare"
+      }
+    },
     "text_and_image_MHzh9j": {
       "type": "text-and-image",
       "disabled": true,
@@ -198,21 +213,6 @@
         "top_padding": false,
         "bottom_padding": true,
         "lazyload_images": false
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
       }
     },
     "slideshow_yVP8XA": {
@@ -306,43 +306,6 @@
         "lazyload_images": true
       }
     },
-    "text_and_image_9kQbRh": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Italy.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "background_image_text_7RbCLx": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "desktop_size": -20,
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "lazyload_images": true
-      }
-    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -396,6 +359,43 @@
       ],
       "settings": {
         "num_per_row": 4
+      }
+    },
+    "text_and_image_9kQbRh": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "BEVERLY HILLS INNOVATION",
+        "title": "ITALIAN CRAFTSMANSHIP",
+        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Italy.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "background_image_text_7RbCLx": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "BEVERLY HILLS INNOVATION",
+        "title": "ITALIAN CRAFTSMANSHIP",
+        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+        "desktop_size": -20,
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "lazyload_images": true
       }
     },
     "hero_video_hFqAXm": {
@@ -763,12 +763,12 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "slideshow_pJEQBi",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
-    "text_and_image_MHzh9j",
     "fh-section-product-category-grid",
+    "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
+    "fh_section_collection_grid_a9N4Um",
     "text_and_image_9kQbRh",
     "background_image_text_7RbCLx",
-    "fh_section_collection_grid_a9N4Um",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
     "scrolling-text",
