@@ -133,21 +133,6 @@
         "lazyload_images": true
       }
     },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
-      }
-    },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
       "type": "rich-text",
       "blocks": {
@@ -190,6 +175,21 @@
         "narrow_column": false,
         "alt": true,
         "background_color": "#000000"
+      }
+    },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/hair-care",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skincare"
       }
     },
     "text_and_image_MHzh9j": {
@@ -762,8 +762,8 @@
   "order": [
     "slideshow_pJEQBi",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
-    "fh-section-product-category-grid",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "fh_section_collection_grid_a9N4Um",
