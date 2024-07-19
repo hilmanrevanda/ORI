@@ -22,7 +22,7 @@
             "link_text": "SHOP NOW",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Summer_hair_care_rituals_web.png"
+            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg"
           }
         }
       },
@@ -36,6 +36,49 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
+      "type": "rich-text",
+      "blocks": {
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
+          "type": "heading",
+          "settings": {
+            "title": "PHYSICIAN FORMULATED HAIR & SKIN CARE"
+          }
+        },
+        "38ae4040-7838-493d-b248-5108007b2756": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify:\/\/shop_images\/Favicon_White.png"
+          }
+        },
+        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>Struggling with thinning hair, excessive shedding, breakage, or a dry, itchy scalp? Our all-natural hair and skincare products are free from parabens, artificial fragrances, colors, dyes, sodium lauryl sulfate, & ammonium lauryl sulfate. <\/h3>"
+          }
+        },
+        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections",
+            "link_text": "COLLECTIONS"
+          }
+        }
+      },
+      "block_order": [
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
+        "38ae4040-7838-493d-b248-5108007b2756",
+        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
+        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#000000"
       }
     },
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
@@ -131,50 +174,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
-      }
-    },
-    "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
-      "type": "rich-text",
-      "blocks": {
-        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
-          "type": "heading",
-          "settings": {
-            "title": "PHYSICIAN FORMULATED HAIR & SKIN CARE"
-          }
-        },
-        "38ae4040-7838-493d-b248-5108007b2756": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Favicon_White.png"
-          }
-        },
-        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": false,
-            "text": "<h3>Struggling with thinning hair, excessive shedding, breakage, or a dry, itchy scalp? Our all-natural hair and skincare products are free from parabens, artificial fragrances, colors, dyes, sodium lauryl sulfate, & ammonium lauryl sulfate. Our proprietary botanical blends are formulated by physicians with targeted ingredients for hair and skin health. <\/h3>"
-          }
-        },
-        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections",
-            "link_text": "COLLECTIONS"
-          }
-        }
-      },
-      "block_order": [
-        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
-        "38ae4040-7838-493d-b248-5108007b2756",
-        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
-        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#000000"
       }
     },
     "fh-section-product-category-grid": {
@@ -789,8 +788,8 @@
   },
   "order": [
     "slideshow_pJEQBi",
-    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "fh-section-product-category-grid",
     "text_and_image_MHzh9j",
     "fh_section_collection_grid_a9N4Um",
