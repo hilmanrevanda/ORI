@@ -387,6 +387,21 @@
         "alt": false
       }
     },
+    "background_image_text_7RbCLx": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "BEVERLY HILLS INNOVATION",
+        "title": "ITALIAN CRAFTSMANSHIP",
+        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+        "desktop_size": -20,
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "lazyload_images": true
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -606,6 +621,28 @@
         "background_image": "shopify:\/\/shop_images\/IMG_3308.jpg"
       }
     },
+    "text_and_image_waTcxK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Peri_Operative_Healing_Post_Op_Botanicals.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "for every step of your journey",
+        "title": "HAIR TRANSPLANT KITS",
+        "text": "<p>Comprehensive hair transplant peri-operative kits designed for every stage of your hair transplant journey. Each kit is tailored to provide targeted care for your scalp, promoting successful hair transplants and long-term hair health.<\/p>",
+        "button_label": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/hair-transplant-kits",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "right",
+        "alt": true,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213": {
       "type": "text-with-icons",
       "blocks": {
@@ -647,28 +684,6 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png"
-      }
-    },
-    "text_and_image_waTcxK": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Peri_Operative_Healing_Post_Op_Botanicals.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "for every step of your journey",
-        "title": "HAIR TRANSPLANT KITS",
-        "text": "<p>Comprehensive hair transplant peri-operative kits designed for every stage of your hair transplant journey. Each kit is tailored to provide targeted care for your scalp, promoting successful hair transplants and long-term hair health.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/hair-transplant-kits",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
       }
     },
     "rich_text_JYjgdj": {
@@ -717,22 +732,6 @@
         "alt": false,
         "top_padding": true,
         "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "background_image_text_7RbCLx": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "desktop_size": -20,
-        "color_border": "#f4f4f4",
-        "layout": "left",
         "lazyload_images": true
       }
     },
@@ -798,6 +797,7 @@
     "slideshow_yVP8XA",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
+    "background_image_text_7RbCLx",
     "scrolling-text",
     "fh_section_product_image_grid_mtB8PW",
     "text_and_image_xjgKdT",
@@ -805,11 +805,10 @@
     "1715662332cf849823",
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_waTcxK",
+    "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "rich_text_JYjgdj",
     "text_and_image_pa8hkh",
-    "background_image_text_7RbCLx",
     "text-and-image",
     "fh-section-cta",
     "blog_posts_Y9fLMP"
