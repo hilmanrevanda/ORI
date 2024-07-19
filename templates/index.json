@@ -645,7 +645,7 @@
         "image": "shopify:\/\/shop_images\/Arancio_Bathroom_Origenere.jpg",
         "image_mask": "none",
         "image2_mask": "none",
-        "subtitle": "INVIGORATE YOUR SKINCARE ROUTINE",
+        "subtitle": "REVITALIZE YOUR SKINCARE ROUTINE",
         "title": "BOTANICAL SKINCARE",
         "text": "<p>Discover our physician formulated botanical formulas. <\/p>",
         "button_label": "SHOP NOW",
@@ -722,7 +722,7 @@
         "blog_show_excerpt": false,
         "blog_image_size": "square",
         "view_all": true,
-        "alt": true
+        "alt": false
       }
     },
     "fh_section_collection_grid_a9N4Um": {
