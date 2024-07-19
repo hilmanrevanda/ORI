@@ -642,7 +642,7 @@
     "text_and_image_pa8hkh": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Nero_Body_Scrub_Botanicals_Scent.jpg",
+        "image": "shopify:\/\/shop_images\/Arancio_Bathroom_Origenere.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "INVIGORATE YOUR SKINCARE ROUTINE",
@@ -692,6 +692,21 @@
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "background_image_text_7RbCLx": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "BEVERLY HILLS INNOVATION",
+        "title": "ITALIAN CRAFTSMANSHIP",
+        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+        "desktop_size": -20,
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "lazyload_images": true
       }
     },
     "blog_posts_Y9fLMP": {
@@ -765,21 +780,6 @@
       "settings": {
         "num_per_row": 4
       }
-    },
-    "background_image_text_7RbCLx": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "desktop_size": -20,
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -804,8 +804,8 @@
     "text_and_image_pa8hkh",
     "text-and-image",
     "fh-section-cta",
+    "background_image_text_7RbCLx",
     "blog_posts_Y9fLMP",
-    "fh_section_collection_grid_a9N4Um",
-    "background_image_text_7RbCLx"
+    "fh_section_collection_grid_a9N4Um"
   ]
 }
