@@ -63,7 +63,7 @@
     "quick_shop_style": "product",
     "product_image_size": "medium",
     "product_image_type": "stacked",
-    "cart_type": "page",
+    "cart_type": "sticky",
     "cart_icon": "cart",
     "cart_additional_buttons": true,
     "cart_notes_enable": true,
