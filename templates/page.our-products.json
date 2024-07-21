@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -39,25 +48,85 @@
         "lazyload_images": true
       }
     },
-    "0e92c59b-7e29-4352-abbf-4f063e0dd219": {
-      "type": "fh-section-products-grid",
+    "fh_section_collection_grid_GKyrLE": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_wr9RAg": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Naturale_Hair_Care_1.png",
+            "text": "Shampoo And Conditioners",
+            "url": "shopify:\/\/collections\/shampoo-and-conditioners"
+          }
+        },
+        "text_block_gecryq": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
+            "text": "Hair And Scalp Repair",
+            "url": "shopify:\/\/collections\/hair-and-scalp-care-and-repair"
+          }
+        },
+        "text_block_YJDadt": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png",
+            "text": "Hair Transplant Bundles",
+            "url": "shopify:\/\/collections\/hair-transplant-kits"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wr9RAg",
+        "text_block_gecryq",
+        "text_block_YJDadt"
+      ],
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/MenHaircare2-6.jpg",
-        "heading_left": "HAIR CARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care",
-        "image_right": "shopify:\/\/shop_images\/IMG_3595-2.jpg",
-        "heading_right": "SKIN CARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
+        "num_per_row": 3
+      }
+    },
+    "fh_section_collection_grid_qNqjmN": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_c4pfAh": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nero_Body_Scrub.png",
+            "text": "Skin Care Cleansers",
+            "url": "shopify:\/\/collections\/skin-care-cleansers"
+          }
+        },
+        "text_block_8ErNw6": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aranciowithbox2024.jpg",
+            "text": "Skin Care Moisturizers and Repair",
+            "url": "shopify:\/\/collections\/skin-care-moisturizers"
+          }
+        },
+        "text_block_irUc3N": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
+            "text": "Hair And Skin Bundles",
+            "url": "shopify:\/\/collections\/hair-skin-care-sets"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_c4pfAh",
+        "text_block_8ErNw6",
+        "text_block_irUc3N"
+      ],
+      "settings": {
+        "num_per_row": 3
       }
     }
   },
   "order": [
     "main",
     "a1e2052b-f315-4b2e-bf01-736b3fefe638",
-    "0e92c59b-7e29-4352-abbf-4f063e0dd219"
+    "fh_section_collection_grid_GKyrLE",
+    "fh_section_collection_grid_qNqjmN"
   ]
 }
