@@ -62,7 +62,7 @@
     "quick_shop_enable": true,
     "quick_shop_style": "product",
     "product_image_size": "medium",
-    "product_image_type": "stacked",
+    "product_image_type": "slider",
     "cart_type": "drawer",
     "cart_icon": "bag",
     "cart_additional_buttons": true,
