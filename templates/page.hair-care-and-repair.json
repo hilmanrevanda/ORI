@@ -1,0 +1,137 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "a1e2052b-f315-4b2e-bf01-736b3fefe638": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 84,
+            "subheading": "Origenere Blog",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png",
+            "image_mobile": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1"
+      ],
+      "custom_css": [
+        ".hero__subtitle {font-size: 22.2px; text-transform: uppercase; font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback); font-weight: var(--typeHeaderWeight); font-style: normal; letter-spacing: var(--typeHeaderSpacing); line-height: var(--typeHeaderLineHeight); word-break: break-word; max-width: 600px;}",
+        "@media only screen and (min-width: 769px) {.hero__subtitle {font-size: 37px; }}"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -10,
+        "mobile_size": 10,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "fh_section_custom_list_KRc8QC": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "text_block_hhnG6x": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "heading": "Holistic Approach",
+            "description": "A Do IT Yourself Blog For All Things Scalp And Hair",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/holistic-approach",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_YBkzrx": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/IMG_7767.jpg",
+            "heading": "Botanical Brilliance",
+            "description": "The Powerful Botanicals Behind Powerful Hair Products",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/ingredient-spotlight",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_W9xgkq": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "heading": "The More You Know The More You Grow",
+            "description": "Understand The Details Behind Hair And Scalp Science",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_RWWmep": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
+            "heading": "Summer Hair Care Tips",
+            "description": "Learn The Ins And Outs Of The Impact of Summer Time on Those Locks and How To Best Care For Your Hair During Summer",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_QJ6RWA": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Buongiorno_Summer_Hair_Sun_Damage.jpg",
+            "heading": "Nature's Queen",
+            "description": "Empowering Women Through Science and Wellness",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify:\/\/blogs\/roots-of-discovery-women-who-changed-the-world",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hhnG6x",
+        "text_block_YBkzrx",
+        "text_block_W9xgkq",
+        "text_block_RWWmep",
+        "text_block_QJ6RWA"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a1e2052b-f315-4b2e-bf01-736b3fefe638",
+    "fh_section_custom_list_KRc8QC"
+  ]
+}
