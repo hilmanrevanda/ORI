@@ -85,11 +85,49 @@
       ],
       "settings": {
       }
+    },
+    "fh_section_collection_grid_maxMgx": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_d6Bhed": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Naturale_thinnig_hair_care.jpg",
+            "text": "Naturale Purity Collection: For Thinning Hair",
+            "url": "shopify:\/\/collections\/naturale-purity-collection"
+          }
+        },
+        "text_block_VfdgcQ": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1Origenere_Sempre_Organonutrients_Science.png",
+            "text": "Sempre Growth Collection: For Hair Growth",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_6jCxGx": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Buongiorno_Peppermint_Oil.jpg",
+            "text": "Buongiorno Vitality Collection: For Scalp Health",
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_d6Bhed",
+        "text_block_VfdgcQ",
+        "text_block_6jCxGx"
+      ],
+      "settings": {
+        "num_per_row": 3
+      }
     }
   },
   "order": [
     "main",
     "a1e2052b-f315-4b2e-bf01-736b3fefe638",
-    "fh_section_custom_list_KRc8QC"
+    "fh_section_custom_list_KRc8QC",
+    "fh_section_collection_grid_maxMgx"
   ]
 }
