@@ -21,15 +21,15 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "HAIR CARE AND REPAIR",
+            "title": "SKIN CARE",
             "title_size": 56,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "#383838",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
-            "image_mobile": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png"
+            "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Buongiorno-teatreeoilshampoo-rosemaryphytochemicals.png",
-            "heading": "Shampoos and Conditioners",
-            "description": "All Natural Botanicals With Purpose.",
+            "image": "shopify:\/\/shop_images\/Nero_Body_Scrub.png",
+            "heading": "Skin Care Cleansing",
+            "description": "",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/shampoo-and-conditioners",
+            "btn_url": "shopify:\/\/collections\/skin-care-cleansers",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -70,10 +70,10 @@
           "settings": {
             "reverse": true,
             "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
-            "heading": "Hair And Scalp Repair Accessories",
-            "description": "Give Those Strands A Boost With Style.",
+            "heading": "Skin Care Moisturizers and Repair",
+            "description": "",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/hair-and-scalp-care-and-repair",
+            "btn_url": "shopify:\/\/collections\/skin-care-moisturizers",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -85,11 +85,48 @@
       ],
       "settings": {
       }
+    },
+    "fh_section_collection_grid_WpkhF9": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_gKmNm8": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
+            "text": "Arancio Preservation Collection",
+            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+          }
+        },
+        "text_block_pXPKY9": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9991-3.jpg",
+            "text": "Nero Detox Collection",
+            "url": "shopify:\/\/collections\/nero-detox-collection"
+          }
+        },
+        "text_block_884frx": {
+          "type": "text_block",
+          "settings": {
+            "text": "Buongiorno Vitality Collection",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_gKmNm8",
+        "text_block_pXPKY9",
+        "text_block_884frx"
+      ],
+      "settings": {
+        "num_per_row": 3
+      }
     }
   },
   "order": [
     "main",
     "a1e2052b-f315-4b2e-bf01-736b3fefe638",
-    "fh_section_custom_list_KRc8QC"
+    "fh_section_custom_list_KRc8QC",
+    "fh_section_collection_grid_WpkhF9"
   ]
 }
