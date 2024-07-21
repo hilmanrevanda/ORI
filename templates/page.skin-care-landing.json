@@ -108,8 +108,9 @@
         "text_block_884frx": {
           "type": "text_block",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Buongiorno-tea-tree-oil-mint-rosemary-aleo-shampoo-and-conditioner.jpg",
             "text": "Buongiorno Vitality Collection",
-            "url": ""
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
           }
         }
       },
