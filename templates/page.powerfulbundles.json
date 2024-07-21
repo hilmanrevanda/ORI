@@ -21,15 +21,15 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "HAIR CARE AND REPAIR",
+            "title": "POWERFUL BUNDLES WITH PURPOSE",
             "title_size": 56,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "#383838",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
-            "image_mobile": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png"
+            "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.jpg"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Buongiorno-teatreeoilshampoo-rosemaryphytochemicals.png",
-            "heading": "Shampoos and Conditioners",
-            "description": "All Natural Botanicals With Purpose.",
-            "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/shampoo-and-conditioners",
+            "image": "shopify:\/\/shop_images\/Crescere_Origenere.jpg",
+            "heading": "Hair Transplant Kits",
+            "description": "Curated By Hair Surgeons For Optimal Results.",
+            "btn_text": "Bundles",
+            "btn_url": "shopify:\/\/collections\/hair-transplant-kits",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -70,10 +70,10 @@
           "settings": {
             "reverse": true,
             "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
-            "heading": "Hair And Scalp Repair Accessories",
-            "description": "Give Those Strands A Boost With Style.",
-            "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/hair-and-scalp-care-and-repair",
+            "heading": "Hair And Skin Bundles",
+            "description": "All Natural Invigoration From Head To Toe.",
+            "btn_text": "Bundles",
+            "btn_url": "shopify:\/\/collections\/hair-skin-care-sets",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
