@@ -25,11 +25,14 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+
+      ],
       "settings": {
         "header_style": "bar",
         "main_menu_alignment": "right",
         "sticky_index": false,
-        "sticky_collection": true,
+        "sticky_collection": false,
         "header_search_enable": true,
         "logo": "shopify:\/\/shop_images\/Origenere_helix_logo_transparent.png",
         "logo-inverted": "shopify:\/\/shop_images\/Copy_of_Origenere_with_helix_logo_white_transparent.png",
