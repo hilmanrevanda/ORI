@@ -366,20 +366,6 @@
             "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
           }
         },
-        "question_3CFxm3": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use Sempre with finasteride?",
-            "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
-          }
-        },
-        "question_qq3pYC": {
-          "type": "question",
-          "settings": {
-            "title": "Can Sempre replace minoxidil or finasteride?",
-            "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
-          }
-        },
         "question_LLd4gY": {
           "type": "question",
           "settings": {
@@ -391,7 +377,7 @@
           "type": "question",
           "settings": {
             "title": "What is in Sempre?",
-            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
+            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the proprietary growth formulation is a collective of  organic compounds derived from over 20 years of research demonstrating success in hair health. <\/p>"
           }
         },
         "question_HFWjFQ": {
@@ -407,8 +393,6 @@
         "question_MUCfxC",
         "question_CAgedX",
         "question_k3GRwn",
-        "question_3CFxm3",
-        "question_qq3pYC",
         "question_LLd4gY",
         "question_3RXpQB",
         "question_HFWjFQ"
