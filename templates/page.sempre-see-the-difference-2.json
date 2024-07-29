@@ -17,20 +17,6 @@
     "slideshow_YFVTkf": {
       "type": "slideshow",
       "blocks": {
-        "image_TUHxX9": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "https:\/\/origenere.com\/collections\/hair-loss-solutions\/products\/sempre-hair-growth-foam-with-advanced-botanical-blend",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png"
-          }
-        },
         "image_66qBqY": {
           "type": "image",
           "settings": {
@@ -72,13 +58,42 @@
             "image": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png",
             "image_mobile": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png"
           }
+        },
+        "image_8CHk4A": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Results_Long5.png"
+          }
+        },
+        "image_9arQPV": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
+          }
         }
       },
       "block_order": [
-        "image_TUHxX9",
         "image_66qBqY",
         "image_Np9EE4",
-        "image_PWf6fL"
+        "image_PWf6fL",
+        "image_8CHk4A",
+        "image_9arQPV"
       ],
       "settings": {
         "style": "arrows",
@@ -88,10 +103,82 @@
         "autoplay_speed": 7,
         "lazyload_images": true
       }
+    },
+    "advanced_content_hdLAYh": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_AYePdg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_AYePdg"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_9KDPEC": {
+      "type": "featured-product",
+      "blocks": {
+        "price_Eji8Yf": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_UmYCbg": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "variant_picker_xQWwiW": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_8TfyiT": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_Eji8Yf",
+        "description_UmYCbg",
+        "variant_picker_xQWwiW",
+        "buy_buttons_8TfyiT"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
+        "product_image_size": "small",
+        "product_image_type": "stacked",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_YFVTkf"
+    "slideshow_YFVTkf",
+    "advanced_content_hdLAYh",
+    "featured_product_9KDPEC"
   ]
 }
