@@ -14,133 +14,84 @@
       "settings": {
       }
     },
-    "a0183107-367d-499e-9ec6-e9e0ca8a984f": {
-      "type": "faq",
+    "slideshow_YFVTkf": {
+      "type": "slideshow",
       "blocks": {
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1": {
-          "type": "question",
+        "image_TUHxX9": {
+          "type": "image",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "https:\/\/origenere.com\/collections\/hair-loss-solutions\/products\/sempre-hair-growth-foam-with-advanced-botanical-blend",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png",
+            "image_mobile": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png"
           }
         },
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2": {
-          "type": "question",
+        "image_66qBqY": {
+          "type": "image",
           "settings": {
-            "title": "Why create a product line? ",
-            "text": "<p>Patients constantly asked what products to use for their hair and skin. We started researching products and discovered that most had chemicals formulated for aesthetic effects rather than efficacy. Some of these chemicals have been shown to have cancer causing potential and other deleterious side effects. As physicians we realize how important it is to read labels and understand everything that we put on and into our bodies to prevent long term complications and diseases.<\/p>"
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/4_279e03a1-28cc-49db-8420-1b55237a0229.png",
+            "image_mobile": "shopify:\/\/shop_images\/4_279e03a1-28cc-49db-8420-1b55237a0229.png"
           }
         },
-        "2b345839-12a2-45e0-b4d8-cb942f27b453": {
-          "type": "question",
+        "image_Np9EE4": {
+          "type": "image",
           "settings": {
-            "title": "What are some of the dangerous chemicals that other products may contain?",
-            "text": "<p>A lot of studies are currently ongoing to study long term health effects of commonly used preservatives such as parabens, methylparaben, butylparaben...etc. These have been implicated in breast cancer. Sodium lauryl sulfate and other similar surfactants are known skin irritants but continue to be used heavily in shampoos due to their ability to create more aesthetic sudsing. Other preservatives such as methylisothializones have been implicated as being toxic to the nervous system. Hydroquinone has been implicated as a possible carcinogen and is being currently investigated by the FDA. Cancer rates are on the rise and we do not know why. Environment and genetics are both factors. However it is imperative on us to limit the dependency on possibly toxic ingredients that we use daily. ORIGENERE® has eliminated any potentially harmful ingredients from all our products<\/p>"
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png",
+            "image_mobile": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png"
           }
         },
-        "38115098-8c27-4b31-8f89-450e00521198": {
-          "type": "question",
+        "image_PWf6fL": {
+          "type": "image",
           "settings": {
-            "title": "What is in your products?",
-            "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique ingredients and benefits.<\/p>"
-          }
-        },
-        "f0c92c56-7803-4dba-8880-1261efcb1b5e": {
-          "type": "question",
-          "settings": {
-            "title": "Do other products contain similar ingredients?",
-            "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin.<\/p>"
-          }
-        },
-        "192c3220-663c-4f90-a9c2-1d9fb5595459": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use your products if I have color or chemically treated hair?",
-            "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair.<\/p>"
-          }
-        },
-        "0104c953-a941-4e74-b1cf-906d4f3e2b84": {
-          "type": "question",
-          "settings": {
-            "title": "What is meant by Hair Aging?",
-            "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.<\/p>"
-          }
-        },
-        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9": {
-          "type": "question",
-          "settings": {
-            "title": "How can I help my hair not become thinner or age sooner?",
-            "text": "<p>Just as we take care of our bodies, our hair and skin need proper nourishment starting from within. ORIGENERE® products help address different causes hair and skin to age.<\/p>"
-          }
-        },
-        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68": {
-          "type": "question",
-          "settings": {
-            "title": "Can all sexes use these products?",
-            "text": "<p>All sexes and genders are able to benefit from our Organonutrients.  The ingredients are gentle and effective.<\/p>"
-          }
-        },
-        "b97c9422-1c4a-43df-978f-5e722a2ad08e": {
-          "type": "question",
-          "settings": {
-            "title": "Can pregnant women use these products?",
-            "text": "<p>Pregnant women should not take our hair and skin vitamins or our products with saw palmetto (Naturale shampoo, Naturale Conditioner, Naturale tonic, Naturale hair cream). Buongiorno was designed without saw palmetto with pregnant and breastfeeding women in mind. It is strongly recommended that all products be used on the advice of the pregnant woman's personal physician. Pregnant women have a naturally high estrogen level that typically improves their hair and skin during pregnancy.<\/p>"
-          }
-        },
-        "e81394be-0965-4dea-a23b-af1066d4acd4": {
-          "type": "question",
-          "settings": {
-            "title": "Can I be sure the products are safe and effective?",
-            "text": "<p>Yes. All our products are made in Italy, EU and USA. Strict standards or manufacturing are followed to prevent any contamination. Only safe, natural preservatives are used. All our products meet FDA and European Union Regulations.<\/p>"
-          }
-        },
-        "07fe1d6d-86dd-452a-bf65-72d30447a4d9": {
-          "type": "question",
-          "settings": {
-            "title": "Do your hair products regrow hair?",
-            "text": "<p>We do not claim to regrow hair. However our Professional solutions for Hair Problems will help diminish your hair loss and give your own scalp and hair the strength and vitality of younger looking hair. The damaged hair solution helps to make hair healthy and nourished while making it shiny and easy to manage. The dandruff and itchy scalp solution helps to decrease flakes and helps to moisturize the scalp.<\/p>"
-          }
-        },
-        "1bcca13c-5612-48dc-8398-ed4a92567e01": {
-          "type": "question",
-          "settings": {
-            "title": "Can all ethnicities use these products?",
-            "text": "<p>Yes. Our products are safe, gentle, simple and effective for all types of hair and scalp conditions.<\/p>"
-          }
-        },
-        "7c5ca606-382b-46b2-927d-15885b31a874": {
-          "type": "question",
-          "settings": {
-            "title": "Can I return my products?",
-            "text": "<p>If you are not 100% satisfied with your purchase, you can exchange the product or receive a refund to the original form of payment within 30 days from purchase date.  Allreturnsmust be in their original condition and packaging.  <\/p>"
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png",
+            "image_mobile": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png"
           }
         }
       },
       "block_order": [
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1",
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2",
-        "2b345839-12a2-45e0-b4d8-cb942f27b453",
-        "38115098-8c27-4b31-8f89-450e00521198",
-        "f0c92c56-7803-4dba-8880-1261efcb1b5e",
-        "192c3220-663c-4f90-a9c2-1d9fb5595459",
-        "0104c953-a941-4e74-b1cf-906d4f3e2b84",
-        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9",
-        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
-        "b97c9422-1c4a-43df-978f-5e722a2ad08e",
-        "e81394be-0965-4dea-a23b-af1066d4acd4",
-        "07fe1d6d-86dd-452a-bf65-72d30447a4d9",
-        "1bcca13c-5612-48dc-8398-ed4a92567e01",
-        "7c5ca606-382b-46b2-927d-15885b31a874"
+        "image_TUHxX9",
+        "image_66qBqY",
+        "image_Np9EE4",
+        "image_PWf6fL"
       ],
       "settings": {
-        "title": "",
-        "alt": true,
-        "background_image": "shopify:\/\/shop_images\/8_14709da0-f361-45bb-ab54-46784d034951.jpg"
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     }
   },
   "order": [
     "main",
-    "a0183107-367d-499e-9ec6-e9e0ca8a984f"
+    "slideshow_YFVTkf"
   ]
 }
