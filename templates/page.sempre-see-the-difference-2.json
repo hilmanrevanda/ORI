@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -104,6 +105,43 @@
         "lazyload_images": true
       }
     },
+    "newsletter_4zCDKi": {
+      "type": "newsletter",
+      "blocks": {
+        "title_cfk7we": {
+          "type": "title",
+          "settings": {
+            "title": "Sign Up and Save",
+            "heading_size": "h1"
+          }
+        },
+        "text_znMgJd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>"
+          }
+        },
+        "form_4rWmfK": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_cfk7we",
+        "text_znMgJd",
+        "form_4rWmfK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "advanced_content_hdLAYh": {
       "type": "advanced-content",
       "blocks": {
@@ -135,21 +173,6 @@
           "settings": {
           }
         },
-        "description_UmYCbg": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "variant_picker_xQWwiW": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
         "buy_buttons_8TfyiT": {
           "type": "buy_buttons",
           "settings": {
@@ -160,14 +183,12 @@
       },
       "block_order": [
         "price_Eji8Yf",
-        "description_UmYCbg",
-        "variant_picker_xQWwiW",
         "buy_buttons_8TfyiT"
       ],
       "settings": {
         "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
-        "product_image_size": "small",
-        "product_image_type": "stacked",
+        "product_image_size": "large",
+        "product_image_type": "slider",
         "product_zoom_enable": true,
         "enable_video_looping": true,
         "product_video_style": "muted",
@@ -178,6 +199,7 @@
   "order": [
     "main",
     "slideshow_YFVTkf",
+    "newsletter_4zCDKi",
     "advanced_content_hdLAYh",
     "featured_product_9KDPEC"
   ]
