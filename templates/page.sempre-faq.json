@@ -186,6 +186,7 @@
         },
         "question_pJnneH": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Can Sempre replace minoxidil or finasteride?",
             "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
