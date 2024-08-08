@@ -60,42 +60,6 @@
         "background_color": "#ffffff"
       }
     },
-    "newsletter_hgtYCp": {
-      "type": "newsletter",
-      "blocks": {
-        "title_XBickk": {
-          "type": "title",
-          "settings": {
-            "title": "20% Off First Order",
-            "heading_size": "h2"
-          }
-        },
-        "text_BDMzV8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs.<\/p>"
-          }
-        },
-        "form_i9Hfe3": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_XBickk",
-        "text_BDMzV8",
-        "form_i9Hfe3"
-      ],
-      "settings": {
-        "align_text": "center",
-        "image_width": "33",
-        "image_mask": "none",
-        "image_position": "right",
-        "top_padding": true,
-        "bottom_padding": true
-      }
-    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -194,6 +158,42 @@
         "blog_image_size": "square",
         "view_all": true,
         "alt": false
+      }
+    },
+    "newsletter_hgtYCp": {
+      "type": "newsletter",
+      "blocks": {
+        "title_XBickk": {
+          "type": "title",
+          "settings": {
+            "title": "20% Off First Order",
+            "heading_size": "h2"
+          }
+        },
+        "text_BDMzV8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs.<\/p>"
+          }
+        },
+        "form_i9Hfe3": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_XBickk",
+        "text_BDMzV8",
+        "form_i9Hfe3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
       }
     },
     "featured-collections": {
@@ -303,13 +303,13 @@
   "order": [
     "slideshow_bHMPtG",
     "rich_text_VEJqxa",
-    "newsletter_hgtYCp",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
     "blog_posts_nHfW9r",
     "blog_posts_9QGzPD",
     "blog_posts_wFyhkX",
+    "newsletter_hgtYCp",
     "featured-collections",
     "slideshow_khN67A"
   ]
