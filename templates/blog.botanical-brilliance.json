@@ -238,6 +238,66 @@
         "title": "DISCOVER OUR HAIR & SKINCARE COLLECTIONS",
         "alt": false
       }
+    },
+    "slideshow_WTpJzL": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Dfhiyq": {
+          "type": "image",
+          "settings": {
+            "title": "The More You Know The More You Grow",
+            "title_size": 80,
+            "subheading": "Down To The Nuts and Bolts of Hair And Hair Loss",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg"
+          }
+        },
+        "image_wNPKM8": {
+          "type": "image",
+          "settings": {
+            "title": "Holistic Approach",
+            "title_size": 80,
+            "subheading": "DIY Hair Solutions",
+            "link": "shopify:\/\/blogs\/holistic-approach",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "image_mobile": "shopify:\/\/shop_images\/20488006dea97f3bf0ff1df_upscale.webp"
+          }
+        },
+        "image_Q337hA": {
+          "type": "image",
+          "settings": {
+            "title": "Seasonal Hair Care Topics",
+            "title_size": 80,
+            "subheading": "Is Your Hair Ready For The Summer Heat?",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_Shampoo_Conditioner_Bath_Robe_80305e91-b638-4cdf-bc9c-0c061b3c1d27.png",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_male_beach.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Dfhiyq",
+        "image_wNPKM8",
+        "image_Q337hA"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 30,
+        "mobile_size": 60,
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -250,6 +310,7 @@
     "blog_posts_nHfW9r",
     "blog_posts_9QGzPD",
     "blog_posts_wFyhkX",
-    "featured-collections"
+    "featured-collections",
+    "slideshow_WTpJzL"
   ]
 }
