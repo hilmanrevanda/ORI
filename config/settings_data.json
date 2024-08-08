@@ -53,7 +53,7 @@
     "product_hover_details": true,
     "product_hover_image": true,
     "product_image_scatter": false,
-    "product_grid_image_size": "natural",
+    "product_grid_image_size": "square",
     "vendor_enable": false,
     "product_save_amount": false,
     "product_save_type": "percent",
