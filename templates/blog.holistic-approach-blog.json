@@ -291,7 +291,7 @@
         "image_HXJtCe"
       ],
       "settings": {
-        "style": "arrows",
+        "style": "dots",
         "desktop_size": 10,
         "mobile_size": 30,
         "autoplay": true,
