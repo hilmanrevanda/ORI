@@ -238,6 +238,66 @@
         "title": "DISCOVER OUR HAIR & SKINCARE COLLECTIONS",
         "alt": false
       }
+    },
+    "slideshow_V6J7FX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xPW93E": {
+          "type": "image",
+          "settings": {
+            "title": "Botanical Brilliance",
+            "title_size": 80,
+            "subheading": "Unlock The Power Of Nature. A Physician Review of Botanicals.",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
+          }
+        },
+        "image_wL8G9e": {
+          "type": "image",
+          "settings": {
+            "title": "The More You Know The More You Grow",
+            "title_size": 80,
+            "subheading": "Down To The Nuts And Bolts of Hair And Hair Loss",
+            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg"
+          }
+        },
+        "image_HXJtCe": {
+          "type": "image",
+          "settings": {
+            "title": "Seasonal Hair Care Topics",
+            "title_size": 80,
+            "subheading": "Is Your Hair Ready For The Summer Heat?",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_xPW93E",
+        "image_wL8G9e",
+        "image_HXJtCe"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 10,
+        "mobile_size": 30,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -250,6 +310,7 @@
     "blog_posts_nHfW9r",
     "blog_posts_9QGzPD",
     "blog_posts_wFyhkX",
-    "featured-collections"
+    "featured-collections",
+    "slideshow_V6J7FX"
   ]
 }
