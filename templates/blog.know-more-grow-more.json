@@ -60,6 +60,42 @@
         "background_color": "#ffffff"
       }
     },
+    "newsletter_hgtYCp": {
+      "type": "newsletter",
+      "blocks": {
+        "title_XBickk": {
+          "type": "title",
+          "settings": {
+            "title": "20% Off First Order",
+            "heading_size": "h2"
+          }
+        },
+        "text_BDMzV8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs.<\/p>"
+          }
+        },
+        "form_i9Hfe3": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_XBickk",
+        "text_BDMzV8",
+        "form_i9Hfe3"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -202,17 +238,79 @@
         "title": "DISCOVER OUR HAIR & SKINCARE COLLECTIONS",
         "alt": false
       }
+    },
+    "slideshow_khN67A": {
+      "type": "slideshow",
+      "blocks": {
+        "image_cn3FBd": {
+          "type": "image",
+          "settings": {
+            "title": "Holistic Approach",
+            "title_size": 80,
+            "subheading": "DIY Hair Solutions",
+            "link": "shopify:\/\/blogs\/holistic-approach",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
+          }
+        },
+        "image_P4qaNQ": {
+          "type": "image",
+          "settings": {
+            "title": "Botanical Brilliance",
+            "title_size": 80,
+            "subheading": "Unlock The Power Of Nature. A Physician Review of Botanicals.",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
+          }
+        },
+        "image_9mfbya": {
+          "type": "image",
+          "settings": {
+            "title": "Seasonal Hair Care Topics",
+            "title_size": 80,
+            "subheading": "Is Your Hair Ready For The Summer Heat?",
+            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_cn3FBd",
+        "image_P4qaNQ",
+        "image_9mfbya"
+      ],
+      "settings": {
+        "style": "dots",
+        "desktop_size": 0,
+        "mobile_size": 30,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "slideshow_bHMPtG",
     "rich_text_VEJqxa",
+    "newsletter_hgtYCp",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
     "blog_posts_nHfW9r",
     "blog_posts_9QGzPD",
     "blog_posts_wFyhkX",
-    "featured-collections"
+    "featured-collections",
+    "slideshow_khN67A"
   ]
 }
