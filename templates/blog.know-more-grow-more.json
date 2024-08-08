@@ -15,9 +15,9 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "ORIGENERE BLOG",
+            "title": "The More You Know The More You Grow",
             "title_size": 64,
-            "subheading": "The More You Know The More You Grow",
+            "subheading": "Origenere Blogs",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -31,9 +31,9 @@
         "image_qt3KtD"
       ],
       "settings": {
-        "style": "arrows",
-        "desktop_size": -30,
-        "mobile_size": 0,
+        "style": "dots",
+        "desktop_size": -10,
+        "mobile_size": 20,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
