@@ -60,6 +60,42 @@
         "background_color": "#ffffff"
       }
     },
+    "newsletter_p8RpPH": {
+      "type": "newsletter",
+      "blocks": {
+        "title_6MdePR": {
+          "type": "title",
+          "settings": {
+            "title": "20% Off First Order",
+            "heading_size": "h2"
+          }
+        },
+        "text_Lx77pp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs. <\/p>"
+          }
+        },
+        "form_mDGEgJ": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_6MdePR",
+        "text_Lx77pp",
+        "form_mDGEgJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "main": {
       "type": "blog-template",
       "disabled": true,
@@ -207,6 +243,7 @@
   "order": [
     "slideshow_bHMPtG",
     "rich_text_7fVKH3",
+    "newsletter_p8RpPH",
     "main",
     "blog_posts_xXmDXk",
     "blog_posts_qWKJxj",
