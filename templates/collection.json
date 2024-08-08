@@ -38,7 +38,7 @@
       "type": "collection-filters",
       "settings": {
         "enable_color_swatches": false,
-        "collection_sort_enable": true
+        "collection_sort_enable": false
       }
     },
     "main-collection": {
