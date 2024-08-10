@@ -9,138 +9,339 @@
 */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
+    "scrolling_text_nxahLN": {
+      "type": "scrolling-text",
       "settings": {
+        "text": "Discount Code: RosemaryMint For 30% Off First Order",
+        "link": "",
+        "text_size": 38,
+        "text_spacing": false,
+        "color_scheme": "button",
+        "direction": "right",
+        "speed": 250
       }
     },
-    "a0183107-367d-499e-9ec6-e9e0ca8a984f": {
-      "type": "faq",
+    "rich_text_UNaMEE": {
+      "type": "rich-text",
       "blocks": {
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1": {
-          "type": "question",
+        "heading_CD7eEN": {
+          "type": "heading",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+            "title": "Rosemary Mint Shampoo For Hair Growth and Scalp Health"
           }
         },
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2": {
-          "type": "question",
+        "text_Vh6Ab9": {
+          "type": "text",
           "settings": {
-            "title": "Why create a product line? ",
-            "text": "<p>Patients constantly asked what products to use for their hair and skin. We started researching products and discovered that most had chemicals formulated for aesthetic effects rather than efficacy. Some of these chemicals have been shown to have cancer causing potential and other deleterious side effects. As physicians we realize how important it is to read labels and understand everything that we put on and into our bodies to prevent long term complications and diseases.<\/p>"
+            "enlarge_text": true,
+            "text": "<p>USE DISCOUNT CODE ROSEMARYMINT for 30% Off Your First Order. <\/p>"
           }
         },
-        "2b345839-12a2-45e0-b4d8-cb942f27b453": {
-          "type": "question",
+        "button_F98i9Q": {
+          "type": "button",
           "settings": {
-            "title": "What are some of the dangerous chemicals that other products may contain?",
-            "text": "<p>A lot of studies are currently ongoing to study long term health effects of commonly used preservatives such as parabens, methylparaben, butylparaben...etc. These have been implicated in breast cancer. Sodium lauryl sulfate and other similar surfactants are known skin irritants but continue to be used heavily in shampoos due to their ability to create more aesthetic sudsing. Other preservatives such as methylisothializones have been implicated as being toxic to the nervous system. Hydroquinone has been implicated as a possible carcinogen and is being currently investigated by the FDA. Cancer rates are on the rise and we do not know why. Environment and genetics are both factors. However it is imperative on us to limit the dependency on possibly toxic ingredients that we use daily. ORIGENERE® has eliminated any potentially harmful ingredients from all our products<\/p>"
+            "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
+            "link_text": "Buy Trio And Save"
           }
         },
-        "38115098-8c27-4b31-8f89-450e00521198": {
-          "type": "question",
+        "heading_9bMU8c": {
+          "type": "heading",
           "settings": {
-            "title": "What is in your products?",
-            "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique ingredients and benefits.<\/p>"
-          }
-        },
-        "f0c92c56-7803-4dba-8880-1261efcb1b5e": {
-          "type": "question",
-          "settings": {
-            "title": "Do other products contain similar ingredients?",
-            "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin.<\/p>"
-          }
-        },
-        "192c3220-663c-4f90-a9c2-1d9fb5595459": {
-          "type": "question",
-          "settings": {
-            "title": "Can I use your products if I have color or chemically treated hair?",
-            "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair.<\/p>"
-          }
-        },
-        "0104c953-a941-4e74-b1cf-906d4f3e2b84": {
-          "type": "question",
-          "settings": {
-            "title": "What is meant by Hair Aging?",
-            "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.<\/p>"
-          }
-        },
-        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9": {
-          "type": "question",
-          "settings": {
-            "title": "How can I help my hair not become thinner or age sooner?",
-            "text": "<p>Just as we take care of our bodies, our hair and skin need proper nourishment starting from within. ORIGENERE® products help address different causes hair and skin to age.<\/p>"
-          }
-        },
-        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68": {
-          "type": "question",
-          "settings": {
-            "title": "Can all sexes use these products?",
-            "text": "<p>All sexes and genders are able to benefit from our Organonutrients.  The ingredients are gentle and effective.<\/p>"
-          }
-        },
-        "b97c9422-1c4a-43df-978f-5e722a2ad08e": {
-          "type": "question",
-          "settings": {
-            "title": "Can pregnant women use these products?",
-            "text": "<p>Pregnant women should not take our hair and skin vitamins or our products with saw palmetto (Naturale shampoo, Naturale Conditioner, Naturale tonic, Naturale hair cream). Buongiorno was designed without saw palmetto with pregnant and breastfeeding women in mind. It is strongly recommended that all products be used on the advice of the pregnant woman's personal physician. Pregnant women have a naturally high estrogen level that typically improves their hair and skin during pregnancy.<\/p>"
-          }
-        },
-        "e81394be-0965-4dea-a23b-af1066d4acd4": {
-          "type": "question",
-          "settings": {
-            "title": "Can I be sure the products are safe and effective?",
-            "text": "<p>Yes. All our products are made in Italy, EU and USA. Strict standards or manufacturing are followed to prevent any contamination. Only safe, natural preservatives are used. All our products meet FDA and European Union Regulations.<\/p>"
-          }
-        },
-        "07fe1d6d-86dd-452a-bf65-72d30447a4d9": {
-          "type": "question",
-          "settings": {
-            "title": "Do your hair products regrow hair?",
-            "text": "<p>We do not claim to regrow hair. However our Professional solutions for Hair Problems will help diminish your hair loss and give your own scalp and hair the strength and vitality of younger looking hair. The damaged hair solution helps to make hair healthy and nourished while making it shiny and easy to manage. The dandruff and itchy scalp solution helps to decrease flakes and helps to moisturize the scalp.<\/p>"
-          }
-        },
-        "1bcca13c-5612-48dc-8398-ed4a92567e01": {
-          "type": "question",
-          "settings": {
-            "title": "Can all ethnicities use these products?",
-            "text": "<p>Yes. Our products are safe, gentle, simple and effective for all types of hair and scalp conditions.<\/p>"
-          }
-        },
-        "7c5ca606-382b-46b2-927d-15885b31a874": {
-          "type": "question",
-          "settings": {
-            "title": "Can I return my products?",
-            "text": "<p>If you are not 100% satisfied with your purchase, you can exchange the product or receive a refund to the original form of payment within 30 days from purchase date.  Allreturnsmust be in their original condition and packaging.  <\/p>"
+            "title": "Check Out Our Expert Authored Blogs For More Information On The Benefits of Botanicals and Hair. Subscribe For Updates On The Latest Releases and 20% off Your First Order. DISCOUNTS COMBINE"
           }
         }
       },
       "block_order": [
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-1",
-        "template--15750522142929__a0183107-367d-499e-9ec6-e9e0ca8a984f-question-2",
-        "2b345839-12a2-45e0-b4d8-cb942f27b453",
-        "38115098-8c27-4b31-8f89-450e00521198",
-        "f0c92c56-7803-4dba-8880-1261efcb1b5e",
-        "192c3220-663c-4f90-a9c2-1d9fb5595459",
-        "0104c953-a941-4e74-b1cf-906d4f3e2b84",
-        "ecf12fe9-8761-46b2-8a14-2c10e7a9e9f9",
-        "abd8abe0-979f-4a70-8cde-6ec20d9a1b68",
-        "b97c9422-1c4a-43df-978f-5e722a2ad08e",
-        "e81394be-0965-4dea-a23b-af1066d4acd4",
-        "07fe1d6d-86dd-452a-bf65-72d30447a4d9",
-        "1bcca13c-5612-48dc-8398-ed4a92567e01",
-        "7c5ca606-382b-46b2-927d-15885b31a874"
+        "heading_CD7eEN",
+        "text_Vh6Ab9",
+        "button_F98i9Q",
+        "heading_9bMU8c"
       ],
       "settings": {
-        "title": "",
-        "alt": true,
-        "background_image": "shopify:\/\/shop_images\/8_14709da0-f361-45bb-ab54-46784d034951.jpg"
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "newsletter_bnp6tL": {
+      "type": "newsletter",
+      "blocks": {
+        "title_jYXQgB": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and Save 20% On Your First Order.",
+            "heading_size": "h2"
+          }
+        },
+        "text_enDLpa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs. <\/p>"
+          }
+        },
+        "form_tpTghB": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_jYXQgB",
+        "text_enDLpa",
+        "form_tpTghB"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify:\/\/shop_images\/2048800b1fdd97627d5c9b5_upscale.webp",
+        "image_width": "33",
+        "image_mask": "rounded-wave",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "slideshow_r9MVGw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_gkd7Ux": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 56,
+            "subheading": "",
+            "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-1",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/female_hair_care_origenere_2_ce88f80d-71e3-4b9d-91ba-ca969c558854.png",
+            "image_mobile": "shopify:\/\/shop_images\/female_hair_care_origenere_2_ce88f80d-71e3-4b9d-91ba-ca969c558854.png"
+          }
+        },
+        "image_gLrac3": {
+          "type": "image",
+          "settings": {
+            "title": "Rosemary, Citrus, Peppermint, Aloe and TeaTree Extracts. A Powerful Holistic Approach to Hair",
+            "title_size": 48,
+            "subheading": "Physician Curated in Beverly Hills. Manufactured and Sourced in Italy.",
+            "link": "shopify:\/\/collections\/buongiorno-vitality-collection",
+            "link_text": "Buongiorno Vitality Collection",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/BuongiornoTeaTreeMintIngredients_8a1dfb34-d3f4-4528-b46e-dc2cfc4de0a7.png",
+            "image_mobile": "shopify:\/\/shop_images\/BuongiornoTeaTreeMintIngredients.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_gkd7Ux",
+        "image_gLrac3"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 20,
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_GGyBXy": {
+      "type": "featured-product",
+      "blocks": {
+        "price_tz4h6G": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_a9rNRb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_tz4h6G",
+        "buy_buttons_a9rNRb"
+      ],
+      "settings": {
+        "featured_product": "buongiorno-tea-tree-mint-shampoo-1",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "slideshow_aEGB4U": {
+      "type": "slideshow",
+      "blocks": {
+        "image_PcMnpp": {
+          "type": "image",
+          "settings": {
+            "title": "Rosemary Phytochemicals For Hair Health",
+            "title_size": 80,
+            "subheading": "By Dr. Kristen Rogers",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/rosemary-phytochemicals-for-hair-health-a-physicians-review-1",
+            "link_text": "Article",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
+          }
+        },
+        "image_zyYaJF": {
+          "type": "image",
+          "settings": {
+            "title": "Benefits of Peppermint Oil For Hair",
+            "title_size": 80,
+            "subheading": "By Dr. Kristen Rogers",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/hair-benefits-of-peppermint-oil",
+            "link_text": "Article",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png",
+            "image_mobile": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png"
+          }
+        },
+        "image_jJbFfd": {
+          "type": "image",
+          "settings": {
+            "title": "Buongiorno Vitality Shampoo",
+            "title_size": 80,
+            "subheading": "With Rosemary, Mint, Aloe and TeaTree Oils",
+            "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-1",
+            "link_text": "Rosemary Mint Shampoo",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/BuongiornoRobe.png",
+            "image_mobile": "shopify:\/\/shop_images\/BuongiornoRobe.png"
+          }
+        },
+        "image_i3LHHB": {
+          "type": "image",
+          "settings": {
+            "title": "Buongiorno Vitality Conditioner",
+            "title_size": 80,
+            "subheading": "With Rosemary, Mint, Aloe and TeaTree",
+            "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-conditioner-1",
+            "link_text": "Rosemary Mint Conditioner",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/BuongiornoShampoo_Conditioner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BuongiornoShampoo_Conditioner_24614d7a-1287-49c0-b615-d1ccf18fde02.png"
+          }
+        },
+        "image_LnVfhf": {
+          "type": "image",
+          "settings": {
+            "title": "Aloe Benefits For Hair and Scalp",
+            "title_size": 80,
+            "subheading": "By Dr. Kristen Rogers",
+            "link": "shopify:\/\/blogs\/ingredient-spotlight\/aloe-benefits-for-hair-a-physicians-review",
+            "link_text": "Article",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/aloe-vera-plant.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/aloe-vera-plant.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_PcMnpp",
+        "image_zyYaJF",
+        "image_jJbFfd",
+        "image_i3LHHB",
+        "image_LnVfhf"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 40,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "featured_collection_ihPiMp": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Buongiorno Vitality Collection",
+        "description": "Rosemary, Mint, TeaTree Shampoo and Conditioner",
+        "featured_text": "Featured",
+        "home_featured_products": "buongiorno-vitality-collection",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "2-flush",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "testimonials_qtnz6D": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_DPWLmg": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Shampoo smells great and it isn't overpowering. Makes my scalp feel energized and super clean. Great clean ingredients. <\/p>",
+            "author": "AR"
+          }
+        },
+        "testimonial_yw4agN": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Dealing with extremely dry scalp and this line of shampoo along with he conditioner helped me after 1-2 weeks of use. Highly recommend this product for dry scalp.<\/p>",
+            "author": "PA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_DPWLmg",
+        "testimonial_yw4agN"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
+      }
+    },
+    "blog_posts_kMVLUQ": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Botanical Brilliance. An Origenere Original Blog.",
+        "blog": "ingredient-spotlight",
+        "post_limit": 6,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
       }
     }
   },
   "order": [
+    "scrolling_text_nxahLN",
+    "rich_text_UNaMEE",
+    "newsletter_bnp6tL",
+    "slideshow_r9MVGw",
+    "featured_product_GGyBXy",
+    "slideshow_aEGB4U",
     "main",
-    "a0183107-367d-499e-9ec6-e9e0ca8a984f"
+    "featured_collection_ihPiMp",
+    "testimonials_qtnz6D",
+    "blog_posts_kMVLUQ"
   ]
 }
