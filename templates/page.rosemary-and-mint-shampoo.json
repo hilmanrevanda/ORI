@@ -138,11 +138,11 @@
         "image_gLrac3"
       ],
       "settings": {
-        "style": "arrows",
+        "style": "dots",
         "desktop_size": 0,
         "mobile_size": 20,
         "autoplay": true,
-        "autoplay_speed": 6,
+        "autoplay_speed": 5,
         "lazyload_images": true
       }
     },
@@ -258,7 +258,7 @@
         "image_LnVfhf"
       ],
       "settings": {
-        "style": "arrows",
+        "style": "dots",
         "desktop_size": 0,
         "mobile_size": 40,
         "autoplay": true,
