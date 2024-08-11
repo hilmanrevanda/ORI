@@ -21,8 +21,9 @@
             "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
             "link_text": "Buy Trio and save",
             "color_accent": "#ffffff",
-            "text_align": "vertical-top horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno-tea-tree-oil-mint-rosemary-aleo-shampoo-and-conditioner.jpg"
+            "text_align": "vertical-top horizontal-left",
+            "image": "shopify:\/\/shop_images\/Buongiorno-tea-tree-oil-mint-rosemary-aleo-shampoo-and-conditioner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BuongiornoVitalityCollection_3688b482-9065-4c59-9bb1-13635a086a42.jpg"
           }
         }
       },
@@ -32,7 +33,7 @@
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 0,
+        "mobile_size": 30,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
