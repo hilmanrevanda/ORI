@@ -50,49 +50,6 @@
         "speed": 250
       }
     },
-    "rich_text_UNaMEE": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CD7eEN": {
-          "type": "heading",
-          "settings": {
-            "title": "Rosemary Mint Shampoo For Hair Growth and Scalp Health"
-          }
-        },
-        "text_Vh6Ab9": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>USE DISCOUNT CODE ROSEMARYMINT for 30% Off Your First Order. <\/p>"
-          }
-        },
-        "button_F98i9Q": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
-            "link_text": "Buy Trio And Save"
-          }
-        },
-        "heading_9bMU8c": {
-          "type": "heading",
-          "settings": {
-            "title": "Check Out Our Expert Authored Blogs For More Information On The Benefits of Botanicals and Hair. Subscribe For Updates On The Latest Releases and 20% off Your First Order. DISCOUNTS COMBINE"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CD7eEN",
-        "text_Vh6Ab9",
-        "button_F98i9Q",
-        "heading_9bMU8c"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
     "newsletter_bnp6tL": {
       "type": "newsletter",
       "blocks": {
@@ -106,7 +63,7 @@
         "text_enDLpa": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs. <\/p>"
+            "text": "<h2>Check Out Our Expert Blogs For More Information On The Benefits of Botanicals and Hair. Subscribe For Updates On The Latest Releases and 20% off Your First Order. DISCOUNTS COMBINE<\/h2>"
           }
         },
         "form_tpTghB": {
@@ -364,7 +321,6 @@
   "order": [
     "slideshow_n4Yykh",
     "scrolling_text_nxahLN",
-    "rich_text_UNaMEE",
     "newsletter_bnp6tL",
     "slideshow_r9MVGw",
     "featured_product_GGyBXy",
