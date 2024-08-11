@@ -15,15 +15,15 @@
         "image_thiPMe": {
           "type": "image",
           "settings": {
-            "title": "UNLOCK THE POWER OF YOUR DNA",
+            "title": "PHYSICIAN CURATED HAIR TRANSPLANT KITS.",
             "title_size": 40,
-            "subheading": "HAIR CARE ESSENTIALS",
-            "link": "shopify:\/\/collections\/hair-care-hair-loss",
+            "subheading": "Optimize Your Investment Today.",
+            "link": "shopify:\/\/collections\/hair-transplant-kits",
             "link_text": "SHOP NOW",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Male_Sempre_Foam_Hair_Growth-2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Male_Sempre_Foam_Hair_Growth-2.jpg"
+            "color_accent": "#383838",
+            "text_align": "vertical-top horizontal-right",
+            "image": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png",
+            "image_mobile": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png"
           }
         }
       },
@@ -32,8 +32,8 @@
       ],
       "settings": {
         "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 0,
+        "desktop_size": -40,
+        "mobile_size": 70,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
@@ -58,7 +58,6 @@
         },
         "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "SAVE 25%",
             "title_size": 86,
@@ -73,7 +72,6 @@
         },
         "image_xUam77": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "ALOE VERA",
             "title_size": 60,
@@ -88,7 +86,6 @@
         },
         "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "SEMPRE HAIR GROWTH",
             "title_size": 53,
@@ -103,7 +100,6 @@
         },
         "image_hEMipE": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "NOURISH YOUR HAIR FROM WITHIN",
             "title_size": 41,
@@ -180,6 +176,7 @@
     },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
         "heading_left": "HAIRCARE",
