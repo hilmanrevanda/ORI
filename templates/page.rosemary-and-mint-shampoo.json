@@ -21,7 +21,7 @@
             "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
             "link_text": "Buy Trio and save",
             "color_accent": "#ffffff",
-            "text_align": "vertical-top horizontal-left",
+            "text_align": "vertical-top horizontal-right",
             "image": "shopify:\/\/shop_images\/rosemary-phytonutrients-benefits-hair-health_rosemary.jpg",
             "image_mobile": "shopify:\/\/shop_images\/rosemary-phytonutrients-benefits-hair-health_rosemary.jpg"
           }
@@ -33,7 +33,7 @@
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
-        "mobile_size": 30,
+        "mobile_size": 50,
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
