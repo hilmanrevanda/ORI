@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "title": "Rosemary Mint Shampoo for Hair Growth and Scalp Health",
-            "title_size": 62,
+            "title_size": 57,
             "subheading": "Use Discount Code ROSEMARYMINT For 30% Off First Order",
             "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
             "link_text": "Buy Trio and save",
@@ -32,7 +32,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": 0,
+        "desktop_size": -20,
         "mobile_size": 50,
         "autoplay": false,
         "autoplay_speed": 7,
