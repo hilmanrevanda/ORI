@@ -32,7 +32,7 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -20,
+        "desktop_size": 0,
         "mobile_size": 50,
         "autoplay": false,
         "autoplay_speed": 7,
