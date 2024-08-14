@@ -15,7 +15,7 @@
         "image_EFXmha": {
           "type": "image",
           "settings": {
-            "title": "Rosemary Mint Shampoo for Hair Growth and Scalp Health",
+            "title": "Rosemary And PepperMint Shampoo for Hair Growth and Scalp Health",
             "title_size": 57,
             "subheading": "Use Discount Code ROSEMARYMINT For 30% Off First Order",
             "link": "shopify:\/\/products\/buongiorno-tea-tree-mint-shampoo-trio",
@@ -49,6 +49,36 @@
         "color_scheme": "button",
         "direction": "right",
         "speed": 250
+      }
+    },
+    "featured_product_GGyBXy": {
+      "type": "featured-product",
+      "blocks": {
+        "price_tz4h6G": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_a9rNRb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_tz4h6G",
+        "buy_buttons_a9rNRb"
+      ],
+      "settings": {
+        "featured_product": "buongiorno-tea-tree-mint-shampoo-1",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "newsletter_bnp6tL": {
@@ -131,36 +161,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
-      }
-    },
-    "featured_product_GGyBXy": {
-      "type": "featured-product",
-      "blocks": {
-        "price_tz4h6G": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "buy_buttons_a9rNRb": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_tz4h6G",
-        "buy_buttons_a9rNRb"
-      ],
-      "settings": {
-        "featured_product": "buongiorno-tea-tree-mint-shampoo-1",
-        "product_image_size": "small",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "slideshow_aEGB4U": {
@@ -322,9 +322,9 @@
   "order": [
     "slideshow_n4Yykh",
     "scrolling_text_nxahLN",
+    "featured_product_GGyBXy",
     "newsletter_bnp6tL",
     "slideshow_r9MVGw",
-    "featured_product_GGyBXy",
     "slideshow_aEGB4U",
     "main",
     "featured_collection_ihPiMp",
