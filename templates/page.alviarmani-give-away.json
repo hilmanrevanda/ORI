@@ -14,6 +14,54 @@
       "settings": {
       }
     },
+    "countdown_WmieQx": {
+      "type": "countdown",
+      "blocks": {
+        "content_DMaGqg": {
+          "type": "content",
+          "settings": {
+            "heading": "COUNTDOWN",
+            "heading_size": "h2",
+            "text": "<p>Time Left To Enroll<\/p>",
+            "content_alignment": "center"
+          }
+        },
+        "timer_4qaVie": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "08",
+            "day": "31",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "button_LtQT79": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_DMaGqg",
+        "timer_4qaVie",
+        "button_LtQT79"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000",
+        "background_color": "#FFF",
+        "overlay_color": "#000",
+        "overlay_opacity": 58,
+        "lazyload_images": true
+      }
+    },
     "slideshow_nbQ9Ea": {
       "type": "slideshow",
       "blocks": {
@@ -68,15 +116,234 @@
       "settings": {
         "style": "arrows",
         "desktop_size": -30,
-        "mobile_size": 0,
-        "autoplay": false,
+        "mobile_size": 10,
+        "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
+      }
+    },
+    "newsletter_pfwKXJ": {
+      "type": "newsletter",
+      "blocks": {
+        "title_kgLzUF": {
+          "type": "title",
+          "settings": {
+            "title": "STEP ONE: SIGN UP",
+            "heading_size": "h2"
+          }
+        },
+        "text_L4JTLH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to enroll and receive exclusive offers, giveaways, and insights into the newest products and blogs. <\/p>"
+          }
+        },
+        "form_ttRyX6": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_kgLzUF",
+        "text_L4JTLH",
+        "form_ttRyX6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify:\/\/shop_images\/2048800b1fdd97627d5c9b5_upscale.webp",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "advanced_content_CjxTqG": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_khqUDf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_RnCCRN": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>WINNERS CHOICES:<\/h2><p> 1) $500 Origenere Gift Certificate <br> 2) Three (3) Month Sempre System Bundle (Foam+Vitamins)<br> 3) Hair Transplant Kits (All Three)<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_khqUDf",
+        "liquid_RnCCRN"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_RLa3Ty": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_J8pWer": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qXHhV8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>RULES<\/h2><p>Enrollment Ends August 31 at 11:59PM. <br> Five (5) Winners will be picked at random on September 2nd. <br> To Enroll: <br> Become and Origenere \"A-List\" Subscriber. <br>\nRead and Comment on an Origenere Blog or Try and Review an Origenere Prodcut. <br> Open to all legal residents of the continental US and DC, who are 18+ years of age. No purchase necessary to enter or win giveaway. <\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_J8pWer",
+        "liquid_qXHhV8"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "fh_section_collection_grid_Mqa6gp": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_Q9zBmX": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sempre_results_landscape2.png",
+            "text": "",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_rmQPfd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Naturale_Hair_care_Result.png",
+            "text": "",
+            "url": "shopify:\/\/collections\/naturale-purity-collection"
+          }
+        },
+        "text_block_PRdCnx": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Buongiorno_anti_dandruff_result_tea_tree.png",
+            "text": "",
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Q9zBmX",
+        "text_block_rmQPfd",
+        "text_block_PRdCnx"
+      ],
+      "settings": {
+        "num_per_row": 3
+      }
+    },
+    "featured_collection_iVJEUn": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PHYSICIAN CURATED HAIR TRANSPLANT KITS",
+        "description": "Targeted Technology Curated Specifically To Optimize The Hair Transplant Journey",
+        "featured_text": "",
+        "home_featured_products": "hair-transplant-kits",
+        "rows": 2,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": false,
+        "alt": false
+      }
+    },
+    "fh_section_custom_list_VWLFx6": {
+      "type": "fh-section-custom-list",
+      "blocks": {
+        "text_block_mUBEF9": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/fruits-vegetables-scalp-health-nutrition-green-grapes-purple-grapes-kale-yellow-bell-pepper-lemons-carrots-squash-zucchini.jpg",
+            "heading": "THE MORE YOU KNOW THE MORE YOU GROW",
+            "description": "Core Principles of Hair Science And Scalp Health",
+            "btn_text": "See Articles",
+            "btn_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_zKQpcX": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
+            "heading": "BOTANICAL BRILLIANCE",
+            "description": "Leverage The Power of Nature To Improve Your Scalp and Hair Health",
+            "btn_text": "See Articles",
+            "btn_url": "shopify:\/\/blogs\/ingredient-spotlight",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
+        "text_block_RChLc7": {
+          "type": "text_block",
+          "settings": {
+            "reverse": true,
+            "image": "shopify:\/\/shop_images\/20488006dea97f3bf0ff1df_upscale.webp",
+            "heading": "HOLISTIC APPROACH",
+            "description": "DO IT YOURSELF REMEDIES FOR HAIR, SKIN AND SCALP HEALTH",
+            "btn_text": "SEE ARTICLES",
+            "btn_url": "shopify:\/\/blogs\/holistic-approach",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_mUBEF9",
+        "text_block_zKQpcX",
+        "text_block_RChLc7"
+      ],
+      "settings": {
+      }
+    },
+    "featured_video_NJQmM8": {
+      "type": "featured-video",
+      "settings": {
+        "title": "ORIGENERE HAIR PRODUCT BREAKDOWN",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=W5EKYO7B0aI",
+        "alt": false
       }
     }
   },
   "order": [
     "main",
-    "slideshow_nbQ9Ea"
+    "countdown_WmieQx",
+    "slideshow_nbQ9Ea",
+    "newsletter_pfwKXJ",
+    "advanced_content_CjxTqG",
+    "advanced_content_RLa3Ty",
+    "fh_section_collection_grid_Mqa6gp",
+    "featured_collection_iVJEUn",
+    "fh_section_custom_list_VWLFx6",
+    "featured_video_NJQmM8"
   ]
 }
