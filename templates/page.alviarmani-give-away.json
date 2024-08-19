@@ -333,6 +333,21 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=W5EKYO7B0aI",
         "alt": false
       }
+    },
+    "hero_video_jjMzT3": {
+      "type": "hero-video",
+      "settings": {
+        "title": "A Origenere - AlviArmani Collaboration",
+        "title_size": 80,
+        "subheading": "AlviArmani-Origenere Give Away",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/vimeo.com\/1000571022\/f9647a79c8?share=copy",
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -345,6 +360,7 @@
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
     "fh_section_custom_list_VWLFx6",
-    "featured_video_NJQmM8"
+    "featured_video_NJQmM8",
+    "hero_video_jjMzT3"
   ]
 }
