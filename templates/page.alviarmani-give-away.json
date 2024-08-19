@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -20,7 +21,7 @@
         "content_DMaGqg": {
           "type": "content",
           "settings": {
-            "heading": "COUNTDOWN",
+            "heading": "COUNTDOWN TO GIVEAWAY",
             "heading_size": "h2",
             "text": "<p>Time Left To Enroll<\/p>",
             "content_alignment": "center"
@@ -54,10 +55,10 @@
       ],
       "settings": {
         "layout": "banner",
-        "full_width": false,
-        "text_color": "#000",
-        "background_color": "#FFF",
-        "overlay_color": "#000",
+        "full_width": true,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
         "overlay_opacity": 58,
         "lazyload_images": true
       }
@@ -72,11 +73,11 @@
             "title_size": 61,
             "subheading": "What You Get On Next Slide",
             "link": "shopify:\/\/collections\/hair-transplant-kits",
-            "link_text": "Hair Transplant Kits",
-            "color_accent": "#000000",
+            "link_text": "",
+            "color_accent": "#ffffff",
             "text_align": "vertical-top horizontal-right",
-            "image": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png",
-            "image_mobile": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png"
+            "image": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg"
           }
         },
         "image_TLajUG": {
@@ -88,9 +89,9 @@
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "link_text": "",
             "color_accent": "#111111",
-            "text_align": "vertical-top horizontal-right",
-            "image": "shopify:\/\/shop_images\/Summer_Hair_Comb_876403fe-1fde-4c39-ac6d-6a0b8de4be87.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Summer_Hair_Comb_3aa6d465-aa25-4458-8b28-3c3669a82256.jpg"
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_7779.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_7779.jpg"
           }
         },
         "image_m8AgWz": {
@@ -103,8 +104,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Helix_01.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Helix_01.png"
+            "image": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere17.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere17.jpg"
           }
         }
       },
@@ -153,7 +154,7 @@
         "align_text": "center",
         "image": "shopify:\/\/shop_images\/2048800b1fdd97627d5c9b5_upscale.webp",
         "image_width": "33",
-        "image_mask": "none",
+        "image_mask": "rounded-wave",
         "image_position": "right",
         "top_padding": true,
         "bottom_padding": true
