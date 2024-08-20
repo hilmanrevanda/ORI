@@ -167,7 +167,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png",
-            "link": "",
+            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "width": "50%",
             "alignment": "center"
           }
@@ -199,7 +199,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Sempre_Testimonial2.png",
-            "link": "",
+            "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
             "width": "50%",
             "alignment": "center"
           }
@@ -222,6 +222,21 @@
         "space_around": false,
         "alt": false,
         "lazyload_images": true
+      }
+    },
+    "hero_video_jjMzT3": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 45,
+        "subheading": "AlviArmani-Origenere Give Away",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-right",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=W5EKYO7B0aI",
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "fh_section_collection_grid_Mqa6gp": {
@@ -330,23 +345,8 @@
       "type": "featured-video",
       "settings": {
         "title": "ORIGENERE HAIR PRODUCT BREAKDOWN",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=W5EKYO7B0aI",
+        "video_url": "https:\/\/vimeo.com\/1000571022?share=copy",
         "alt": false
-      }
-    },
-    "hero_video_jjMzT3": {
-      "type": "hero-video",
-      "settings": {
-        "title": "A Origenere - AlviArmani Collaboration",
-        "title_size": 80,
-        "subheading": "AlviArmani-Origenere Give Away",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/1000571022\/f9647a79c8?share=copy",
-        "section_height": "650px",
-        "mobile_height": "auto"
       }
     }
   },
@@ -357,10 +357,10 @@
     "newsletter_pfwKXJ",
     "advanced_content_CjxTqG",
     "advanced_content_RLa3Ty",
+    "hero_video_jjMzT3",
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
     "fh_section_custom_list_VWLFx6",
-    "featured_video_NJQmM8",
-    "hero_video_jjMzT3"
+    "featured_video_NJQmM8"
   ]
 }
