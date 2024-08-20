@@ -63,6 +63,14 @@
         "lazyload_images": true
       }
     },
+    "featured_video_m8Wy6n": {
+      "type": "featured-video",
+      "settings": {
+        "title": "ALVIARMANI-ORIGENERE GIVE AWAY",
+        "video_url": "https:\/\/vimeo.com\/1000571022?share=copy",
+        "alt": false
+      }
+    },
     "slideshow_nbQ9Ea": {
       "type": "slideshow",
       "blocks": {
@@ -340,19 +348,12 @@
       ],
       "settings": {
       }
-    },
-    "featured_video_m8Wy6n": {
-      "type": "featured-video",
-      "settings": {
-        "title": "ALVIARMANI-ORIGENERE GIVE AWAY",
-        "video_url": "https:\/\/vimeo.com\/1000571022?share=copy",
-        "alt": false
-      }
     }
   },
   "order": [
     "main",
     "countdown_WmieQx",
+    "featured_video_m8Wy6n",
     "slideshow_nbQ9Ea",
     "newsletter_pfwKXJ",
     "advanced_content_CjxTqG",
@@ -360,7 +361,6 @@
     "hero_video_jjMzT3",
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
-    "fh_section_custom_list_VWLFx6",
-    "featured_video_m8Wy6n"
+    "fh_section_custom_list_VWLFx6"
   ]
 }
