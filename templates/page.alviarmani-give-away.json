@@ -138,7 +138,7 @@
           "type": "title",
           "settings": {
             "title": "STEP ONE: SIGN UP",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_L4JTLH": {
@@ -237,7 +237,7 @@
       "settings": {
         "title": "",
         "title_size": 45,
-        "subheading": "AlviArmani-Origenere Give Away",
+        "subheading": "",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
