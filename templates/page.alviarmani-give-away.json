@@ -116,8 +116,8 @@
       ],
       "settings": {
         "style": "arrows",
-        "desktop_size": -30,
-        "mobile_size": 10,
+        "desktop_size": -40,
+        "mobile_size": 20,
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
@@ -235,8 +235,8 @@
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-bottom horizontal-right",
         "video_url": "https:\/\/www.youtube.com\/watch?v=W5EKYO7B0aI",
-        "section_height": "650px",
-        "mobile_height": "auto"
+        "section_height": "550px",
+        "mobile_height": "250px"
       }
     },
     "fh_section_collection_grid_Mqa6gp": {
