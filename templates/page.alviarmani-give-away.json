@@ -371,6 +371,22 @@
         "product_video_style": "muted",
         "sku_enable": false
       }
+    },
+    "blog_posts_mK9UEd": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "THE MORE YOU KNOW THE MORE YOU GROW",
+        "blog": "the-more-you-know-the-more-you-grow",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": true
+      }
     }
   },
   "order": [
@@ -385,6 +401,7 @@
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
     "fh_section_custom_list_VWLFx6",
-    "featured_product_V7TDYr"
+    "featured_product_V7TDYr",
+    "blog_posts_mK9UEd"
   ]
 }
