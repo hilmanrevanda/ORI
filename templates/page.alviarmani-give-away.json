@@ -74,51 +74,36 @@
     "slideshow_nbQ9Ea": {
       "type": "slideshow",
       "blocks": {
-        "image_rPEzpR": {
-          "type": "image",
-          "settings": {
-            "title": "Give Away Details.",
-            "title_size": 61,
-            "subheading": "What You Get On Next Slide",
-            "link": "shopify:\/\/collections\/hair-transplant-kits",
-            "link_text": "",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-top horizontal-right",
-            "image": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg"
-          }
-        },
         "image_TLajUG": {
           "type": "image",
           "settings": {
-            "title": "The Give.",
-            "title_size": 66,
+            "title": "The Give",
+            "title_size": 40,
             "subheading": "Hair Transplant Kits (All 3) Or 3 Months of Sempre Foam And Vitamins Or $500 Gift Certificate. Rules On Next Slide.",
             "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "link_text": "",
             "color_accent": "#111111",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/IMG_7779.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_7779.jpg"
+            "text_align": "vertical-top horizontal-left",
+            "image": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_7746_9fcc4ce7-206a-4350-ad24-ce610cbf54c5.jpg"
           }
         },
         "image_m8AgWz": {
           "type": "image",
           "settings": {
-            "title": "The Rules.",
-            "title_size": 80,
+            "title": "Rules",
+            "title_size": 40,
             "subheading": "5 Winners Will Be Selected At Random on September 2, 2024. Winners Can Select One Of The Options Presented. To Enroll Subscribe To Origenere's \"A - List\" and Read and Comment on One of Origenere Blogs or Try and Review an Origenere Product. Enrollment Ends August 31 2024 at 11:59PM",
             "link": "shopify:\/\/products\/naturale-hair-care-essentials-1",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere17.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere17.jpg"
+            "text_align": "vertical-top horizontal-center",
+            "image": "shopify:\/\/shop_images\/Origenere_balanced_diet_fruits_and_veggies.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Origenere_balanced_diet_fruits_and_veggies.jpg"
           }
         }
       },
       "block_order": [
-        "image_rPEzpR",
         "image_TLajUG",
         "image_m8AgWz"
       ],
