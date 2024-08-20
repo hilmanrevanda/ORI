@@ -183,7 +183,7 @@
         "liquid_RnCCRN": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2>WINNERS CHOICES:<\/h2><p> 1) $500 Origenere Gift Certificate <br> 2) Three (3) Month Sempre System Bundle (Foam+Vitamins)<br> 3) Hair Transplant Kits (All Three)<\/p>",
+            "code": "<center><b><h2>WINNERS CHOICES:<\/h2><p> 1) $500 Origenere Gift Certificate <br> 2) Three (3) Month Sempre System Bundle (Foam+Vitamins)<br> 3) Hair Transplant Kits (All Three)<\/p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -215,7 +215,7 @@
         "liquid_qXHhV8": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2>RULES<\/h2><p>Enrollment Ends August 31 at 11:59PM. <br> Five (5) Winners will be picked at random on September 2nd. <br> To Enroll: <br> Become and Origenere \"A-List\" Subscriber. <br>\nRead and Comment on an Origenere Blog or Try and Review an Origenere Prodcut. <br> Open to all legal residents of the continental US and DC, who are 18+ years of age. No purchase necessary to enter or win giveaway. <\/p>",
+            "code": "<center><B><h2>RULES<\/h2><p>Enrollment Ends August 31 at 11:59PM. <br> Five (5) Winners will be picked at random on September 2nd. <br> To Enroll: <br> Become and Origenere \"A-List\" Subscriber. <br>\nRead and Comment on an Origenere Blog or Try and Review an Origenere Prodcut. <br> Open to all legal residents of the continental US and DC, who are 18+ years of age. No purchase necessary to enter or win giveaway. <\/p>",
             "width": "50%",
             "alignment": "center"
           }
