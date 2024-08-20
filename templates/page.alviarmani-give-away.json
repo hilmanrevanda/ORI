@@ -183,7 +183,7 @@
         "liquid_RnCCRN": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2>WINNERS CHOICES:<\/h2><p> 1) $500 Origenere Gift Certificate <br> 2) Three (3) Month Sempre System Bundle (Foam+Vitamins)<br> 3) Hair Transplant Kits (All Three)<\/p>",
+            "code": "<center><strong><h2>WINNERS CHOICES:<\/h2><p> 1) $500 Origenere Gift Certificate <br> 2) Three (3) Month Sempre System Bundle (Foam+Vitamins)<br> 3) Hair Transplant Kits (All Three)<\/strong><\/p>",
             "width": "50%",
             "alignment": "center"
           }
