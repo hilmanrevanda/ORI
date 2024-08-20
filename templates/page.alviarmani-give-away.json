@@ -341,12 +341,19 @@
       "settings": {
       }
     },
-    "featured_video_NJQmM8": {
-      "type": "featured-video",
+    "hero_video_rnTNAV": {
+      "type": "hero-video",
       "settings": {
-        "title": "ORIGENERE HAIR PRODUCT BREAKDOWN",
+        "title": "",
+        "title_size": 80,
+        "subheading": "AlviArmani - Origenere Collaboration",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/vimeo.com\/1000571022?share=copy",
-        "alt": false
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     }
   },
@@ -361,6 +368,6 @@
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
     "fh_section_custom_list_VWLFx6",
-    "featured_video_NJQmM8"
+    "hero_video_rnTNAV"
   ]
 }
