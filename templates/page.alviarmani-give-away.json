@@ -348,6 +348,44 @@
       ],
       "settings": {
       }
+    },
+    "featured_product_V7TDYr": {
+      "type": "featured-product",
+      "blocks": {
+        "inventory_status_PpFY3d": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "price_byV4mw": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_QmPczm": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "inventory_status_PpFY3d",
+        "price_byV4mw",
+        "buy_buttons_QmPczm"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
+        "product_image_size": "large",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
     }
   },
   "order": [
@@ -361,6 +399,7 @@
     "hero_video_jjMzT3",
     "fh_section_collection_grid_Mqa6gp",
     "featured_collection_iVJEUn",
-    "fh_section_custom_list_VWLFx6"
+    "fh_section_custom_list_VWLFx6",
+    "featured_product_V7TDYr"
   ]
 }
