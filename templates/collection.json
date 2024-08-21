@@ -12,11 +12,11 @@
     "collection-header": {
       "type": "collection-header",
       "custom_css": [
-        ".collection-hero {margin-bottom: 0px; margin-top: 0px;}"
+        ".collection-hero {margin-bottom: 30px; margin-top: 30px;}"
       ],
       "settings": {
         "collection_image_enable": true,
-        "description_enable": true
+        "description_enable": false
       }
     },
     "fh_section_product_testimonial_W3ddAU": {
