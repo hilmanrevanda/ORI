@@ -9,6 +9,61 @@
 */
 {
   "sections": {
+    "fh_section_collection_grid_a9N4Um": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Origenere_Sempre.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
+            "text": "BUONGIORNO VITALITY",
+            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_CMTXRa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
+            "text": "NERO DETOX EXFOLIATING",
+            "url": "shopify:\/\/collections\/nero-detox-collection"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": "shopify:\/\/collections\/naturale-purity-collection"
+          }
+        },
+        "text_block_w3xYqL": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
+            "text": "ARANCIO PRESERVATION",
+            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_L7iPcd",
+        "text_block_FJYXiW",
+        "text_block_CMTXRa",
+        "text_block_8iMHhy",
+        "text_block_w3xYqL"
+      ],
+      "settings": {
+        "num_per_row": 4
+      }
+    },
     "slideshow_pJEQBi": {
       "type": "slideshow",
       "blocks": {
@@ -128,6 +183,24 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
+      }
+    },
+    "1715662332cf849823": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Yb8tEH": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Yb8tEH"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -286,61 +359,6 @@
         "autoplay": true,
         "autoplay_speed": 6,
         "lazyload_images": true
-      }
-    },
-    "fh_section_collection_grid_a9N4Um": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
-          }
-        },
-        "text_block_FJYXiW": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
-            "text": "BUONGIORNO VITALITY",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
-          }
-        },
-        "text_block_CMTXRa": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
-            "text": "NERO DETOX EXFOLIATING",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
-          }
-        },
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-            "text": "NATURALE THINNING HAIR",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
-          }
-        },
-        "text_block_w3xYqL": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "text": "ARANCIO PRESERVATION",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_L7iPcd",
-        "text_block_FJYXiW",
-        "text_block_CMTXRa",
-        "text_block_8iMHhy",
-        "text_block_w3xYqL"
-      ],
-      "settings": {
-        "num_per_row": 4
       }
     },
     "text_and_image_9kQbRh": {
@@ -502,7 +520,6 @@
         "image_Et78xJ",
         "image_cr3KH8"
       ],
-      "disabled": true,
       "settings": {
         "style": "fading",
         "title": "",
@@ -516,24 +533,6 @@
         "text_align": "vertical-center horizontal-center",
         "desktop_size": 20,
         "mobile_size": 0
-      }
-    },
-    "1715662332cf849823": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Yb8tEH": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Yb8tEH"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
       }
     },
     "rich_text_rDtzW6": {
@@ -624,7 +623,6 @@
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
         "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
@@ -757,12 +755,13 @@
     }
   },
   "order": [
+    "fh_section_collection_grid_a9N4Um",
     "slideshow_pJEQBi",
     "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
+    "1715662332cf849823",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
-    "fh_section_collection_grid_a9N4Um",
     "text_and_image_9kQbRh",
     "background_image_text_7RbCLx",
     "fh-section-product-category-grid",
@@ -772,7 +771,6 @@
     "fh_section_product_image_grid_mtB8PW",
     "text_and_image_xjgKdT",
     "hero_animated_niKnwL",
-    "1715662332cf849823",
     "rich_text_rDtzW6",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_waTcxK",
