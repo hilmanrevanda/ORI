@@ -463,6 +463,44 @@
         "background_color": "#ffffff"
       }
     },
+    "fh_section_products_grid_f4iiHd": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/fruits-vegetables-scalp-health-nutrition-green-grapes-purple-grapes-kale-yellow-bell-pepper-lemons-carrots-squash-zucchini.jpg",
+        "heading_left": "THE MORE YOU KNOW THE MORE YOU GROW",
+        "description_left": "Up Your Hair and Scalp Knowledge Game",
+        "btn_left_text": "Articles",
+        "btn_left_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+        "image_right": "shopify:\/\/shop_images\/IMG_7767.jpg",
+        "heading_right": "BOTANICAL BRILLIANCE",
+        "description_right": "Leveraging Knowledge Of Nature",
+        "btn_right_text": "Articles",
+        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight"
+      }
+    },
+    "featured_product_hHURjU": {
+      "type": "featured-product",
+      "blocks": {
+        "description_PRTxhr": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "description_PRTxhr"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
+        "product_image_size": "large",
+        "product_image_type": "slider",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -637,23 +675,6 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
-    },
-    "blog_posts_Y9fLMP": {
-      "type": "blog-posts",
-      "disabled": true,
-      "settings": {
-        "title": "LEARN MORE ON OUR BLOG",
-        "blog": "ingredient-spotlight",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": false,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "square",
-        "view_all": true,
-        "alt": false
-      }
     }
   },
   "order": [
@@ -673,11 +694,12 @@
     "text_and_image_xjgKdT",
     "hero_animated_niKnwL",
     "rich_text_rDtzW6",
+    "fh_section_products_grid_f4iiHd",
+    "featured_product_hHURjU",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "text_and_image_waTcxK",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_pa8hkh",
-    "fh-section-cta",
-    "blog_posts_Y9fLMP"
+    "fh-section-cta"
   ]
 }
