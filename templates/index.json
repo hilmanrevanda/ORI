@@ -94,97 +94,6 @@
         "lazyload_images": true
       }
     },
-    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5": {
-      "type": "slideshow",
-      "blocks": {
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1": {
-          "type": "image",
-          "settings": {
-            "title": "UNLOCK THE POWER \nOF YOUR DNA",
-            "title_size": 47,
-            "subheading": "PHYSICIAN FORMULATED HAIR CARE",
-            "link": "shopify:\/\/collections\/hair-care-hair-loss",
-            "link_text": "SHOP NOW",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_8935-3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_8935-3.jpg"
-          }
-        },
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4": {
-          "type": "image",
-          "settings": {
-            "title": "SAVE 25%",
-            "title_size": 86,
-            "subheading": "SCALP CARE SALE. CONDITIONS APPLY.",
-            "link": "shopify:\/\/collections\/hair-care-hair-loss",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Scalp_Care_Vitamins.png",
-            "image_mobile": "shopify:\/\/shop_images\/Scalp_Care_Vitamins.png"
-          }
-        },
-        "image_xUam77": {
-          "type": "image",
-          "settings": {
-            "title": "ALOE VERA",
-            "title_size": 60,
-            "subheading": "BOTANICAL BRILLIANCE: A Physician's Review",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight\/aloe-benefits-for-hair-a-physicians-review",
-            "link_text": "LEARN MORE",
-            "color_accent": "#ffffff",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify:\/\/shop_images\/Slices_of_Aloe_Vera_Botanical_Origenere29.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Aloe_Vera_Plant.jpg"
-          }
-        },
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1": {
-          "type": "image",
-          "settings": {
-            "title": "SEMPRE HAIR GROWTH",
-            "title_size": 53,
-            "subheading": "Physician Formulated, Naturally Infused",
-            "link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_towers_leaning_62981dee-ff39-4482-81d2-29d8c0c85de4.jpg"
-          }
-        },
-        "image_hEMipE": {
-          "type": "image",
-          "settings": {
-            "title": "NOURISH YOUR HAIR FROM WITHIN",
-            "title_size": 41,
-            "subheading": "Top Fruits and Vegetables for Optimal Hair Growth",
-            "link": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow\/top-picks-best-fruits-and-vegetables-for-hair-growth",
-            "link_text": "READ MORE",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--15750522044625__8e49a1b3-7184-4dad-8cf1-48bcad55bcc5-image-1",
-        "e9d06c6b-a865-4b77-bd7b-f5ea06259cc4",
-        "image_xUam77",
-        "dc786a1f-19ad-485c-b27f-35542ee9d3e1",
-        "image_hEMipE"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "dots",
-        "desktop_size": -10,
-        "mobile_size": 30,
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "1715662332cf849823": {
       "type": "apps",
       "blocks": {
@@ -224,21 +133,12 @@
             "enlarge_text": false,
             "text": "<h3>Struggling with thinning hair, excessive shedding, breakage, or a dry, itchy scalp? Our all-natural hair and skincare products are free from parabens, artificial fragrances, colors, dyes, sodium lauryl sulfate, & ammonium lauryl sulfate. <\/h3>"
           }
-        },
-        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "shopify:\/\/collections",
-            "link_text": "COLLECTIONS"
-          }
         }
       },
       "block_order": [
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
         "38ae4040-7838-493d-b248-5108007b2756",
-        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1",
-        "52a655c0-5d52-43d2-a600-7eb4bd00c7c0"
+        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1"
       ],
       "settings": {
         "align_text": "center",
@@ -383,21 +283,6 @@
         "lazyload_images": true
       }
     },
-    "background_image_text_7RbCLx": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "desktop_size": -20,
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "lazyload_images": true
-      }
-    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
@@ -411,6 +296,21 @@
         "description_right": "",
         "btn_right_text": "SHOP NOW",
         "btn_right_url": "shopify:\/\/collections\/skincare"
+      }
+    },
+    "background_image_text_7RbCLx": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "BEVERLY HILLS INNOVATION",
+        "title": "ITALIAN CRAFTSMANSHIP",
+        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+        "desktop_size": -20,
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "lazyload_images": true
       }
     },
     "hero_video_hFqAXm": {
@@ -757,14 +657,13 @@
   "order": [
     "fh_section_collection_grid_a9N4Um",
     "slideshow_pJEQBi",
-    "8e49a1b3-7184-4dad-8cf1-48bcad55bcc5",
     "1715662332cf849823",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "text_and_image_9kQbRh",
-    "background_image_text_7RbCLx",
     "fh-section-product-category-grid",
+    "background_image_text_7RbCLx",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
     "scrolling-text",
