@@ -15,9 +15,9 @@
         ".overflow-scroller__arrow {top: calc(50% + 30px);}"
       ],
       "settings": {
-        "title": "The Ingredients",
+        "title": "KEY INGREDIENTS",
         "description": "",
-        "per_row": "small",
+        "per_row": "large",
         "alt": true
       }
     },
