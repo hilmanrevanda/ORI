@@ -64,6 +64,21 @@
         "num_per_row": 4
       }
     },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify:\/\/collections\/hair-care-hair-loss",
+        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify:\/\/collections\/skincare"
+      }
+    },
     "slideshow_pJEQBi": {
       "type": "slideshow",
       "blocks": {
@@ -281,21 +296,6 @@
         "top_padding": true,
         "bottom_padding": true,
         "lazyload_images": true
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care-hair-loss",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
       }
     },
     "background_image_text_7RbCLx": {
@@ -658,13 +658,13 @@
   },
   "order": [
     "fh_section_collection_grid_a9N4Um",
+    "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "1715662332cf849823",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
     "text_and_image_9kQbRh",
-    "fh-section-product-category-grid",
     "background_image_text_7RbCLx",
     "hero_video_hFqAXm",
     "featured_collection_slider_Bk6Ke3",
