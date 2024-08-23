@@ -12,12 +12,12 @@
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
-        "text_block_L7iPcd": {
+        "text_block_8iMHhy": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Sempre.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
+            "text": "NATURALE THINNING HAIR",
+            "url": "shopify:\/\/collections\/naturale-purity-collection"
           }
         },
         "text_block_FJYXiW": {
@@ -36,14 +36,6 @@
             "url": "shopify:\/\/collections\/nero-detox-collection"
           }
         },
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-            "text": "NATURALE THINNING HAIR",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
-          }
-        },
         "text_block_w3xYqL": {
           "type": "text_block",
           "settings": {
@@ -51,14 +43,22 @@
             "text": "ARANCIO PRESERVATION",
             "url": "shopify:\/\/collections\/nourish-your-natural-glow"
           }
+        },
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3961-4.jpg",
+            "text": "SEMPRE HAIR GROWTH",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+          }
         }
       },
       "block_order": [
-        "text_block_L7iPcd",
+        "text_block_8iMHhy",
         "text_block_FJYXiW",
         "text_block_CMTXRa",
-        "text_block_8iMHhy",
-        "text_block_w3xYqL"
+        "text_block_w3xYqL",
+        "text_block_L7iPcd"
       ],
       "settings": {
         "num_per_row": 4
