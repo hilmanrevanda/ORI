@@ -9,6 +9,18 @@
 */
 {
   "sections": {
+    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
+      "type": "fh-section-product-ingredients",
+      "custom_css": [
+        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
+      ],
+      "settings": {
+        "title": "The Ingredients",
+        "description": "",
+        "per_row": "small",
+        "alt": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -145,18 +157,6 @@
         "lazyload_images": true
       }
     },
-    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
-      "type": "fh-section-product-ingredients",
-      "custom_css": [
-        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
-      ],
-      "settings": {
-        "title": "The Ingredients",
-        "description": "",
-        "per_row": "small",
-        "alt": true
-      }
-    },
     "fh-section-product-testimonial": {
       "type": "fh-section-product-testimonial",
       "settings": {
@@ -279,10 +279,10 @@
     }
   },
   "order": [
+    "5c4d193f-12be-430d-acf9-a14c90acc28e",
     "main",
     "sub",
     "text-and-image",
-    "5c4d193f-12be-430d-acf9-a14c90acc28e",
     "fh-section-product-testimonial",
     "4c3f1f16-996c-4355-a930-c1142655902b",
     "product-recommendations",
