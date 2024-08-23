@@ -64,6 +64,24 @@
         "num_per_row": 4
       }
     },
+    "1715662332cf849823": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Yb8tEH": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Yb8tEH"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
@@ -107,24 +125,6 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
-      }
-    },
-    "1715662332cf849823": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Yb8tEH": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Yb8tEH"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -658,9 +658,9 @@
   },
   "order": [
     "fh_section_collection_grid_a9N4Um",
+    "1715662332cf849823",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
-    "1715662332cf849823",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
