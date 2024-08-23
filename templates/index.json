@@ -420,6 +420,7 @@
         "image_Et78xJ",
         "image_cr3KH8"
       ],
+      "disabled": true,
       "settings": {
         "style": "fading",
         "title": "",
@@ -523,6 +524,7 @@
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
         "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
