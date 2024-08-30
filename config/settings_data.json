@@ -242,6 +242,12 @@
           "css_selector": "h5",
           "custom_css": ""
         }
+      },
+      "5134484470793087125": {
+        "type": "shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
