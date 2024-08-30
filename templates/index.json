@@ -9,6 +9,35 @@
 */
 {
   "sections": {
+    "slideshow_adjLxi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CBgPUC": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/hair-care-hair-loss",
+            "link_text": "SHOP NOW - MONDAY 9.1.24",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/hairloss_sale_August_Origenere.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_CBgPUC"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -675,39 +704,10 @@
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
       }
-    },
-    "slideshow_adjLxi": {
-      "type": "slideshow",
-      "blocks": {
-        "image_CBgPUC": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide title.",
-            "title_size": 80,
-            "subheading": "And an optional subheading",
-            "link": "",
-            "link_text": "Optional button",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_Tranplant_kit_botanicals.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_CBgPUC"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
+    "slideshow_adjLxi",
     "fh_section_collection_grid_a9N4Um",
     "1715662332cf849823",
     "fh-section-product-category-grid",
@@ -730,7 +730,6 @@
     "text_and_image_waTcxK",
     "4158dc4d-e39f-4bb9-90bb-b6bda71b6213",
     "text_and_image_pa8hkh",
-    "fh-section-cta",
-    "slideshow_adjLxi"
+    "fh-section-cta"
   ]
 }
