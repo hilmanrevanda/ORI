@@ -102,6 +102,7 @@
       "block_order": [
         "image_CBgPUC"
       ],
+      "disabled": true,
       "settings": {
         "style": "arrows",
         "desktop_size": 0,
