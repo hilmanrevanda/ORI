@@ -9,36 +9,6 @@
 */
 {
   "sections": {
-    "slideshow_adjLxi": {
-      "type": "slideshow",
-      "blocks": {
-        "image_CBgPUC": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/hair-care-hair-loss",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hair_Loss_Awareness_Origenere.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_CBgPUC"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -110,6 +80,35 @@
       "settings": {
         "full_width": true,
         "space_around": false
+      }
+    },
+    "slideshow_adjLxi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CBgPUC": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/hair-care-hair-loss",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Hair_Loss_Awareness_Origenere.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_CBgPUC"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
       }
     },
     "fh-section-product-category-grid": {
@@ -708,9 +707,9 @@
     }
   },
   "order": [
-    "slideshow_adjLxi",
     "fh_section_collection_grid_a9N4Um",
     "1715662332cf849823",
+    "slideshow_adjLxi",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
