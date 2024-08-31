@@ -266,33 +266,6 @@
         "speed": 300
       }
     },
-    "rich_text_rDtzW6": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8hEQfb": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "heading_cY4PBD": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_8hEQfb",
-        "heading_cY4PBD"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
-      }
-    },
     "fh_section_products_grid_f4iiHd": {
       "type": "fh-section-products-grid",
       "settings": {
@@ -408,7 +381,6 @@
     "text_and_image_MHzh9j",
     "text_and_image_9kQbRh",
     "scrolling-text",
-    "rich_text_rDtzW6",
     "fh_section_products_grid_f4iiHd",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-cta"
