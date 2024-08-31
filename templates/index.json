@@ -111,6 +111,23 @@
         "lazyload_images": true
       }
     },
+    "1725064627d0fb0cc0": {
+      "type": "apps",
+      "blocks": {
+        "vitals_insta_feed_TJNK8W": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/insta-feed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_insta_feed_TJNK8W"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
@@ -303,23 +320,6 @@
         "autoplay": true,
         "autoplay_speed": 6,
         "lazyload_images": true
-      }
-    },
-    "1725064627d0fb0cc0": {
-      "type": "apps",
-      "blocks": {
-        "vitals_insta_feed_TJNK8W": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/insta-feed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "vitals_insta_feed_TJNK8W"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "text_and_image_9kQbRh": {
@@ -617,12 +617,12 @@
     "fh_section_collection_grid_a9N4Um",
     "1715662332cf849823",
     "slideshow_adjLxi",
+    "1725064627d0fb0cc0",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "slideshow_yVP8XA",
-    "1725064627d0fb0cc0",
     "text_and_image_9kQbRh",
     "background_image_text_7RbCLx",
     "hero_video_hFqAXm",
