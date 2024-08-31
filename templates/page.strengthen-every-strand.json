@@ -214,7 +214,7 @@
         "heading_size": "h1",
         "heading_position": "center",
         "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.png",
-        "indent_image": true,
+        "indent_image": false,
         "image_position": "left",
         "hotspot_style": "plus",
         "hotspot_color": "#5310ef",
