@@ -64,9 +64,15 @@
         },
         "inventory_status": {
           "type": "inventory_status",
+          "disabled": true,
           "settings": {
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
+          }
+        },
+        "vitals_trust_L4zeFi": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
           }
         },
         "buy_buttons": {
@@ -74,11 +80,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true
-          }
-        },
-        "vitals_trust_L4zeFi": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
           }
         },
         "description": {
@@ -117,8 +118,8 @@
         "variant_picker",
         "sales_point",
         "inventory_status",
-        "buy_buttons",
         "vitals_trust_L4zeFi",
+        "buy_buttons",
         "description",
         "tab",
         "contact",
