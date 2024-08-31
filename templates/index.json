@@ -524,29 +524,6 @@
         "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight"
       }
     },
-    "featured_product_hHURjU": {
-      "type": "featured-product",
-      "blocks": {
-        "description_PRTxhr": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        }
-      },
-      "block_order": [
-        "description_PRTxhr"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
-        "product_image_size": "large",
-        "product_image_type": "slider",
-        "product_zoom_enable": true,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -656,7 +633,6 @@
     "hero_animated_niKnwL",
     "rich_text_rDtzW6",
     "fh_section_products_grid_f4iiHd",
-    "featured_product_hHURjU",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-cta"
   ]
