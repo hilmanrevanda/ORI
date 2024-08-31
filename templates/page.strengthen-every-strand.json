@@ -44,9 +44,9 @@
         "heading_size": "h1",
         "heading_position": "center",
         "image": "shopify:\/\/shop_images\/Naturale-Shampoo-Naturale-Conditioner-for-thinning-hair-against-saw-palmetto_1.jpg",
-        "indent_image": true,
+        "indent_image": false,
         "image_position": "left",
-        "hotspot_style": "plus",
+        "hotspot_style": "tag",
         "hotspot_color": "#000000",
         "lazyload_images": true
       }
