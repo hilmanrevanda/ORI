@@ -231,97 +231,6 @@
         "lazyload_images": false
       }
     },
-    "slideshow_yVP8XA": {
-      "type": "slideshow",
-      "blocks": {
-        "image_pcbM8r": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
-          }
-        },
-        "image_ATBUN4": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
-          }
-        },
-        "image_fxGLqt": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
-          }
-        },
-        "image_PbMgC9": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
-          }
-        },
-        "image_M6BJt7": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_pcbM8r",
-        "image_ATBUN4",
-        "image_fxGLqt",
-        "image_PbMgC9",
-        "image_M6BJt7"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "dots",
-        "desktop_size": 10,
-        "mobile_size": 0,
-        "autoplay": true,
-        "autoplay_speed": 6,
-        "lazyload_images": true
-      }
-    },
     "text_and_image_9kQbRh": {
       "type": "text-and-image",
       "disabled": true,
@@ -359,32 +268,6 @@
         "lazyload_images": true
       }
     },
-    "hero_video_hFqAXm": {
-      "type": "hero-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "title_size": 89,
-        "subheading": "",
-        "link_text": "",
-        "link": "https:\/\/vimeo.com\/927410891",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/927410891",
-        "section_height": "750px",
-        "mobile_height": "auto"
-      }
-    },
-    "featured_collection_slider_Bk6Ke3": {
-      "type": "featured-collection-slider",
-      "settings": {
-        "title": "HAIR CARE FOR THINNING HAIR",
-        "description": "SUBSCRIBE & SAVE WITH MONTHLY OR 3 MONTH SUBSCRIPTIONS",
-        "home_featured_products": "naturale-purity-collection",
-        "per_row": "medium",
-        "alt": false
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -396,90 +279,6 @@
         "color_scheme": "button",
         "direction": "left",
         "speed": 300
-      }
-    },
-    "fh_section_product_image_grid_mtB8PW": {
-      "type": "fh-section-product-image-grid",
-      "disabled": true,
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Study_Results.png",
-        "image_right": "shopify:\/\/shop_images\/SempreDuoSemprefoamingredients.png"
-      }
-    },
-    "text_and_image_xjgKdT": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3777-2.jpg",
-        "image_mask": "none",
-        "image2_mask": "square",
-        "subtitle": "HAIR CARE FOR THINNING HAIR",
-        "title": "NATURALE",
-        "text": "<p>Naturale is our purity line.  Its hypoallergenic formula was designed without any fragrance or pigment for patients with eczema and sensitive skin.  See each product for its unique benefits: all products contain antioxidants, nutrients, vitamins, and botanicals known to help combat thinning hair and improve hair and skin health.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/naturale-purity-collection",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "left",
-        "alt": true,
-        "top_padding": false,
-        "bottom_padding": false,
-        "lazyload_images": true
-      }
-    },
-    "hero_animated_niKnwL": {
-      "type": "hero-animated",
-      "blocks": {
-        "image_mFjyt8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
-          }
-        },
-        "image_B8Meyj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png"
-          }
-        },
-        "image_Et78xJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
-          }
-        },
-        "image_cr3KH8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_mFjyt8",
-        "image_B8Meyj",
-        "image_Et78xJ",
-        "image_cr3KH8"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "fading",
-        "title": "",
-        "title_size": 30,
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "link_learn_more": "",
-        "link_text_learn_more": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "desktop_size": 20,
-        "mobile_size": 0
       }
     },
     "rich_text_rDtzW6": {
@@ -622,15 +421,9 @@
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
-    "slideshow_yVP8XA",
     "text_and_image_9kQbRh",
     "background_image_text_7RbCLx",
-    "hero_video_hFqAXm",
-    "featured_collection_slider_Bk6Ke3",
     "scrolling-text",
-    "fh_section_product_image_grid_mtB8PW",
-    "text_and_image_xjgKdT",
-    "hero_animated_niKnwL",
     "rich_text_rDtzW6",
     "fh_section_products_grid_f4iiHd",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
