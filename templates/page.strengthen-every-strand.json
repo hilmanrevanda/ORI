@@ -221,21 +221,6 @@
         "lazyload_images": true
       }
     },
-    "fh_section_products_grid_dxm4tw": {
-      "type": "fh-section-products-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sage.webp",
-        "heading_left": "Benefits of Sage For Hair",
-        "description_left": "",
-        "btn_left_text": "learn more",
-        "btn_left_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
-        "image_right": "shopify:\/\/shop_images\/Olive_Leaf_Extract.jpg",
-        "heading_right": "Olive Leaf Benefits For Hair And Skin",
-        "description_right": "",
-        "btn_right_text": "Learn more",
-        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
-      }
-    },
     "fh_section_collection_grid_HPxk7m": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -281,6 +266,21 @@
       "settings": {
         "num_per_row": 3
       }
+    },
+    "fh_section_products_grid_dxm4tw": {
+      "type": "fh-section-products-grid",
+      "settings": {
+        "image_left": "shopify:\/\/shop_images\/Sage.webp",
+        "heading_left": "Benefits of Sage For Hair",
+        "description_left": "",
+        "btn_left_text": "learn more",
+        "btn_left_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
+        "image_right": "shopify:\/\/shop_images\/Olive_Leaf_Extract.jpg",
+        "heading_right": "Olive Leaf Benefits For Hair And Skin",
+        "description_right": "",
+        "btn_right_text": "Learn more",
+        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
+      }
     }
   },
   "order": [
@@ -291,7 +291,7 @@
     "172507810021339627",
     "testimonials_mchcrh",
     "hotspots_CHUFXy",
-    "fh_section_products_grid_dxm4tw",
-    "fh_section_collection_grid_HPxk7m"
+    "fh_section_collection_grid_HPxk7m",
+    "fh_section_products_grid_dxm4tw"
   ]
 }
