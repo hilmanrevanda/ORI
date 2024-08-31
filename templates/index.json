@@ -266,21 +266,6 @@
         "speed": 300
       }
     },
-    "fh_section_products_grid_f4iiHd": {
-      "type": "fh-section-products-grid",
-      "settings": {
-        "image_left": "shopify:\/\/shop_images\/fruits-vegetables-scalp-health-nutrition-green-grapes-purple-grapes-kale-yellow-bell-pepper-lemons-carrots-squash-zucchini.jpg",
-        "heading_left": "THE MORE YOU KNOW THE MORE YOU GROW",
-        "description_left": "Up Your Hair and Scalp Knowledge Game",
-        "btn_left_text": "Articles",
-        "btn_left_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
-        "image_right": "shopify:\/\/shop_images\/IMG_7767.jpg",
-        "heading_right": "BOTANICAL BRILLIANCE",
-        "description_right": "Leveraging Knowledge Of Nature",
-        "btn_right_text": "Articles",
-        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight"
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -381,7 +366,6 @@
     "text_and_image_MHzh9j",
     "text_and_image_9kQbRh",
     "scrolling-text",
-    "fh_section_products_grid_f4iiHd",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-cta"
   ]
