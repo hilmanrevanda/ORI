@@ -76,6 +76,11 @@
             "surface_pickup_enable": true
           }
         },
+        "vitals_trust_L4zeFi": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -113,6 +118,7 @@
         "sales_point",
         "inventory_status",
         "buy_buttons",
+        "vitals_trust_L4zeFi",
         "description",
         "tab",
         "contact",
