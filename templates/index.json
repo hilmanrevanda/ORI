@@ -253,21 +253,6 @@
         "lazyload_images": true
       }
     },
-    "background_image_text_7RbCLx": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
-        "button_label": "LEARN MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "desktop_size": -20,
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "lazyload_images": true
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -422,7 +407,6 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "text_and_image_MHzh9j",
     "text_and_image_9kQbRh",
-    "background_image_text_7RbCLx",
     "scrolling-text",
     "rich_text_rDtzW6",
     "fh_section_products_grid_f4iiHd",
