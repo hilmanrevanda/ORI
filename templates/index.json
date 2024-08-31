@@ -95,7 +95,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/20_Hair_loss_sale.png"
+            "image": "shopify:\/\/shop_images\/20_Hair_loss_sale.png",
+            "image_mobile": "shopify:\/\/shop_images\/20_Hair_loss_sale.png"
           }
         }
       },
@@ -109,23 +110,6 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
-      }
-    },
-    "1725064627d0fb0cc0": {
-      "type": "apps",
-      "blocks": {
-        "vitals_insta_feed_TJNK8W": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/insta-feed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "vitals_insta_feed_TJNK8W"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "fh-section-product-category-grid": {
@@ -301,7 +285,6 @@
     "fh_section_collection_grid_a9N4Um",
     "1715662332cf849823",
     "slideshow_adjLxi",
-    "1725064627d0fb0cc0",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
