@@ -208,64 +208,6 @@
         "background_color": "#000000"
       }
     },
-    "text_and_image_MHzh9j": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Sempre_Foam_white.jpg",
-        "image_mask": "portrait",
-        "image2": "shopify:\/\/shop_images\/Sempre_Vitamins_Tower_beaker.jpg",
-        "image2_mask": "portrait",
-        "subtitle": "Rooted in Nature, Refined by Science",
-        "title": "SEMPRE HAIR GROWTH",
-        "text": "<p>Sempre hair growth foam & vitamins contain our ORGANONUTRIENTS and proprietary botanical blend crafted after 15 years of research. We combined natural plant ingredients with modern technology to create the appearance of thicker, healthier hair.<\/p>",
-        "button_label": "SHOP NOW",
-        "button_link": "shopify:\/\/pages\/sempre-hair-growth",
-        "button_style": "secondary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "right",
-        "alt": true,
-        "top_padding": false,
-        "bottom_padding": true,
-        "lazyload_images": false
-      }
-    },
-    "text_and_image_9kQbRh": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "BEVERLY HILLS INNOVATION",
-        "title": "ITALIAN CRAFTSMANSHIP",
-        "text": "<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Italy.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "50",
-        "layout": "right",
-        "alt": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "settings": {
-        "text": "SEMPRE HAIR GROWTH ORGANONUTRIENTS - PHYSICIAN FORMULATED, ALL NATURAL BOTANICALS",
-        "link": "shopify:\/\/collections\/sempre-hair-growth-collection",
-        "text_size": 22,
-        "text_spacing": true,
-        "color_scheme": "button",
-        "direction": "left",
-        "speed": 300
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -363,9 +305,6 @@
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
-    "text_and_image_MHzh9j",
-    "text_and_image_9kQbRh",
-    "scrolling-text",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-cta"
   ]
