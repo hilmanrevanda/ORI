@@ -9,6 +9,59 @@
 */
 {
   "sections": {
+    "slideshow_YfFwLV": {
+      "type": "slideshow",
+      "blocks": {
+        "image_G4UUk9": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png",
+            "image_mobile": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_G4UUk9"
+      ],
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "1725159548e942c71e": {
+      "type": "apps",
+      "blocks": {
+        "vitals_insta_feed_P3yGjw": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/insta-feed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
+        "vitals_trust_ah3YMH": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_insta_feed_P3yGjw",
+        "vitals_trust_ah3YMH"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -62,36 +115,6 @@
       ],
       "settings": {
         "num_per_row": 4
-      }
-    },
-    "slideshow_YfFwLV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_G4UUk9": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/collections",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png",
-            "image_mobile": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_G4UUk9"
-      ],
-      "settings": {
-        "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
       }
     },
     "slideshow_adjLxi": {
@@ -295,8 +318,9 @@
     }
   },
   "order": [
-    "fh_section_collection_grid_a9N4Um",
     "slideshow_YfFwLV",
+    "1725159548e942c71e",
+    "fh_section_collection_grid_a9N4Um",
     "slideshow_adjLxi",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
