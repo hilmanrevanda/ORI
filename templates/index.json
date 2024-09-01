@@ -42,11 +42,6 @@
     "1725159548e942c71e": {
       "type": "apps",
       "blocks": {
-        "vitals_insta_feed_P3yGjw": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/insta-feed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
         "vitals_trust_ah3YMH": {
           "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
@@ -54,7 +49,6 @@
         }
       },
       "block_order": [
-        "vitals_insta_feed_P3yGjw",
         "vitals_trust_ah3YMH"
       ],
       "settings": {
