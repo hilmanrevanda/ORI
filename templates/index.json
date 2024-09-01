@@ -36,7 +36,7 @@
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "1725159548e942c71e": {
