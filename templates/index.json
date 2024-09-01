@@ -12,7 +12,7 @@
     "slideshow_YfFwLV": {
       "type": "slideshow",
       "blocks": {
-        "image_G4UUk9": {
+        "image_KcnLdJ": {
           "type": "image",
           "settings": {
             "title": "",
@@ -22,13 +22,13 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png",
-            "image_mobile": "shopify:\/\/shop_images\/Hairloss_Awareness_Sale_Origenere.png"
+            "image": "shopify:\/\/shop_images\/20_Hair_loss_sale.png",
+            "image_mobile": "shopify:\/\/shop_images\/20_Hair_loss_sale.png"
           }
         }
       },
       "block_order": [
-        "image_G4UUk9"
+        "image_KcnLdJ"
       ],
       "settings": {
         "style": "minimal",
