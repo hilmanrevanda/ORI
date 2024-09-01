@@ -16,12 +16,12 @@
           "type": "image",
           "settings": {
             "title": "DISCOVER OUR PHYSICIAN FORMULATED COLLECTIONS",
-            "title_size": 53,
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "image": "shopify:\/\/shop_images\/IMG_3410.jpg"
           }
         }
