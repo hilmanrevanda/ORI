@@ -18,10 +18,10 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify:\/\/collections",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "link": "shopify:\/\/collections\/all-natural-hair-care",
+            "link_text": "Shop Hair Care Now",
+            "color_accent": "#edd824",
+            "text_align": "vertical-bottom horizontal-center",
             "image": "shopify:\/\/shop_images\/20-hair-loss-sale.jpg",
             "image_mobile": "shopify:\/\/shop_images\/20-hair-loss-sale.jpg"
           }
