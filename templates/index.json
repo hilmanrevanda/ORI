@@ -150,6 +150,7 @@
     },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
+      "disabled": true,
       "settings": {
         "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
         "heading_left": "HAIRCARE",
@@ -184,6 +185,7 @@
       "block_order": [
         "image_thiPMe"
       ],
+      "disabled": true,
       "settings": {
         "style": "minimal",
         "desktop_size": 0,
