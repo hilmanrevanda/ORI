@@ -225,6 +225,20 @@
         "background_color": "#000000"
       }
     },
+    "featured_collection_9X6zE7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NATURALE PURITY COLLECTION",
+        "description": "DESIGNED FOR THINNING HAIR",
+        "featured_text": "",
+        "home_featured_products": "naturale-purity-collection",
+        "rows": 1,
+        "per_row_desktop": 3,
+        "per_row_mobile": "2",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -322,6 +336,7 @@
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
+    "featured_collection_9X6zE7",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "fh-section-cta"
   ]
