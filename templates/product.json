@@ -64,7 +64,6 @@
         },
         "inventory_status": {
           "type": "inventory_status",
-          "disabled": true,
           "settings": {
             "inventory_threshold": 10,
             "inventory_transfers_enable": true
@@ -262,16 +261,6 @@
     },
     "1693529675d946b804": {
       "type": "apps",
-      "blocks": {
-        "omnisend_email_marketing_sms_product_reviews_BJk9K3": {
-          "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/product-reviews\/44704aa2-794f-4c5d-8c8e-039c841158e9",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "omnisend_email_marketing_sms_product_reviews_BJk9K3"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
