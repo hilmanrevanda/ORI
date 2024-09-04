@@ -41,7 +41,7 @@
         "mobile_logo_width": 100,
         "logo_hide_mobile": true,
         "main_menu_link_list": "main-menu",
-        "hover_menu": false
+        "hover_menu": true
       }
     }
   },
