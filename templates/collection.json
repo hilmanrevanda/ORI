@@ -19,12 +19,6 @@
         "description_enable": false
       }
     },
-    "fh_section_product_testimonial_W3ddAU": {
-      "type": "fh-section-product-testimonial",
-      "settings": {
-        "testimonial_text": ""
-      }
-    },
     "collection-filters": {
       "type": "collection-filters",
       "settings": {
@@ -69,7 +63,6 @@
   },
   "order": [
     "collection-header",
-    "fh_section_product_testimonial_W3ddAU",
     "collection-filters",
     "main-collection",
     "blog_posts_ENdr66"
