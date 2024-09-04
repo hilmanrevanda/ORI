@@ -21,6 +21,7 @@
     },
     "collection-filters": {
       "type": "collection-filters",
+      "disabled": true,
       "settings": {
         "enable_color_swatches": false,
         "collection_sort_enable": false
