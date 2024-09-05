@@ -125,14 +125,14 @@
     "1693529675d946b804": {
       "type": "apps",
       "blocks": {
-        "vitals_ub_product_bundles_mmwcqb": {
+        "vitals_ub_product_bundles_7fAp3E": {
           "type": "shopify:\/\/apps\/vitals\/blocks\/ub-product-bundles\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
           }
         }
       },
       "block_order": [
-        "vitals_ub_product_bundles_mmwcqb"
+        "vitals_ub_product_bundles_7fAp3E"
       ],
       "settings": {
         "full_width": false,
