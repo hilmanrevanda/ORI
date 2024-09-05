@@ -9,18 +9,6 @@
 */
 {
   "sections": {
-    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
-      "type": "fh-section-product-ingredients",
-      "custom_css": [
-        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
-      ],
-      "settings": {
-        "title": "KEY INGREDIENTS",
-        "description": "",
-        "per_row": "medium",
-        "alt": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -134,6 +122,35 @@
         "sku_enable": false
       }
     },
+    "1693529675d946b804": {
+      "type": "apps",
+      "blocks": {
+        "vitals_ub_product_bundles_mmwcqb": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/ub-product-bundles\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_ub_product_bundles_mmwcqb"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
+      "type": "fh-section-product-ingredients",
+      "custom_css": [
+        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
+      ],
+      "settings": {
+        "title": "KEY INGREDIENTS",
+        "description": "",
+        "per_row": "medium",
+        "alt": true
+      }
+    },
     "sub": {
       "type": "product-full-width",
       "disabled": true,
@@ -167,6 +184,27 @@
       "type": "fh-section-product-testimonial",
       "settings": {
         "testimonial_text": ""
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 14
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "171955160903592c17": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "4c3f1f16-996c-4355-a930-c1142655902b": {
@@ -244,46 +282,18 @@
         "alt": false,
         "has_icon": false
       }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "disabled": true,
-      "settings": {
-        "product_recommendations_heading": "You may also like",
-        "related_count": 14
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "1693529675d946b804": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "171955160903592c17": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
-    "5c4d193f-12be-430d-acf9-a14c90acc28e",
     "main",
+    "1693529675d946b804",
+    "5c4d193f-12be-430d-acf9-a14c90acc28e",
     "sub",
     "text-and-image",
     "fh-section-product-testimonial",
-    "4c3f1f16-996c-4355-a930-c1142655902b",
     "product-recommendations",
     "collection-return",
-    "1693529675d946b804",
-    "171955160903592c17"
+    "171955160903592c17",
+    "4c3f1f16-996c-4355-a930-c1142655902b"
   ]
 }
