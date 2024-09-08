@@ -115,7 +115,7 @@
       "settings": {
         "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
         "blog": "the-more-you-know-the-more-you-grow",
-        "post_limit": 6,
+        "post_limit": 12,
         "blog_show_tags": false,
         "blog_show_date": true,
         "blog_show_comments": false,
