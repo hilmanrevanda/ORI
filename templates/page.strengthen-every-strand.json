@@ -22,16 +22,16 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Naturale_Hair_care_Result.png",
-            "link": "",
-            "width": "50%",
+            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "width": "33%",
             "alignment": "center"
           }
         },
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>Strands In Retreat Mode?<\/h2><\/strong><p>You are not alone and you are in the right place to find a solution. Hair products for thinning hair are becoming increasingly popular as people seek ways to maintain their locks. <br><strong>Naturale by Origenere provides a natural hypoallergenic line designed to treat thinning hair effectively.<\/strong> Naturale hair care is pioneering a shift towards <strong>nature-based solutions for thinning hair.<\/strong> With a collection of thoughtfully designed products, it appeals to those with hair loss, sensitive skin and a penchant for purity.<\/p><\/center>",
-            "width": "50%",
+            "code": "<center><h2><strong>STRANDS IN RETREAT MODE?<\/h2><\/strong><p>You are not alone.  Hair products for thinning hair are becoming increasingly popular as people seek ways to maintain their locks. <br><strong>Naturale by Origenere provides a natural hypoallergenic line designed to treat thinning hair effectively.<\/strong> Naturale hair care is pioneering a shift towards <strong>nature-based solutions for thinning hair.<\/strong> With a collection of <strong>thoughtfully designed products by clinicians<\/strong>, it appeals to those with hair loss, sensitive skin and a penchant for purity.<\/p><\/center>",
+            "width": "66%",
             "alignment": "center"
           }
         }
@@ -116,7 +116,7 @@
         "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
         "alt": false,
@@ -167,6 +167,43 @@
         "alt": true
       }
     },
+    "featured_product_hyB3QX": {
+      "type": "featured-product",
+      "blocks": {
+        "price_nDNexj": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_ywneYN": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "buy_buttons_bg48yh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_nDNexj",
+        "description_ywneYN",
+        "buy_buttons_bg48yh"
+      ],
+      "settings": {
+        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "hotspots_CHUFXy": {
       "type": "hotspots",
       "blocks": {
@@ -209,6 +246,7 @@
         "product_YiUYBc",
         "product_jcQyzF"
       ],
+      "disabled": true,
       "settings": {
         "title": "NATURALE PURITY COLLECTION FOR THINNING HAIR BY ORIGENERE",
         "heading_size": "h1",
@@ -290,6 +328,7 @@
     "text_with_icons_6QWGce",
     "172507810021339627",
     "testimonials_mchcrh",
+    "featured_product_hyB3QX",
     "hotspots_CHUFXy",
     "fh_section_collection_grid_HPxk7m",
     "fh_section_products_grid_dxm4tw"
