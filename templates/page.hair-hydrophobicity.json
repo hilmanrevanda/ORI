@@ -21,7 +21,7 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Naturale_Hair_care_Result.png",
+            "image": "shopify:\/\/shop_images\/shutterstock_1850556280.jpg",
             "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "33%",
             "alignment": "center"
@@ -30,7 +30,7 @@
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>STRANDS IN RETREAT MODE?<\/h2><\/strong><p>You are not alone.  Hair products for thinning hair are becoming increasingly popular as people seek ways to maintain their locks. <br><strong>Naturale by Origenere provides a natural hypoallergenic line designed to treat thinning hair effectively.<\/strong> Naturale hair care is pioneering a shift towards <strong>nature-based solutions for thinning hair.<\/strong> With a collection of <strong>thoughtfully designed products by clinicians<\/strong>, it appeals to those with hair loss, sensitive skin and a penchant for purity.<\/p><\/center>",
+            "code": "<center><h2><strong>HYDROPHOBICITY.<\/strong> THE KEY TO HEALTHY STRANDS<\/h2><p>The <Strong>Hair Shaft's Ability To Repel Water Is Critcial <\/Strong> to Its Overall Health. The Hair Shaft Has <Strong>A Layer of Fatty Acids That Attach To Its Outer Layer <\/Strong> Which Are Critical To Its Ability to Repel Water.  <Strong>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer<\/Strong>. As A Result, The Hair Shaft Is Not Able To Repel Water and Swells. This Swelling Leads To Fragility and Damaged Hair. <\/p><\/center>",
             "width": "66%",
             "alignment": "center"
           }
@@ -53,14 +53,14 @@
         "heading_JERqDT": {
           "type": "heading",
           "settings": {
-            "title": "INGREDIENT CURATION BY PANEL OF HAIR CARE EXPERTS"
+            "title": "RESTORE YOUR HAIR HYDROPHOBICITY"
           }
         },
         "text_Gm3U8R": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Panel Includes Physicians, Hair Transplant Surgeons, Hair Scientists and Homeopathic and Eastern Medicine Specialists. <\/p>"
+            "text": "<p>Naturale Conditioner For Thinning Hair Contains Ingredients Specifically Curated To Restore Hair Hydrophobicity. <\/p>"
           }
         }
       },
@@ -84,8 +84,8 @@
             "show_image": false,
             "image": "shopify:\/\/shop_images\/Origenere_Science_of_Botanicals.jpg",
             "icon": "plant",
-            "title": "Hair Growth Properties",
-            "text": "<p>With Powerful Botanicals Targeting Hair Growth and Wellness. <\/p>"
+            "title": "Behenamidopropyl Dimethylamine",
+            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. <\/p>"
           }
         },
         "text_block_c8UPXa": {
@@ -93,8 +93,8 @@
           "settings": {
             "show_image": false,
             "icon": "ribbon",
-            "title": "Nourishes The Scalp",
-            "text": "<p>Olive Leaf Extract, Hops, Sage, and Aloe Leave The Scalp Nourished, Hydrated and Supple. <\/p>"
+            "title": "Glycerin",
+            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. <\/p>"
           }
         },
         "text_block_NBik7j": {
@@ -103,7 +103,7 @@
             "show_image": false,
             "icon": "shield",
             "title": "Protects Those Strands",
-            "text": "<p>ProVitamin B5 and Soy Hydrolyzed Protein Give Those Strands A Little Extra Manageability and Protection.<\/p>"
+            "text": "<p>ProVitamin B5 and Soy Hydrolyzed Protein Give Those Strands A Little Extra Manageability and Protection. Hydrolyzed Soy Also Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft.<\/p>"
           }
         }
       },
@@ -144,6 +144,38 @@
       "settings": {
         "full_width": false,
         "space_around": false
+      }
+    },
+    "advanced_content_MCWHha": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_fH6qQz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Naturale_Result_Before_After_01.png",
+            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "width": "50%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "liquid_TRjTQD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><Center>With Natural Hair Growth Ingredients<\/h2><p> Sage, Fenugreek, Saw Palmetto, Olive Fruit Extract, and Hops Extract. All Scientifically Shown To Facilitate Hair Growth. See Our Blogs Below, Or Go To Our Blog Botanical Brilliance For Information On The Benefits of Different Botanicals. All Written By Our In House Expert Scientists and Hair Physicians. <\/p><\/Center>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_fH6qQz",
+        "liquid_TRjTQD"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false,
+        "lazyload_images": true
       }
     },
     "testimonials_mchcrh": {
@@ -327,6 +359,7 @@
     "rich_text_tknzB9",
     "text_with_icons_6QWGce",
     "172507810021339627",
+    "advanced_content_MCWHha",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
     "hotspots_CHUFXy",
