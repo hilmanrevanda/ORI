@@ -47,42 +47,6 @@
         "lazyload_images": true
       }
     },
-    "newsletter_mMNB3L": {
-      "type": "newsletter",
-      "blocks": {
-        "title_Dgd3za": {
-          "type": "title",
-          "settings": {
-            "title": "SUBSCRIBE FOR 20% OFF YOUR FIRST ORDER",
-            "heading_size": "h2"
-          }
-        },
-        "text_wW38mm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.<\/strong><\/p>"
-          }
-        },
-        "form_w9ECQw": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_Dgd3za",
-        "text_wW38mm",
-        "form_w9ECQw"
-      ],
-      "settings": {
-        "align_text": "center",
-        "image_width": "33",
-        "image_mask": "none",
-        "image_position": "right",
-        "top_padding": true,
-        "bottom_padding": true
-      }
-    },
     "rich_text_tknzB9": {
       "type": "rich-text",
       "blocks": {
@@ -143,6 +107,29 @@
         "lazyload_images": true
       }
     },
+    "172507810021339627": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_text_3qwafT": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "judge_me_reviews_medals_3DTLN6": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_text_3qwafT",
+        "judge_me_reviews_medals_3DTLN6"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
     "text_with_icons_6QWGce": {
       "type": "text-with-icons",
       "blocks": {
@@ -191,6 +178,43 @@
         "has_icon": true
       }
     },
+    "newsletter_mMNB3L": {
+      "type": "newsletter",
+      "blocks": {
+        "title_Dgd3za": {
+          "type": "title",
+          "settings": {
+            "title": "SUBSCRIBE FOR 20% OFF YOUR FIRST ORDER",
+            "heading_size": "h2"
+          }
+        },
+        "text_wW38mm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.<\/strong><\/p>"
+          }
+        },
+        "form_w9ECQw": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_Dgd3za",
+        "text_wW38mm",
+        "form_w9ECQw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw-583175.jpg",
+        "image_width": "33",
+        "image_mask": "square",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": false
+      }
+    },
     "advanced_content_MCWHha": {
       "type": "advanced-content",
       "blocks": {
@@ -221,29 +245,6 @@
         "space_around": false,
         "alt": false,
         "lazyload_images": true
-      }
-    },
-    "172507810021339627": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_all_reviews_text_3qwafT": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "judge_me_reviews_medals_3DTLN6": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_all_reviews_text_3qwafT",
-        "judge_me_reviews_medals_3DTLN6"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
       }
     },
     "testimonials_mchcrh": {
@@ -424,12 +425,12 @@
   "order": [
     "main",
     "advanced_content_VYpEmT",
-    "newsletter_mMNB3L",
     "rich_text_tknzB9",
     "advanced_content_qLdUFH",
-    "text_with_icons_6QWGce",
-    "advanced_content_MCWHha",
     "172507810021339627",
+    "text_with_icons_6QWGce",
+    "newsletter_mMNB3L",
+    "advanced_content_MCWHha",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
     "hotspots_CHUFXy",
