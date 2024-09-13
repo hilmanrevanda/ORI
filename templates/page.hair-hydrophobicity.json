@@ -21,7 +21,7 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shutterstock_1850556280.jpg",
+            "image": "shopify:\/\/shop_images\/shutterstock_1850556280_b58c4a38-b957-49d4-9926-3d2899a1e1b2.jpg",
             "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "33%",
             "alignment": "center"
@@ -53,14 +53,14 @@
         "heading_JERqDT": {
           "type": "heading",
           "settings": {
-            "title": "RESTORE YOUR HAIR HYDROPHOBICITY"
+            "title": "ACTIVITIES LEADING TO DAMAGE OF HAIR STRAND AND DECREASED HYDROPHOBICITY"
           }
         },
         "text_Gm3U8R": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Naturale Conditioner For Thinning Hair Contains Ingredients Specifically Curated To Restore Hair Hydrophobicity. <\/p>"
+            "text": "<p><\/p><ul><li>Sun Damage<\/li><li>Chemical Treatments<\/li><li>Daily Shampooing With Harsh Ingredients<\/li><li>Excessive Bending <\/li><li>Blow Drying <\/li><li>Aggressive Brushing<\/li><\/ul>"
           }
         }
       },
@@ -75,6 +75,38 @@
         "background_color": "#383838"
       }
     },
+    "advanced_content_qLdUFH": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_JD89n8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><Strong><Center> RESTORE YOUR HAIR HYDROPHOBICITY<\/Strong><\/h2><p> <\/p> <Strong>Naturale Conditioner For Thinning Hair.<\/Strong> Specifically Curated By Hair Experts To Restore Hydrophobicity and Facilitate Follicular Growth.<\/Center>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_xNYizt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hair_Strand_Structure.jpg",
+            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_JD89n8",
+        "image_xNYizt"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "alt": false,
+        "lazyload_images": true
+      }
+    },
     "text_with_icons_6QWGce": {
       "type": "text-with-icons",
       "blocks": {
@@ -83,9 +115,9 @@
           "settings": {
             "show_image": false,
             "image": "shopify:\/\/shop_images\/Origenere_Science_of_Botanicals.jpg",
-            "icon": "plant",
+            "icon": "recycle",
             "title": "Behenamidopropyl Dimethylamine",
-            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. <\/p>"
+            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. Extensively Tested, Soluble and Biodegradable. <\/p>"
           }
         },
         "text_block_c8UPXa": {
@@ -94,16 +126,16 @@
             "show_image": false,
             "icon": "ribbon",
             "title": "Glycerin",
-            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. <\/p>"
+            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. Biodegradable. <\/p>"
           }
         },
         "text_block_NBik7j": {
           "type": "text_block",
           "settings": {
             "show_image": false,
-            "icon": "shield",
-            "title": "Protects Those Strands",
-            "text": "<p>ProVitamin B5 and Soy Hydrolyzed Protein Give Those Strands A Little Extra Manageability and Protection. Hydrolyzed Soy Also Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft.<\/p>"
+            "icon": "plant",
+            "title": "Hydrolyzed Soy Protein",
+            "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Available. Biodegradable.<\/p>"
           }
         }
       },
@@ -119,7 +151,7 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
-        "alt": false,
+        "alt": true,
         "has_icon": true
       }
     },
@@ -357,6 +389,7 @@
     "main",
     "advanced_content_VYpEmT",
     "rich_text_tknzB9",
+    "advanced_content_qLdUFH",
     "text_with_icons_6QWGce",
     "172507810021339627",
     "advanced_content_MCWHha",
