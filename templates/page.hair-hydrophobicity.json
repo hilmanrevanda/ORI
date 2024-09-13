@@ -44,7 +44,7 @@
         "full_width": false,
         "space_around": true,
         "alt": false,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_tknzB9": {
