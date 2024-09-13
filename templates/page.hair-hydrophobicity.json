@@ -209,10 +209,10 @@
         "align_text": "center",
         "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw-583175.jpg",
         "image_width": "33",
-        "image_mask": "square",
+        "image_mask": "landscape",
         "image_position": "right",
         "top_padding": true,
-        "bottom_padding": false
+        "bottom_padding": true
       }
     },
     "advanced_content_MCWHha": {
