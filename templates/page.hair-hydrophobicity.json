@@ -47,6 +47,42 @@
         "lazyload_images": true
       }
     },
+    "newsletter_mMNB3L": {
+      "type": "newsletter",
+      "blocks": {
+        "title_Dgd3za": {
+          "type": "title",
+          "settings": {
+            "title": "SUBSCRIBE FOR 20% OFF YOUR FIRST ORDER",
+            "heading_size": "h2"
+          }
+        },
+        "text_wW38mm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.<\/strong><\/p>"
+          }
+        },
+        "form_w9ECQw": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_Dgd3za",
+        "text_wW38mm",
+        "form_w9ECQw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "rich_text_tknzB9": {
       "type": "rich-text",
       "blocks": {
@@ -81,8 +117,8 @@
         "liquid_JD89n8": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><Strong><Center> RESTORE YOUR HAIR HYDROPHOBICITY<\/Strong><\/h2><p> <\/p> <Strong>Naturale Conditioner For Thinning Hair.<\/Strong> Specifically Curated By Hair Experts To Restore Hydrophobicity and Facilitate Follicular Growth.<\/Center>",
-            "width": "50%",
+            "code": "<h2><Center> RESTORE YOUR HAIR HYDROPHOBICITY WITH <strong>NATURALE CONDITIONER FOR THINNING HAIR<\/Strong><\/h2><p> <\/p> Specifically Curated By Hair Experts To Restore Hydrophobicity of The Hair Strand and Facilitate Follicular Growth.<\/Center>",
+            "width": "66%",
             "alignment": "center"
           }
         },
@@ -91,7 +127,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Hair_Strand_Structure.jpg",
             "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
-            "width": "50%",
+            "width": "33%",
             "alignment": "center"
           }
         }
@@ -155,29 +191,6 @@
         "has_icon": true
       }
     },
-    "172507810021339627": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_all_reviews_text_3qwafT": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "judge_me_reviews_medals_3DTLN6": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_all_reviews_text_3qwafT",
-        "judge_me_reviews_medals_3DTLN6"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
     "advanced_content_MCWHha": {
       "type": "advanced-content",
       "blocks": {
@@ -206,8 +219,31 @@
       "settings": {
         "full_width": true,
         "space_around": false,
-        "alt": true,
+        "alt": false,
         "lazyload_images": true
+      }
+    },
+    "172507810021339627": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_text_3qwafT": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "judge_me_reviews_medals_3DTLN6": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_text_3qwafT",
+        "judge_me_reviews_medals_3DTLN6"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "testimonials_mchcrh": {
@@ -388,11 +424,12 @@
   "order": [
     "main",
     "advanced_content_VYpEmT",
+    "newsletter_mMNB3L",
     "rich_text_tknzB9",
     "advanced_content_qLdUFH",
     "text_with_icons_6QWGce",
-    "172507810021339627",
     "advanced_content_MCWHha",
+    "172507810021339627",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
     "hotspots_CHUFXy",
