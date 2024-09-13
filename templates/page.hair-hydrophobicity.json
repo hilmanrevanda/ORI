@@ -21,17 +21,17 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shutterstock_1850556280_b58c4a38-b957-49d4-9926-3d2899a1e1b2.jpg",
+            "image": "shopify:\/\/shop_images\/Hair_Strand_Structure.jpg",
             "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
-            "width": "33%",
+            "width": "50%",
             "alignment": "center"
           }
         },
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>HYDROPHOBICITY.<\/strong> THE KEY TO HEALTHY STRANDS<\/h2><p>The <Strong>Hair Shaft's Ability To Repel Water Is Critcial <\/Strong> to Its Overall Health. The Hair Shaft Has <Strong>A Layer of Fatty Acids That Attach To Its Outer Layer <\/Strong> Which Are Critical To Its Ability to Repel Water.  <Strong>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer<\/Strong>. As A Result, The Hair Shaft Is Not Able To Repel Water and Swells. This Swelling Leads To Fragility and Damaged Hair. <\/p><\/center>",
-            "width": "66%",
+            "code": "<center><h2><strong>HYDROPHOBICITY.<\/strong> THE KEY TO HEALTHY STRANDS<\/h2><p>The <Strong>Hair Shaft's Ability To Repel Water Is Critcial <\/Strong> to Its Overall Health. The Hair Shaft Has <Strong>A Layer of Fatty Acids That Attach To Its Outer Layer (Cuticle)<\/Strong> Which Are Critical To Its Ability to Repel Water.  <Strong>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer<\/Strong>. As A Result, The Hair Shaft Is Not Able To Repel Water and Swells. This Swelling Leads To Fragility and Damaged Hair. <\/p><\/center>",
+            "width": "50%",
             "alignment": "center"
           }
         }
@@ -41,8 +41,8 @@
         "liquid_McaDx6"
       ],
       "settings": {
-        "full_width": true,
-        "space_around": false,
+        "full_width": false,
+        "space_around": true,
         "alt": false,
         "lazyload_images": true
       }
@@ -89,7 +89,7 @@
         "image_xNYizt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hair_Strand_Structure.jpg",
+            "image": "shopify:\/\/shop_images\/shutterstock-1850556280.jpg",
             "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "33%",
             "alignment": "center"
@@ -101,7 +101,7 @@
         "image_xNYizt"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "alt": false,
         "lazyload_images": true
