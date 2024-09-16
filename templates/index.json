@@ -326,10 +326,16 @@
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true
           }
+        },
+        "share_FjMDJX": {
+          "type": "share",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "buy_buttons_7mTF6p"
+        "buy_buttons_7mTF6p",
+        "share_FjMDJX"
       ],
       "settings": {
         "featured_product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
