@@ -46,50 +46,50 @@
         "text_block_8iMHhy": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Naturale_Hair_Care_1-239254.jpg",
-            "text": "NATURALE THINNING HAIR",
+            "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
+            "text": "<strong> NATURALE <\/strong> <p>FOR THINNING HAIR<\/p>",
             "url": "shopify:\/\/collections\/naturale-purity-collection"
+          }
+        },
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<strong>SEMPRE<\/strong> <p> FOR HAIR GROWTH<\/p>",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
           }
         },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_1131.jpg",
-            "text": "BUONGIORNO VITALITY",
+            "image": "shopify:\/\/shop_images\/BuongiornoTeaTreeMintIngredients-352098.jpg",
+            "text": "<strong> BUONGIORNO <\/strong><p> FOR SCALP VITALITY<\/p>",
             "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
           }
         },
         "text_block_CMTXRa": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/OrigenereNeroBodyScrubWebsite_eea41f8e-ab33-4918-8fe2-f17a114924dc.jpg",
-            "text": "NERO DETOX EXFOLIATING",
+            "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
+            "text": "<strong>NERO<\/strong><p> FOR DETOX + EXFOLIATION<\/p>",
             "url": "shopify:\/\/collections\/nero-detox-collection"
           }
         },
         "text_block_w3xYqL": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0177.jpg",
-            "text": "ARANCIO PRESERVATION",
+            "image": "shopify:\/\/shop_images\/ARANCIOBUNDLE-423423.jpg",
+            "text": "SKIN PRESERVATION COLLECTION",
             "url": "shopify:\/\/collections\/nourish-your-natural-glow"
-          }
-        },
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3961-4.jpg",
-            "text": "SEMPRE HAIR GROWTH",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
           }
         }
       },
       "block_order": [
         "text_block_8iMHhy",
+        "text_block_L7iPcd",
         "text_block_FJYXiW",
         "text_block_CMTXRa",
-        "text_block_w3xYqL",
-        "text_block_L7iPcd"
+        "text_block_w3xYqL"
       ],
       "settings": {
         "num_per_row": 4
@@ -196,20 +196,20 @@
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
           "type": "heading",
           "settings": {
-            "title": "PHYSICIAN FORMULATED HAIR & SKIN CARE"
+            "title": "LOOKING FOR HAIR GROWTH PRODUCTS THAT ACTUALLY WORK?"
           }
         },
         "38ae4040-7838-493d-b248-5108007b2756": {
           "type": "image_picker",
           "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Favicon_White.png"
+            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
           }
         },
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<h3>Struggling with thinning hair, excessive shedding, breakage, or a dry, itchy scalp? Our all-natural hair and skincare products are free from parabens, artificial fragrances, colors, dyes, sodium lauryl sulfate, & ammonium lauryl sulfate. <\/h3>"
+            "enlarge_text": true,
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR & SKIN CARE<\/strong><\/h2><h3><strong>Proven Formulas Tested Specifically For Hair Growth. Hair Products Address Struggles With Thinning Hair, Excessive Shedding, Breakage, And Dry, Itchy Scalp<\/strong>. <strong> <\/strong><\/h3><h3><em>Our All-Natural Hair And Skincare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. <\/em><\/h3>"
           }
         }
       },
@@ -220,7 +220,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": false,
+        "narrow_column": true,
         "alt": true,
         "background_color": "#000000"
       }
