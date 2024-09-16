@@ -280,7 +280,7 @@
             "show_image": true,
             "image": "shopify:\/\/shop_images\/ori_icon-3.png",
             "icon": "chat",
-            "title": "Physician <br>Formulated",
+            "title": "Physician Formulated",
             "text": ""
           }
         },
@@ -302,7 +302,6 @@
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
         "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
@@ -318,6 +317,30 @@
         "background_image": "shopify:\/\/shop_images\/IMG_3308.jpg"
       }
     },
+    "featured_product_Eq8cJm": {
+      "type": "featured-product",
+      "blocks": {
+        "buy_buttons_7mTF6p": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "buy_buttons_7mTF6p"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
+        "product_image_size": "large",
+        "product_image_type": "stacked",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "fh-section-cta": {
       "type": "fh-section-cta",
       "disabled": true,
@@ -327,6 +350,23 @@
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
         "btn_url": "shopify:\/\/pages\/the-science"
+      }
+    },
+    "blog_posts_jwMddg": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "Blog posts",
+        "blog": "ingredient-spotlight",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide",
+        "view_all": true,
+        "alt": false
       }
     }
   },
@@ -340,6 +380,8 @@
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "featured_collection_9X6zE7",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
-    "fh-section-cta"
+    "featured_product_Eq8cJm",
+    "fh-section-cta",
+    "blog_posts_jwMddg"
   ]
 }
