@@ -69,6 +69,7 @@
         },
         "text_block_CMTXRa": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
             "text": "<strong>NERO<\/strong><p> FOR DETOX + EXFOLIATION<\/p>",
@@ -77,6 +78,7 @@
         },
         "text_block_w3xYqL": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ARANCIOBUNDLE-423423.jpg",
             "text": "SKIN PRESERVATION COLLECTION",
@@ -92,7 +94,7 @@
         "text_block_w3xYqL"
       ],
       "settings": {
-        "num_per_row": 4
+        "num_per_row": 3
       }
     },
     "1725159548e942c71e": {
