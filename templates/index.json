@@ -51,20 +51,20 @@
             "url": "shopify:\/\/collections\/naturale-purity-collection"
           }
         },
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<strong>SEMPRE<\/strong> <p> FOR HAIR GROWTH<\/p>",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
-          }
-        },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/BuongiornoTeaTreeMintIngredients-352098.jpg",
             "text": "<strong> BUONGIORNO <\/strong><p> FOR SCALP VITALITY<\/p>",
             "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<strong>SEMPRE<\/strong> <p> FOR HAIR GROWTH<\/p>",
+            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
           }
         },
         "text_block_CMTXRa": {
@@ -88,8 +88,8 @@
       },
       "block_order": [
         "text_block_8iMHhy",
-        "text_block_L7iPcd",
         "text_block_FJYXiW",
+        "text_block_L7iPcd",
         "text_block_CMTXRa",
         "text_block_w3xYqL"
       ],
