@@ -19,6 +19,7 @@
         },
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ": {
           "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/star-ratings\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+          "disabled": true,
           "settings": {
           }
         },
