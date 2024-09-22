@@ -181,12 +181,6 @@
         "settings": {
         }
       },
-      "7878088468538493966": {
-        "type": "shopify:\/\/apps\/wisepops-email-sms-popups\/blocks\/app-embed\/e7d7a4f7-0df4-4073-9375-5f36db513952",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "17151115064775110295": {
         "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/recharge-theme\/371eed76-0b44-4869-9813-730372ea378e",
         "disabled": false,
@@ -215,12 +209,6 @@
         "settings": {
         }
       },
-      "11349500561483629931": {
-        "type": "shopify:\/\/apps\/Notify Me\/blocks\/app-embed\/b399b727-6c85-44fc-9e21-63114bd72054",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "15683396631634586217": {
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
@@ -233,14 +221,6 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
-        }
-      },
-      "7553055287323118546": {
-        "type": "shopify:\/\/apps\/tinytabs\/blocks\/tabs-embed\/cd5da974-394e-41cb-b448-0c9a6d16a42d",
-        "disabled": false,
-        "settings": {
-          "css_selector": "h5",
-          "custom_css": ""
         }
       },
       "5134484470793087125": {

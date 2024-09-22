@@ -81,7 +81,7 @@
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
-        "post_limit": 9,
+        "post_limit": 12,
         "blog_show_tags": false,
         "blog_show_date": false,
         "blog_show_comments": false,
