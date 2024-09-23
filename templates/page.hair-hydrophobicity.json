@@ -21,9 +21,9 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Hair_Strand_Structure.jpg",
+            "image": "shopify://shop_images/visual-description-conditioner_636a786f-e566-48ae-b5e2-48d41608a92d.png",
             "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
-            "width": "33%",
+            "width": "50%",
             "alignment": "center"
           }
         },
@@ -31,7 +31,7 @@
           "type": "liquid",
           "settings": {
             "code": "<center><h2><strong>HYDROPHOBICITY.</strong> THE KEY TO HEALTHY STRANDS</h2><ul> <li> The Ability To Repel Water Is Critcial To Hair Health.</li>  <li> The Outer Layer (cuticle) of The Hair Shaft Is Crucial To Its Ability to Repel Water </li> <Li>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer.</Li> <Li> As A Result, The Hair Shaft Is Not Able To Repel Water and Becomes Damaged.</Li><LI> <strong>RESTORE YOUR HAIR HYDROPHOBICITY AND \nVIBRANCE WITH <p> <font size= 5>NATURALE CONDITIONER </FONT>  </center>",
-            "width": "66%",
+            "width": "50%",
             "alignment": "center"
           }
         }
