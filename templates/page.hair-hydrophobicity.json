@@ -21,17 +21,17 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hair_Strand_Structure.jpg",
-            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
-            "width": "50%",
+            "image": "shopify://shop_images/Hair_Strand_Structure.jpg",
+            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
+            "width": "33%",
             "alignment": "center"
           }
         },
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>HYDROPHOBICITY.<\/strong> THE KEY TO HEALTHY STRANDS<\/h2><p>The <Strong>Hair Shaft's Ability To Repel Water Is Critcial <\/Strong> to Its Overall Health. The Hair Shaft Has <Strong>A Layer of Fatty Acids That Attach To Its Outer Layer (Cuticle)<\/Strong> Which Are Critical To Its Ability to Repel Water.  <Strong>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer<\/Strong>. As A Result, The Hair Shaft Is Not Able To Repel Water and Swells. This Swelling Leads To Fragility and Damaged Hair. <\/p><\/center>",
-            "width": "50%",
+            "code": "<center><h2><strong>HYDROPHOBICITY.</strong> THE KEY TO HEALTHY STRANDS</h2><ul> <li> The Ability To Repel Water Is Critcial To Hair Health.</li>  <li> The Outer Layer (cuticle) of The Hair Shaft Is Crucial To Its Ability to Repel Water </li> <Li>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer.</Li> <Li> As A Result, The Hair Shaft Is Not Able To Repel Water and Becomes Damaged.</Li><LI> <strong>RESTORE YOUR HAIR HYDROPHOBICITY AND \nVIBRANCE WITH <p> <font size= 5>NATURALE CONDITIONER </FONT>  </center>",
+            "width": "66%",
             "alignment": "center"
           }
         }
@@ -60,7 +60,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><\/p><ul><li>Sun Damage<\/li><li>Chemical Treatments<\/li><li>Daily Shampooing With Harsh Ingredients<\/li><li>Excessive Bending <\/li><li>Blow Drying <\/li><li>Aggressive Brushing<\/li><\/ul>"
+            "text": "<p></p><ul><li>Sun Damage</li><li>Chemical Treatments</li><li>Daily Shampooing With Harsh Ingredients</li><li>Excessive Bending </li><li>Blow Drying </li><li>Aggressive Brushing</li></ul>"
           }
         }
       },
@@ -81,7 +81,7 @@
         "liquid_JD89n8": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><Center> RESTORE YOUR HAIR HYDROPHOBICITY WITH <strong>NATURALE CONDITIONER FOR THINNING HAIR<\/Strong><\/h2><p> <\/p> Specifically Curated By Hair Experts To Restore Hydrophobicity of The Hair Strand and Facilitate Follicular Growth.<\/Center>",
+            "code": "<h2><Center> RESTORE YOUR HAIR HYDROPHOBICITY WITH <strong>NATURALE CONDITIONER FOR THINNING HAIR</Strong></h2><p> </p> Specifically Curated By Hair Experts To Restore Hydrophobicity of The Hair Strand and Facilitate Follicular Growth.</Center>",
             "width": "66%",
             "alignment": "center"
           }
@@ -89,8 +89,8 @@
         "image_xNYizt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shutterstock-1850556280.jpg",
-            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "image": "shopify://shop_images/shutterstock-1850556280.jpg",
+            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "33%",
             "alignment": "center"
           }
@@ -111,12 +111,12 @@
       "type": "apps",
       "blocks": {
         "judge_me_reviews_all_reviews_text_3qwafT": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
         "judge_me_reviews_medals_3DTLN6": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
@@ -137,10 +137,10 @@
           "type": "text_block",
           "settings": {
             "show_image": false,
-            "image": "shopify:\/\/shop_images\/Origenere_Science_of_Botanicals.jpg",
+            "image": "shopify://shop_images/Origenere_Science_of_Botanicals.jpg",
             "icon": "recycle",
             "title": "Behenamidopropyl Dimethylamine",
-            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. Extensively Tested, Soluble and Biodegradable. <\/p>"
+            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. Extensively Tested, Soluble and Biodegradable. </p>"
           }
         },
         "text_block_c8UPXa": {
@@ -149,7 +149,7 @@
             "show_image": false,
             "icon": "ribbon",
             "title": "Glycerin",
-            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. Biodegradable. <\/p>"
+            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. Biodegradable. </p>"
           }
         },
         "text_block_NBik7j": {
@@ -158,7 +158,7 @@
             "show_image": false,
             "icon": "plant",
             "title": "Hydrolyzed Soy Protein",
-            "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Available. Biodegradable.<\/p>"
+            "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Available. Biodegradable.</p>"
           }
         }
       },
@@ -191,7 +191,7 @@
         "text_wW38mm": {
           "type": "text",
           "settings": {
-            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.<\/strong><\/p>"
+            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.</strong></p>"
           }
         },
         "form_w9ECQw": {
@@ -207,7 +207,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw-583175.jpg",
+        "image": "shopify://shop_images/Naturale_Purity_Collection_Saw-583175.jpg",
         "image_width": "33",
         "image_mask": "landscape",
         "image_position": "right",
@@ -221,8 +221,8 @@
         "image_fH6qQz": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Naturale_Result_Before_After_01.png",
-            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "image": "shopify://shop_images/Naturale_Result_Before_After_01.png",
+            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "50%",
             "alignment": "bottom-middle"
           }
@@ -230,7 +230,7 @@
         "liquid_TRjTQD": {
           "type": "liquid",
           "settings": {
-            "code": "<h2><Strong><Center>WITH NATURAL HAIR GROWTH INGREDIENTS<\/h2><\/Strong><p> Sage, Fenugreek, Saw Palmetto, Olive Fruit Extract, and Hops Extract. All Scientifically Shown To Facilitate Hair Growth. See Our Blogs Below, Or Go To Our Blog Botanical Brilliance For Information On The Benefits of Different Botanicals. All Written By Our In House Expert Scientists and Hair Physicians. <\/p><\/Center>",
+            "code": "<h2><Strong><Center>WITH NATURAL HAIR GROWTH INGREDIENTS</h2></Strong><p> Sage, Fenugreek, Saw Palmetto, Olive Fruit Extract, and Hops Extract. All Scientifically Shown To Facilitate Hair Growth. See Our Blogs Below, Or Go To Our Blog Botanical Brilliance For Information On The Benefits of Different Botanicals. All Written By Our In House Expert Scientists and Hair Physicians. </p></Center>",
             "width": "50%",
             "alignment": "center"
           }
@@ -253,7 +253,7 @@
         "testimonial_KN99e9": {
           "type": "testimonial",
           "settings": {
-            "testimonial": "<p><strong>I started really losing my hair last November. I began using your product at the advice of my hairdresser. I’m seeing quite a bit of new hair growth and I’m thrilled!!<\/strong><\/p>",
+            "testimonial": "<p><strong>I started really losing my hair last November. I began using your product at the advice of my hairdresser. I’m seeing quite a bit of new hair growth and I’m thrilled!!</strong></p>",
             "author": "Suzie E"
           }
         }
@@ -352,7 +352,7 @@
         "title": "NATURALE PURITY COLLECTION FOR THINNING HAIR BY ORIGENERE",
         "heading_size": "h1",
         "heading_position": "center",
-        "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.png",
+        "image": "shopify://shop_images/Naturale_Purity_Collection_Saw.png",
         "indent_image": false,
         "image_position": "left",
         "hotspot_style": "plus",
@@ -366,33 +366,33 @@
         "text_block_RrVhgA": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALESHAMPOO2023_2.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALESHAMPOO2023_2.jpg",
             "text": "SHAMPOO FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-shampoo-for-thinning-hair-hair-loss-1"
+            "url": "shopify://products/naturale-shampoo-for-thinning-hair-hair-loss-1"
           }
         },
         "text_block_aW9BaB": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALECONDITIONER2023_2.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALECONDITIONER2023_2.jpg",
             "text": "CONDITIONER FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss"
+            "url": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss"
           }
         },
         "text_block_Pti6nx": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
             "text": "SCALP TONIC FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-scalp-and-hair-tonic"
+            "url": "shopify://products/naturale-scalp-and-hair-tonic"
           }
         },
         "text_block_jtKGfJ": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
             "text": "HAIR STYLING CREAM FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-hair-styling-cream-1"
+            "url": "shopify://products/naturale-hair-styling-cream-1"
           }
         }
       },
@@ -409,16 +409,16 @@
     "fh_section_products_grid_dxm4tw": {
       "type": "fh-section-products-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sage.webp",
+        "image_left": "shopify://shop_images/Sage.webp",
         "heading_left": "Benefits of Sage For Hair",
         "description_left": "",
         "btn_left_text": "learn more",
-        "btn_left_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
-        "image_right": "shopify:\/\/shop_images\/Olive_Leaf_Extract.jpg",
+        "btn_left_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
+        "image_right": "shopify://shop_images/Olive_Leaf_Extract.jpg",
         "heading_right": "Olive Leaf Benefits For Hair And Skin",
         "description_right": "",
         "btn_right_text": "Learn more",
-        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
+        "btn_right_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
       }
     }
   },
