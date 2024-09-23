@@ -21,8 +21,8 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Naturale_Hair_care_Result.png",
-            "link": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss",
+            "image": "shopify://shop_images/Naturale_Hair_care_Result.png",
+            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "33%",
             "alignment": "center"
           }
@@ -30,7 +30,7 @@
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>STRANDS IN RETREAT MODE?<\/h2><\/strong><p>You are not alone.  Hair products for thinning hair are becoming increasingly popular as people seek ways to maintain their locks. <br><strong>Naturale by Origenere provides a natural hypoallergenic line designed to treat thinning hair effectively.<\/strong> Naturale hair care is pioneering a shift towards <strong>nature-based solutions for thinning hair.<\/strong> With a collection of <strong>thoughtfully designed products by clinicians<\/strong>, it appeals to those with hair loss, sensitive skin and a penchant for purity.<\/p><\/center>",
+            "code": "<center><h2><strong>THINNING HAIR?</h2></strong><p><ul> <li>A natural, hypoallergenic, hair growth line designed to treat thinning hair effectively.</li><li>   Botanical-based solutions for thinning hair.</li> <li> A collection of thoughtfully designed products by clinicians</li> <h2> <strong>Naturale For Thinning Hair and Hair Loss </strong> Designed For Those With Hair Loss, Sensitive Skin And A Penchant For Purity.</h2></center>",
             "width": "66%",
             "alignment": "center"
           }
@@ -60,7 +60,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Panel Includes Physicians, Hair Transplant Surgeons, Hair Scientists and Homeopathic and Eastern Medicine Specialists. <\/p>"
+            "text": "<p>Panel Includes Physicians, Hair Transplant Surgeons, Hair Scientists and Homeopathic and Eastern Medicine Specialists. </p>"
           }
         }
       },
@@ -82,10 +82,10 @@
           "type": "text_block",
           "settings": {
             "show_image": false,
-            "image": "shopify:\/\/shop_images\/Origenere_Science_of_Botanicals.jpg",
+            "image": "shopify://shop_images/Origenere_Science_of_Botanicals.jpg",
             "icon": "plant",
             "title": "Hair Growth Properties",
-            "text": "<p>With Powerful Botanicals Targeting Hair Growth and Wellness. <\/p>"
+            "text": "<p>20 Years of Research With Powerful Botanicals Targeting Hair Growth and Wellness. </p>"
           }
         },
         "text_block_c8UPXa": {
@@ -94,7 +94,7 @@
             "show_image": false,
             "icon": "ribbon",
             "title": "Nourishes The Scalp",
-            "text": "<p>Olive Leaf Extract, Hops, Sage, and Aloe Leave The Scalp Nourished, Hydrated and Supple. <\/p>"
+            "text": "<p>Olive Leaf Extract, Hops, Sage, and Aloe Leave The Scalp Nourished, Hydrated and Supple. </p>"
           }
         },
         "text_block_NBik7j": {
@@ -103,7 +103,7 @@
             "show_image": false,
             "icon": "shield",
             "title": "Protects Those Strands",
-            "text": "<p>ProVitamin B5 and Soy Hydrolyzed Protein Give Those Strands A Little Extra Manageability and Protection.<\/p>"
+            "text": "<p>ProVitamin B5 and Soy Hydrolyzed Protein Give Those Strands A Little Extra Manageability and Protection.</p>"
           }
         }
       },
@@ -127,12 +127,12 @@
       "type": "apps",
       "blocks": {
         "judge_me_reviews_all_reviews_text_3qwafT": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
         "judge_me_reviews_medals_3DTLN6": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/medals\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
@@ -152,7 +152,7 @@
         "testimonial_KN99e9": {
           "type": "testimonial",
           "settings": {
-            "testimonial": "<p><strong>I started really losing my hair last November. I began using your product at the advice of my hairdresser. I’m seeing quite a bit of new hair growth and I’m thrilled!!<\/strong><\/p>",
+            "testimonial": "<p><strong>I started really losing my hair last November. I began using your product at the advice of my hairdresser. I’m seeing quite a bit of new hair growth and I’m thrilled!!</strong></p>",
             "author": "Suzie E"
           }
         }
@@ -251,7 +251,7 @@
         "title": "NATURALE PURITY COLLECTION FOR THINNING HAIR BY ORIGENERE",
         "heading_size": "h1",
         "heading_position": "center",
-        "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.png",
+        "image": "shopify://shop_images/Naturale_Purity_Collection_Saw.png",
         "indent_image": false,
         "image_position": "left",
         "hotspot_style": "plus",
@@ -265,33 +265,33 @@
         "text_block_RrVhgA": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALESHAMPOO2023_2.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALESHAMPOO2023_2.jpg",
             "text": "SHAMPOO FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-shampoo-for-thinning-hair-hair-loss-1"
+            "url": "shopify://products/naturale-shampoo-for-thinning-hair-hair-loss-1"
           }
         },
         "text_block_aW9BaB": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALECONDITIONER2023_2.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALECONDITIONER2023_2.jpg",
             "text": "CONDITIONER FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-conditioner-for-thinning-hair-hair-loss"
+            "url": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss"
           }
         },
         "text_block_Pti6nx": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
             "text": "SCALP TONIC FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-scalp-and-hair-tonic"
+            "url": "shopify://products/naturale-scalp-and-hair-tonic"
           }
         },
         "text_block_jtKGfJ": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
+            "image": "shopify://shop_images/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
             "text": "HAIR STYLING CREAM FOR THINNING HAIR",
-            "url": "shopify:\/\/products\/naturale-hair-styling-cream-1"
+            "url": "shopify://products/naturale-hair-styling-cream-1"
           }
         }
       },
@@ -308,29 +308,29 @@
     "fh_section_products_grid_dxm4tw": {
       "type": "fh-section-products-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sage.webp",
+        "image_left": "shopify://shop_images/Sage.webp",
         "heading_left": "Benefits of Sage For Hair",
         "description_left": "",
         "btn_left_text": "learn more",
-        "btn_left_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
-        "image_right": "shopify:\/\/shop_images\/Olive_Leaf_Extract.jpg",
+        "btn_left_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
+        "image_right": "shopify://shop_images/Olive_Leaf_Extract.jpg",
         "heading_right": "Olive Leaf Benefits For Hair And Skin",
         "description_right": "",
         "btn_right_text": "Learn more",
-        "btn_right_url": "shopify:\/\/blogs\/ingredient-spotlight\/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
+        "btn_right_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
       }
     }
   },
   "order": [
     "main",
     "advanced_content_VYpEmT",
+    "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
     "text_with_icons_6QWGce",
     "172507810021339627",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
     "hotspots_CHUFXy",
-    "fh_section_collection_grid_HPxk7m",
     "fh_section_products_grid_dxm4tw"
   ]
 }
