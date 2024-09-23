@@ -41,8 +41,8 @@
         "liquid_McaDx6"
       ],
       "settings": {
-        "full_width": false,
-        "space_around": true,
+        "full_width": true,
+        "space_around": false,
         "alt": false,
         "lazyload_images": false
       }
