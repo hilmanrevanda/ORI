@@ -110,11 +110,6 @@
     "172507810021339627": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_all_reviews_text_3qwafT": {
-          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "judge_me_reviews_medals_3DTLN6": {
           "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
@@ -122,7 +117,6 @@
         }
       },
       "block_order": [
-        "judge_me_reviews_all_reviews_text_3qwafT",
         "judge_me_reviews_medals_3DTLN6"
       ],
       "settings": {
