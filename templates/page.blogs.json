@@ -28,8 +28,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png",
-            "image_mobile": "shopify:\/\/shop_images\/Peppermint_oil_science_haircare.png"
+            "image": "shopify://shop_images/Peppermint_oil_science_haircare.png",
+            "image_mobile": "shopify://shop_images/Peppermint_oil_science_haircare.png"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
+            "image": "shopify://shop_images/Buongiorno_physician_ingredients.png",
             "heading": "Holistic Approach",
             "description": "A Do IT Yourself Blog For All Things Scalp And Hair",
             "btn_text": "Read Articles",
-            "btn_url": "shopify:\/\/blogs\/holistic-approach",
+            "btn_url": "shopify://blogs/holistic-approach",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -69,11 +69,11 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/IMG_7767.jpg",
+            "image": "shopify://shop_images/IMG_7767.jpg",
             "heading": "Botanical Brilliance",
             "description": "The Powerful Botanicals Behind Powerful Hair Products",
             "btn_text": "Read Articles",
-            "btn_url": "shopify:\/\/blogs\/ingredient-spotlight",
+            "btn_url": "shopify://blogs/ingredient-spotlight",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -82,11 +82,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "image": "shopify://shop_images/Origenere_fruit_and_vegtables_nutrition.jpg",
             "heading": "The More You Know The More You Grow",
             "description": "Understand The Details Behind Hair And Scalp Science",
             "btn_text": "Read Articles",
-            "btn_url": "shopify:\/\/blogs\/the-more-you-know-the-more-you-grow",
+            "btn_url": "shopify://blogs/the-more-you-know-the-more-you-grow",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -95,11 +95,11 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/Summer_Hair.jpg",
-            "heading": "Summer Hair Care Tips",
-            "description": "Learn The Ins And Outs Of The Impact of Summer Time on Those Locks and How To Best Care For Your Hair During Summer",
+            "image": "shopify://shop_images/Origenere_Bottle_Mockup_20a_copy.jpg",
+            "heading": "What's In Your Bottle?",
+            "description": "Discover The Benefits And Risks Of Common Hair Care Ingredients.",
             "btn_text": "Read Articles",
-            "btn_url": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "btn_url": "shopify://blogs/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -108,11 +108,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Buongiorno_Summer_Hair_Sun_Damage.jpg",
+            "image": "shopify://shop_images/Buongiorno_Summer_Hair_Sun_Damage.jpg",
             "heading": "Nature's Queen",
             "description": "Empowering Women Through Science and Wellness",
             "btn_text": "Read Articles",
-            "btn_url": "shopify:\/\/blogs\/roots-of-discovery-women-who-changed-the-world",
+            "btn_url": "shopify://blogs/roots-of-discovery-women-who-changed-the-world",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
