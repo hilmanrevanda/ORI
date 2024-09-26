@@ -15,15 +15,15 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "Botanical Brilliance",
+            "title": "What's Inside Your Bottle",
             "title_size": 64,
             "subheading": "Origenere Blogs",
-            "link": "",
+            "link": "shopify://blogs/whats-in-your-bottle",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Rosemary_Phytonutrients.jpg",
-            "image_mobile": "shopify://shop_images/IMG_7767.jpg"
+            "image": "shopify://shop_images/Origenere_Bottle_Mockup_20a.jpg",
+            "image_mobile": "shopify://shop_images/Origenere_Bottle_Mockup_20a_copy.jpg"
           }
         }
       },
@@ -36,7 +36,7 @@
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "rich_text_7fVKH3": {
@@ -46,7 +46,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2>Botanical hair products are gaining traction as a natural and effective means to promote hair growth and scalp health. Unlike chemical-laden  treatments, botanical hair treatments harness the power of herbs to nourish and repair hair. <em>Botanical Brilliance </em>explores the world of botanical hair therapy from the perspective of our experts. </h2>"
+            "text": "<h2>With the vast amount of hair care products available in the market,  it is more important to know the benefits and risks of the most common ingredients in hair care products. </h2>"
           }
         }
       },
@@ -62,7 +62,6 @@
     },
     "main": {
       "type": "blog-template",
-      "disabled": true,
       "settings": {
         "layout": "grid",
         "post_limit": 9,
@@ -78,6 +77,7 @@
     },
     "blog_posts_xXmDXk": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "BOTANICAL BRILLIANCE",
         "blog": "ingredient-spotlight",
