@@ -9,6 +9,13 @@
 */
 {
   "sections": {
+    "1727323968d710f1c9": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -30,6 +37,7 @@
         },
         "ea0387d9-f1da-4d22-9fcf-a60515db9d44": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -285,6 +293,7 @@
     }
   },
   "order": [
+    "1727323968d710f1c9",
     "main",
     "1693529675d946b804",
     "5c4d193f-12be-430d-acf9-a14c90acc28e",
