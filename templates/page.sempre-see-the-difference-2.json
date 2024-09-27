@@ -52,6 +52,21 @@
         "bottom_padding": false
       }
     },
+    "hero_video_CFfQTj": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
+        "section_height": "550px",
+        "mobile_height": "auto"
+      }
+    },
     "featured_product_9KDPEC": {
       "type": "featured-product",
       "blocks": {
@@ -425,6 +440,7 @@
   "order": [
     "main",
     "newsletter_4zCDKi",
+    "hero_video_CFfQTj",
     "featured_product_9KDPEC",
     "advanced_content_hdLAYh",
     "featured_product_Ebzzi8",
