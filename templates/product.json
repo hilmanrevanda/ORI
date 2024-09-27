@@ -16,6 +16,7 @@
     },
     "1727323968d710f1c9": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "space_around": true
