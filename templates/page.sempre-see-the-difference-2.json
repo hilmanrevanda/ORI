@@ -21,14 +21,14 @@
         "title_cfk7we": {
           "type": "title",
           "settings": {
-            "title": "Sign Up and Save",
+            "title": "Hair Growth Made Easy",
             "heading_size": "h1"
           }
         },
         "text_znMgJd": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to get exclusive offers, new products, and 20% off next order. </p>"
+            "text": "<p>Subscribe To Learn More, Get Product Updates And Exclusive Offers.</p>"
           }
         },
         "form_4rWmfK": {
@@ -133,6 +133,35 @@
         "enable_video_looping": true,
         "product_video_style": "muted",
         "sku_enable": false
+      }
+    },
+    "testimonials_RtQkR6": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_jYN7Xg": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"Sempre Hair Growth Has Been Amazing! My Hair Has Grown So Much! Sempre Is A For Life Thing. So Grateful For This Product!\" </p>",
+            "author": "Patrice H"
+          }
+        },
+        "testimonial_f3Ahq4": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"The Foam Is Great As A Styling Agent As Well As Regrowing Hair And I Definitely Noticed A Difference In The Thickness. I Can't See Myself Ever Not Using It As A Part Of My Hair Care Routine.\"</p>",
+            "author": "Chris Y"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_jYN7Xg",
+        "testimonial_f3Ahq4"
+      ],
+      "settings": {
+        "title": "SEE WHAT SEMPRE USERS ARE SAYING",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
       }
     },
     "fh_section_product_image_grid_aJeeax": {
@@ -332,35 +361,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
-      }
-    },
-    "testimonials_RtQkR6": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_jYN7Xg": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>\"Sempre Hair Growth Has Been Amazing! My Hair Has Grown So Much! Sempre Is A For Life Thing. So Grateful For This Product!\" </p>",
-            "author": "Patrice H"
-          }
-        },
-        "testimonial_f3Ahq4": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>\"The Foam Is Great As A Styling Agent As Well As Regrowing Hair And I Definitely Noticed A Difference In The Thickness. I Can't See Myself Ever Not Using It As A Part Of My Hair Care Routine.\"</p>",
-            "author": "Chris Y"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_jYN7Xg",
-        "testimonial_f3Ahq4"
-      ],
-      "settings": {
-        "title": "SEE WHAT SEMPRE USERS ARE SAYING",
-        "align_text": "center",
-        "round_images": true,
-        "alt": false
       }
     },
     "newsletter_DxLdQN": {
