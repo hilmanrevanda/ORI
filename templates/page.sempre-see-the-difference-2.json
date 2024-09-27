@@ -399,19 +399,12 @@
         "bottom_padding": true
       }
     },
-    "hero_video_NiYKnj": {
-      "type": "hero-video",
+    "featured_video_XG9L3R": {
+      "type": "featured-video",
       "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
+        "title": "CUSTOMER TESTIMONIAL",
         "video_url": "https://www.youtube.com/watch?v=YaKI6Ndizkc",
-        "section_height": "650px",
-        "mobile_height": "250px"
+        "alt": true
       }
     },
     "featured_collection_bBXAUQ": {
@@ -441,7 +434,7 @@
     "text_columns_744r76",
     "slideshow_YFVTkf",
     "newsletter_DxLdQN",
-    "hero_video_NiYKnj",
+    "featured_video_XG9L3R",
     "featured_collection_bBXAUQ"
   ]
 }
