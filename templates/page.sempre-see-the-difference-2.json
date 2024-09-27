@@ -48,8 +48,8 @@
         "image_width": "33",
         "image_mask": "none",
         "image_position": "right",
-        "top_padding": true,
-        "bottom_padding": true
+        "top_padding": false,
+        "bottom_padding": false
       }
     },
     "featured_product_9KDPEC": {
@@ -333,6 +333,100 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "newsletter_DxLdQN": {
+      "type": "newsletter",
+      "blocks": {
+        "title_fXAgw3": {
+          "type": "title",
+          "settings": {
+            "title": "Learn More",
+            "heading_size": "h1"
+          }
+        },
+        "text_xxYpCU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe For More Information, Product Updates And Exclusive Offers. Subscribers Will Receive 20% Off Their Next Order.  Discount Code To Be Delivered To Email.</p>"
+          }
+        },
+        "form_XU9zPW": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_fXAgw3",
+        "text_xxYpCU",
+        "form_XU9zPW"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "hero_video_NiYKnj": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=YaKI6Ndizkc",
+        "section_height": "650px",
+        "mobile_height": "250px"
+      }
+    },
+    "featured_collection_bBXAUQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "THE SEMPRE COLLECTION  SEMPRE. ALWAYS. HAIR.",
+        "description": "",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 2,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "testimonials_RtQkR6": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_jYN7Xg": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"Sempre Hair Growth Has Been Amazing! My Hair Has Grown So Much! Sempre Is A For Life Thing. So Grateful For This Product!\" </p>",
+            "author": "Patrice H"
+          }
+        },
+        "testimonial_f3Ahq4": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"The Foam Is Great As A Styling Agent As Well As Regrowing Hair And I Definitely Noticed A Difference In The Thickness. I Can't See Myself Ever Not Using It As A Part Of My Hair Care Routine.\"</p>",
+            "author": "Chris Y"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_jYN7Xg",
+        "testimonial_f3Ahq4"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
+      }
     }
   },
   "order": [
@@ -344,6 +438,10 @@
     "fh_section_product_image_grid_aJeeax",
     "fh_section_faq_with_image_9Fz6qL",
     "text_columns_744r76",
-    "slideshow_YFVTkf"
+    "slideshow_YFVTkf",
+    "newsletter_DxLdQN",
+    "hero_video_NiYKnj",
+    "featured_collection_bBXAUQ",
+    "testimonials_RtQkR6"
   ]
 }
