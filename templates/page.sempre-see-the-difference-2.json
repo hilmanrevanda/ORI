@@ -52,28 +52,28 @@
         "bottom_padding": true
       }
     },
-    "featured_product_Ebzzi8": {
+    "featured_product_9KDPEC": {
       "type": "featured-product",
       "blocks": {
-        "price_WdifHX": {
+        "price_Eji8Yf": {
           "type": "price",
           "settings": {
           }
         },
-        "buy_buttons_BG9bb7": {
+        "buy_buttons_8TfyiT": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "surface_pickup_enable": false
+            "surface_pickup_enable": true
           }
         }
       },
       "block_order": [
-        "price_WdifHX",
-        "buy_buttons_BG9bb7"
+        "price_Eji8Yf",
+        "buy_buttons_8TfyiT"
       ],
       "settings": {
-        "featured_product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
+        "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
         "product_image_size": "small",
         "product_image_type": "slider",
         "product_zoom_enable": true,
@@ -105,33 +105,142 @@
         "lazyload_images": true
       }
     },
+    "featured_product_Ebzzi8": {
+      "type": "featured-product",
+      "blocks": {
+        "price_WdifHX": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_BG9bb7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price_WdifHX",
+        "buy_buttons_BG9bb7"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "fh_section_product_image_grid_aJeeax": {
+      "type": "fh-section-product-image-grid",
+      "settings": {
+        "image_left": "shopify://shop_images/Sempre_Foam_Ingredients-657372.jpg",
+        "image_right": "shopify://shop_images/Sempre_Organonutrients.png"
+      }
+    },
     "fh_section_faq_with_image_9Fz6qL": {
       "type": "fh-section-faq-with-image",
       "blocks": {
         "question_r4fy7P": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Can I Use Sempre With Minoxidil?",
+            "text": "<p>Yes. Sempre Collection Works Well With Minoxidil. </p>"
           }
         },
         "question_na89DC": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Can I Use With Finasteride?",
+            "text": "<p>Yes. Sempre Foam Can Be Used With Finasteride. </p>"
+          }
+        },
+        "question_y7fnhp": {
+          "type": "question",
+          "settings": {
+            "title": "Are These Products Associated With Hair Shedding On Initiation?",
+            "text": "<p>Hair Shedding Has Not Been Observed Upon Initiation. </p>"
+          }
+        },
+        "question_Dkymah": {
+          "type": "question",
+          "settings": {
+            "title": "Well I Lose My Gains When I Stop?",
+            "text": "<p>Loss Of Incremental Gains Has Been Seen Approximately 6-12 Months After Discontinuation Of Product. </p>"
+          }
+        },
+        "question_V8JUcq": {
+          "type": "question",
+          "settings": {
+            "title": "How Long Before I Start Seeing Gains?",
+            "text": "<p>Sempre Fortifies The Body's Own Hair Growth Cycle. This Cycle Naturally Has A Duration Of 3 Months. Similarly, You Will Begin Seeing The Most Results After The 3 Month Mark. </p>"
+          }
+        },
+        "question_jVUWVH": {
+          "type": "question",
+          "settings": {
+            "title": "Is Sempre For Everyone?",
+            "text": "<p>Sempre Collection Leverages Nature's Power To Achieve Hair Growth. One Of The Characteristics Of The Ingredients Includes DHT Blockage. Customers Trying To Conceive, Who Are Pregnant, or Are Breast Feeding Should Consult With A Medical Provider Prior To Initiation. </p>"
           }
         }
       },
       "block_order": [
         "question_r4fy7P",
-        "question_na89DC"
+        "question_na89DC",
+        "question_y7fnhp",
+        "question_Dkymah",
+        "question_V8JUcq",
+        "question_jVUWVH"
       ],
       "settings": {
         "title": "FAQs",
         "alt": false,
         "image": "shopify://shop_images/Sempre_Foam_Results_Long4-775732.jpg",
         "image_bottom": "shopify://shop_images/Sempre_Foam_Results_Long1.png"
+      }
+    },
+    "text_columns_744r76": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_bzT3kb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Sempre_Hair_Growth_Recommendations.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Easy To Use",
+            "text": "<p>Sempre Hair Growth Foam And OrganoNutrients Are A Safe and Easy Solution For Your Hair Growth Needs. </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_TFDgVt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/2_5f8061c2-7534-4e00-9860-3883e305578d-673417.png",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Consistency Is Key",
+            "text": "<p>Read More About What To Expect.</p>",
+            "button_label": "Read More",
+            "button_link": "shopify://pages/sempre-instructions"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_bzT3kb",
+        "text_block_TFDgVt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "alt": false
       }
     },
     "slideshow_YFVTkf": {
@@ -224,45 +333,17 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    },
-    "featured_product_9KDPEC": {
-      "type": "featured-product",
-      "blocks": {
-        "price_Eji8Yf": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "buy_buttons_8TfyiT": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_Eji8Yf",
-        "buy_buttons_8TfyiT"
-      ],
-      "settings": {
-        "featured_product": "sempre-hair-growth-foam-with-advanced-botanical-blend",
-        "product_image_size": "small",
-        "product_image_type": "slider",
-        "product_zoom_enable": true,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
-      }
     }
   },
   "order": [
     "main",
     "newsletter_4zCDKi",
-    "featured_product_Ebzzi8",
+    "featured_product_9KDPEC",
     "advanced_content_hdLAYh",
+    "featured_product_Ebzzi8",
+    "fh_section_product_image_grid_aJeeax",
     "fh_section_faq_with_image_9Fz6qL",
-    "slideshow_YFVTkf",
-    "featured_product_9KDPEC"
+    "text_columns_744r76",
+    "slideshow_YFVTkf"
   ]
 }
