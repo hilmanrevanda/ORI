@@ -425,12 +425,12 @@
     "featured_collection_bBXAUQ": {
       "type": "featured-collection",
       "settings": {
-        "title": "THE SEMPRE COLLECTION  SEMPRE. ALWAYS. HAIR.",
+        "title": "THE SEMPRE COLLECTION  <p> SEMPRE. <strong>ALWAYS. </strong>HAIR.</p>",
         "description": "",
         "featured_text": "",
         "home_featured_products": "sempre-hair-growth-collection",
         "rows": 2,
-        "per_row_desktop": 4,
+        "per_row_desktop": 2,
         "per_row_mobile": "1",
         "view_all": true,
         "alt": false
