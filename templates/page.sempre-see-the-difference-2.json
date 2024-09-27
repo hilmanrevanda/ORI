@@ -227,9 +227,9 @@
             "image_mask": "none",
             "image_width": 650,
             "title": "Consistency Is Key",
-            "text": "<p>Read More About What To Expect.</p>",
-            "button_label": "Read More",
-            "button_link": "shopify://pages/sempre-instructions"
+            "text": "<p>3 Out Of 4 Customers Who Used Sempre Daily Noted Improved Hair Loss</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -240,7 +240,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "alt": false
+        "alt": true
       }
     },
     "slideshow_YFVTkf": {
