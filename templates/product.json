@@ -9,6 +9,11 @@
 */
 {
   "sections": {
+    "zp-product-header-content": {
+      "type": "product-header-content-zipifypages",
+      "settings": {
+      }
+    },
     "1727323968d710f1c9": {
       "type": "apps",
       "settings": {
@@ -290,9 +295,15 @@
         "alt": false,
         "has_icon": false
       }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {
+      }
     }
   },
   "order": [
+    "zp-product-header-content",
     "1727323968d710f1c9",
     "main",
     "1693529675d946b804",
@@ -303,6 +314,7 @@
     "product-recommendations",
     "collection-return",
     "171955160903592c17",
-    "4c3f1f16-996c-4355-a930-c1142655902b"
+    "4c3f1f16-996c-4355-a930-c1142655902b",
+    "zp-product-footer-content"
   ]
 }
