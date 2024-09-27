@@ -334,6 +334,35 @@
         "lazyload_images": true
       }
     },
+    "testimonials_RtQkR6": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_jYN7Xg": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"Sempre Hair Growth Has Been Amazing! My Hair Has Grown So Much! Sempre Is A For Life Thing. So Grateful For This Product!\" </p>",
+            "author": "Patrice H"
+          }
+        },
+        "testimonial_f3Ahq4": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>\"The Foam Is Great As A Styling Agent As Well As Regrowing Hair And I Definitely Noticed A Difference In The Thickness. I Can't See Myself Ever Not Using It As A Part Of My Hair Care Routine.\"</p>",
+            "author": "Chris Y"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_jYN7Xg",
+        "testimonial_f3Ahq4"
+      ],
+      "settings": {
+        "title": "SEE WHAT SEMPRE USERS ARE SAYING",
+        "align_text": "center",
+        "round_images": true,
+        "alt": false
+      }
+    },
     "newsletter_DxLdQN": {
       "type": "newsletter",
       "blocks": {
@@ -398,35 +427,6 @@
         "view_all": true,
         "alt": false
       }
-    },
-    "testimonials_RtQkR6": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_jYN7Xg": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>\"Sempre Hair Growth Has Been Amazing! My Hair Has Grown So Much! Sempre Is A For Life Thing. So Grateful For This Product!\" </p>",
-            "author": "Patrice H"
-          }
-        },
-        "testimonial_f3Ahq4": {
-          "type": "testimonial",
-          "settings": {
-            "testimonial": "<p>\"The Foam Is Great As A Styling Agent As Well As Regrowing Hair And I Definitely Noticed A Difference In The Thickness. I Can't See Myself Ever Not Using It As A Part Of My Hair Care Routine.\"</p>",
-            "author": "Chris Y"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_jYN7Xg",
-        "testimonial_f3Ahq4"
-      ],
-      "settings": {
-        "title": "SEE WHAT SEMPRE USERS ARE SAYING",
-        "align_text": "center",
-        "round_images": true,
-        "alt": false
-      }
     }
   },
   "order": [
@@ -435,13 +435,13 @@
     "featured_product_9KDPEC",
     "advanced_content_hdLAYh",
     "featured_product_Ebzzi8",
+    "testimonials_RtQkR6",
     "fh_section_product_image_grid_aJeeax",
     "fh_section_faq_with_image_9Fz6qL",
     "text_columns_744r76",
     "slideshow_YFVTkf",
     "newsletter_DxLdQN",
     "hero_video_NiYKnj",
-    "featured_collection_bBXAUQ",
-    "testimonials_RtQkR6"
+    "featured_collection_bBXAUQ"
   ]
 }
