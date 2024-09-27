@@ -47,24 +47,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
-        "sales_point": {
-          "type": "sales_point",
-          "disabled": true,
-          "settings": {
-            "icon": "globe",
-            "text": "Free worldwide shipping"
-          }
-        },
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f": {
           "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
@@ -75,7 +57,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
+            "surface_pickup_enable": false
           }
         },
         "vitals_trust_L4zeFi": {
@@ -116,8 +98,6 @@
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ",
         "price",
         "ea0387d9-f1da-4d22-9fcf-a60515db9d44",
-        "variant_picker",
-        "sales_point",
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f",
         "buy_buttons",
         "vitals_trust_L4zeFi",
