@@ -15,96 +15,6 @@
       "settings": {
       }
     },
-    "slideshow_YFVTkf": {
-      "type": "slideshow",
-      "blocks": {
-        "image_66qBqY": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/4_279e03a1-28cc-49db-8420-1b55237a0229.png",
-            "image_mobile": "shopify:\/\/shop_images\/4_279e03a1-28cc-49db-8420-1b55237a0229.png"
-          }
-        },
-        "image_Np9EE4": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png",
-            "image_mobile": "shopify:\/\/shop_images\/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png"
-          }
-        },
-        "image_PWf6fL": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png",
-            "image_mobile": "shopify:\/\/shop_images\/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png"
-          }
-        },
-        "image_8CHk4A": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Results_Long5.png"
-          }
-        },
-        "image_9arQPV": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_66qBqY",
-        "image_Np9EE4",
-        "image_PWf6fL",
-        "image_8CHk4A",
-        "image_9arQPV"
-      ],
-      "settings": {
-        "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
     "newsletter_4zCDKi": {
       "type": "newsletter",
       "blocks": {
@@ -118,7 +28,7 @@
         "text_znMgJd": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to get exclusive offers, new products, and 20% off next order. <\/p>"
+            "text": "<p>Subscribe to get exclusive offers, new products, and 20% off next order. </p>"
           }
         },
         "form_4rWmfK": {
@@ -134,12 +44,42 @@
       ],
       "settings": {
         "align_text": "center",
-        "image": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
+        "image": "shopify://shop_images/Sempre_Foam_Ingredients.png",
         "image_width": "33",
         "image_mask": "none",
         "image_position": "right",
         "top_padding": true,
         "bottom_padding": true
+      }
+    },
+    "featured_product_Ebzzi8": {
+      "type": "featured-product",
+      "blocks": {
+        "price_WdifHX": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons_BG9bb7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        }
+      },
+      "block_order": [
+        "price_WdifHX",
+        "buy_buttons_BG9bb7"
+      ],
+      "settings": {
+        "featured_product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
+        "product_image_size": "small",
+        "product_image_type": "slider",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "advanced_content_hdLAYh": {
@@ -148,7 +88,7 @@
         "image_AYePdg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Proven_Results.png",
+            "image": "shopify://shop_images/Sempre_Hair_Growth_Proven_Results.png",
             "link": "",
             "width": "100%",
             "alignment": "center"
@@ -162,6 +102,126 @@
         "full_width": true,
         "space_around": false,
         "alt": false,
+        "lazyload_images": true
+      }
+    },
+    "fh_section_faq_with_image_9Fz6qL": {
+      "type": "fh-section-faq-with-image",
+      "blocks": {
+        "question_r4fy7P": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_na89DC": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_r4fy7P",
+        "question_na89DC"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "alt": false,
+        "image": "shopify://shop_images/Sempre_Foam_Results_Long4-775732.jpg",
+        "image_bottom": "shopify://shop_images/Sempre_Foam_Results_Long1.png"
+      }
+    },
+    "slideshow_YFVTkf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_66qBqY": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/4_279e03a1-28cc-49db-8420-1b55237a0229.png",
+            "image_mobile": "shopify://shop_images/4_279e03a1-28cc-49db-8420-1b55237a0229.png"
+          }
+        },
+        "image_Np9EE4": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png",
+            "image_mobile": "shopify://shop_images/2_1a57cdfc-879b-4d9e-a998-1b1d260a4f01.png"
+          }
+        },
+        "image_PWf6fL": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png",
+            "image_mobile": "shopify://shop_images/3_e22cb1e1-f727-4c82-9d45-5c9c7322f3cb.png"
+          }
+        },
+        "image_8CHk4A": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long5.png",
+            "image_mobile": "shopify://shop_images/Sempre_Results_Long5.png"
+          }
+        },
+        "image_9arQPV": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long4.png",
+            "image_mobile": "shopify://shop_images/Sempre_Foam_Results_Long4.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_66qBqY",
+        "image_Np9EE4",
+        "image_PWf6fL",
+        "image_8CHk4A",
+        "image_9arQPV"
+      ],
+      "disabled": true,
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "autoplay": true,
+        "autoplay_speed": 5,
         "lazyload_images": true
       }
     },
@@ -198,9 +258,11 @@
   },
   "order": [
     "main",
-    "slideshow_YFVTkf",
     "newsletter_4zCDKi",
+    "featured_product_Ebzzi8",
     "advanced_content_hdLAYh",
+    "fh_section_faq_with_image_9Fz6qL",
+    "slideshow_YFVTkf",
     "featured_product_9KDPEC"
   ]
 }
