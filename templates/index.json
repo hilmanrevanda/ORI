@@ -216,8 +216,8 @@
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR & SKIN CARE</strong></h2><ul><li><strong>Proven Formulas Leveraging Nature's Science</strong></li><li><strong>Clinically Tested For Hair Growth</strong></li><li><strong>Products Address Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Hair And Skincare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. </em></h3>"
+            "enlarge_text": false,
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIRCARE</strong></h2><ul><li><strong>Proven Formulas Leveraging Nature's Science</strong></li><li><strong>Clinically Tested For Hair Growth</strong></li><li><strong>Over 15 Years of Testing On Human Hair Follicles. </strong></li><li><strong>Products Address Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. </em></h3><h3></h3>"
           }
         }
       },
