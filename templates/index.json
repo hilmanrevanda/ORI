@@ -247,6 +247,35 @@
         "alt": false
       }
     },
+    "hero_video_TmBimB": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
+        "section_height": "550px",
+        "mobile_height": "250px"
+      }
+    },
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -323,35 +352,6 @@
         "background_image": "shopify://shop_images/IMG_3308.jpg"
       }
     },
-    "hero_video_TmBimB": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
-        "section_height": "550px",
-        "mobile_height": "250px"
-      }
-    },
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 3,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "featured_collection_M7zYjb": {
       "type": "featured-collection",
       "settings": {
@@ -362,6 +362,22 @@
         "rows": 1,
         "per_row_desktop": 3,
         "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "blog_posts_cEcAfA": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "BOTANICAL BRILLIANCE",
+        "blog": "ingredient-spotlight",
+        "post_limit": 6,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
         "view_all": true,
         "alt": false
       }
@@ -446,6 +462,7 @@
     "featured_collection_7xPTGj",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "featured_collection_M7zYjb",
+    "blog_posts_cEcAfA",
     "featured_product_Eq8cJm",
     "172678458616fbf87f",
     "fh-section-cta",
