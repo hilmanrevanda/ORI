@@ -28,7 +28,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
+            "image": "shopify://shop_images/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
           }
         }
       },
@@ -47,7 +47,7 @@
     "fh_section_richtext_4fYhEe": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<h1>Congratulations on taking the first step towards fuller, healthier hair with Sempre All-Natural Hair Growth Foam! Your hair growth journey is like crafting a masterpiece — time and patience are key.<\/h1>",
+        "text": "<h1>Congratulations on taking the first step towards fuller, healthier hair with Sempre All-Natural Hair Growth Foam! Your hair growth journey is like crafting a masterpiece — time and patience are key.</h1>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -62,15 +62,15 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/vimeo.com\/943463990",
-        "section_height": "100vh",
-        "mobile_height": "100vh"
+        "video_url": "https://vimeo.com/943463990",
+        "section_height": "550px",
+        "mobile_height": "250px"
       }
     },
     "fh_section_richtext_hQ6Ajx": {
       "type": "fh-section-richtext",
       "settings": {
-        "text": "<h1>WHAT TO EXPECT?<\/h1><h3>Visible results are influenced by the natural phases of hair growth: anagen (growth), catagen (regression), telogen (resting), and exogen (shedding).  Each hair follicle progresses through these stages independently, and it takes time for the nutrients to take effect and for new, healthier hair to grow<\/h3>",
+        "text": "<h1>WHAT TO EXPECT?</h1><h3>Visible results are influenced by the natural phases of hair growth: anagen (growth), catagen (regression), telogen (resting), and exogen (shedding).  Each hair follicle progresses through these stages independently, and it takes time for the nutrients to take effect and for new, healthier hair to grow</h3>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -78,8 +78,8 @@
     "fh_section_product_image_grid_RyzjbR": {
       "type": "fh-section-product-image-grid",
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Recommendations.png",
-        "image_right": "shopify:\/\/shop_images\/2_5f8061c2-7534-4e00-9860-3883e305578d.png"
+        "image_left": "shopify://shop_images/Sempre_Hair_Growth_Recommendations.png",
+        "image_right": "shopify://shop_images/2_5f8061c2-7534-4e00-9860-3883e305578d.png"
       }
     },
     "bb0877f0-6939-4908-ab9c-5ecd59c54ffb": {
@@ -91,7 +91,7 @@
             "show_image": false,
             "icon": "chat",
             "title": "",
-            "text": "<h3><strong>3 MONTH RESULTS<\/strong><\/h3><ul><li>Initial Results: After three months, users may notice some initial results. This early stage is often about setting the groundwork for healthier hair growth.<\/li><li>Increased Hair Strength: May notice reduced hair breakage and increased resilience of the hair shaft.<\/li><li>Healthier Scalp: May notice an improvement in the scalp which can create a healthier environment for hair growth<\/li><\/ul>"
+            "text": "<h3><strong>3 MONTH RESULTS</strong></h3><ul><li>Initial Results: After three months, users may notice some initial results. This early stage is often about setting the groundwork for healthier hair growth.</li><li>Increased Hair Strength: May notice reduced hair breakage and increased resilience of the hair shaft.</li><li>Healthier Scalp: May notice an improvement in the scalp which can create a healthier environment for hair growth</li></ul>"
           }
         },
         "02158237-3859-400a-9303-44a34ad7c801": {
@@ -100,7 +100,7 @@
             "show_image": false,
             "icon": "chat",
             "title": "",
-            "text": "<h3><strong>6 MONTH RESULTS<\/strong><\/h3><ul><li>More Visible Hair Growth: By six months, the effects are typically more apparent. Users may observe the appearance of denser, fuller hair<\/li><li>Thicker, Fuller Hair: With continued use, hair may appear thicker and fuller. <\/li><li>Improved Overall Hair Health: As the scalp continues to absorb the nutrients from the topical supplement, overall hair health may be improved, resulting in shinier, less frizzy, and more manageable hair.<\/li><\/ul>"
+            "text": "<h3><strong>6 MONTH RESULTS</strong></h3><ul><li>More Visible Hair Growth: By six months, the effects are typically more apparent. Users may observe the appearance of denser, fuller hair</li><li>Thicker, Fuller Hair: With continued use, hair may appear thicker and fuller. </li><li>Improved Overall Hair Health: As the scalp continues to absorb the nutrients from the topical supplement, overall hair health may be improved, resulting in shinier, less frizzy, and more manageable hair.</li></ul>"
           }
         }
       },
@@ -120,7 +120,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/Copy_of_VIOLA_LAUNCH_VIDEO.png"
+        "background_image": "shopify://shop_images/Copy_of_VIOLA_LAUNCH_VIDEO.png"
       }
     },
     "e8e433ee-440d-4d90-afb3-b82387ee8444": {
@@ -130,8 +130,8 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<h1>SEMPRE ORGANONUTRIENTS<\/h1><h3>ALL NATURAL BOTANICALS<\/h3><h3>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.<\/h3>",
+            "image": "shopify://shop_images/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<h1>SEMPRE ORGANONUTRIENTS</h1><h3>ALL NATURAL BOTANICALS</h3><h3>ORGANONUTRIENTS are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.</h3>",
             "background_color": "#451799",
             "text_color": "#ffffff"
           }
@@ -153,35 +153,35 @@
           "type": "question",
           "settings": {
             "title": "Can I use Sempre foam with minoxidil?",
-            "text": "<p>Yes. Sempre Foam can be used with Minoxidil<\/p>"
+            "text": "<p>Yes. Sempre Foam can be used with Minoxidil</p>"
           }
         },
         "question_LFFYaB": {
           "type": "question",
           "settings": {
             "title": "When should I apply Sempre foam in relation to minoxidil? ",
-            "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.<\/p>"
+            "text": "<p>Sempre foam can be applied in conjunction, in proximity, or separate from minoxidil application.</p>"
           }
         },
         "question_PLhBVj": {
           "type": "question",
           "settings": {
             "title": "Should I apply the foam to wet or dry hair?",
-            "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.<\/p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. <\/p>"
+            "text": "<p>Sempre foam can be utilized on wet or dry hair depending on the preference.</p><p>For wet styling application, apply to wet hair,  style to desired look. For dry look, apply to scalp while hair is dry and allow time for evaporation. For quicker dry and volume blow dry thereafter with low or medium heat. </p>"
           }
         },
         "question_GQfE6E": {
           "type": "question",
           "settings": {
             "title": "What time of day should I apply the foam?",
-            "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. <\/p>"
+            "text": "<p>Sempre foam can be applied night or day based on the convenience of the user. </p>"
           }
         },
         "question_NFqiRe": {
           "type": "question",
           "settings": {
             "title": "Can I use Sempre with finasteride?",
-            "text": "<p>Yes. Sempre foam can be used with Finasteride. <\/p>"
+            "text": "<p>Yes. Sempre foam can be used with Finasteride. </p>"
           }
         },
         "question_pJnneH": {
@@ -189,28 +189,28 @@
           "disabled": true,
           "settings": {
             "title": "Can Sempre replace minoxidil or finasteride?",
-            "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. <\/p>"
+            "text": "<p>Sempre foam has not been tested as a replacement for Finasteride or Minoxidil. Proof of concept clinical studies demonstrate significant superiority to Finasteride and Minoxidil. Utilization as a replacement will require further studies to evaluate post cessation shedding. </p>"
           }
         },
         "question_nepjx4": {
           "type": "question",
           "settings": {
             "title": "Are there known side effects?",
-            "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. <\/p>"
+            "text": "<p>Sempre primary ingredients, a proprietary botanical blend of compounds has been studied in clinical studies since 2010. Since that juncture no side effects have been reported. Further studies will be performed in this regard. </p>"
           }
         },
         "question_bPjRGw": {
           "type": "question",
           "settings": {
             "title": "What is in Sempre?",
-            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. <\/p>"
+            "text": "<p>Sempre growth foam contains a medley of botanical extracts known to improve scalp and hair wellness. In addition, the primary ingredients are organic compounds derived from over 10 years of research demonstrating significant improvement in the look and feel of hair. </p>"
           }
         },
         "question_PEFFeA": {
           "type": "question",
           "settings": {
             "title": "How do I apply Sempre foam?",
-            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.<\/p>"
+            "text": "<p>Sempre growth foam application works best with 30-60 seconds of medium pressure scalp massage.</p>"
           }
         }
       },
@@ -236,7 +236,7 @@
         "848977ff-6252-4e05-989d-8584e771108f": {
           "type": "image_picker",
           "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Helix.png"
+            "image_icon": "shopify://shop_images/Helix.png"
           }
         },
         "template--15758407172305__fd91edb2-8b01-4aab-beac-9f1cda534efc-heading-1": {
@@ -249,7 +249,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair<\/strong><\/p>"
+            "text": "<p><strong>Hairloss | Dandruff | Hair Thinning | Dry Itch Scalp | Damaged Hair</strong></p>"
           }
         }
       },
@@ -279,7 +279,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long1.png"
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long1.png"
           }
         },
         "image_FRTaNY": {
@@ -292,7 +292,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long3.png"
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long3.png"
           }
         },
         "image_TNrQNM": {
@@ -305,7 +305,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long2.png"
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long2.png"
           }
         },
         "image_QrmVfC": {
@@ -318,7 +318,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long4.png"
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long4.png"
           }
         },
         "image_QLRQxV": {
@@ -331,7 +331,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Results_Long5.png"
+            "image": "shopify://shop_images/Sempre_Foam_Results_Long5.png"
           }
         }
       },
@@ -358,7 +358,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
       ],
       "settings": {
-        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN<\/h2>",
+        "text": "<h2>HOW ORIGENERE HELPS HAIR AND SKIN</h2>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -369,7 +369,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85); margin-bottom: 0px;}"
       ],
       "settings": {
-        "text": "<h1>THE REVIEWS ARE IN...<\/h1>",
+        "text": "<h1>THE REVIEWS ARE IN...</h1>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -380,29 +380,29 @@
         "image_tVtrBb": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long1.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+            "image": "shopify://shop_images/Sempre_Testimonials_Long1.png",
+            "image_mobile": "shopify://shop_images/Sempre_Testimonials_Long4.png"
           }
         },
         "image_keDgQM": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long4.png"
+            "image": "shopify://shop_images/Sempre_Testimonials_Long4.png",
+            "image_mobile": "shopify://shop_images/Sempre_Testimonials_Long4.png"
           }
         },
         "image_LfBBJC": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long3.png"
+            "image": "shopify://shop_images/Sempre_Testimonials_Long3.png",
+            "image_mobile": "shopify://shop_images/Sempre_Testimonials_Long3.png"
           }
         },
         "image_WgbTJn": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png",
-            "image_mobile": "shopify:\/\/shop_images\/Sempre_Testimonials_Long2.png"
+            "image": "shopify://shop_images/Sempre_Testimonials_Long2.png",
+            "image_mobile": "shopify://shop_images/Sempre_Testimonials_Long2.png"
           }
         }
       },
@@ -434,7 +434,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "image": "shopify://shop_images/ori_icon-2.png",
             "icon": "chat",
             "title": "All Natural Botanical Extracts",
             "text": ""
@@ -444,7 +444,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "image": "shopify://shop_images/ori_icon-4.png",
             "icon": "chat",
             "title": "Backed By Science",
             "text": ""
@@ -454,7 +454,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "image": "shopify://shop_images/ori_icon-5.png",
             "icon": "chat",
             "title": "Free of Sulfates <br>& Parabens",
             "text": ""
@@ -464,7 +464,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "image": "shopify://shop_images/ori_icon-3.png",
             "icon": "chat",
             "title": "Physician <br>Formulated",
             "text": ""
@@ -474,7 +474,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "image": "shopify://shop_images/ori_icon-1.png",
             "icon": "chat",
             "title": "Cruelty <br>Free",
             "text": ""
@@ -514,14 +514,14 @@
     "text_and_image_TTaqBw": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Sempre_Physician.jpg",
+        "image": "shopify://shop_images/Sempre_Physician.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
         "title": "SUBSCRIBE & SAVE",
-        "text": "<p>Enhance your results with our complete Sempre hair growth collection. Formulated by physicians to work synergistically together for optimal hair health. Save 30% when you subscribe to both Sempre Hair Growth Foam and Sempre Hair Growth Organonutrients.<\/p>",
+        "text": "<p>Enhance your results with our complete Sempre hair growth collection. Formulated by physicians to work synergistically together for optimal hair health. Save 30% when you subscribe to both Sempre Hair Growth Foam and Sempre Hair Growth Organonutrients.</p>",
         "button_label": "SUBSCRIBE & SAVE TODAY",
-        "button_link": "shopify:\/\/products\/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
+        "button_link": "shopify://products/sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
         "button_style": "primary",
         "align_text": "center",
         "image_width": "50",
@@ -545,14 +545,14 @@
     "text_and_image_L99NkM": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
+        "image": "shopify://shop_images/IMG_9936_370d0944-1df7-43ef-a234-a07e08320203.jpg",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
         "title": "REMINDER TO TAKE YOUR VITAMINS...",
-        "text": "<p>Sempre once a day keeps hair loss at bay.<\/p>",
+        "text": "<p>Sempre once a day keeps hair loss at bay.</p>",
         "button_label": "",
-        "button_link": "shopify:\/\/collections\/sempre-hair-growth-collection",
+        "button_link": "shopify://collections/sempre-hair-growth-collection",
         "button_style": "primary",
         "align_text": "center",
         "image_width": "50",
