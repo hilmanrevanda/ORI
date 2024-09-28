@@ -41,15 +41,15 @@
           "settings": {
           }
         },
-        "ea0387d9-f1da-4d22-9fcf-a60515db9d44": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f": {
           "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
+          }
+        },
+        "ea0387d9-f1da-4d22-9fcf-a60515db9d44": {
+          "type": "quantity_selector",
+          "settings": {
           }
         },
         "buy_buttons": {
@@ -96,8 +96,8 @@
         "vitals_reviews_stars_66xFXb",
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ",
         "price",
-        "ea0387d9-f1da-4d22-9fcf-a60515db9d44",
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f",
+        "ea0387d9-f1da-4d22-9fcf-a60515db9d44",
         "buy_buttons",
         "vitals_trust_L4zeFi",
         "description",
