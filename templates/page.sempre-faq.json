@@ -28,7 +28,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png"
+            "image": "shopify://shop_images/2_814130d7-ec4d-48ba-a4fb-b16a3653a943.png",
+            "image_mobile": "shopify://shop_images/Naturale_Hair_Care_4.png"
           }
         }
       },
