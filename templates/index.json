@@ -51,20 +51,29 @@
             "url": "shopify://collections/naturale-purity-collection"
           }
         },
-        "text_block_L7iPcd": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<strong>SEMPRE<strong><p>    HAIR GROWTH</p></strong></strong>",
-            "url": "shopify://collections/sempre-hair-growth-collection"
-          }
-        },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
             "image": "shopify://shop_images/BuongiornoRobe_4_22fc7a2e-2574-4e15-949f-49b517956bb8.png",
-            "text": "<strong> BUONGIORNO </strong><p> SCALP VITALITY</p>",
+            "text": "<strong> BUONGIORNO</strong><p> FOR  SCALP VITALITY</p>",
             "url": "shopify://collections/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_L7iPcd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<strong>SEMPRE</strong><p> FOR  HAIR GROWTH</p>",
+            "url": "shopify://collections/sempre-hair-growth-collection"
+          }
+        },
+        "text_block_w3xYqL": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Origenere_Orange.jpg",
+            "text": "ARANCIO  SKIN PRESERVATION",
+            "url": "shopify://collections/nourish-your-natural-glow"
           }
         },
         "text_block_CMTXRa": {
@@ -75,25 +84,17 @@
             "text": "<strong>NERO</strong><p> FOR DETOX + EXFOLIATION</p>",
             "url": "shopify://collections/nero-detox-collection"
           }
-        },
-        "text_block_w3xYqL": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/Origenere_Orange.jpg",
-            "text": "<strong>ARANCIO</strong><p>  SKIN PRESERVATION</p>",
-            "url": "shopify://collections/nourish-your-natural-glow"
-          }
         }
       },
       "block_order": [
         "text_block_8iMHhy",
-        "text_block_L7iPcd",
         "text_block_FJYXiW",
-        "text_block_CMTXRa",
-        "text_block_w3xYqL"
+        "text_block_L7iPcd",
+        "text_block_w3xYqL",
+        "text_block_CMTXRa"
       ],
       "settings": {
-        "num_per_row": 4
+        "num_per_row": 3
       }
     },
     "172678467592bc8ffe": {
