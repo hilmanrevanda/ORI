@@ -18,12 +18,12 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify:\/\/collections\/all-natural-hair-care",
+            "link": "shopify://collections/all-natural-hair-care",
             "link_text": "Shop Hair Care and Hair Loss Solutions",
             "color_accent": "#edd824",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/20-hair-loss-sale.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/20-hair-loss-sale.jpg"
+            "image": "shopify://shop_images/20-hair-loss-sale.jpg",
+            "image_mobile": "shopify://shop_images/20-hair-loss-sale.jpg"
           }
         }
       },
@@ -46,43 +46,43 @@
         "text_block_8iMHhy": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
-            "text": "<strong> NATURALE <\/strong> <p>FOR THINNING HAIR<\/p>",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
+            "image": "shopify://shop_images/NATURALE_COLLECTION.webp",
+            "text": "<strong> NATURALE </strong> <p>FOR THINNING HAIR</p>",
+            "url": "shopify://collections/naturale-purity-collection"
           }
         },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BuongiornoRobe_3-654027.jpg",
-            "text": "<strong> BUONGIORNO <\/strong> <p> FOR SCALP VITALITY<\/p>",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+            "image": "shopify://shop_images/BuongiornoRobe_3-654027.jpg",
+            "text": "<strong> BUONGIORNO </strong> <p> FOR SCALP VITALITY</p>",
+            "url": "shopify://collections/buongiorno-vitality-collection"
           }
         },
         "text_block_L7iPcd": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<strong>SEMPRE<\/strong> <p> FOR HAIR GROWTH<\/p>",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+            "image": "shopify://shop_images/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
+            "text": "<strong>SEMPRE</strong> <p> FOR HAIR GROWTH</p>",
+            "url": "shopify://collections/sempre-hair-growth-collection"
           }
         },
         "text_block_CMTXRa": {
           "type": "text_block",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
-            "text": "<strong>NERO<\/strong><p> FOR DETOX + EXFOLIATION<\/p>",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
+            "image": "shopify://shop_images/NERO_COLLECTION.webp",
+            "text": "<strong>NERO</strong><p> FOR DETOX + EXFOLIATION</p>",
+            "url": "shopify://collections/nero-detox-collection"
           }
         },
         "text_block_w3xYqL": {
           "type": "text_block",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/ARANCIOBUNDLE-423423.jpg",
+            "image": "shopify://shop_images/ARANCIOBUNDLE-423423.jpg",
             "text": "SKIN PRESERVATION COLLECTION",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+            "url": "shopify://collections/nourish-your-natural-glow"
           }
         }
       },
@@ -101,12 +101,12 @@
       "type": "apps",
       "blocks": {
         "vitals_reviews_carousel_PPw4cU": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/reviews-carousel\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
           }
         },
         "vitals_trust_ADzT4x": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
           }
         }
@@ -129,12 +129,12 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify:\/\/collections\/hair-care-hair-loss",
+            "link": "shopify://collections/hair-care-hair-loss",
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/20_Hair_loss_sale.png",
-            "image_mobile": "shopify:\/\/shop_images\/20_Hair_loss_sale.png"
+            "image": "shopify://shop_images/20_Hair_loss_sale.png",
+            "image_mobile": "shopify://shop_images/20_Hair_loss_sale.png"
           }
         }
       },
@@ -155,16 +155,16 @@
       "type": "fh-section-product-category-grid",
       "disabled": true,
       "settings": {
-        "image_left": "shopify:\/\/shop_images\/Men_Haircare2-2.jpg",
+        "image_left": "shopify://shop_images/Men_Haircare2-2.jpg",
         "heading_left": "HAIRCARE",
         "description_left": "",
         "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify:\/\/collections\/hair-care-hair-loss",
-        "image_right": "shopify:\/\/shop_images\/IMG_9674-2.jpg",
+        "btn_left_url": "shopify://collections/hair-care-hair-loss",
+        "image_right": "shopify://shop_images/IMG_9674-2.jpg",
         "heading_right": "SKINCARE",
         "description_right": "",
         "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify:\/\/collections\/skincare"
+        "btn_right_url": "shopify://collections/skincare"
       }
     },
     "slideshow_pJEQBi": {
@@ -176,12 +176,12 @@
             "title": "PHYSICIAN CURATED HAIR TRANSPLANT KITS.",
             "title_size": 40,
             "subheading": "Optimize Your Investment Today.",
-            "link": "shopify:\/\/collections\/hair-transplant-kits",
+            "link": "shopify://collections/hair-transplant-kits",
             "link_text": "SHOP NOW",
             "color_accent": "#383838",
             "text_align": "vertical-top horizontal-right",
-            "image": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png",
-            "image_mobile": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png"
+            "image": "shopify://shop_images/GrowthKit_3_Crescere.png",
+            "image_mobile": "shopify://shop_images/GrowthKit_3_Crescere.png"
           }
         }
       },
@@ -204,20 +204,20 @@
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
           "type": "heading",
           "settings": {
-            "title": "LOOKING FOR HAIR GROWTH PRODUCTS THAT ACTUALLY WORK?"
+            "title": "WE TAKE YOUR HAIR SERIOUSLY."
           }
         },
         "38ae4040-7838-493d-b248-5108007b2756": {
           "type": "image_picker",
           "settings": {
-            "image_icon": "shopify:\/\/shop_images\/Origenere_Helix_white.png"
+            "image_icon": "shopify://shop_images/Origenere_Helix_white.png"
           }
         },
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR & SKIN CARE<\/strong><\/h2><h3><strong>Proven Formulas Tested Specifically For Hair Growth. Hair Products Address Struggles With Thinning Hair, Excessive Shedding, Breakage, And Dry, Itchy Scalp<\/strong>. <strong> <\/strong><\/h3><h3><em>Our All-Natural Hair And Skincare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. <\/em><\/h3>"
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR & SKIN CARE</strong></h2><ul><li><strong>Proven Formulas Leveraging Nature's Science</strong></li><li><strong>Clinically Tested For Hair Growth</strong></li><li><strong>Products Address Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Hair And Skincare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. </em></h3>"
           }
         }
       },
@@ -254,7 +254,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "image": "shopify://shop_images/ori_icon-2.png",
             "icon": "chat",
             "title": "All Natural <br>Botanical Extracts",
             "text": ""
@@ -264,7 +264,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "image": "shopify://shop_images/ori_icon-4.png",
             "icon": "chat",
             "title": "Backed by <br>Science",
             "text": ""
@@ -274,7 +274,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "image": "shopify://shop_images/ori_icon-5.png",
             "icon": "chat",
             "title": "Free of Sulfates <br>& Parabens",
             "text": ""
@@ -284,7 +284,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "image": "shopify://shop_images/ori_icon-3.png",
             "icon": "chat",
             "title": "Physician Formulated",
             "text": ""
@@ -294,7 +294,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "image": "shopify://shop_images/ori_icon-1.png",
             "icon": "plant",
             "title": "Cruelty <br>Free",
             "text": ""
@@ -320,7 +320,7 @@
         "button_link": "",
         "alt": true,
         "has_icon": false,
-        "background_image": "shopify:\/\/shop_images\/IMG_3308.jpg"
+        "background_image": "shopify://shop_images/IMG_3308.jpg"
       }
     },
     "featured_product_Eq8cJm": {
@@ -364,11 +364,11 @@
       "type": "fh-section-cta",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3051.jpg",
+        "image": "shopify://shop_images/IMG_3051.jpg",
         "heading": "ORGANONUTRIENTS",
         "description": "OrganoNutrients are a proprietary formulation of natural botanicals, scientifically enhanced nutrients and bioactives specially selected by physicians for their active properties and benefits to human hair and skin.",
         "btn_text": "LEARN MORE",
-        "btn_url": "shopify:\/\/pages\/the-science"
+        "btn_url": "shopify://pages/the-science"
       }
     },
     "blog_posts_jwMddg": {
