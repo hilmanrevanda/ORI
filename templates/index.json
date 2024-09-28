@@ -43,20 +43,20 @@
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
-        "text_block_8iMHhy": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/NATURALE_COLLECTION.webp",
-            "text": "<strong> NATURALE </strong> <p>FOR THINNING HAIR</p>",
-            "url": "shopify://collections/naturale-purity-collection"
-          }
-        },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
             "image": "shopify://shop_images/BuongiornoRobe_3-654027.jpg",
             "text": "<strong> BUONGIORNO </strong> <p> FOR SCALP VITALITY</p>",
             "url": "shopify://collections/buongiorno-vitality-collection"
+          }
+        },
+        "text_block_8iMHhy": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/NATURALE_COLLECTION.webp",
+            "text": "<strong>NATURALE</strong><p>  FOR THINNING HAIR</p>",
+            "url": "shopify://collections/naturale-purity-collection"
           }
         },
         "text_block_L7iPcd": {
@@ -87,8 +87,8 @@
         }
       },
       "block_order": [
-        "text_block_8iMHhy",
         "text_block_FJYXiW",
+        "text_block_8iMHhy",
         "text_block_L7iPcd",
         "text_block_CMTXRa",
         "text_block_w3xYqL"
