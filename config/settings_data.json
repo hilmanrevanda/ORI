@@ -50,7 +50,7 @@
     "logo_loader_image": "shopify://shop_images/force_black.png",
     "desktop_loader_width": 100,
     "mobile_loader_width": 100,
-    "product_hover_details": false,
+    "product_hover_details": true,
     "product_hover_image": true,
     "product_image_scatter": false,
     "product_grid_image_size": "landscape",
