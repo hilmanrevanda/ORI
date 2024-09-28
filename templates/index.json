@@ -55,15 +55,15 @@
           "type": "text_block",
           "settings": {
             "image": "shopify://shop_images/IMG_3961-4_6ccc2295-8620-4344-a4f9-0c1a718b03e3.jpg",
-            "text": "<strong>SEMPRE</strong> <p> FOR HAIR GROWTH</p>",
+            "text": "SEMPRE  FOR HAIR GROWTH",
             "url": "shopify://collections/sempre-hair-growth-collection"
           }
         },
         "text_block_FJYXiW": {
           "type": "text_block",
           "settings": {
-            "image": "shopify://shop_images/BuongiornoRobe_3-654027.jpg",
-            "text": "<strong> BUONGIORNO </strong> <p> FOR SCALP VITALITY</p>",
+            "image": "shopify://shop_images/BuongiornoRobe_4_22fc7a2e-2574-4e15-949f-49b517956bb8.png",
+            "text": "BUONGIORNO   FOR SCALP VITALITY",
             "url": "shopify://collections/buongiorno-vitality-collection"
           }
         },
@@ -79,8 +79,8 @@
         "text_block_w3xYqL": {
           "type": "text_block",
           "settings": {
-            "image": "shopify://shop_images/Arancio_Skincare_Origenere_Orange.jpg",
-            "text": "<strong> ARANCIO</strong><p> FOR SKIN PRESERVATION</p>",
+            "image": "shopify://shop_images/Origenere_Orange.jpg",
+            "text": "ARANCIO  SKIN PRESERVATION",
             "url": "shopify://collections/nourish-your-natural-glow"
           }
         }
