@@ -43,14 +43,6 @@
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
-        "text_block_FJYXiW": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/BuongiornoRobe_3-654027.jpg",
-            "text": "<strong> BUONGIORNO </strong> <p> FOR SCALP VITALITY</p>",
-            "url": "shopify://collections/buongiorno-vitality-collection"
-          }
-        },
         "text_block_8iMHhy": {
           "type": "text_block",
           "settings": {
@@ -67,6 +59,14 @@
             "url": "shopify://collections/sempre-hair-growth-collection"
           }
         },
+        "text_block_FJYXiW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/BuongiornoRobe_3-654027.jpg",
+            "text": "<strong> BUONGIORNO </strong> <p> FOR SCALP VITALITY</p>",
+            "url": "shopify://collections/buongiorno-vitality-collection"
+          }
+        },
         "text_block_CMTXRa": {
           "type": "text_block",
           "disabled": true,
@@ -78,23 +78,22 @@
         },
         "text_block_w3xYqL": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/ARANCIOBUNDLE-423423.jpg",
+            "image": "shopify://shop_images/ARANCIO_COLLECTION.png",
             "text": "SKIN PRESERVATION COLLECTION",
             "url": "shopify://collections/nourish-your-natural-glow"
           }
         }
       },
       "block_order": [
-        "text_block_FJYXiW",
         "text_block_8iMHhy",
         "text_block_L7iPcd",
+        "text_block_FJYXiW",
         "text_block_CMTXRa",
         "text_block_w3xYqL"
       ],
       "settings": {
-        "num_per_row": 3
+        "num_per_row": 4
       }
     },
     "172678467592bc8ffe": {
