@@ -47,6 +47,43 @@
         "lazyload_images": false
       }
     },
+    "newsletter_mMNB3L": {
+      "type": "newsletter",
+      "blocks": {
+        "title_Dgd3za": {
+          "type": "title",
+          "settings": {
+            "title": "SUBSCRIBE FOR 20% OFF YOUR FIRST ORDER",
+            "heading_size": "h2"
+          }
+        },
+        "text_wW38mm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.</strong></p>"
+          }
+        },
+        "form_w9ECQw": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_Dgd3za",
+        "text_wW38mm",
+        "form_w9ECQw"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify://shop_images/Naturale_Purity_Collection_Saw-583175.jpg",
+        "image_width": "33",
+        "image_mask": "landscape",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "rich_text_tknzB9": {
       "type": "rich-text",
       "blocks": {
@@ -170,43 +207,6 @@
         "button_link": "",
         "alt": true,
         "has_icon": true
-      }
-    },
-    "newsletter_mMNB3L": {
-      "type": "newsletter",
-      "blocks": {
-        "title_Dgd3za": {
-          "type": "title",
-          "settings": {
-            "title": "SUBSCRIBE FOR 20% OFF YOUR FIRST ORDER",
-            "heading_size": "h2"
-          }
-        },
-        "text_wW38mm": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Latest Blogs, Products and Promotions Straight To Your Inbox. Subscribe And <strong>Receive 20% Your First Order, Discount Delivered To Your Inbox Upon Signing Up.</strong></p>"
-          }
-        },
-        "form_w9ECQw": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_Dgd3za",
-        "text_wW38mm",
-        "form_w9ECQw"
-      ],
-      "settings": {
-        "align_text": "center",
-        "image": "shopify://shop_images/Naturale_Purity_Collection_Saw-583175.jpg",
-        "image_width": "33",
-        "image_mask": "landscape",
-        "image_position": "right",
-        "top_padding": true,
-        "bottom_padding": true
       }
     },
     "advanced_content_MCWHha": {
@@ -419,16 +419,16 @@
   "order": [
     "main",
     "advanced_content_VYpEmT",
+    "newsletter_mMNB3L",
+    "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
     "advanced_content_qLdUFH",
     "172507810021339627",
     "text_with_icons_6QWGce",
-    "newsletter_mMNB3L",
     "advanced_content_MCWHha",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
     "hotspots_CHUFXy",
-    "fh_section_collection_grid_HPxk7m",
     "fh_section_products_grid_dxm4tw"
   ]
 }

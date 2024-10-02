@@ -90,7 +90,7 @@
         "text_block_jtKGfJ"
       ],
       "settings": {
-        "num_per_row": 3
+        "num_per_row": 4
       }
     },
     "rich_text_tknzB9": {
@@ -304,21 +304,6 @@
         "hotspot_color": "#5310ef",
         "lazyload_images": true
       }
-    },
-    "fh_section_products_grid_dxm4tw": {
-      "type": "fh-section-products-grid",
-      "settings": {
-        "image_left": "shopify://shop_images/Sage.webp",
-        "heading_left": "Benefits of Sage For Hair",
-        "description_left": "",
-        "btn_left_text": "learn more",
-        "btn_left_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
-        "image_right": "shopify://shop_images/Olive_Leaf_Extract.jpg",
-        "heading_right": "Olive Leaf Benefits For Hair And Skin",
-        "description_right": "",
-        "btn_right_text": "Learn more",
-        "btn_right_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
-      }
     }
   },
   "order": [
@@ -330,7 +315,6 @@
     "172507810021339627",
     "testimonials_mchcrh",
     "featured_product_hyB3QX",
-    "hotspots_CHUFXy",
-    "fh_section_products_grid_dxm4tw"
+    "hotspots_CHUFXy"
   ]
 }
