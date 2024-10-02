@@ -84,6 +84,52 @@
         "bottom_padding": true
       }
     },
+    "fh_section_collection_grid_HPxk7m": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_RrVhgA": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/ORIGENERENATURALESHAMPOO2023_2.jpg",
+            "text": "SHAMPOO FOR THINNING HAIR",
+            "url": "shopify://products/naturale-shampoo-for-thinning-hair-hair-loss-1"
+          }
+        },
+        "text_block_aW9BaB": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/ORIGENERENATURALECONDITIONER2023_2.jpg",
+            "text": "CONDITIONER FOR THINNING HAIR",
+            "url": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss"
+          }
+        },
+        "text_block_Pti6nx": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
+            "text": "SCALP TONIC FOR THINNING HAIR",
+            "url": "shopify://products/naturale-scalp-and-hair-tonic"
+          }
+        },
+        "text_block_jtKGfJ": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
+            "text": "HAIR STYLING CREAM FOR THINNING HAIR",
+            "url": "shopify://products/naturale-hair-styling-cream-1"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_RrVhgA",
+        "text_block_aW9BaB",
+        "text_block_Pti6nx",
+        "text_block_jtKGfJ"
+      ],
+      "settings": {
+        "num_per_row": 3
+      }
+    },
     "rich_text_tknzB9": {
       "type": "rich-text",
       "blocks": {
@@ -353,67 +399,6 @@
         "hotspot_color": "#5310ef",
         "lazyload_images": true
       }
-    },
-    "fh_section_collection_grid_HPxk7m": {
-      "type": "fh-section-collection-grid",
-      "blocks": {
-        "text_block_RrVhgA": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/ORIGENERENATURALESHAMPOO2023_2.jpg",
-            "text": "SHAMPOO FOR THINNING HAIR",
-            "url": "shopify://products/naturale-shampoo-for-thinning-hair-hair-loss-1"
-          }
-        },
-        "text_block_aW9BaB": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/ORIGENERENATURALECONDITIONER2023_2.jpg",
-            "text": "CONDITIONER FOR THINNING HAIR",
-            "url": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss"
-          }
-        },
-        "text_block_Pti6nx": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
-            "text": "SCALP TONIC FOR THINNING HAIR",
-            "url": "shopify://products/naturale-scalp-and-hair-tonic"
-          }
-        },
-        "text_block_jtKGfJ": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/ORIGENERENATURALESTYLINGCREAM100ML_1.jpg",
-            "text": "HAIR STYLING CREAM FOR THINNING HAIR",
-            "url": "shopify://products/naturale-hair-styling-cream-1"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_RrVhgA",
-        "text_block_aW9BaB",
-        "text_block_Pti6nx",
-        "text_block_jtKGfJ"
-      ],
-      "settings": {
-        "num_per_row": 3
-      }
-    },
-    "fh_section_products_grid_dxm4tw": {
-      "type": "fh-section-products-grid",
-      "settings": {
-        "image_left": "shopify://shop_images/Sage.webp",
-        "heading_left": "Benefits of Sage For Hair",
-        "description_left": "",
-        "btn_left_text": "learn more",
-        "btn_left_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-a-physicians-review-of-saw-palmetto-and-its-use-for-hair-loss",
-        "image_right": "shopify://shop_images/Olive_Leaf_Extract.jpg",
-        "heading_right": "Olive Leaf Benefits For Hair And Skin",
-        "description_right": "",
-        "btn_right_text": "Learn more",
-        "btn_right_url": "shopify://blogs/ingredient-spotlight/botanical-brilliance-benefits-of-olive-leaf-for-hair-and-skin"
-      }
     }
   },
   "order": [
@@ -422,13 +407,12 @@
     "newsletter_mMNB3L",
     "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
-    "advanced_content_qLdUFH",
     "172507810021339627",
+    "featured_product_hyB3QX",
     "text_with_icons_6QWGce",
+    "advanced_content_qLdUFH",
     "advanced_content_MCWHha",
     "testimonials_mchcrh",
-    "featured_product_hyB3QX",
-    "hotspots_CHUFXy",
-    "fh_section_products_grid_dxm4tw"
+    "hotspots_CHUFXy"
   ]
 }
