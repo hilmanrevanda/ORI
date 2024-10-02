@@ -21,7 +21,7 @@
         "image_N3b46p": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Screenshot_2024-09-23_at_11.48.26_AM.jpg",
+            "image": "shopify://shop_images/Naturale_Haircare.jpg",
             "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
             "width": "50%",
             "alignment": "center"
@@ -158,38 +158,6 @@
         "background_color": "#383838"
       }
     },
-    "advanced_content_qLdUFH": {
-      "type": "advanced-content",
-      "blocks": {
-        "liquid_JD89n8": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2><Center> RESTORE YOUR HAIR HYDROPHOBICITY WITH <strong>NATURALE CONDITIONER FOR THINNING HAIR</Strong></h2><p> </p> Specifically Curated By Hair Experts To Restore Hydrophobicity of The Hair Strand and Facilitate Follicular Growth.</center> <p></p> <p><font size = 0> <p align = \"right\">EM image depiction of healthy hair strand cuticle on left vs damaged hair strand cuticle. Looks like shingles on a roof..",
-            "width": "66%",
-            "alignment": "center"
-          }
-        },
-        "image_xNYizt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/shutterstock-1850556280.jpg",
-            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
-            "width": "33%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_JD89n8",
-        "image_xNYizt"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "alt": false,
-        "lazyload_images": true
-      }
-    },
     "172507810021339627": {
       "type": "apps",
       "blocks": {
@@ -205,6 +173,43 @@
       "settings": {
         "full_width": false,
         "space_around": false
+      }
+    },
+    "featured_product_hyB3QX": {
+      "type": "featured-product",
+      "blocks": {
+        "price_nDNexj": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_ywneYN": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "buy_buttons_bg48yh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_nDNexj",
+        "description_ywneYN",
+        "buy_buttons_bg48yh"
+      ],
+      "settings": {
+        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "text_with_icons_6QWGce": {
@@ -253,6 +258,38 @@
         "button_link": "",
         "alt": true,
         "has_icon": true
+      }
+    },
+    "advanced_content_qLdUFH": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_JD89n8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2><Center> RESTORE YOUR HAIR HYDROPHOBICITY WITH <strong>NATURALE CONDITIONER FOR THINNING HAIR</Strong></h2><p> </p> Specifically Curated By Hair Experts To Restore Hydrophobicity of The Hair Strand and Facilitate Follicular Growth.</center> <p></p> <p><font size = 0> <p align = \"right\">EM image depiction of healthy hair strand cuticle on left vs damaged hair strand cuticle. Looks like shingles on a roof..",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "image_xNYizt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/shutterstock-1850556280.jpg",
+            "link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_JD89n8",
+        "image_xNYizt"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "alt": false,
+        "lazyload_images": true
       }
     },
     "advanced_content_MCWHha": {
@@ -306,43 +343,6 @@
         "align_text": "center",
         "round_images": true,
         "alt": true
-      }
-    },
-    "featured_product_hyB3QX": {
-      "type": "featured-product",
-      "blocks": {
-        "price_nDNexj": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_ywneYN": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "buy_buttons_bg48yh": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_nDNexj",
-        "description_ywneYN",
-        "buy_buttons_bg48yh"
-      ],
-      "settings": {
-        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "hotspots_CHUFXy": {
