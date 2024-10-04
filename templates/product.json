@@ -25,11 +25,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vitals_ub_product_bundles_fRhG8j": {
-          "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
         "vitals_reviews_stars_66xFXb": {
           "type": "shopify://apps/vitals/blocks/reviews-stars/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
@@ -98,7 +93,6 @@
         }
       },
       "block_order": [
-        "vitals_ub_product_bundles_fRhG8j",
         "vitals_reviews_stars_66xFXb",
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ",
         "price",
