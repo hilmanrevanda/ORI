@@ -46,9 +46,9 @@
         "content_Rna98D": {
           "type": "content",
           "settings": {
-            "heading": "SEMPREDAY",
+            "heading": "SEMPRE DAY",
             "heading_size": "h1",
-            "text": "<h2>Free Sempre Hair Growth Vitamins With Purchase Of $50. CODE: </h2><h2><strong>SEMPREDAY</strong></h2><p> Limit One Use Per Customer. Discount Ends October 9 11:59PM.</p>",
+            "text": "<h2>Free Sempre Hair Growth Vitamins With Purchase Of $50. </h2><h2>CODE: <strong>SEMPREDAY</strong></h2><p> Limit One Use Per Customer. Discount Ends October 9 11:59PM.</p>",
             "content_alignment": "center"
           }
         },
@@ -82,9 +82,9 @@
         "layout": "banner",
         "full_width": true,
         "text_color": "#ffffff",
-        "background_color": "#FFF",
+        "background_color": "#ffffff",
         "background_image": "shopify://shop_images/Origenere_Sempre_Vitamins.jpg",
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "overlay_opacity": 10,
         "mobile_image": "shopify://shop_images/Origenere_Sempre_Vitamins.jpg",
         "lazyload_images": false
