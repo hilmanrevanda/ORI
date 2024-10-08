@@ -97,6 +97,55 @@
         "num_per_row": 3
       }
     },
+    "countdown_w8DfNE": {
+      "type": "countdown",
+      "blocks": {
+        "content_Rna98D": {
+          "type": "content",
+          "settings": {
+            "heading": "SEMPREDAY",
+            "heading_size": "h1",
+            "text": "<h2>Free Sempre Hair Growth Vitamins With Purchase Of $50. CODE: </h2><h2><strong>SEMPREDAY</strong></h2><p> Limit One Use Per Customer. Discount Ends October 9 11:59PM.</p>",
+            "content_alignment": "center"
+          }
+        },
+        "timer_VHEVXi": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "10",
+            "day": "9",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": true,
+            "text": ""
+          }
+        },
+        "button_i7kPaR": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify://collections",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_Rna98D",
+        "timer_VHEVXi",
+        "button_i7kPaR"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": true,
+        "text_color": "#ffffff",
+        "background_color": "#FFF",
+        "background_image": "shopify://shop_images/Origenere_Sempre_Vitamins.jpg",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": true
+      }
+    },
     "172678467592bc8ffe": {
       "type": "apps",
       "blocks": {
@@ -452,6 +501,7 @@
   "order": [
     "slideshow_YfFwLV",
     "fh_section_collection_grid_a9N4Um",
+    "countdown_w8DfNE",
     "172678467592bc8ffe",
     "slideshow_adjLxi",
     "fh-section-product-category-grid",
