@@ -85,8 +85,9 @@
         "background_color": "#FFF",
         "background_image": "shopify://shop_images/Origenere_Sempre_Vitamins.jpg",
         "overlay_color": "#000",
-        "overlay_opacity": 0,
-        "lazyload_images": true
+        "overlay_opacity": 10,
+        "mobile_image": "shopify://shop_images/Origenere_Sempre_Vitamins.jpg",
+        "lazyload_images": false
       }
     },
     "fh_section_collection_grid_a9N4Um": {
