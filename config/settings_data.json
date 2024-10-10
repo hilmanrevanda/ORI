@@ -181,22 +181,6 @@
         "settings": {
         }
       },
-      "17151115064775110295": {
-        "type": "shopify://apps/recharge-subscriptions/blocks/recharge-theme/371eed76-0b44-4869-9813-730372ea378e",
-        "disabled": false,
-        "settings": {
-          "color_brand": "#000000",
-          "contrast_color": "#ffffff",
-          "color_brand_secondary": "#000000",
-          "corners": "8px",
-          "app_background": "#000000",
-          "app_container": 1200,
-          "app_vertical_padding": 32,
-          "images_aspect_ratio": "1",
-          "cards_background": "#ffffff",
-          "cards_border_color": "rgba(0,0,0,0)"
-        }
-      },
       "1710008633607995074": {
         "type": "shopify://apps/rivo-product-reviews-app-ugc/blocks/app-embed/5f785e18-66cc-4519-8181-565d1cce1705",
         "disabled": false,
@@ -227,6 +211,22 @@
         "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
         "settings": {
+        }
+      },
+      "17151115064775110295": {
+        "type": "shopify://apps/recharge-subscriptions/blocks/recharge-theme/371eed76-0b44-4869-9813-730372ea378e",
+        "disabled": false,
+        "settings": {
+          "color_brand": "#000000",
+          "contrast_color": "#ffffff",
+          "color_brand_secondary": "#ffffff",
+          "corners": "8px",
+          "app_background": "#000000",
+          "app_container": 1200,
+          "app_vertical_padding": 32,
+          "images_aspect_ratio": "1",
+          "cards_background": "#ffffff",
+          "cards_border_color": "rgba(0,0,0,0)"
         }
       }
     }
