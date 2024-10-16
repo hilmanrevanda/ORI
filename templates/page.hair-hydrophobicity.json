@@ -84,6 +84,43 @@
         "bottom_padding": true
       }
     },
+    "featured_product_hyB3QX": {
+      "type": "featured-product",
+      "blocks": {
+        "price_nDNexj": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_ywneYN": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "buy_buttons_bg48yh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_nDNexj",
+        "description_ywneYN",
+        "buy_buttons_bg48yh"
+      ],
+      "settings": {
+        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
     "fh_section_collection_grid_HPxk7m": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -173,43 +210,6 @@
       "settings": {
         "full_width": false,
         "space_around": false
-      }
-    },
-    "featured_product_hyB3QX": {
-      "type": "featured-product",
-      "blocks": {
-        "price_nDNexj": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_ywneYN": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "buy_buttons_bg48yh": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_nDNexj",
-        "description_ywneYN",
-        "buy_buttons_bg48yh"
-      ],
-      "settings": {
-        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "text_with_icons_6QWGce": {
@@ -404,11 +404,11 @@
   "order": [
     "main",
     "advanced_content_VYpEmT",
+    "featured_product_hyB3QX",
     "newsletter_mMNB3L",
     "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
     "172507810021339627",
-    "featured_product_hyB3QX",
     "text_with_icons_6QWGce",
     "advanced_content_qLdUFH",
     "advanced_content_MCWHha",
