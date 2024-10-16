@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -30,7 +30,7 @@
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>THINNING HAIR?</h2></strong><p><ul> <li>A natural, hypoallergenic, hair growth line designed to treat thinning hair effectively.</li><li>   Botanical-based solutions for thinning hair.</li> <li> A collection of thoughtfully designed products by clinicians</li> <h2> <strong>Naturale For Thinning Hair/Hair Loss </strong> Designed For Those With Thinning Hair, Sensitive Skin And A Penchant For Purity. Now Available Online.</h2></center>",
+            "code": "<center><h2><strong>CONDITIONER FOR THINNING HAIR</h2></strong><p><ul> <li>A natural, hypoallergenic, hair growth line designed to treat thinning hair effectively.</li><li>   Botanical-based solutions for thinning hair.</li> <li> A collection of thoughtfully designed products by clinicians</li> <h2> <strong>Naturale Conditioner For Thinning Hair/Hair Loss </strong> Designed For Those With Thinning Hair, Sensitive Skin And A Penchant For Purity. Now Available Online.</h2></center>",
             "width": "66%",
             "alignment": "center"
           }
@@ -309,12 +309,12 @@
   "order": [
     "main",
     "advanced_content_VYpEmT",
+    "featured_product_hyB3QX",
     "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
     "text_with_icons_6QWGce",
     "172507810021339627",
     "testimonials_mchcrh",
-    "featured_product_hyB3QX",
     "hotspots_CHUFXy"
   ]
 }
