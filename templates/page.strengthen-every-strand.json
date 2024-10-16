@@ -30,7 +30,7 @@
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>CONDITIONER FOR THINNING HAIR</h2></strong><p><ul> <li>A natural, hypoallergenic, hair growth line designed to treat thinning hair effectively.</li><li>   Botanical-based solutions for thinning hair.</li> <li> A collection of thoughtfully designed products by clinicians</li> <h2> <strong>Naturale Conditioner For Thinning Hair/Hair Loss </strong> Designed For Those With Thinning Hair, Sensitive Skin And A Penchant For Purity. Now Available Online.</h2></center>",
+            "code": "<center><h2><strong>THE BEST CONDITIONER FOR THINNING HAIR</h2></strong><p><ul> <li>A natural, hypoallergenic, hair growth line designed to treat thinning hair effectively.</li><li>   Botanical-based solutions for thinning hair.</li> <li> A collection of thoughtfully designed products by clinicians</li> <h2> <strong>Naturale Conditioner For Thinning Hair/Hair Loss </strong> Designed For Those With Thinning Hair, Sensitive Skin And A Penchant For Purity. Now Available Online.</h2></center>",
             "width": "66%",
             "alignment": "center"
           }
@@ -45,6 +45,43 @@
         "space_around": false,
         "alt": false,
         "lazyload_images": true
+      }
+    },
+    "featured_product_hyB3QX": {
+      "type": "featured-product",
+      "blocks": {
+        "price_nDNexj": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_ywneYN": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "buy_buttons_bg48yh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "price_nDNexj",
+        "description_ywneYN",
+        "buy_buttons_bg48yh"
+      ],
+      "settings": {
+        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "product_zoom_enable": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
       }
     },
     "fh_section_collection_grid_HPxk7m": {
@@ -211,43 +248,6 @@
         "align_text": "center",
         "round_images": true,
         "alt": true
-      }
-    },
-    "featured_product_hyB3QX": {
-      "type": "featured-product",
-      "blocks": {
-        "price_nDNexj": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description_ywneYN": {
-          "type": "description",
-          "settings": {
-            "is_tab": true
-          }
-        },
-        "buy_buttons_bg48yh": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "surface_pickup_enable": true
-          }
-        }
-      },
-      "block_order": [
-        "price_nDNexj",
-        "description_ywneYN",
-        "buy_buttons_bg48yh"
-      ],
-      "settings": {
-        "featured_product": "naturale-conditioner-for-thinning-hair-hair-loss",
-        "product_image_size": "medium",
-        "product_image_type": "slider",
-        "product_zoom_enable": false,
-        "enable_video_looping": true,
-        "product_video_style": "muted",
-        "sku_enable": false
       }
     },
     "hotspots_CHUFXy": {
