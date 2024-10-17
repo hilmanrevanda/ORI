@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_YfFwLV": {
@@ -204,7 +204,7 @@
         "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
           "type": "heading",
           "settings": {
-            "title": "POWER OF NATURE"
+            "title": "POWER OF NATURE IN A BOTTLE"
           }
         },
         "38ae4040-7838-493d-b248-5108007b2756": {
@@ -216,8 +216,8 @@
         "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<h2><strong>PHYSICIAN FORMULATED HAIRCARE</strong></h2><ul><li><strong>Proven Formulas Leveraging Nature's Science</strong></li><li><strong>Clinically Tested For Hair Growth</strong></li><li><strong>Over 15 Years of Testing On Human Hair Follicles. </strong></li><li><strong>Products Address Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. </em></h3><h3></h3>"
+            "enlarge_text": true,
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR GROWTH SOLUTIONS</strong></h2><ul><li><strong>Proven Formulas </strong>Leveraging Nature's Science</li><li>Clinically Tested For<strong> Hair Growth</strong></li><li><strong>Over 15 Years of Testing </strong>On Human Hair Follicles </li><li>Products Address<strong> Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. Cruelty Free and Eco Friendly. </em></h3><h3></h3>"
           }
         }
       },
