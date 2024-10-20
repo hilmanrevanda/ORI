@@ -55,7 +55,7 @@
       ],
       "settings": {
         "layout": "hero",
-        "full_width": true,
+        "full_width": false,
         "text_color": "#000",
         "background_color": "#FFF",
         "overlay_color": "#000",
