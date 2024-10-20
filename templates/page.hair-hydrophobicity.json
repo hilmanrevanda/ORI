@@ -15,6 +15,54 @@
       "settings": {
       }
     },
+    "countdown_6zMKnB": {
+      "type": "countdown",
+      "blocks": {
+        "content_jDqdRG": {
+          "type": "content",
+          "settings": {
+            "heading": "A BOTTLE OF NATURALE SHAMPOO <strong>ON US </strong> WITH PURCHASE OF NATURALE CONDITIONER",
+            "heading_size": "h3",
+            "text": "<p><strong>DISCOUNT CODE: CONDITION </strong></p><p>One Use Per Customer. Offer Ends  10.20.24 11:59PM. Free Shipping Combines Over $50 </p>",
+            "content_alignment": "center"
+          }
+        },
+        "timer_W3XqFm": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "10",
+            "day": "20",
+            "hour": "23",
+            "minute": "59",
+            "hide_timer": false,
+            "text": "<p>Offer Expired</p>"
+          }
+        },
+        "button_dFRWXT": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify://collections/naturale-purity-collection",
+            "button": "Shop Naturale Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "content_jDqdRG",
+        "timer_W3XqFm",
+        "button_dFRWXT"
+      ],
+      "settings": {
+        "layout": "hero",
+        "full_width": true,
+        "text_color": "#000",
+        "background_color": "#FFF",
+        "overlay_color": "#000",
+        "overlay_opacity": 0,
+        "lazyload_images": false
+      }
+    },
     "advanced_content_VYpEmT": {
       "type": "advanced-content",
       "blocks": {
@@ -387,7 +435,6 @@
         "product_YiUYBc",
         "product_jcQyzF"
       ],
-      "disabled": true,
       "settings": {
         "title": "NATURALE PURITY COLLECTION FOR THINNING HAIR BY ORIGENERE",
         "heading_size": "h1",
@@ -403,6 +450,7 @@
   },
   "order": [
     "main",
+    "countdown_6zMKnB",
     "advanced_content_VYpEmT",
     "featured_product_hyB3QX",
     "newsletter_mMNB3L",
