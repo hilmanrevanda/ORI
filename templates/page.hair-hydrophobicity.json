@@ -55,7 +55,7 @@
       ],
       "settings": {
         "layout": "hero",
-        "full_width": false,
+        "full_width": true,
         "text_color": "#000",
         "background_color": "#FFF",
         "overlay_color": "#000",
@@ -147,6 +147,18 @@
       "settings": {
         "full_width": false,
         "space_around": false
+      }
+    },
+    "scrolling_text_PDrKnP": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Discount Code: Condition",
+        "link": "",
+        "text_size": 26,
+        "text_spacing": true,
+        "color_scheme": "button",
+        "direction": "right",
+        "speed": 240
       }
     },
     "newsletter_mMNB3L": {
@@ -469,6 +481,7 @@
     "main",
     "countdown_6zMKnB",
     "advanced_content_VYpEmT",
+    "scrolling_text_PDrKnP",
     "featured_product_hyB3QX",
     "1729396901a295fc6b",
     "newsletter_mMNB3L",
