@@ -132,6 +132,23 @@
         "sku_enable": false
       }
     },
+    "1729396901a295fc6b": {
+      "type": "apps",
+      "blocks": {
+        "vitals_trust_N7FBtp": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_trust_N7FBtp"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
     "newsletter_mMNB3L": {
       "type": "newsletter",
       "blocks": {
@@ -453,6 +470,7 @@
     "countdown_6zMKnB",
     "advanced_content_VYpEmT",
     "featured_product_hyB3QX",
+    "1729396901a295fc6b",
     "newsletter_mMNB3L",
     "fh_section_collection_grid_HPxk7m",
     "rich_text_tknzB9",
