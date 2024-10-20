@@ -21,9 +21,9 @@
         "content_jDqdRG": {
           "type": "content",
           "settings": {
-            "heading": "A BOTTLE OF NATURALE SHAMPOO <strong>ON US </strong> WITH PURCHASE OF NATURALE CONDITIONER",
+            "heading": "NATURALE COLLECTION 24 HOUR SALE",
             "heading_size": "h3",
-            "text": "<p><strong>DISCOUNT CODE: CONDITION </strong></p><p>One Use Per Customer. Offer Ends  10.20.24 11:59PM. Free Shipping Combines Over $50 </p>",
+            "text": "<p><strong>DISCOUNT CODE: CONDITION </strong></p><p><strong>BUY A CONDITIONER GET A SHAMPOO ON US</strong></p><p>One Use Per Customer. Offer Ends  10.20.24 11:59PM. Free Shipping Combines Over $50 </p>",
             "content_alignment": "center"
           }
         },
@@ -54,7 +54,7 @@
         "button_dFRWXT"
       ],
       "settings": {
-        "layout": "hero",
+        "layout": "banner",
         "full_width": true,
         "text_color": "#000",
         "background_color": "#FFF",
@@ -93,6 +93,18 @@
         "space_around": false,
         "alt": false,
         "lazyload_images": false
+      }
+    },
+    "scrolling_text_PDrKnP": {
+      "type": "scrolling-text",
+      "settings": {
+        "text": "Discount Code: Condition",
+        "link": "",
+        "text_size": 26,
+        "text_spacing": true,
+        "color_scheme": "button",
+        "direction": "right",
+        "speed": 240
       }
     },
     "featured_product_hyB3QX": {
@@ -147,18 +159,6 @@
       "settings": {
         "full_width": false,
         "space_around": false
-      }
-    },
-    "scrolling_text_PDrKnP": {
-      "type": "scrolling-text",
-      "settings": {
-        "text": "Discount Code: Condition",
-        "link": "",
-        "text_size": 26,
-        "text_spacing": true,
-        "color_scheme": "button",
-        "direction": "right",
-        "speed": 240
       }
     },
     "newsletter_mMNB3L": {
