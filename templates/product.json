@@ -261,11 +261,12 @@
       "type": "product-recommendations",
       "settings": {
         "product_recommendations_heading": "You may also like",
-        "related_count": 14
+        "related_count": 6
       }
     },
     "collection-return": {
       "type": "collection-return",
+      "disabled": true,
       "settings": {
       }
     },
