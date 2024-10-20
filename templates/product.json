@@ -88,7 +88,7 @@
         ".text-with-icons__title {padding-top: 40px; margin-bottom: 20px;}"
       ],
       "settings": {
-        "title": "OUR PROMISE",
+        "title": "",
         "align_text": "center",
         "desktop_columns_per_row": 5,
         "icon_color": "#000000",
