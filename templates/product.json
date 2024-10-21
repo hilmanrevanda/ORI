@@ -43,12 +43,14 @@
         },
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f": {
           "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
         },
         "quantity_selector_NaHDj3": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
