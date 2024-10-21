@@ -52,6 +52,15 @@
           "settings": {
           }
         },
+        "variant_picker_q7Vjm4": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -98,6 +107,7 @@
         "price",
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f",
         "ea0387d9-f1da-4d22-9fcf-a60515db9d44",
+        "variant_picker_q7Vjm4",
         "buy_buttons",
         "vitals_trust_L4zeFi",
         "description",
