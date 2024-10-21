@@ -53,12 +53,13 @@
         "timer_W3XqFm",
         "button_dFRWXT"
       ],
+      "disabled": true,
       "settings": {
         "layout": "banner",
         "full_width": true,
-        "text_color": "#000",
-        "background_color": "#FFF",
-        "overlay_color": "#000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": false
       }
@@ -97,6 +98,7 @@
     },
     "scrolling_text_PDrKnP": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "Discount Code: Condition",
         "link": "",
