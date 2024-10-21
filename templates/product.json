@@ -47,6 +47,11 @@
             "product": "{{product}}"
           }
         },
+        "quantity_selector_NaHDj3": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "variant_picker_q7Vjm4": {
           "type": "variant_picker",
           "settings": {
@@ -101,6 +106,7 @@
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ",
         "price",
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f",
+        "quantity_selector_NaHDj3",
         "variant_picker_q7Vjm4",
         "buy_buttons",
         "vitals_trust_L4zeFi",
