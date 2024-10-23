@@ -15,13 +15,27 @@
         "title": "",
         "title_size": 80,
         "subheading": "",
-        "link_text": "",
-        "link": "",
+        "link_text": "Learn More",
+        "link": "shopify://pages/sempre-foam-see-the-difference",
         "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
+        "text_align": "vertical-bottom horizontal-center",
         "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
         "section_height": "550px",
         "mobile_height": "250px"
+      }
+    },
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "slideshow_YfFwLV": {
@@ -108,109 +122,9 @@
         "text_block_w3xYqL",
         "text_block_CMTXRa"
       ],
+      "disabled": true,
       "settings": {
         "num_per_row": 3
-      }
-    },
-    "172678467592bc8ffe": {
-      "type": "apps",
-      "blocks": {
-        "vitals_reviews_carousel_PPw4cU": {
-          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
-        "vitals_trust_ADzT4x": {
-          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "vitals_reviews_carousel_PPw4cU",
-        "vitals_trust_ADzT4x"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
-    "slideshow_adjLxi": {
-      "type": "slideshow",
-      "blocks": {
-        "image_CBgPUC": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/hair-care-hair-loss",
-            "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/20_Hair_loss_sale.png",
-            "image_mobile": "shopify://shop_images/20_Hair_loss_sale.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_CBgPUC"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "arrows",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": true
-      }
-    },
-    "fh-section-product-category-grid": {
-      "type": "fh-section-product-category-grid",
-      "disabled": true,
-      "settings": {
-        "image_left": "shopify://shop_images/Men_Haircare2-2.jpg",
-        "heading_left": "HAIRCARE",
-        "description_left": "",
-        "btn_left_text": "SHOP NOW",
-        "btn_left_url": "shopify://collections/hair-care-hair-loss",
-        "image_right": "shopify://shop_images/IMG_9674-2.jpg",
-        "heading_right": "SKINCARE",
-        "description_right": "",
-        "btn_right_text": "SHOP NOW",
-        "btn_right_url": "shopify://collections/skincare"
-      }
-    },
-    "slideshow_pJEQBi": {
-      "type": "slideshow",
-      "blocks": {
-        "image_thiPMe": {
-          "type": "image",
-          "settings": {
-            "title": "PHYSICIAN CURATED HAIR TRANSPLANT KITS.",
-            "title_size": 40,
-            "subheading": "Optimize Your Investment Today.",
-            "link": "shopify://collections/hair-transplant-kits",
-            "link_text": "SHOP NOW",
-            "color_accent": "#383838",
-            "text_align": "vertical-top horizontal-right",
-            "image": "shopify://shop_images/GrowthKit_3_Crescere.png",
-            "image_mobile": "shopify://shop_images/GrowthKit_3_Crescere.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_thiPMe"
-      ],
-      "disabled": true,
-      "settings": {
-        "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 70,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -248,18 +162,72 @@
         "background_color": "#2e1764"
       }
     },
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
+    "172678467592bc8ffe": {
+      "type": "apps",
+      "blocks": {
+        "vitals_trust_ADzT4x": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
+        "vitals_reviews_carousel_PPw4cU": {
+          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_trust_ADzT4x",
+        "vitals_reviews_carousel_PPw4cU"
+      ],
       "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 3,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "fh-section-product-category-grid": {
+      "type": "fh-section-product-category-grid",
+      "settings": {
+        "image_left": "shopify://shop_images/Men_Haircare2-2.jpg",
+        "heading_left": "HAIRCARE",
+        "description_left": "",
+        "btn_left_text": "SHOP NOW",
+        "btn_left_url": "shopify://collections/hair-care-hair-loss",
+        "image_right": "shopify://shop_images/IMG_9674-2.jpg",
+        "heading_right": "SKINCARE",
+        "description_right": "",
+        "btn_right_text": "SHOP NOW",
+        "btn_right_url": "shopify://collections/skincare"
+      }
+    },
+    "slideshow_pJEQBi": {
+      "type": "slideshow",
+      "blocks": {
+        "image_thiPMe": {
+          "type": "image",
+          "settings": {
+            "title": "PHYSICIAN CURATED HAIR TRANSPLANT KITS.",
+            "title_size": 40,
+            "subheading": "Optimize Your Investment Today.",
+            "link": "shopify://collections/hair-transplant-kits",
+            "link_text": "SHOP NOW",
+            "color_accent": "#383838",
+            "text_align": "vertical-top horizontal-right",
+            "image": "shopify://shop_images/GrowthKit_3_Crescere.png",
+            "image_mobile": "shopify://shop_images/GrowthKit_3_Crescere.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_thiPMe"
+      ],
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 0,
+        "mobile_size": 70,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": false
       }
     },
     "featured_collection_9X6zE7": {
@@ -435,17 +403,16 @@
   },
   "order": [
     "hero_video_TmBimB",
+    "featured_collection_7xPTGj",
     "slideshow_YfFwLV",
     "fh_section_collection_grid_a9N4Um",
+    "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
-    "slideshow_adjLxi",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
-    "a7f08b88-7c75-48e3-ae71-32ca7be66028",
-    "featured_collection_7xPTGj",
     "featured_collection_9X6zE7",
-    "featured_collection_M7zYjb",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
+    "featured_collection_M7zYjb",
     "featured_product_Eq8cJm",
     "172678458616fbf87f",
     "fh-section-cta",
