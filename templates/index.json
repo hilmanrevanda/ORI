@@ -9,35 +9,6 @@
  */
 {
   "sections": {
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 3,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
-    "hero_video_TmBimB": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Learn More",
-        "link": "shopify://pages/sempre-foam-see-the-difference",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
-        "section_height": "550px",
-        "mobile_height": "250px"
-      }
-    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -91,8 +62,38 @@
         "text_block_w3xYqL",
         "text_block_CMTXRa"
       ],
+      "disabled": true,
       "settings": {
         "num_per_row": 3
+      }
+    },
+    "hero_video_TmBimB": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Learn More",
+        "link": "shopify://pages/sempre-foam-see-the-difference",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
+        "section_height": "550px",
+        "mobile_height": "250px"
+      }
+    },
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
