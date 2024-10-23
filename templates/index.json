@@ -146,7 +146,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR GROWTH SOLUTIONS</strong></h2><ul><li><strong>Proven Formulas </strong>Leveraging Nature's Science</li><li>Clinically Tested For<strong> Hair Growth</strong></li><li><strong>Over 15 Years of Testing </strong>On Human Hair Follicles </li><li>Products Address<strong> Thinning Hair, Shedding, Breakage, and Dry / Itchy Scalp</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. Cruelty Free and Eco Friendly. </em></h3><h3></h3>"
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR GROWTH SOLUTIONS</strong></h2><ul><li><strong>Proven Formulas </strong>Leveraging Nature's Science</li><li>Clinically Tested For<strong> Hair Growth</strong></li><li><strong>Over 15 Years of Testing </strong>On Human Hair Follicles </li><li><strong>Rejuvenate Your Follicles</strong> And <strong>Strengthen Your Strands</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. Cruelty Free and Eco Friendly. </em></h3><h3></h3>"
           }
         }
       },
@@ -244,20 +244,6 @@
         "alt": false
       }
     },
-    "featured_collection_M7zYjb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "BUONGIORNO VITALITY COLLECTION",
-        "description": "DESIGNED FOR SCALP REVITALIZATION",
-        "featured_text": "",
-        "home_featured_products": "buongiorno-vitality-collection",
-        "rows": 1,
-        "per_row_desktop": 3,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54": {
       "type": "text-with-icons",
       "blocks": {
@@ -332,6 +318,20 @@
         "alt": true,
         "has_icon": false,
         "background_image": "shopify://shop_images/IMG_3308.jpg"
+      }
+    },
+    "featured_collection_M7zYjb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BUONGIORNO VITALITY COLLECTION",
+        "description": "DESIGNED FOR SCALP REVITALIZATION",
+        "featured_text": "",
+        "home_featured_products": "buongiorno-vitality-collection",
+        "rows": 1,
+        "per_row_desktop": 3,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "featured_product_Eq8cJm": {
