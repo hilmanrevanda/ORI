@@ -208,7 +208,7 @@
         "home_featured_products": "naturale-purity-collection",
         "rows": 1,
         "per_row_desktop": 3,
-        "per_row_mobile": "2",
+        "per_row_mobile": "2-flush",
         "view_all": true,
         "alt": false
       }
@@ -298,7 +298,7 @@
         "home_featured_products": "buongiorno-vitality-collection",
         "rows": 1,
         "per_row_desktop": 3,
-        "per_row_mobile": "1",
+        "per_row_mobile": "2-flush",
         "view_all": true,
         "alt": false
       }
