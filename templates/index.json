@@ -9,21 +9,6 @@
  */
 {
   "sections": {
-    "hero_video_TmBimB": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Learn More",
-        "link": "shopify://pages/sempre-foam-see-the-difference",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
-        "section_height": "550px",
-        "mobile_height": "250px"
-      }
-    },
     "featured_collection_7xPTGj": {
       "type": "featured-collection",
       "settings": {
@@ -38,35 +23,19 @@
         "alt": false
       }
     },
-    "slideshow_YfFwLV": {
-      "type": "slideshow",
-      "blocks": {
-        "image_KcnLdJ": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://collections/all-natural-hair-care",
-            "link_text": "Shop Hair Care and Hair Loss Solutions",
-            "color_accent": "#edd824",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/20-hair-loss-sale.jpg",
-            "image_mobile": "shopify://shop_images/20-hair-loss-sale.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_KcnLdJ"
-      ],
-      "disabled": true,
+    "hero_video_TmBimB": {
+      "type": "hero-video",
       "settings": {
-        "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 0,
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "lazyload_images": false
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Learn More",
+        "link": "shopify://pages/sempre-foam-see-the-difference",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
+        "section_height": "550px",
+        "mobile_height": "250px"
       }
     },
     "fh_section_collection_grid_a9N4Um": {
@@ -122,7 +91,6 @@
         "text_block_w3xYqL",
         "text_block_CMTXRa"
       ],
-      "disabled": true,
       "settings": {
         "num_per_row": 3
       }
@@ -402,10 +370,9 @@
     }
   },
   "order": [
+    "fh_section_collection_grid_a9N4Um",
     "hero_video_TmBimB",
     "featured_collection_7xPTGj",
-    "slideshow_YfFwLV",
-    "fh_section_collection_grid_a9N4Um",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
     "fh-section-product-category-grid",
