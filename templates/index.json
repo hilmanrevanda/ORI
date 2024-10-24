@@ -192,11 +192,11 @@
       ],
       "settings": {
         "style": "minimal",
-        "desktop_size": 0,
-        "mobile_size": 70,
+        "desktop_size": -30,
+        "mobile_size": 50,
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": false
+        "lazyload_images": true
       }
     },
     "featured_collection_9X6zE7": {
