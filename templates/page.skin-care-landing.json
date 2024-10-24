@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,15 +21,15 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "SKIN CARE",
+            "title": "<h1>SKIN CARE</h1>",
             "title_size": 56,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "#383838",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_1542.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Arancio_Summer.jpg"
+            "image": "shopify://shop_images/IMG_1542.jpg",
+            "image_mobile": "shopify://shop_images/Arancio_Summer.jpg"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Nero_Body_Scrub.png",
+            "image": "shopify://shop_images/Nero_Body_Scrub.png",
             "heading": "Skin Care Cleansing",
             "description": "",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/skin-care-cleansers",
+            "btn_url": "shopify://collections/skin-care-cleansers",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -69,11 +69,11 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
+            "image": "shopify://shop_images/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
             "heading": "Skin Care Moisturizers and Repair",
             "description": "",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/skin-care-moisturizers",
+            "btn_url": "shopify://collections/skin-care-moisturizers",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -92,25 +92,25 @@
         "text_block_gKmNm8": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg",
+            "image": "shopify://shop_images/Arancio_Skincare_Origenere_Orange.jpg",
             "text": "Arancio Preservation Collection",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+            "url": "shopify://collections/nourish-your-natural-glow"
           }
         },
         "text_block_pXPKY9": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
+            "image": "shopify://shop_images/NERO_COLLECTION.webp",
             "text": "Nero Detox Collection",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
+            "url": "shopify://collections/nero-detox-collection"
           }
         },
         "text_block_884frx": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BuongiornoRobe_4.png",
+            "image": "shopify://shop_images/BuongiornoRobe_4.png",
             "text": "Buongiorno Vitality Collection",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+            "url": "shopify://collections/buongiorno-vitality-collection"
           }
         }
       },
