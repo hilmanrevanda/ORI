@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,15 +21,15 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "HAIR CARE AND REPAIR",
+            "title": "<h1>HAIR CARE AND REPAIR</h1>",
             "title_size": 56,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "#383838",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
-            "image_mobile": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png"
+            "image": "shopify://shop_images/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
+            "image_mobile": "shopify://shop_images/13_56787401-3278-48b3-8a61-b2a1b8979889.png"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Buongiorno-teatreeoilshampoo-rosemaryphytochemicals.png",
+            "image": "shopify://shop_images/Buongiorno-teatreeoilshampoo-rosemaryphytochemicals.png",
             "heading": "Shampoos and Conditioners",
             "description": "All Natural Botanicals With Purpose.",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/origenere-shampoos-and-conditioners",
+            "btn_url": "shopify://collections/origenere-shampoos-and-conditioners",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -69,11 +69,11 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
+            "image": "shopify://shop_images/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
             "heading": "Hair Loss Solutions",
             "description": "Give Those Strands A Boost With Style.",
             "btn_text": "Products",
-            "btn_url": "shopify:\/\/collections\/hair-loss-solutions",
+            "btn_url": "shopify://collections/hair-loss-solutions",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -114,25 +114,25 @@
         "text_block_d6Bhed": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg",
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg",
             "text": "Naturale Purity Collection: For Thinning Hair",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
+            "url": "shopify://collections/naturale-purity-collection"
           }
         },
         "text_block_VfdgcQ": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SEMPRE_COLLECTION.webp",
+            "image": "shopify://shop_images/SEMPRE_COLLECTION.webp",
             "text": "Sempre Growth Collection: For Hair Growth",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+            "url": "shopify://collections/sempre-hair-growth-collection"
           }
         },
         "text_block_6jCxGx": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BuongiornoRobe_4.png",
+            "image": "shopify://shop_images/BuongiornoRobe_4.png",
             "text": "Buongiorno Vitality Collection: For Scalp Health",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+            "url": "shopify://collections/buongiorno-vitality-collection"
           }
         }
       },
