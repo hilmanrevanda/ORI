@@ -1,0 +1,316 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_bHMPtG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_qt3KtD": {
+          "type": "image",
+          "settings": {
+            "title": "<h1>What's Inside Your Bottle?</h1>",
+            "title_size": 64,
+            "subheading": "Origenere Blogs",
+            "link": "shopify://blogs/whats-in-your-bottle",
+            "link_text": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Origenere_Bottle_Mockup_20a.jpg",
+            "image_mobile": "shopify://shop_images/Origenere_Bottle_Mockup_20a_copy.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_qt3KtD"
+      ],
+      "settings": {
+        "style": "arrows",
+        "desktop_size": -30,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": false
+      }
+    },
+    "rich_text_7fVKH3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qi4nB6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>With the vast amount of hair care products available in the market,  it is more important to know the benefits and risks of the most common ingredients in hair care products. </h2>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qi4nB6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "layout": "grid",
+        "post_limit": 9,
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": true,
+        "blog_show_date": true,
+        "blog_show_comments": true,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide"
+      }
+    },
+    "blog_posts_xXmDXk": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "BOTANICAL BRILLIANCE",
+        "blog": "ingredient-spotlight",
+        "post_limit": 12,
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "blog_posts_qWKJxj": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "IS YOUR HAIR READY FOR SUMMER?",
+        "blog": "is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "blog_posts_nHfW9r": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "THE MORE YOU KNOW, THE MORE YOU GROW",
+        "blog": "the-more-you-know-the-more-you-grow",
+        "post_limit": 6,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "blog_posts_9QGzPD": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "HOLISTIC APPROACH",
+        "blog": "holistic-approach",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "blog_posts_wFyhkX": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "NATURE'S QUEENS",
+        "blog": "roots-of-discovery-women-who-changed-the-world",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": true,
+        "blog_show_excerpt": false,
+        "blog_image_size": "square",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "newsletter_p8RpPH": {
+      "type": "newsletter",
+      "blocks": {
+        "title_6MdePR": {
+          "type": "title",
+          "settings": {
+            "title": "20% Off First Order",
+            "heading_size": "h2"
+          }
+        },
+        "text_Lx77pp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs. </p>"
+          }
+        },
+        "form_mDGEgJ": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_6MdePR",
+        "text_Lx77pp",
+        "form_mDGEgJ"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection1": {
+          "type": "collection",
+          "settings": {
+            "collection": "naturale-purity-collection",
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg"
+          }
+        },
+        "collection2": {
+          "type": "collection",
+          "settings": {
+            "collection": "buongiorno-vitality-collection",
+            "image": "shopify://shop_images/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
+          }
+        },
+        "collection3": {
+          "type": "collection",
+          "settings": {
+            "collection": "nourish-your-natural-glow",
+            "image": "shopify://shop_images/IMG_0293-2.jpg"
+          }
+        },
+        "collection4": {
+          "type": "collection",
+          "settings": {
+            "collection": "sempre-hair-growth-collection",
+            "image": "shopify://shop_images/IMG_9752-2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "collection1",
+        "collection2",
+        "collection3",
+        "collection4"
+      ],
+      "settings": {
+        "title": "DISCOVER OUR HAIR & SKINCARE COLLECTIONS",
+        "alt": false
+      }
+    },
+    "slideshow_WTpJzL": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Dfhiyq": {
+          "type": "image",
+          "settings": {
+            "title": "The More You Know The More You Grow",
+            "title_size": 80,
+            "subheading": "Down To The Nuts and Bolts of Hair And Hair Loss",
+            "link": "shopify://blogs/the-more-you-know-the-more-you-grow",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg",
+            "image_mobile": "shopify://shop_images/yellow-bell-peppers-kale-green-grapes-lemons-carrots2.jpg"
+          }
+        },
+        "image_wNPKM8": {
+          "type": "image",
+          "settings": {
+            "title": "Holistic Approach",
+            "title_size": 80,
+            "subheading": "DIY Hair Solutions",
+            "link": "shopify://blogs/holistic-approach",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Buongiorno_physician_ingredients.png",
+            "image_mobile": "shopify://shop_images/20488006dea97f3bf0ff1df_upscale.webp"
+          }
+        },
+        "image_Q337hA": {
+          "type": "image",
+          "settings": {
+            "title": "Seasonal Hair Care Topics",
+            "title_size": 80,
+            "subheading": "Is Your Hair Ready For The Summer Heat?",
+            "link": "shopify://blogs/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "link_text": "Articles",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Buongiorno_Shampoo_Conditioner_Bath_Robe_80305e91-b638-4cdf-bc9c-0c061b3c1d27.png",
+            "image_mobile": "shopify://shop_images/Buongiorno_male_beach.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_Dfhiyq",
+        "image_wNPKM8",
+        "image_Q337hA"
+      ],
+      "settings": {
+        "style": "dots",
+        "desktop_size": 0,
+        "mobile_size": 60,
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_bHMPtG",
+    "rich_text_7fVKH3",
+    "main",
+    "blog_posts_xXmDXk",
+    "blog_posts_qWKJxj",
+    "blog_posts_nHfW9r",
+    "blog_posts_9QGzPD",
+    "blog_posts_wFyhkX",
+    "newsletter_p8RpPH",
+    "featured-collections",
+    "slideshow_WTpJzL"
+  ]
+}
