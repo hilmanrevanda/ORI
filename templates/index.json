@@ -90,8 +90,8 @@
         "featured_text": "",
         "home_featured_products": "sempre-hair-growth-collection",
         "rows": 1,
-        "per_row_desktop": 3,
-        "per_row_mobile": "1",
+        "per_row_desktop": 4,
+        "per_row_mobile": "2-flush",
         "view_all": true,
         "alt": false
       }
@@ -207,7 +207,7 @@
         "featured_text": "",
         "home_featured_products": "naturale-purity-collection",
         "rows": 1,
-        "per_row_desktop": 3,
+        "per_row_desktop": 4,
         "per_row_mobile": "2-flush",
         "view_all": true,
         "alt": false
