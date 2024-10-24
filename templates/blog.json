@@ -71,22 +71,6 @@
         "alt": false
       }
     },
-    "blog_posts_qWKJxj": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "IS YOUR HAIR READY FOR SUMMER?",
-        "blog": "is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": true,
-        "blog_show_excerpt": false,
-        "blog_image_size": "square",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "blog_posts_nHfW9r": {
       "type": "blog-posts",
       "settings": {
@@ -121,9 +105,10 @@
     },
     "blog_posts_wFyhkX": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
-        "title": "NATURE'S QUEENS",
-        "blog": "roots-of-discovery-women-who-changed-the-world",
+        "title": "Why Italy? Perche Italia?",
+        "blog": "why-italy-perche-italia",
         "post_limit": 3,
         "blog_show_tags": false,
         "blog_show_date": true,
@@ -183,7 +168,6 @@
     "slideshow_bHMPtG",
     "main",
     "blog_posts_xXmDXk",
-    "blog_posts_qWKJxj",
     "blog_posts_nHfW9r",
     "blog_posts_9QGzPD",
     "blog_posts_wFyhkX",
