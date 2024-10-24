@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_bHMPtG": {
@@ -15,15 +15,15 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "The More You Know The More You Grow",
+            "title": "<h1>The More You Know The More You Grow</h1>",
             "title_size": 64,
             "subheading": "Origenere Blogs",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Origenere_fruit_and_vegtables_nutrition.jpg"
+            "image": "shopify://shop_images/Origenere_fruit_and_vegtables_nutrition.jpg",
+            "image_mobile": "shopify://shop_images/Origenere_fruit_and_vegtables_nutrition.jpg"
           }
         }
       },
@@ -46,7 +46,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<h2>Understanding the core principles of hair science and scalp health is crucial for appreciating hair growth products. Read our articles on science and hair in <em>The More You  Know The More You Grow.<\/em> <\/h2>"
+            "text": "<h2>Understanding the core principles of hair science and scalp health is crucial for appreciating hair growth products. Read our articles on science and hair in <em>The More You  Know The More You Grow.</em> </h2>"
           }
         }
       },
@@ -173,7 +173,7 @@
         "text_BDMzV8": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs.<\/p>"
+            "text": "<p>Subscribe to get exclusive offers,  giveaways, and updates on products and blogs.</p>"
           }
         },
         "form_i9Hfe3": {
@@ -203,28 +203,28 @@
           "type": "collection",
           "settings": {
             "collection": "naturale-purity-collection",
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
         "collection2": {
           "type": "collection",
           "settings": {
             "collection": "buongiorno-vitality-collection",
-            "image": "shopify:\/\/shop_images\/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
+            "image": "shopify://shop_images/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
           }
         },
         "collection3": {
           "type": "collection",
           "settings": {
             "collection": "nourish-your-natural-glow",
-            "image": "shopify:\/\/shop_images\/IMG_0293-2.jpg"
+            "image": "shopify://shop_images/IMG_0293-2.jpg"
           }
         },
         "collection4": {
           "type": "collection",
           "settings": {
             "collection": "sempre-hair-growth-collection",
-            "image": "shopify:\/\/shop_images\/IMG_9752-2.jpg"
+            "image": "shopify://shop_images/IMG_9752-2.jpg"
           }
         }
       },
@@ -248,12 +248,12 @@
             "title": "Holistic Approach",
             "title_size": 80,
             "subheading": "DIY Hair Solutions",
-            "link": "shopify:\/\/blogs\/holistic-approach",
+            "link": "shopify://blogs/holistic-approach",
             "link_text": "Articles",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png",
-            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
+            "image": "shopify://shop_images/Buongiorno_physician_ingredients.png",
+            "image_mobile": "shopify://shop_images/Buongiorno_physician_ingredients.png"
           }
         },
         "image_P4qaNQ": {
@@ -262,12 +262,12 @@
             "title": "Botanical Brilliance",
             "title_size": 80,
             "subheading": "Unlock The Power Of Nature. A Physician Review of Botanicals.",
-            "link": "shopify:\/\/blogs\/ingredient-spotlight",
+            "link": "shopify://blogs/ingredient-spotlight",
             "link_text": "Articles",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Rosemary_Phytonutrients.jpg"
+            "image": "shopify://shop_images/Rosemary_Phytonutrients.jpg",
+            "image_mobile": "shopify://shop_images/Rosemary_Phytonutrients.jpg"
           }
         },
         "image_9mfbya": {
@@ -276,12 +276,12 @@
             "title": "Seasonal Hair Care Topics",
             "title_size": 80,
             "subheading": "Is Your Hair Ready For The Summer Heat?",
-            "link": "shopify:\/\/blogs\/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
+            "link": "shopify://blogs/is-your-hair-ready-for-summer-summer-hair-care-tips-by-a-physician",
             "link_text": "Articles",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_make_beach_02.jpg"
+            "image": "shopify://shop_images/Buongiorno_make_beach_02.jpg",
+            "image_mobile": "shopify://shop_images/Buongiorno_make_beach_02.jpg"
           }
         }
       },
