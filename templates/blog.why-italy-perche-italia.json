@@ -15,15 +15,15 @@
         "image_qt3KtD": {
           "type": "image",
           "settings": {
-            "title": "<h1>What's Inside Your Bottle?</h1>",
+            "title": "<h1>Why Italy? (Perche Italia?)</h1>",
             "title_size": 64,
             "subheading": "Origenere Blogs",
-            "link": "shopify://blogs/whats-in-your-bottle",
+            "link": "shopify://blogs/why-italy-perche-italia",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Origenere_Bottle_Mockup_20a.jpg",
-            "image_mobile": "shopify://shop_images/Origenere_Bottle_Mockup_20a_copy.jpg"
+            "image": "shopify://shop_images/Capri_Italy12.jpg",
+            "image_mobile": "shopify://shop_images/Capri_Italy12.jpg"
           }
         }
       },
