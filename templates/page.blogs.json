@@ -119,6 +119,7 @@
         },
         "text_block_QJ6RWA": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "reverse": false,
             "image": "shopify://shop_images/Buongiorno_Summer_Hair_Sun_Damage.jpg",
