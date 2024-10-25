@@ -291,6 +291,7 @@
     },
     "featured_collection_M7zYjb": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "BUONGIORNO VITALITY COLLECTION",
         "description": "DESIGNED FOR SCALP REVITALIZATION",
