@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -104,6 +104,19 @@
             "text_color": "#ffffff"
           }
         },
+        "text_block_wtPwRW": {
+          "type": "text_block",
+          "settings": {
+            "reverse": false,
+            "image": "shopify://shop_images/Capri_Italy12.jpg",
+            "heading": "Why Italy? Perche Italia?",
+            "description": "Dive Into All The Reasons We Choose Italy For Manufacturing",
+            "btn_text": "Read Articles",
+            "btn_url": "shopify://blogs/why-italy-perche-italia",
+            "background_color": "#000000",
+            "text_color": "#ffffff"
+          }
+        },
         "text_block_QJ6RWA": {
           "type": "text_block",
           "settings": {
@@ -123,6 +136,7 @@
         "text_block_YBkzrx",
         "text_block_W9xgkq",
         "text_block_RWWmep",
+        "text_block_wtPwRW",
         "text_block_QJ6RWA"
       ],
       "settings": {
