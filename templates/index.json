@@ -67,6 +67,20 @@
         "num_per_row": 3
       }
     },
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
     "hero_video_TmBimB": {
       "type": "hero-video",
       "settings": {
@@ -80,20 +94,6 @@
         "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
         "section_height": "550px",
         "mobile_height": "250px"
-      }
-    },
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "2-flush",
-        "view_all": true,
-        "alt": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -372,8 +372,8 @@
   },
   "order": [
     "fh_section_collection_grid_a9N4Um",
-    "hero_video_TmBimB",
     "featured_collection_7xPTGj",
+    "hero_video_TmBimB",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
     "fh-section-product-category-grid",
