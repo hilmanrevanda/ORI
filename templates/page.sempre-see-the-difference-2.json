@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -192,15 +192,8 @@
         "question_r4fy7P": {
           "type": "question",
           "settings": {
-            "title": "Can I Use Sempre With Minoxidil?",
-            "text": "<p>Yes. Sempre Collection Works Well With Minoxidil. </p>"
-          }
-        },
-        "question_na89DC": {
-          "type": "question",
-          "settings": {
-            "title": "Can I Use With Finasteride?",
-            "text": "<p>Yes. Sempre Foam Can Be Used With Finasteride. </p>"
+            "title": "Can I Use Sempre With Other Hair Growth Products?",
+            "text": "<p>Yes. Sempre Collection Works Well With Other Hair Growth Products. </p>"
           }
         },
         "question_y7fnhp": {
@@ -234,7 +227,6 @@
       },
       "block_order": [
         "question_r4fy7P",
-        "question_na89DC",
         "question_y7fnhp",
         "question_Dkymah",
         "question_V8JUcq",
