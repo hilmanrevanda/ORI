@@ -62,7 +62,6 @@
         "text_block_w3xYqL",
         "text_block_CMTXRa"
       ],
-      "disabled": true,
       "settings": {
         "num_per_row": 3
       }
@@ -373,8 +372,8 @@
   },
   "order": [
     "fh_section_collection_grid_a9N4Um",
-    "featured_collection_7xPTGj",
     "hero_video_TmBimB",
+    "featured_collection_7xPTGj",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
     "fh-section-product-category-grid",
