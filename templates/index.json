@@ -182,10 +182,11 @@
       ],
       "settings": {
         "align_text": "center",
+        "image": "shopify://shop_images/OrigenereGiftCard-855410.jpg",
         "image_width": "33",
-        "image_mask": "none",
+        "image_mask": "square",
         "image_position": "right",
-        "top_padding": true,
+        "top_padding": false,
         "bottom_padding": true
       }
     },
