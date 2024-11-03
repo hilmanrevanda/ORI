@@ -66,20 +66,6 @@
         "num_per_row": 3
       }
     },
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
     "hero_video_TmBimB": {
       "type": "hero-video",
       "settings": {
@@ -93,6 +79,20 @@
         "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
         "section_height": "550px",
         "mobile_height": "250px"
+      }
+    },
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 4,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
       }
     },
     "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
@@ -196,6 +196,34 @@
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
+      }
+    },
+    "fh_section_collection_grid_NRpHNn": {
+      "type": "fh-section-collection-grid",
+      "blocks": {
+        "text_block_UpK3VE": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Naturale-Shampoo-Naturale-Conditioner-for-thinning-hair-against-saw-palmetto_1.jpg",
+            "text": "Shampoo and Conditioner",
+            "url": "https://origenere.com/collections/origenere-shampoos-and-conditioners"
+          }
+        },
+        "text_block_Mt4Rih": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sempre_Foam_Ingredients-657372.jpg",
+            "text": "Hair And Scalp Repair",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_UpK3VE",
+        "text_block_Mt4Rih"
+      ],
+      "settings": {
+        "num_per_row": 3
       }
     },
     "featured_collection_9X6zE7": {
@@ -378,6 +406,7 @@
     "172678467592bc8ffe",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
+    "fh_section_collection_grid_NRpHNn",
     "featured_collection_9X6zE7",
     "cdf0093a-2ade-4f39-87a8-6ba0b4cc3c54",
     "featured_collection_M7zYjb",
