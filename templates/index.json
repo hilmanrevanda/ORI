@@ -216,11 +216,20 @@
             "text": "Hair And Scalp Repair",
             "url": ""
           }
+        },
+        "text_block_UUdFE6": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Glam_Arancio_Gift_Set_Holiday.jpg",
+            "text": "Hair And Skin Sets",
+            "url": "https://origenere.com/collections/hair-skin-care-sets"
+          }
         }
       },
       "block_order": [
         "text_block_UpK3VE",
-        "text_block_Mt4Rih"
+        "text_block_Mt4Rih",
+        "text_block_UUdFE6"
       ],
       "settings": {
         "num_per_row": 3
