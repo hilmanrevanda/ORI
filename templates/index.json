@@ -153,6 +153,42 @@
         "space_around": false
       }
     },
+    "newsletter_C4gB6R": {
+      "type": "newsletter",
+      "blocks": {
+        "title_dzCRYP": {
+          "type": "title",
+          "settings": {
+            "title": "SUBSCRIBE. FIRST STEP TOWARDS  HAIR GROWTH AND SCALP HEALTH.",
+            "heading_size": "h1"
+          }
+        },
+        "text_yRnC7W": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>20% Off</strong> Your First Order After Subscribing.</p><p>Receive Exclusive Offers, Expert Tips, Subscriber Only Blogs, Insights Into Upcoming Products And More. </p>"
+          }
+        },
+        "form_W6bACE": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title_dzCRYP",
+        "text_yRnC7W",
+        "form_W6bACE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
     "fh-section-product-category-grid": {
       "type": "fh-section-product-category-grid",
       "settings": {
@@ -413,6 +449,7 @@
     "featured_collection_7xPTGj",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
+    "newsletter_C4gB6R",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "fh_section_collection_grid_NRpHNn",
