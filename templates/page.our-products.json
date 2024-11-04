@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,14 +21,14 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 84,
-            "subheading": "PHYSICIAN FORMULATED ALL-NATURAL HAIR & SKIN CARE",
+            "title": "<h1>PHYSICIAN FORMULATED ALL-NATURAL HAIR & SKIN CARE</h1>",
+            "title_size": 90,
+            "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_physician_ingredients.png"
+            "image": "shopify://shop_images/Buongiorno_physician_ingredients.png"
           }
         }
       },
@@ -54,25 +54,25 @@
         "text_block_wr9RAg": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Naturale_Hair_Care_1.png",
+            "image": "shopify://shop_images/Naturale_Hair_Care_1.png",
             "text": "Shampoo And Conditioners",
-            "url": "shopify:\/\/collections\/origenere-shampoos-and-conditioners"
+            "url": "shopify://collections/origenere-shampoos-and-conditioners"
           }
         },
         "text_block_gecryq": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Foam_Ingredients.png",
+            "image": "shopify://shop_images/Sempre_Foam_Ingredients.png",
             "text": "Hair And Scalp Repair",
-            "url": "shopify:\/\/collections\/hair-loss-solutions"
+            "url": "shopify://collections/hair-loss-solutions"
           }
         },
         "text_block_YJDadt": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GrowthKit_3_Crescere.png",
+            "image": "shopify://shop_images/GrowthKit_3_Crescere.png",
             "text": "Hair Transplant Bundles",
-            "url": "shopify:\/\/collections\/hair-transplant-kits"
+            "url": "shopify://collections/hair-transplant-kits"
           }
         }
       },
@@ -91,25 +91,25 @@
         "text_block_c4pfAh": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Nero_Body_Scrub.png",
+            "image": "shopify://shop_images/Nero_Body_Scrub.png",
             "text": "Skin Care Cleansers",
-            "url": "shopify:\/\/collections\/skin-care-cleansers"
+            "url": "shopify://collections/skin-care-cleansers"
           }
         },
         "text_block_8ErNw6": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/aranciowithbox2024.jpg",
+            "image": "shopify://shop_images/aranciowithbox2024.jpg",
             "text": "Skin Care Moisturizers and Repair",
-            "url": "shopify:\/\/collections\/skin-care-moisturizers"
+            "url": "shopify://collections/skin-care-moisturizers"
           }
         },
         "text_block_irUc3N": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Arnacio_Tray_Holiday.jpg",
+            "image": "shopify://shop_images/Arnacio_Tray_Holiday.jpg",
             "text": "Hair And Skin Bundles",
-            "url": "shopify:\/\/collections\/hair-skin-care-sets"
+            "url": "shopify://collections/hair-skin-care-sets"
           }
         }
       },
