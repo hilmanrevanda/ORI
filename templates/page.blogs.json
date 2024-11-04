@@ -21,9 +21,9 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 84,
-            "subheading": "Origenere Blogs",
+            "title": "<h1>ORIGENERE EDUCATIONAL BLOGS</h1>",
+            "title_size": 100,
+            "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
