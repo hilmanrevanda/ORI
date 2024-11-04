@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,15 +21,15 @@
         "template--15753760309457__a1e2052b-f315-4b2e-bf01-736b3fefe638-image-1": {
           "type": "image",
           "settings": {
-            "title": "POWERFUL BUNDLES WITH PURPOSE",
+            "title": "<h1>POWERFUL BUNDLES WITH PURPOSE</h1>",
             "title_size": 56,
             "subheading": "",
             "link": "",
             "link_text": "",
             "color_accent": "#383838",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Naturale_Purity_Collection_Saw.jpg"
+            "image": "shopify://shop_images/Naturale_Purity_Collection_Saw.jpg",
+            "image_mobile": "shopify://shop_images/Naturale_Purity_Collection_Saw.jpg"
           }
         }
       },
@@ -56,11 +56,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Crescere_Origenere.jpg",
+            "image": "shopify://shop_images/Crescere_Origenere.jpg",
             "heading": "Hair Transplant Kits",
             "description": "Curated By Hair Surgeons For Optimal Results.",
             "btn_text": "Bundles",
-            "btn_url": "shopify:\/\/collections\/hair-transplant-kits",
+            "btn_url": "shopify://collections/hair-transplant-kits",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -69,11 +69,11 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
+            "image": "shopify://shop_images/13_56787401-3278-48b3-8a61-b2a1b8979889.png",
             "heading": "Hair And Skin Bundles",
             "description": "All Natural Invigoration From Head To Toe.",
             "btn_text": "Bundles",
-            "btn_url": "shopify:\/\/collections\/hair-skin-care-sets",
+            "btn_url": "shopify://collections/hair-skin-care-sets",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -114,41 +114,41 @@
         "text_block_d6Bhed": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg",
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg",
             "text": "Naturale Purity Collection: For Thinning Hair",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
+            "url": "shopify://collections/naturale-purity-collection"
           }
         },
         "text_block_VfdgcQ": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SEMPRE_COLLECTION.webp",
+            "image": "shopify://shop_images/SEMPRE_COLLECTION.webp",
             "text": "Sempre Growth Collection: For Hair Growth",
-            "url": "shopify:\/\/collections\/sempre-hair-growth-collection"
+            "url": "shopify://collections/sempre-hair-growth-collection"
           }
         },
         "text_block_6jCxGx": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BuongiornoRobe_4.png",
+            "image": "shopify://shop_images/BuongiornoRobe_4.png",
             "text": "Buongiorno Vitality Collection: For Scalp Health",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+            "url": "shopify://collections/buongiorno-vitality-collection"
           }
         },
         "text_block_RdrtXC": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Arancio_Skincare_Origenere_Orange.jpg",
+            "image": "shopify://shop_images/Arancio_Skincare_Origenere_Orange.jpg",
             "text": "Arancio Preservation Collection: For Skin Rejuvenation",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+            "url": "shopify://collections/nourish-your-natural-glow"
           }
         },
         "text_block_FEf9Wp": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
+            "image": "shopify://shop_images/NERO_COLLECTION.webp",
             "text": "Nero Detox Collection: For Complete Skin Cleanse",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
+            "url": "shopify://collections/nero-detox-collection"
           }
         }
       },
