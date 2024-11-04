@@ -256,6 +256,7 @@
         },
         "text_block_UUdFE6": {
           "type": "text_block",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Glam_Arancio_Gift_Set_Holiday.jpg",
             "text": "HAIR AND SKIN SETS",
