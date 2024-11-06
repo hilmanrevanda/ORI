@@ -132,22 +132,22 @@
             "progress_bar_style": "single_column",
             "progress_bar_label_style": "below",
             "vip_table_perk_background_color": "#ffffff",
-            "vip_table_perk_font_color": "#0f0f0f",
+            "vip_table_perk_font_color": "#000000",
             "vip_table_first_tier_column_background_color": "#ffffff",
             "vip_table_second_tier_column_background_color": "#ffffff",
             "vip_table_third_tier_column_background_color": "#ffffff",
             "vip_table_active_tier_column_background_color": "#ffffff",
             "vip_table_th_background_color_enabled": false,
-            "vip_table_active_tier_background_color_enabled": false,
+            "vip_table_active_tier_background_color_enabled": true,
             "vip_table_tier_icon_size": 25,
-            "vip_table_tier_name_font_size": 49,
-            "vip_table_tier_threshold_font_size": 14,
+            "vip_table_tier_name_font_size": 21,
+            "vip_table_tier_threshold_font_size": 19,
             "vip_table_tier_body_font_size": 14,
-            "vip_table_body_padding": 15,
-            "vip_table_padding_top": 60,
-            "vip_table_tier_thead_padding_top": 20,
-            "vip_table_tier_thead_padding_bottom": 20,
-            "vip_table_tier_name_padding": 16,
+            "vip_table_body_padding": 25,
+            "vip_table_padding_top": 40,
+            "vip_table_tier_thead_padding_top": 25,
+            "vip_table_tier_thead_padding_bottom": 25,
+            "vip_table_tier_name_padding": 25,
             "vip_table_tier_td_border_bottom": "1px solid #000000"
           }
         }
@@ -161,7 +161,7 @@
         "rivo_loyalty_rewards_referrals_lp_vip_tiers_Kj7mWL"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true
       }
     },
