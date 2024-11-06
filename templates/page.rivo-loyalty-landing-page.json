@@ -63,7 +63,7 @@
             "background_color": "",
             "rivo_banner_desktop_height": 600,
             "rivo_banner_text_container_desktop_padding_top": 170,
-            "rivo_banner_text_container_desktop_max_width": 100,
+            "rivo_banner_text_container_desktop_max_width": 75,
             "rivo_banner_text_container_desktop_button_gap": 25,
             "rivo_hero_banner_text_padding": 20,
             "rivo_banner_image_desktop_brightness": 60,
