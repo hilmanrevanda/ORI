@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.footer-group.name",
@@ -17,8 +17,8 @@
         "post_gkfkze": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Botanicals.jpg",
-            "link": "https:\/\/www.instagram.com\/reel\/C6pf2k5xabv\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "shopify://shop_images/Sempre_Hair_Growth_Botanicals.jpg",
+            "link": "https://www.instagram.com/reel/C6pf2k5xabv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "account": "",
             "caption": "A flourishing garden and radiant hair both thrive with time and care. Trust nature’s botanicals and watch your hair bloom. 🌿🌹",
@@ -28,8 +28,8 @@
         "post_jpWWPE": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Origenere_Nero_Body_Scrub_Model1.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/C6m5K8JI0sW\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "shopify://shop_images/Origenere_Nero_Body_Scrub_Model1.jpg",
+            "link": "https://www.instagram.com/p/C6m5K8JI0sW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "product": "nero-exfoliating-body-scrub",
             "account": "",
             "caption": "🚿 Elevate your shower game with the power of nature! 🌿 Discover the transformative benefits of exfoliating with all-natural botanical body wash. 😍✨",
@@ -39,8 +39,8 @@
         "post_jQjLcP": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2730.jpg",
-            "link": "https:\/\/www.instagram.com\/reel\/C6aC_-RRrv8\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "shopify://shop_images/IMG_2730.jpg",
+            "link": "https://www.instagram.com/reel/C6aC_-RRrv8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "product": "sempre-hair-growth-organonutrients-hair-skin-vitamins",
             "account": "",
             "caption": "Complete your hair care routine with Sempre Organonutrients 🌿",
@@ -50,8 +50,8 @@
         "post_GcgWTe": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Hair_Growth_Pool.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/C6PlQTfuBF8\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "shopify://shop_images/Sempre_Hair_Growth_Pool.jpg",
+            "link": "https://www.instagram.com/p/C6PlQTfuBF8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "account": "",
             "caption": "Is your hair ready for summer? ☀️ If you're suffering from hair loss, it's time to start your hair transformation journey with Sempre Hair Growth Collection. 💪🏼",
@@ -61,8 +61,8 @@
         "post_BxdRgP": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sempre_Helix_01.png",
-            "link": "https:\/\/www.instagram.com\/reel\/C6NIHlERHa9\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "image": "shopify://shop_images/Sempre_Helix_01.png",
+            "link": "https://www.instagram.com/reel/C6NIHlERHa9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "product": "sempre-hair-growth-organonutrients-foam-supplement-3-month-kit",
             "account": "",
             "caption": "Your DNA doesn’t have to define your future. Unlock the power of your DNA 🧬 with Origenere for healthier, fuller appearing hair.",
@@ -77,22 +77,21 @@
         "post_GcgWTe",
         "post_BxdRgP"
       ],
-      "disabled": true,
       "settings": {
         "enable_home": true,
         "enable_product": false,
         "enable_collection": false,
         "title": "FOLLOW US ON INSTAGRAM",
-        "description": "<h2><a href=\"https:\/\/www.instagram.com\/origenere\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/origenere\/\"><em>@ORIGENERE<\/em><\/a><\/h2>"
+        "description": "<h2><a href=\"https://www.instagram.com/origenere/\" target=\"_blank\" title=\"https://www.instagram.com/origenere/\"><em>@ORIGENERE</em></a></h2>"
       }
     },
     "footer": {
       "type": "footer",
       "settings": {
-        "site_icon": "shopify:\/\/shop_images\/favicon.png",
+        "site_icon": "shopify://shop_images/favicon.png",
         "show_newsletter": true,
         "newsletter_title": "JOIN OUR A-LIST",
-        "newsletter_richtext": "<p>Subscribe to our newsletter for 20% off next order and exclusive promotions directly to your inbox.<\/p>",
+        "newsletter_richtext": "<p>Subscribe to our newsletter for 20% off next order and exclusive promotions directly to your inbox.</p>",
         "show_locale_selector": false,
         "show_currency_selector": false,
         "show_currency_flags": true,
