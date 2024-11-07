@@ -91,7 +91,7 @@
           "settings": {
             "account_card_enabled": true,
             "account_card_background_color": "",
-            "account_card_font_color": "",
+            "account_card_font_color": "#ffffff",
             "referral_block_enabled": false,
             "referral_block_background_color": "",
             "referral_block_font_color": "#ffffff",
