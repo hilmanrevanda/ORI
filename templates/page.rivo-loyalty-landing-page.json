@@ -89,14 +89,14 @@
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
-            "section_title_font_color": "#ffffff",
-            "section_subtitle_font_color": "#ffffff",
+            "background_color": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+            "section_title_font_color": "#000000",
+            "section_subtitle_font_color": "#000000",
             "step_number_title_font_size": 26,
             "step_number_subtitle_font_size": 16,
-            "step_font_color": "#ffffff",
+            "step_font_color": "#000000",
             "step_number_type": "border",
-            "step_image_height": 150
+            "step_image_height": 110
           }
         },
         "rivo_loyalty_rewards_referrals_lp_ways_to_earn_F9TKHw": {
@@ -118,17 +118,17 @@
         "rivo_loyalty_rewards_referrals_lp_vip_tiers_Kj7mWL": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-vip-tiers/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
-            "section_title_font_color": "#ffffff",
-            "section_subtitle_font_color": "#ffffff",
-            "progress_bar_enabled": false,
-            "progress_bar_style": "single_column",
+            "background_color": "linear-gradient(180deg, rgba(254, 254, 254, 1), rgba(254, 254, 254, 1) 100%)",
+            "section_title_font_color": "#000000",
+            "section_subtitle_font_color": "#000000",
+            "progress_bar_enabled": true,
+            "progress_bar_style": "multi_column",
             "progress_bar_label_style": "below",
             "vip_table_perk_background_color": "#ffffff",
-            "vip_table_perk_font_color": "#383838",
-            "vip_table_first_tier_column_background_color": "#545cc4",
-            "vip_table_second_tier_column_background_color": "#3b43ab",
-            "vip_table_third_tier_column_background_color": "#545cc4",
+            "vip_table_perk_font_color": "#000000",
+            "vip_table_first_tier_column_background_color": "#ffffff",
+            "vip_table_second_tier_column_background_color": "#ffffff",
+            "vip_table_third_tier_column_background_color": "#ffffff",
             "vip_table_active_tier_column_background_color": "#ffffff",
             "vip_table_th_background_color_enabled": true,
             "vip_table_active_tier_background_color_enabled": false,
