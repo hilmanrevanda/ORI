@@ -86,6 +86,28 @@
             "rivo_banner_mobile_text_align": "center"
           }
         },
+        "rivo_loyalty_rewards_referrals_lp_customer_account_8BJAj4": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-customer-account/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "account_card_enabled": true,
+            "account_card_background_color": "",
+            "account_card_font_color": "",
+            "referral_block_enabled": false,
+            "referral_block_background_color": "",
+            "referral_block_font_color": "",
+            "activity_block_enabled": false,
+            "activity_block_background_color": "",
+            "activity_block_font_color": "",
+            "activity_header_background_color": "",
+            "activity_header_font_color": "",
+            "rewards_block_enabled": false,
+            "rewards_progress_enabled": true,
+            "unused_rewards_enabled": true,
+            "rewards_arrow_icon_enabled": false,
+            "rewards_progress_bar_color": "#000000",
+            "vip_tier_block_enabled": false
+          }
+        },
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
@@ -147,6 +169,7 @@
       },
       "block_order": [
         "rivo_loyalty_rewards_referrals_lp_header_PUxMMF",
+        "rivo_loyalty_rewards_referrals_lp_customer_account_8BJAj4",
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn",
         "rivo_loyalty_rewards_referrals_lp_ways_to_earn_F9TKHw",
         "rivo_loyalty_rewards_referrals_lp_ways_to_redeem_APbKGg",
