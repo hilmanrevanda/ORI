@@ -130,7 +130,7 @@
             "vip_table_second_tier_column_background_color": "#3b43ab",
             "vip_table_third_tier_column_background_color": "#545cc4",
             "vip_table_active_tier_column_background_color": "#ffffff",
-            "vip_table_th_background_color_enabled": false,
+            "vip_table_th_background_color_enabled": true,
             "vip_table_active_tier_background_color_enabled": false,
             "vip_table_tier_icon_size": 35,
             "vip_table_tier_name_font_size": 20,
