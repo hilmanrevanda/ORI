@@ -95,17 +95,17 @@
             "referral_block_enabled": false,
             "referral_block_background_color": "",
             "referral_block_font_color": "#ffffff",
-            "activity_block_enabled": false,
-            "activity_block_background_color": "",
+            "activity_block_enabled": true,
+            "activity_block_background_color": "linear-gradient(180deg, rgba(15, 15, 15, 1), rgba(15, 15, 15, 1) 100%)",
             "activity_block_font_color": "#ffffff",
-            "activity_header_background_color": "",
+            "activity_header_background_color": "linear-gradient(270deg, rgba(17, 17, 17, 1), rgba(15, 15, 15, 1) 97%)",
             "activity_header_font_color": "#ffffff",
-            "rewards_block_enabled": false,
+            "rewards_block_enabled": true,
             "rewards_progress_enabled": true,
             "unused_rewards_enabled": true,
-            "rewards_arrow_icon_enabled": false,
+            "rewards_arrow_icon_enabled": true,
             "rewards_progress_bar_color": "#000000",
-            "vip_tier_block_enabled": false
+            "vip_tier_block_enabled": true
           }
         },
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn": {
