@@ -69,7 +69,7 @@
             "rivo_banner_image_desktop_brightness": 60,
             "rivo_banner_text_container_desktop_background_color": "#ffffff",
             "rivo_banner_text_container_desktop_font_color": "#0f0f0f",
-            "rivo_banner_title_desktop_font_size": 44,
+            "rivo_banner_title_desktop_font_size": 51,
             "rivo_banner_subtitle_desktop_font_size": 22,
             "rivo_banner_card_desktop_position": "center",
             "rivo_banner_desktop_text_align": "center",
@@ -96,7 +96,7 @@
             "step_number_subtitle_font_size": 16,
             "step_font_color": "#000000",
             "step_number_type": "border",
-            "step_image_height": 150,
+            "step_image_height": 200,
             "step_1_image": "shopify://shop_images/one.png",
             "step_2_image": "shopify://shop_images/two.png",
             "step_3_image": "shopify://shop_images/three.png"
