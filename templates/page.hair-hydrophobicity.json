@@ -435,11 +435,19 @@
             "testimonial": "<p>This conditioner leaves my hair silky smooth with a shiny finish, plus when paired up with the shampoo and sempre hair growth vitamins it will have your hair feeling thicker.</p>",
             "author": "Chris L."
           }
+        },
+        "testimonial_yLKCPH": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Ever since I started to use Origenere, my hair has changed for the better. My whole entire family even uses it now!</p>",
+            "author": "Hazel L."
+          }
         }
       },
       "block_order": [
         "testimonial_KN99e9",
-        "testimonial_wQed6i"
+        "testimonial_wQed6i",
+        "testimonial_yLKCPH"
       ],
       "settings": {
         "title": "",
