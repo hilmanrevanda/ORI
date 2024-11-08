@@ -276,7 +276,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p></p><ul><li>Sun Damage</li><li>Chemical Treatments</li><li>Daily Shampooing With Harsh Ingredients</li><li>Excessive Bending </li><li>Blow Drying </li><li>Aggressive Brushing</li></ul>"
+            "text": "<p></p><ul><li>Sun Damage</li><li>Chemical Treatments</li><li>Daily Shampooing With Harsh Ingredients</li><li>Excessive Bending </li><li>Blow Dryer Damage</li><li>Aggressive Brushing</li></ul>"
           }
         }
       },
@@ -316,8 +316,8 @@
             "show_image": false,
             "image": "shopify://shop_images/Origenere_Science_of_Botanicals.jpg",
             "icon": "recycle",
-            "title": "Behenamidopropyl Dimethylamine",
-            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. Extensively Tested, Soluble and Biodegradable. </p>"
+            "title": "Behenamidopropyl Dimethylamine Improves Porosity, Minimizing Breakage",
+            "text": "<p>Binds To The Outer Layer Of The Strand and Provides a New Hydrophobic Surface Resulting In Smoother, Healthier Appearing Hair. Extensively Tested, Soluble and Biodegradable.</p>"
           }
         },
         "text_block_c8UPXa": {
@@ -325,8 +325,8 @@
           "settings": {
             "show_image": false,
             "icon": "ribbon",
-            "title": "Glycerin",
-            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother.  Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. Biodegradable. </p>"
+            "title": "Glycerin Improves Scalp Hydration and Hair Gloss",
+            "text": "<p>While Not Hydrophobic Itself, Glycerin Fills In Jagged Edges In The Strand Making It Feel Smoother. Also Hydrates The Scalp and Achieves Moisture Balance With The Environment. Biodegradable.</p>"
           }
         },
         "text_block_NBik7j": {
@@ -334,8 +334,8 @@
           "settings": {
             "show_image": false,
             "icon": "plant",
-            "title": "Hydrolyzed Soy Protein",
-            "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Available. Biodegradable.</p>"
+            "title": "Hydrolyzed Soy Protein To For Moisture Control",
+            "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Absorption To Optimize The Health Of Your Hair. Biodegradable.</p>"
           }
         }
       },
