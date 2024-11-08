@@ -80,8 +80,8 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "alt": false,
-        "background_color": "#ffffff"
+        "alt": true,
+        "background_color": "#111111"
       }
     },
     "advanced_content_VYpEmT": {
