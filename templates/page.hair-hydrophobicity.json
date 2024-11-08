@@ -110,7 +110,7 @@
         "liquid_McaDx6"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": false,
         "alt": false,
         "lazyload_images": false
@@ -177,7 +177,7 @@
         "vitals_trust_N7FBtp"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "space_around": false
       }
     },
@@ -236,14 +236,6 @@
             "url": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss"
           }
         },
-        "text_block_Pti6nx": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
-            "text": "SCALP TONIC FOR THINNING HAIR",
-            "url": "shopify://products/naturale-scalp-and-hair-tonic"
-          }
-        },
         "text_block_jtKGfJ": {
           "type": "text_block",
           "settings": {
@@ -251,13 +243,21 @@
             "text": "HAIR STYLING CREAM FOR THINNING HAIR",
             "url": "shopify://products/naturale-hair-styling-cream-1"
           }
+        },
+        "text_block_Pti6nx": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/ORIGENERENATURALEHAIRTONIC2023_3.jpg",
+            "text": "SCALP TONIC FOR THINNING HAIR",
+            "url": "shopify://products/naturale-scalp-and-hair-tonic"
+          }
         }
       },
       "block_order": [
         "text_block_RrVhgA",
         "text_block_aW9BaB",
-        "text_block_Pti6nx",
-        "text_block_jtKGfJ"
+        "text_block_jtKGfJ",
+        "text_block_Pti6nx"
       ],
       "settings": {
         "num_per_row": 3
@@ -334,7 +334,7 @@
           "settings": {
             "show_image": false,
             "icon": "plant",
-            "title": "Hydrolyzed Soy Protein To For Moisture Control",
+            "title": "Hydrolyzed Soy Protein  For Moisture Control",
             "text": "<p>Acts As A Hair Thickener By Locking In Moisture Where It Is Needed In The Hair Shaft. Optimizing The Amount of Moisture Absorption To Optimize The Health Of Your Hair. Biodegradable.</p>"
           }
         }
