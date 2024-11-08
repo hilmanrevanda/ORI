@@ -66,29 +66,22 @@
     "rich_text_RDW43f": {
       "type": "rich-text",
       "blocks": {
-        "heading_YgBKRD": {
-          "type": "heading",
-          "settings": {
-            "title": "<h1>Origenere: Natural Solutions for Low Porosity Hair Products</h1>"
-          }
-        },
         "text_7d7yeA": {
           "type": "text",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "enlarge_text": true,
+            "text": "<h1>ORIGENERE: NATURAL SOLUTIONS FOR <strong>LOW POROSITY HAIR PRODUCTS</strong></h1>"
           }
         }
       },
       "block_order": [
-        "heading_YgBKRD",
         "text_7d7yeA"
       ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "alt": false,
-        "background_color": "#000000"
+        "background_color": "#ffffff"
       }
     },
     "advanced_content_VYpEmT": {
@@ -106,7 +99,7 @@
         "liquid_McaDx6": {
           "type": "liquid",
           "settings": {
-            "code": "<center><h2><strong>HYDROPHOBICITY.</strong> THE <strong>RIGHT CONDITIONER</Strong> IS THE KEY TO HEALTHY STRANDS</h2><ul> <li> The Ability To Repel Water Is Critcial To Hair Health.</li>  <li> The Outer Layer (cuticle) of The Hair Shaft Is Crucial To Its Ability to Repel Water </li> <Li>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer.</Li> <Li> As A Result, The Hair Shaft Is Not Able To Repel Water and Becomes Damaged.</Li><LI> Restore Your Hair Vibrance And Shine With: <h2> <strong>NATURALE CONDITIONER FOR THINNING HAIR</h2> </Strong></center>",
+            "code": "<center><h2><STRONG>HYDROPHOBICITY.</STRONG> THE <STRONG>RIGHT CONDITIONER</STRONG> IS THE KEY TO HEALTHY STRANDS FOR <STRONG>LOW POROSITY HAIR</STRONG></h2><ul> <li> The Ability To Repel Water Is Critcial To Hair Health.</li>  <li> The Outer Layer (cuticle) of The Hair Shaft Is Crucial To Its Ability to Repel Water </li> <Li>Daily Weathering And Use Of Cosmetic Products Damage and Remove This Layer.</Li> <Li> As A Result, The Hair Shaft Is Not Able To Repel Water and Becomes Damaged.</Li><LI> Restore Your Hair Vibrance And Shine With: <h2> <strong>NATURALE CONDITIONER FOR THINNING HAIR</h2> </Strong></center>",
             "width": "50%",
             "alignment": "center"
           }
