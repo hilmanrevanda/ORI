@@ -442,12 +442,28 @@
             "testimonial": "<p>Ever since I started to use Origenere, my hair has changed for the better. My whole entire family even uses it now!</p>",
             "author": "Hazel L."
           }
+        },
+        "testimonial_cTVnU9": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>I like the quality ingredients in this conditioner. It's moisturizing and makes my hair feel soft.</p>",
+            "author": "Heather R."
+          }
+        },
+        "testimonial_eV3Dpy": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>This moisturizes my hair well and rinses clean. It smells good in an earthy way and detangles well. Definitely feels nice on the scalp. I have not seen any benefits for thinning hair.</p>",
+            "author": "Geds"
+          }
         }
       },
       "block_order": [
         "testimonial_KN99e9",
         "testimonial_wQed6i",
-        "testimonial_yLKCPH"
+        "testimonial_yLKCPH",
+        "testimonial_cTVnU9",
+        "testimonial_eV3Dpy"
       ],
       "settings": {
         "title": "",
