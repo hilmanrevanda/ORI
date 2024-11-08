@@ -12,8 +12,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "countdown_6zMKnB": {
       "type": "countdown",
@@ -62,6 +61,34 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0,
         "lazyload_images": false
+      }
+    },
+    "rich_text_RDW43f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YgBKRD": {
+          "type": "heading",
+          "settings": {
+            "title": "<h1>Origenere: Natural Solutions for Low Porosity Hair Products</h1>"
+          }
+        },
+        "text_7d7yeA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YgBKRD",
+        "text_7d7yeA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": false,
+        "background_color": "#000000"
       }
     },
     "advanced_content_VYpEmT": {
@@ -114,8 +141,7 @@
       "blocks": {
         "price_nDNexj": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "description_ywneYN": {
           "type": "description",
@@ -151,8 +177,7 @@
       "blocks": {
         "vitals_trust_N7FBtp": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -181,8 +206,7 @@
         },
         "form_w9ECQw": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -279,8 +303,7 @@
       "blocks": {
         "judge_me_reviews_medals_3DTLN6": {
           "type": "shopify://apps/judge-me-reviews/blocks/medals/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -482,6 +505,7 @@
   "order": [
     "main",
     "countdown_6zMKnB",
+    "rich_text_RDW43f",
     "advanced_content_VYpEmT",
     "scrolling_text_PDrKnP",
     "featured_product_hyB3QX",
