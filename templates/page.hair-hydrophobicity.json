@@ -428,10 +428,18 @@
             "testimonial": "<p><strong>I started really losing my hair last November. I began using your product at the advice of my hairdresser. I’m seeing quite a bit of new hair growth and I’m thrilled!!</strong></p>",
             "author": "Suzie E"
           }
+        },
+        "testimonial_wQed6i": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>This conditioner leaves my hair silky smooth with a shiny finish, plus when paired up with the shampoo and sempre hair growth vitamins it will have your hair feeling thicker.</p>",
+            "author": "Chris L."
+          }
         }
       },
       "block_order": [
-        "testimonial_KN99e9"
+        "testimonial_KN99e9",
+        "testimonial_wQed6i"
       ],
       "settings": {
         "title": "",
