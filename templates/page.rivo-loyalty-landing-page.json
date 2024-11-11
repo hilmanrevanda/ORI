@@ -49,7 +49,7 @@
         "modal_icon_size": 44,
         "vip_desktop_progress_bar_width": 40,
         "vip_table_tier_td_border_top": "none{{ page.title }}",
-        "custom_css": ""
+        "custom_css": "th.rivo-vip-tier-table-thead-tier-cell.rivo-active-tier-header-color-enabled.rivo-tier-column-4 {\n    background-color: #FFFFFF !important;\n}\ntbody.rivo-vip-tier-table-tbody {\n    background-color: #FFFFFF !important;\n}\n}"
       }
     },
     "1730905044a7a2dae3": {
@@ -155,6 +155,7 @@
         "rivo_loyalty_rewards_referrals_lp_ways_to_redeem_APbKGg",
         "rivo_loyalty_rewards_referrals_lp_vip_tiers_Kj7mWL"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "space_around": true
