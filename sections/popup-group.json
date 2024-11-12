@@ -85,10 +85,39 @@
             "rewards_progress_bar_color": "#000000",
             "vip_tier_block_enabled": false
           }
+        },
+        "rivo_loyalty_rewards_referrals_lp_customer_account_extras_NJ7RRt": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-customer-account-extras/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "account_dashboard_max_width": 1200,
+            "title_font_style": "inherit",
+            "title_font_family": "",
+            "subtitle_font_family": "",
+            "block_background_color": "#FFFFFF",
+            "block_font_color": "#000000",
+            "block_title_font_size": 18,
+            "block_title_font_weight": 600,
+            "block_body_font_size": 16,
+            "block_subtitle_font_weight": 600,
+            "corner_type": "rounded",
+            "block_border": "1px solid #000000",
+            "modal_background_color": "#FFFFFF",
+            "modal_font_color": "#000000",
+            "modal_icon_color": "#000000",
+            "modal_icon_position_top": 15,
+            "modal_icon_position_right": 15,
+            "modal_login_title_font_size": 22,
+            "modal_title_font_size": 22,
+            "modal_subtitle_font_size": 16,
+            "modal_body_font_size": 16,
+            "modal_icon_size": 44,
+            "custom_css": "/* :root { --rivo-title-font-family: 'Arial'; } */"
+          }
         }
       },
       "block_order": [
-        "rivo_loyalty_rewards_referrals_lp_customer_account_7mqYWd"
+        "rivo_loyalty_rewards_referrals_lp_customer_account_7mqYWd",
+        "rivo_loyalty_rewards_referrals_lp_customer_account_extras_NJ7RRt"
       ],
       "settings": {
         "full_width": false,
