@@ -89,13 +89,13 @@
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
-            "section_title_font_color": "#000000",
-            "section_subtitle_font_color": "#000000",
+            "background_color": "linear-gradient(127deg, rgba(255, 255, 255, 1) 11%, rgba(255, 255, 255, 1) 81%)",
+            "section_title_font_color": "#0f0f0f",
+            "section_subtitle_font_color": "#0f0f0f",
             "step_number_title_font_size": 26,
             "step_number_subtitle_font_size": 16,
             "step_font_color": "#000000",
-            "step_number_type": "border",
+            "step_number_type": "basic",
             "step_image_height": 200,
             "step_1_image": "shopify://shop_images/one.png",
             "step_2_image": "shopify://shop_images/two.png",
