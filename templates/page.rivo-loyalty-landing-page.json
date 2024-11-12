@@ -89,7 +89,7 @@
         "rivo_loyalty_rewards_referrals_lp_how_it_works_83qXpn": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-how-it-works/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+            "background_color": "",
             "section_title_font_color": "#000000",
             "section_subtitle_font_color": "#000000",
             "step_number_title_font_size": 26,
