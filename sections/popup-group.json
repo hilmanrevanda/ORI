@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "custom.popups",
   "name": "t:sections.popup-group.name",
@@ -22,7 +31,7 @@
         "popup_seconds": 5,
         "popup_days": 30,
         "popup_title": "Sign up and save",
-        "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+        "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.</p>",
         "image_position": "left",
         "show_social_icons": false,
         "enable_newsletter": true,
@@ -37,17 +46,60 @@
         "enable_test_mode": false,
         "blur_image": false,
         "heading": "Confirm your age",
-        "text": "<p>Are you 18 years old or older?<\/p>",
+        "text": "<p>Are you 18 years old or older?</p>",
         "decline_button_label": "No I'm not",
         "approve_button_label": "Yes I am",
         "decline_heading": "Come back when you're older",
-        "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+        "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
         "return_button_label": "Oops, I entered incorrectly"
+      }
+    },
+    "17314485045849e11a": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1731448510b3ab0b53": {
+      "type": "apps",
+      "blocks": {
+        "rivo_loyalty_rewards_referrals_lp_customer_account_7mqYWd": {
+          "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-customer-account/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
+          "settings": {
+            "account_card_enabled": true,
+            "account_card_background_color": "",
+            "account_card_font_color": "#111111",
+            "referral_block_enabled": false,
+            "referral_block_background_color": "",
+            "referral_block_font_color": "",
+            "activity_block_enabled": false,
+            "activity_block_background_color": "",
+            "activity_block_font_color": "",
+            "activity_header_background_color": "",
+            "activity_header_font_color": "",
+            "rewards_block_enabled": false,
+            "rewards_progress_enabled": true,
+            "unused_rewards_enabled": true,
+            "rewards_arrow_icon_enabled": false,
+            "rewards_progress_bar_color": "#000000",
+            "vip_tier_block_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "rivo_loyalty_rewards_referrals_lp_customer_account_7mqYWd"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     }
   },
   "order": [
     "newsletter-popup",
-    "age-verification-popup"
+    "age-verification-popup",
+    "17314485045849e11a",
+    "1731448510b3ab0b53"
   ]
 }
