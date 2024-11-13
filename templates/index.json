@@ -9,6 +9,127 @@
  */
 {
   "sections": {
+    "featured_collection_7xPTGj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SEMPRE HAIR GROWTH COLLECTION",
+        "description": "DESIGNED FOR HAIR GROWTH",
+        "featured_text": "",
+        "home_featured_products": "sempre-hair-growth-collection",
+        "rows": 1,
+        "per_row_desktop": 2,
+        "per_row_mobile": "1",
+        "view_all": true,
+        "alt": false
+      }
+    },
+    "hero_video_TmBimB": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Learn More",
+        "link": "shopify://pages/sempre-foam-see-the-difference",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
+        "section_height": "550px",
+        "mobile_height": "250px"
+      }
+    },
+    "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
+      "type": "rich-text",
+      "blocks": {
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
+          "type": "heading",
+          "settings": {
+            "title": "POWER OF NATURE IN A BOTTLE"
+          }
+        },
+        "38ae4040-7838-493d-b248-5108007b2756": {
+          "type": "image_picker",
+          "settings": {
+            "image_icon": "shopify://shop_images/Origenere_Helix_white.png"
+          }
+        },
+        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR GROWTH SOLUTIONS</strong></h2><ul><li><strong>Proven Formulas </strong>Leveraging Nature's Science</li><li>Clinically Tested For<strong> Hair Growth</strong></li><li><strong>Over 15 Years of Testing </strong>On Human Hair Follicles </li><li><strong>Rejuvenate Your Follicles</strong> And <strong>Strengthen Your Strands</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. Cruelty Free and Eco Friendly. </em></h3><h3></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
+        "38ae4040-7838-493d-b248-5108007b2756",
+        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "alt": true,
+        "background_color": "#2e1764"
+      }
+    },
+    "172678467592bc8ffe": {
+      "type": "apps",
+      "blocks": {
+        "vitals_trust_ADzT4x": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "vitals_reviews_carousel_PPw4cU": {
+          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vitals_trust_ADzT4x",
+        "vitals_reviews_carousel_PPw4cU"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false
+      }
+    },
+    "newsletter_C4gB6R": {
+      "type": "newsletter",
+      "blocks": {
+        "title_dzCRYP": {
+          "type": "title",
+          "settings": {
+            "title": "SUBSCRIBE. FIRST STEP TOWARDS  HAIR GROWTH AND SCALP HEALTH.",
+            "heading_size": "h1"
+          }
+        },
+        "text_yRnC7W": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>20% Off</strong> Your First Order After Subscribing.</p><p>Receive Exclusive Offers, Expert Tips, Subscriber Only Blogs, Insights Into Upcoming Products And More. </p>"
+          }
+        },
+        "form_W6bACE": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_dzCRYP",
+        "text_yRnC7W",
+        "form_W6bACE"
+      ],
+      "settings": {
+        "align_text": "center",
+        "image": "shopify://shop_images/OrigenereGiftCard-855410.jpg",
+        "image_width": "33",
+        "image_mask": "square",
+        "image_position": "right",
+        "top_padding": false,
+        "bottom_padding": true
+      }
+    },
     "fh_section_collection_grid_a9N4Um": {
       "type": "fh-section-collection-grid",
       "blocks": {
@@ -64,130 +185,6 @@
       ],
       "settings": {
         "num_per_row": 3
-      }
-    },
-    "hero_video_TmBimB": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "Learn More",
-        "link": "shopify://pages/sempre-foam-see-the-difference",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=yqCKSCNO680",
-        "section_height": "550px",
-        "mobile_height": "250px"
-      }
-    },
-    "featured_collection_7xPTGj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SEMPRE HAIR GROWTH COLLECTION",
-        "description": "DESIGNED FOR HAIR GROWTH",
-        "featured_text": "",
-        "home_featured_products": "sempre-hair-growth-collection",
-        "rows": 1,
-        "per_row_desktop": 4,
-        "per_row_mobile": "1",
-        "view_all": true,
-        "alt": false
-      }
-    },
-    "a7f08b88-7c75-48e3-ae71-32ca7be66028": {
-      "type": "rich-text",
-      "blocks": {
-        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb": {
-          "type": "heading",
-          "settings": {
-            "title": "POWER OF NATURE IN A BOTTLE"
-          }
-        },
-        "38ae4040-7838-493d-b248-5108007b2756": {
-          "type": "image_picker",
-          "settings": {
-            "image_icon": "shopify://shop_images/Origenere_Helix_white.png"
-          }
-        },
-        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<h2><strong>PHYSICIAN FORMULATED HAIR GROWTH SOLUTIONS</strong></h2><ul><li><strong>Proven Formulas </strong>Leveraging Nature's Science</li><li>Clinically Tested For<strong> Hair Growth</strong></li><li><strong>Over 15 Years of Testing </strong>On Human Hair Follicles </li><li><strong>Rejuvenate Your Follicles</strong> And <strong>Strengthen Your Strands</strong></li></ul><p></p><h3><em>Our All-Natural Haircare Products Are Free From Parabens, Artificial Fragrances, Colors, Dyes, Sodium Lauryl Sulfate, Silicones & Ammonium Lauryl Sulfate. Cruelty Free and Eco Friendly. </em></h3><h3></h3>"
-          }
-        }
-      },
-      "block_order": [
-        "9d10ca96-7c8c-4a08-9685-2da40e73a1bb",
-        "38ae4040-7838-493d-b248-5108007b2756",
-        "template--15746490892497__a7f08b88-7c75-48e3-ae71-32ca7be66028-16878166153a8abf31-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "alt": true,
-        "background_color": "#2e1764"
-      }
-    },
-    "172678467592bc8ffe": {
-      "type": "apps",
-      "blocks": {
-        "vitals_trust_ADzT4x": {
-          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
-        "vitals_reviews_carousel_PPw4cU": {
-          "type": "shopify://apps/vitals/blocks/reviews-carousel/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "vitals_trust_ADzT4x",
-        "vitals_reviews_carousel_PPw4cU"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": false
-      }
-    },
-    "newsletter_C4gB6R": {
-      "type": "newsletter",
-      "blocks": {
-        "title_dzCRYP": {
-          "type": "title",
-          "settings": {
-            "title": "SUBSCRIBE. FIRST STEP TOWARDS  HAIR GROWTH AND SCALP HEALTH.",
-            "heading_size": "h1"
-          }
-        },
-        "text_yRnC7W": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>20% Off</strong> Your First Order After Subscribing.</p><p>Receive Exclusive Offers, Expert Tips, Subscriber Only Blogs, Insights Into Upcoming Products And More. </p>"
-          }
-        },
-        "form_W6bACE": {
-          "type": "form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "title_dzCRYP",
-        "text_yRnC7W",
-        "form_W6bACE"
-      ],
-      "settings": {
-        "align_text": "center",
-        "image": "shopify://shop_images/OrigenereGiftCard-855410.jpg",
-        "image_width": "33",
-        "image_mask": "square",
-        "image_position": "right",
-        "top_padding": false,
-        "bottom_padding": true
       }
     },
     "fh-section-product-category-grid": {
@@ -349,9 +346,7 @@
         "22f00c2a-61d2-43ef-aed9-5cc6b1957022",
         "c3212eb3-d9b4-4238-8084-4b52a23941ed"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "OUR PROMISE",
         "align_text": "center",
@@ -391,8 +386,7 @@
         },
         "share_FjMDJX": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -447,12 +441,12 @@
     }
   },
   "order": [
-    "fh_section_collection_grid_a9N4Um",
-    "hero_video_TmBimB",
     "featured_collection_7xPTGj",
+    "hero_video_TmBimB",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
     "172678467592bc8ffe",
     "newsletter_C4gB6R",
+    "fh_section_collection_grid_a9N4Um",
     "fh-section-product-category-grid",
     "slideshow_pJEQBi",
     "fh_section_collection_grid_NRpHNn",
