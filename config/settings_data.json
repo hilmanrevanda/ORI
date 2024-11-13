@@ -53,7 +53,7 @@
     "product_hover_details": true,
     "product_hover_image": true,
     "product_image_scatter": false,
-    "product_grid_image_size": "natural",
+    "product_grid_image_size": "square",
     "vendor_enable": false,
     "product_save_amount": false,
     "product_save_type": "percent",
@@ -165,33 +165,27 @@
     "checkout_banner_background_color": "#fff",
     "checkout_call_to_action_color": "#a26b25",
     "checkout_use_header_image": false,
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "1513253815146976218": {
         "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "1710008633607995074": {
         "type": "shopify://apps/rivo-product-reviews-app-ugc/blocks/app-embed/5f785e18-66cc-4519-8181-565d1cce1705",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7555218208816688692": {
         "type": "shopify://apps/rivo-popups-email-pop-ups/blocks/app-embed/48a5a3ef-b6ff-431f-842f-6f17862c4a63",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
@@ -210,8 +204,7 @@
       "5134484470793087125": {
         "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "17151115064775110295": {
         "type": "shopify://apps/recharge-subscriptions/blocks/recharge-theme/371eed76-0b44-4869-9813-730372ea378e",
@@ -232,8 +225,7 @@
       "11560147490181472608": {
         "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/app-embed/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -711,8 +703,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
