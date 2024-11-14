@@ -22,7 +22,8 @@
             "link_text": "SHOP NOW",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Origenere_Holiday_Gift_Set_Hero.png"
+            "image": "shopify://shop_images/Holiday_gift_sets_hero.png",
+            "image_mobile": "shopify://shop_images/Origenere_Holiday_Gift_sets_mobile.png"
           }
         }
       },
