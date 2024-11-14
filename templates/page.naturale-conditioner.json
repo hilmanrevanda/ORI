@@ -23,7 +23,7 @@
         "button_label": "",
         "button_link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
         "image": "shopify://shop_images/NaturaleCollectionBundle_4-411799.jpg",
-        "desktop_size": 10,
+        "desktop_size": -30,
         "color_border": "#ffffff",
         "layout": "right",
         "lazyload_images": false
