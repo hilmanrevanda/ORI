@@ -15,12 +15,12 @@
         "image_D8TxLG": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 44,
+            "title": "<h2>Hair Growth and Skincare Gift Sets For The Holidays </h2>",
+            "title_size": 40,
             "subheading": "",
             "link": "shopify://collections/holiday-gift-sets",
             "link_text": "SHOP NOW",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#451799",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Holiday_Gift_Shop_01_3.png",
             "image_mobile": "shopify://shop_images/Origenere_Holiday_Gift_sets_mobile.png"
@@ -30,7 +30,6 @@
       "block_order": [
         "image_D8TxLG"
       ],
-      "disabled": true,
       "settings": {
         "style": "minimal",
         "desktop_size": 0,
