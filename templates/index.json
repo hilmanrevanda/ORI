@@ -30,6 +30,7 @@
       "block_order": [
         "image_D8TxLG"
       ],
+      "disabled": true,
       "settings": {
         "style": "minimal",
         "desktop_size": 0,
