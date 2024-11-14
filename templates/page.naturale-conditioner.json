@@ -18,13 +18,13 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "No Nonsense Organic Hair Growth Line.",
-        "title": "Naturale Purity Collection - Thin Hair Formulation",
-        "text": "<ul><li>Guaranteed Satisfaction</li><li>All Natural Ingredients</li><li>Scientifically Formulated For Thinning and Fine Hair</li></ul>",
-        "button_label": "Buy Essentials Set",
-        "button_link": "shopify://products/naturale-hair-care-essentials-1",
+        "title": "Naturale Purity Collection: The Best Conditioner For Thinning Hair",
+        "text": "<ul><li>Satisfaction <strong>Guaranteed</strong></li><li>All <strong>Natural</strong> Ingredients</li><li>Scientifically Formulated<strong> For Thin and Fine Hair</strong></li></ul>",
+        "button_label": "",
+        "button_link": "shopify://products/naturale-conditioner-for-thinning-hair-hair-loss",
         "image": "shopify://shop_images/NaturaleCollectionBundle_4-411799.jpg",
-        "desktop_size": 0,
-        "color_border": "#f4f4f4",
+        "desktop_size": 10,
+        "color_border": "#ffffff",
         "layout": "right",
         "lazyload_images": false
       }
@@ -32,9 +32,9 @@
     "featured_collection_wmLFkd": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
-        "description": "",
-        "featured_text": "",
+        "title": "REJUVENATE AND REPAIR YOUR FINE STRANDS",
+        "description": "FOR THINNING, THIN AND FINE HAIR",
+        "featured_text": "Featuring Natural DHT Blockers",
         "home_featured_products": "naturale-purity-collection",
         "rows": 1,
         "per_row_desktop": 4,
@@ -48,7 +48,6 @@
       "blocks": {
         "text_block_NzC49r": {
           "type": "text_block",
-          "disabled": true,
           "settings": {
             "enable_image": true,
             "image": "shopify://shop_images/Naturale_Hair_Care_1-239254.jpg",
@@ -78,7 +77,6 @@
         "text_block_NzC49r",
         "text_block_drNgGU"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -91,57 +89,57 @@
         "image_NTKjne": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "title": "ALL NATURAL, NON HARMFUL INGREDIENTS",
+            "title_size": 58,
+            "subheading": "No Sulfates, Parabens, Pthalates, or Silicones",
+            "link": "shopify://blogs/whats-in-your-bottle/paraben-and-sulfate-free-shampoo-benefits-ingredients-and-how-to-choose",
+            "link_text": "Effects of Parabens and Sulfates On Hair",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Male_applying_tonic.png",
-            "image_mobile": "shopify://shop_images/Male_applying_tonic.png"
+            "image": "shopify://shop_images/Naturale_Conditioner.jpg",
+            "image_mobile": "shopify://shop_images/Naturale_Conditioner.jpg"
           }
         },
         "image_NpTrcz": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "title": "SAGE",
+            "title_size": 58,
+            "subheading": "Improves Scalp Circulation, Combats Dandruff, Possible Hair Darkening Effects and Natural DHT Blocker",
+            "link": "shopify://blogs/ingredient-spotlight/botanical-brilliance-the-benefits-of-sage-for-hair",
+            "link_text": "Benefits Of Sage For Hair",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Withchy_Tonic_5_1.jpg",
-            "image_mobile": "shopify://shop_images/Withchy_Tonic_5_1.jpg"
+            "image": "shopify://shop_images/Origenere_Sage.jpg",
+            "image_mobile": "shopify://shop_images/Origenere_Sage.jpg"
           }
         },
         "image_bHrVPh": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "title": "SAW PALMETTO",
+            "title_size": 58,
+            "subheading": "Natural DHT Blocker, Moisturizes Hair, Stimulates Follicles",
+            "link": "shopify://blogs/ingredient-spotlight/botanical-brilliance-a-physicians-review-of-saw-palmetto-for-hair-loss",
+            "link_text": "Benefits of Saw Palmetto for Hair",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Naturale_Result_Before_After_02.png",
-            "image_mobile": "shopify://shop_images/Naturale_Result_Before_After_02.png"
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg",
+            "image_mobile": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
         "image_idBwzJ": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
+            "title": "OUTER HAIR CUTICLE LAYER  HEALING INGREDIENTS",
+            "title_size": 57,
+            "subheading": "Glycerine, Glycine Soja Oil And Behenamidopropyl Dimethylamine Safely and Effectively Repair Damaged Hair",
+            "link": "shopify://pages/origenere-low-porosity-hair-products",
+            "link_text": "How Conditioner Safely Repairs Hair",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/2048800b1fdd97627d5c9b5_upscale.webp",
-            "image_mobile": "shopify://shop_images/2048800b1fdd97627d5c9b5_upscale.webp"
+            "image": "shopify://shop_images/shutterstock_1850556280.jpg",
+            "image_mobile": "shopify://shop_images/shutterstock_1850556280_b58c4a38-b957-49d4-9926-3d2899a1e1b2.jpg"
           }
         },
         "image_yinyFz": {
