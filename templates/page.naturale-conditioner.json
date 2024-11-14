@@ -141,34 +141,19 @@
             "image": "shopify://shop_images/shutterstock_1850556280.jpg",
             "image_mobile": "shopify://shop_images/shutterstock_1850556280_b58c4a38-b957-49d4-9926-3d2899a1e1b2.jpg"
           }
-        },
-        "image_yinyFz": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/NaturaleAllNaturalIngredients.jpg",
-            "image_mobile": "shopify://shop_images/NaturaleAllNaturalIngredients_df636115-b6b9-4be1-aac7-df2e1436c7d9.jpg"
-          }
         }
       },
       "block_order": [
         "image_NTKjne",
         "image_NpTrcz",
         "image_bHrVPh",
-        "image_idBwzJ",
-        "image_yinyFz"
+        "image_idBwzJ"
       ],
       "settings": {
         "style": "dots",
         "desktop_size": 0,
         "mobile_size": 0,
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
       }
@@ -257,6 +242,7 @@
         "variant_picker_fk3TqY",
         "buy_buttons_x4Ajfa"
       ],
+      "disabled": true,
       "settings": {
         "featured_product": "naturale-shampoo-for-thinning-hair-hair-loss-1",
         "product_image_size": "medium",
