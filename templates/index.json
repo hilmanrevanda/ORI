@@ -9,6 +9,35 @@
  */
 {
   "sections": {
+    "slideshow_A7wygd": {
+      "type": "slideshow",
+      "blocks": {
+        "image_D8TxLG": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 44,
+            "subheading": "",
+            "link": "shopify://collections/holiday-gift-sets",
+            "link_text": "SHOP NOW",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Origenere_Holiday_Gift_Set_Hero.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_D8TxLG"
+      ],
+      "settings": {
+        "style": "minimal",
+        "desktop_size": 10,
+        "mobile_size": 0,
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "featured_collection_7xPTGj": {
       "type": "featured-collection",
       "settings": {
@@ -441,6 +470,7 @@
     }
   },
   "order": [
+    "slideshow_A7wygd",
     "featured_collection_7xPTGj",
     "hero_video_TmBimB",
     "a7f08b88-7c75-48e3-ae71-32ca7be66028",
