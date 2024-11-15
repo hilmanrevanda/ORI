@@ -21,7 +21,7 @@
             "link": "shopify://collections/holiday-gift-sets",
             "link_text": "SHOP NOW",
             "color_accent": "#451799",
-            "text_align": "vertical-bottom horizontal-right",
+            "text_align": "vertical-bottom horizontal-center",
             "image": "shopify://shop_images/Holiday_Gift_Shop_01_3.png",
             "image_mobile": "shopify://shop_images/Origenere_Holiday_Gift_sets_mobile.png"
           }
@@ -36,7 +36,7 @@
         "mobile_size": 0,
         "autoplay": false,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "featured_collection_7xPTGj": {
