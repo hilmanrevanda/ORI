@@ -15,13 +15,13 @@
         "image_D8TxLG": {
           "type": "image",
           "settings": {
-            "title": "<h2 style=\"Font-Size: 22; color:#d9d2e9; font-family: impact\"><strong>NATURAL HAIR GROWTH and SKIN CARE GIFT SETS for the HOLIDAYS </strong></h2>",
+            "title": "<h2 style=\"Font-Size: 20; color:white; font-family: impact\"><strong>NATURAL HAIR GROWTH <span style=\"color:#b4a7d6\">AND</span> SKIN CARE GIFT SETS <span style=\"color:#b4a7d6\">FOR THE </span>HOLIDAYS </strong></h2>",
             "title_size": 40,
             "subheading": "",
             "link": "shopify://collections/holiday-gift-sets",
             "link_text": "SHOP NOW",
             "color_accent": "#451799",
-            "text_align": "vertical-bottom horizontal-center",
+            "text_align": "vertical-bottom horizontal-right",
             "image": "shopify://shop_images/Holiday_Gift_Shop_01_3.png",
             "image_mobile": "shopify://shop_images/Origenere_Holiday_Gift_sets_mobile.png"
           }
