@@ -1,6 +1,14 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ settings.text_direction }}">
 <head>
+<!-- BEAE-GLOBAL-FONT --> 
+{% capture the_snippet_global_font %}{% include 'beae-global-font' %}{% endcapture %} {% unless the_snippet_global_font contains 'Liquid error' %} {{ the_snippet_global_font }} {% endunless %} 
+ <!-- END BEAE-GLOBAL-FONT -->
+<!-- BEAE-HEADER --> 
+{%- if content_for_layout contains 'beae-builder' or request.design_mode -%}
+{%- render 'beae_header' -%}
+{%- endif -%}
+<!-- END BEAE-HEADER -->
 {% include 'booster-seo' %}
   {% include 'shop-sheriff-amp' %}
   <meta charset="utf-8">
@@ -235,5 +243,15 @@
   -%}
   
 {{'tiny-img-link-preloader.js' | asset_url | script_tag }}
-{%- render 'page-footer.zipifypages', renderctx: 'thm', ocuapp: oneclickupsellapp -%}</body>
+{%- render 'page-footer.zipifypages', renderctx: 'thm', ocuapp: oneclickupsellapp -%}
+<!-- BEAE-FOOTER --> 
+{%- if content_for_layout contains 'beae-builder' -%}
+{%- render 'beae_footer' -%}
+{%- endif -%}
+<!-- END BEAE-FOOTER -->
+<!-- BEAE-ANALYTICS --> 
+{%- if content_for_layout contains 'beae-builder' -%}
+{%- render 'beae_analytic_helper' -%}
+{%- endif -%}
+<!-- END BEAE-ANALYTICS --></body>
 </html>
