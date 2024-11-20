@@ -5,6 +5,73 @@
 <!doctype html>
 <html class="no-js" lang="{{ shop.locale }}">
 <head>
+ <!-- START THEME HEADER --> 
+
+<!-- BEAE-GLOBAL-FONT --> 
+{% capture the_snippet_global_font %}{% include 'beae-global-font' %}{% endcapture %} {% unless the_snippet_global_font contains 'Liquid error' %} {{ the_snippet_global_font }} {% endunless %} 
+ <!-- END BEAE-GLOBAL-FONT -->
+<!-- BEAE-HEADER --> 
+{%- if content_for_layout contains 'beae-builder' or request.design_mode -%}
+{%- render 'beae_header' -%}
+{%- endif -%}
+<!-- END BEAE-HEADER -->
+{% include 'booster-seo' %}
+  {% include 'shop-sheriff-amp' %}
+  
+  
+  
+  
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
+  <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
+  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.gstatic.com">
+
+  {%- if settings.favicon != blank -%}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png" />
+  {%- endif -%}
+
+  {% comment %}{%- render 'seo-title' -%}{% endcomment %}
+
+  {%- if page_description -%}
+  {% comment %}{% endcomment %}
+  {%- endif -%}
+
+  {%- render 'social-meta-tags' -%}
+
+  {%- if tinyscript -%}{%- render 'header-scripts.zipifypages', renderctx: 'thm', apprxhbl: zp_apprxhbl -%}{{ content_for_header }}{%- else -%}{% render 'tiny-script-control' %}{%- endif -%}
+
+  
+
+  {%- render 'css-variables' -%}
+  {%- render 'critical-css' -%}
+  {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
+
+  {%- if shop.enabled_currencies.size > 1 -%}
+    <link rel="stylesheet" href="{{ 'country-flags.css' | asset_url | split: '?' | first }}">
+  {%- endif -%}
+
+  
+  
+
+  {%- if request.page_type contains 'customers/' -%}
+    
+  {%- endif -%}
+
+  {% if request.design_mode %}
+    
+  {% endif %}
+  
+  <!-- BEGIN MerchantWidget Code -->
+
+
+<!-- END MerchantWidget Code -->
+  
+<script src="{{ 'global.js' | asset_url }}" defer="defer"></script> 
+ <!-- END THEME HEADER --> 
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
