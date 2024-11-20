@@ -1,0 +1,303 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "zp-product-header-content": {
+      "type": "product-header-content-zipifypages",
+      "settings": {}
+    },
+    "1727323968d710f1c9": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vitals_reviews_stars_66xFXb": {
+          "type": "shopify://apps/vitals/blocks/reviews-stars/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "omnisend_email_marketing_sms_star_ratings_9rdjdJ": {
+          "type": "shopify://apps/omnisend-email-marketing-sms/blocks/star-ratings/44704aa2-794f-4c5d-8c8e-039c841158e9",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "quantity_selector_NaHDj3": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker_q7Vjm4": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "vitals_trust_L4zeFi": {
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vitals_reviews_stars_66xFXb",
+        "omnisend_email_marketing_sms_star_ratings_9rdjdJ",
+        "price",
+        "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f",
+        "quantity_selector_NaHDj3",
+        "variant_picker_q7Vjm4",
+        "buy_buttons",
+        "vitals_trust_L4zeFi",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "product_image_size": "medium",
+        "product_image_type": "slider",
+        "thumbnail_height": "flexible",
+        "product_zoom_enable": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted",
+        "sku_enable": false
+      }
+    },
+    "4c3f1f16-996c-4355-a930-c1142655902b": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-0": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/ori_icon-2.png",
+            "icon": "globe",
+            "title": "All Natural Botanical Extracts",
+            "text": ""
+          }
+        },
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/ori_icon-4.png",
+            "icon": "truck",
+            "title": "Backed By Science",
+            "text": ""
+          }
+        },
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/ori_icon-5.png",
+            "icon": "shield",
+            "title": "Free of Sulfates & Parabens",
+            "text": ""
+          }
+        },
+        "d8745704-c5e9-4e07-8e1e-0d7e104bacf1": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/ori_icon-3.png",
+            "icon": "chat",
+            "title": "Physician Formulated",
+            "text": ""
+          }
+        },
+        "fe83e00c-b099-4573-b3e4-1542acb85b7e": {
+          "type": "text_block",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/ori_icon-1.png",
+            "icon": "chat",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-0",
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-1",
+        "template--15750522110161__4c3f1f16-996c-4355-a930-c1142655902b-1688143153a3646142-2",
+        "d8745704-c5e9-4e07-8e1e-0d7e104bacf1",
+        "fe83e00c-b099-4573-b3e4-1542acb85b7e"
+      ],
+      "custom_css": [
+        ".text-with-icons__blocks {padding-bottom: 20px;}",
+        ".text-with-icons__title {padding-top: 40px; margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "alt": false,
+        "has_icon": false
+      }
+    },
+    "1693529675d946b804": {
+      "type": "apps",
+      "blocks": {
+        "vitals_ub_product_bundles_7fAp3E": {
+          "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vitals_ub_product_bundles_7fAp3E"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "5c4d193f-12be-430d-acf9-a14c90acc28e": {
+      "type": "fh-section-product-ingredients",
+      "custom_css": [
+        ".overflow-scroller__arrow {top: calc(50% + 30px);}"
+      ],
+      "settings": {
+        "title": "KEY INGREDIENTS",
+        "description": "",
+        "per_row": "medium",
+        "alt": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "{{ product.metafields.custom.scent_image_1.value }}",
+        "image_mask": "none",
+        "image2": "{{ product.metafields.custom.scent_image_2.value }}",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "{{ product.metafields.custom.scent_title.value }}",
+        "text": "{{ product.metafields.custom.scent_description | metafield_tag }}",
+        "button_label": "",
+        "button_link": "#",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "left",
+        "alt": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fh-section-product-testimonial": {
+      "type": "fh-section-product-testimonial",
+      "disabled": true,
+      "settings": {
+        "testimonial_text": ""
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "171955160903592c17": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {}
+    }
+  },
+  "order": [
+    "zp-product-header-content",
+    "1727323968d710f1c9",
+    "main",
+    "4c3f1f16-996c-4355-a930-c1142655902b",
+    "1693529675d946b804",
+    "5c4d193f-12be-430d-acf9-a14c90acc28e",
+    "sub",
+    "text-and-image",
+    "fh-section-product-testimonial",
+    "product-recommendations",
+    "collection-return",
+    "171955160903592c17",
+    "zp-product-footer-content"
+  ]
+}
