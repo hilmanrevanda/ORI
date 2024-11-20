@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "404": {
@@ -89,6 +98,9 @@
     "slideshow": {
       "play_slideshow": "Play slideshow",
       "pause_slideshow": "Pause slideshow"
+    },
+    "beae-preview-template-page": {
+      "be840906536151_html": "<p class=\"beae-typo-p1\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
     }
   },
   "blogs": {
