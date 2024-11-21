@@ -11,8 +11,7 @@
   "sections": {
     "zp-product-header-content": {
       "type": "product-header-content-zipifypages",
-      "settings": {
-      }
+      "settings": {}
     },
     "1727323968d710f1c9": {
       "type": "apps",
@@ -27,19 +26,16 @@
       "blocks": {
         "vitals_reviews_stars_66xFXb": {
           "type": "shopify://apps/vitals/blocks/reviews-stars/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "settings": {}
         },
         "omnisend_email_marketing_sms_star_ratings_9rdjdJ": {
           "type": "shopify://apps/omnisend-email-marketing-sms/blocks/star-ratings/44704aa2-794f-4c5d-8c8e-039c841158e9",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "2e026937-1f85-4c3e-8f9b-4fe2d5ef368f": {
           "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
@@ -51,8 +47,7 @@
         "quantity_selector_NaHDj3": {
           "type": "quantity_selector",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker_q7Vjm4": {
           "type": "variant_picker",
@@ -72,8 +67,7 @@
         },
         "vitals_trust_L4zeFi": {
           "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -99,8 +93,11 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
+        },
+        "vitals_ub_product_bundles_U7EwWK": {
+          "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -115,7 +112,8 @@
         "description",
         "tab",
         "contact",
-        "share"
+        "share",
+        "vitals_ub_product_bundles_U7EwWK"
       ],
       "settings": {
         "product_image_size": "medium",
@@ -188,6 +186,7 @@
         "d8745704-c5e9-4e07-8e1e-0d7e104bacf1",
         "fe83e00c-b099-4573-b3e4-1542acb85b7e"
       ],
+      "disabled": true,
       "custom_css": [
         ".text-with-icons__blocks {padding-bottom: 20px;}",
         ".text-with-icons__title {padding-top: 40px; margin-bottom: 20px;}"
@@ -208,8 +207,8 @@
       "blocks": {
         "vitals_ub_product_bundles_7fAp3E": {
           "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
@@ -279,8 +278,7 @@
     "collection-return": {
       "type": "collection-return",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "171955160903592c17": {
       "type": "apps",
@@ -291,8 +289,7 @@
     },
     "zp-product-footer-content": {
       "type": "product-footer-content-zipifypages",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
