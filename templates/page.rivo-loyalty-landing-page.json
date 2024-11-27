@@ -61,7 +61,7 @@
             "rivo_hero_image": "shopify://shop_images/Hero_Capelli_Club_2.png",
             "rivo_hero_background_color_enabled": false,
             "background_color": "",
-            "rivo_banner_desktop_height": 600,
+            "rivo_banner_desktop_height": 700,
             "rivo_banner_text_container_desktop_padding_top": 170,
             "rivo_banner_text_container_desktop_max_width": 75,
             "rivo_banner_text_container_desktop_button_gap": 25,
@@ -105,7 +105,7 @@
         "rivo_loyalty_rewards_referrals_lp_ways_to_earn_F9TKHw": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-ways-to-earn/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "background_color": "",
+            "background_color": "radial-gradient(rgba(17, 17, 17, 1) 8%, rgba(69, 23, 153, 1) 68%)",
             "section_title_font_color": "#ffffff",
             "section_subtitle_font_color": "#ffffff"
           }
