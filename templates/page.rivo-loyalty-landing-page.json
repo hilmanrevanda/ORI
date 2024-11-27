@@ -9,6 +9,34 @@
  */
 {
   "sections": {
+    "hero_animated_LPAPwK": {
+      "type": "hero-animated",
+      "blocks": {
+        "image_JyjNAB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capelli_Club_Title1.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_JyjNAB"
+      ],
+      "settings": {
+        "style": "gif",
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "link_learn_more": "",
+        "link_text_learn_more": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "desktop_size": -10,
+        "mobile_size": 0
+      }
+    },
     "rivo-loyalty-landing-page": {
       "type": "rivo-loyalty-landing-page",
       "settings": {
@@ -170,6 +198,7 @@
     }
   },
   "order": [
+    "hero_animated_LPAPwK",
     "rivo-loyalty-landing-page",
     "1730905044a7a2dae3",
     "1730919629b029500d"
