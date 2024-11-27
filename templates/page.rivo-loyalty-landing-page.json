@@ -104,7 +104,7 @@
             "rivo_banner_mobile_height": 350,
             "rivo_banner_text_container_mobile_padding_top": 50,
             "rivo_banner_image_mobile_brightness": 100,
-            "rivo_banner_mobile_text_container_position": "stacked",
+            "rivo_banner_mobile_text_container_position": "overlay",
             "rivo_banner_text_container_mobile_background_color": "#000000",
             "rivo_banner_text_container_mobile_font_color": "#ffffff",
             "rivo_banner_text_container_mobile_button_gap": 10,
