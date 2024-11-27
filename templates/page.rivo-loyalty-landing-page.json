@@ -58,7 +58,7 @@
         "rivo_loyalty_rewards_referrals_lp_header_PUxMMF": {
           "type": "shopify://apps/rivo-loyalty-rewards-referrals/blocks/lp-header/580e9665-b2cd-4dbc-b6ba-6445ac9e6871",
           "settings": {
-            "rivo_hero_image": "shopify://shop_images/sustainable.packaging.buongiorno.jpg",
+            "rivo_hero_image": "shopify://shop_images/Hero_Capelli_Club_2.png",
             "rivo_hero_background_color_enabled": false,
             "background_color": "",
             "rivo_banner_desktop_height": 600,
@@ -96,7 +96,7 @@
             "step_number_subtitle_font_size": 16,
             "step_font_color": "#000000",
             "step_number_type": "images",
-            "step_image_height": 140,
+            "step_image_height": 160,
             "step_1_image": "shopify://shop_images/Capelli_Club_Benefits1.png",
             "step_2_image": "shopify://shop_images/Capelli_Club_Benefits3.png",
             "step_3_image": "shopify://shop_images/Capelli_Club_Benefits4.png"
