@@ -97,7 +97,7 @@
             "step_font_color": "#000000",
             "step_number_type": "images",
             "step_image_height": 160,
-            "step_1_image": "shopify://shop_images/Capelli_Club_Benefits1.png",
+            "step_1_image": "shopify://shop_images/Capelli_Club.png",
             "step_2_image": "shopify://shop_images/Capelli_Club_Benefits3.png",
             "step_3_image": "shopify://shop_images/Capelli_Club_Benefits4.png"
           }
