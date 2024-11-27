@@ -158,7 +158,7 @@
       "custom_css": [],
       "settings": {
         "full_width": true,
-        "space_around": true
+        "space_around": false
       }
     },
     "1730919629b029500d": {
