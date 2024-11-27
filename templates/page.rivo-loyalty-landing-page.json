@@ -92,14 +92,14 @@
             "background_color": "linear-gradient(127deg, rgba(255, 255, 255, 1) 11%, rgba(255, 255, 255, 1) 81%)",
             "section_title_font_color": "#0f0f0f",
             "section_subtitle_font_color": "#0f0f0f",
-            "step_number_title_font_size": 26,
+            "step_number_title_font_size": 19,
             "step_number_subtitle_font_size": 16,
             "step_font_color": "#000000",
-            "step_number_type": "basic",
-            "step_image_height": 200,
-            "step_1_image": "shopify://shop_images/CAPELLI_CLUB_HAT_1_f49431f9-4259-436b-b90c-094d07bd06a0.png",
-            "step_2_image": "shopify://shop_images/two.png",
-            "step_3_image": "shopify://shop_images/three.png"
+            "step_number_type": "images",
+            "step_image_height": 140,
+            "step_1_image": "shopify://shop_images/Capelli_Club_Benefits1.png",
+            "step_2_image": "shopify://shop_images/Capelli_Club_Benefits3.png",
+            "step_3_image": "shopify://shop_images/Capelli_Club_Benefits4.png"
           }
         },
         "rivo_loyalty_rewards_referrals_lp_ways_to_earn_F9TKHw": {
