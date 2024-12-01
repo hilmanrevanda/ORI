@@ -15,15 +15,15 @@
         "image_D8TxLG": {
           "type": "image",
           "settings": {
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
+            "title": "25% off Site Wide",
+            "title_size": 49,
+            "subheading": "Free Nero Body Wash with $75 Purchase (add to cart)",
             "link": "shopify://collections/fall-self-care-essentials",
-            "link_text": "SHOP NOW",
+            "link_text": "start saving",
             "color_accent": "#451799",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/25_Cyber_Monday.png",
-            "image_mobile": "shopify://shop_images/25_Cyber_Monday.png"
+            "text_align": "vertical-top horizontal-center",
+            "image": "shopify://shop_images/Naturale_Holiday_Gift_Sets_20245_1_1.jpg",
+            "image_mobile": "shopify://shop_images/25_Black_Friday_2.png"
           }
         }
       },
