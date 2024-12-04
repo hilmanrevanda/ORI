@@ -12,8 +12,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "newsletter_4zCDKi": {
       "type": "newsletter",
@@ -33,8 +32,7 @@
         },
         "form_4rWmfK": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -72,8 +70,7 @@
       "blocks": {
         "price_Eji8Yf": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons_8TfyiT": {
           "type": "buy_buttons",
@@ -125,8 +122,7 @@
       "blocks": {
         "price_WdifHX": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons_BG9bb7": {
           "type": "buy_buttons",
@@ -206,7 +202,7 @@
         "question_Dkymah": {
           "type": "question",
           "settings": {
-            "title": "Well I Lose My Gains When I Stop?",
+            "title": "Will I Lose My Gains When I Stop?",
             "text": "<p>Loss Of Incremental Gains Has Been Seen Approximately 6-12 Months After Discontinuation Of Product. </p>"
           }
         },
@@ -388,8 +384,7 @@
         },
         "form_XU9zPW": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
