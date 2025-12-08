@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_bHMPtG": {
@@ -22,8 +22,8 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/Buongiorno_Summer_Hair_Sun_Damage.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Buongiorno_Summer_Hair_Sun_Damage.jpg"
+            "image": "shopify://shop_images/Buongiorno_Summer_Hair_Sun_Damage.jpg",
+            "image_mobile": "shopify://shop_images/Buongiorno_Summer_Hair_Sun_Damage.jpg"
           }
         }
       },
@@ -146,28 +146,28 @@
           "type": "collection",
           "settings": {
             "collection": "naturale-purity-collection",
-            "image": "shopify:\/\/shop_images\/Origenere_Naturale_Saw_Palmetto_01.jpg"
+            "image": "shopify://shop_images/Origenere_Naturale_Saw_Palmetto_01.jpg"
           }
         },
         "collection2": {
           "type": "collection",
           "settings": {
             "collection": "buongiorno-vitality-collection",
-            "image": "shopify:\/\/shop_images\/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
+            "image": "shopify://shop_images/BuongiornoTrioHaircare_32074835-bfa3-4888-801f-211a879360cd.jpg"
           }
         },
         "collection3": {
           "type": "collection",
           "settings": {
-            "collection": "nourish-your-natural-glow",
-            "image": "shopify:\/\/shop_images\/IMG_0293-2.jpg"
+            "collection": "arancio-preservation-collection",
+            "image": "shopify://shop_images/IMG_0293-2.jpg"
           }
         },
         "collection4": {
           "type": "collection",
           "settings": {
             "collection": "sempre-hair-growth-collection",
-            "image": "shopify:\/\/shop_images\/IMG_9752-2.jpg"
+            "image": "shopify://shop_images/IMG_9752-2.jpg"
           }
         }
       },

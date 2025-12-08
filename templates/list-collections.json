@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_PWkgRq": {
@@ -22,7 +22,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3410.jpg"
+            "image": "shopify://shop_images/IMG_3410.jpg"
           }
         }
       },
@@ -59,7 +59,7 @@
         "24eb9d94-233b-4c10-bab8-4f9f1a35112b": {
           "type": "collection",
           "settings": {
-            "collection": "nourish-your-natural-glow"
+            "collection": "arancio-preservation-collection"
           }
         }
       },
@@ -68,8 +68,7 @@
         "24eb9d94-233b-4c10-bab8-4f9f1a35112b"
       ],
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "9b149141-ab7c-4351-a94d-bc1523a2a95d": {
       "type": "fh-section-custom-list",
@@ -78,11 +77,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/SempreDuoPic.png",
+            "image": "shopify://shop_images/SempreDuoPic.png",
             "heading": "SEMPRE  HAIR GROWTH COLLECTION",
             "description": "",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/sempre-hair-growth-collection",
+            "btn_url": "shopify://collections/sempre-hair-growth-collection",
             "background_color": "#451698",
             "text_color": "#ffffff"
           }
@@ -92,11 +91,11 @@
           "disabled": true,
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/18.png",
+            "image": "shopify://shop_images/18.png",
             "heading": "AMORE",
             "description": "SELF LOVE - SELF CARE COLLECTION.  LAUNCHING FEBRUARY 2024",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/amore-collection",
+            "btn_url": "shopify://collections/amore-collection",
             "background_color": "#940014",
             "text_color": "#ffffff"
           }
@@ -105,11 +104,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/All-Natural_Hair_Care_Botanicals.png",
+            "image": "shopify://shop_images/All-Natural_Hair_Care_Botanicals.png",
             "heading": "NATURALE - PURITY COLLECTION",
             "description": "Purity Unleashed: Naturally revitalize thinning hair",
-            "btn_text": "SHOP NOW <b><\/b>",
-            "btn_url": "shopify:\/\/collections\/naturale-purity-collection",
+            "btn_text": "SHOP NOW <b></b>",
+            "btn_url": "shopify://collections/naturale-purity-collection",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -118,11 +117,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Origenere_Lemons_5614e938-e265-446c-b300-35d29c33a385.jpg",
+            "image": "shopify://shop_images/Origenere_Lemons_5614e938-e265-446c-b300-35d29c33a385.jpg",
             "heading": "BUONGIORNO - VITALITY COLLECTION",
             "description": "Awaken your Senses",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/buongiorno-vitality-collection",
+            "btn_url": "shopify://collections/buongiorno-vitality-collection",
             "background_color": "#ffc800",
             "text_color": "#ffffff"
           }
@@ -131,11 +130,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Origenere_Grapefruit.jpg",
+            "image": "shopify://shop_images/Origenere_Grapefruit.jpg",
             "heading": "ARANCIO - PRESERVATION COLLECTION",
             "description": "Nourish your natural glow",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/nourish-your-natural-glow",
+            "btn_url": "shopify://collections/arancio-preservation-collection",
             "background_color": "#fc4c00",
             "text_color": "#ffffff"
           }
@@ -144,11 +143,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/1_ce5b0808-3888-4b60-bedd-7a05628373c4.png",
+            "image": "shopify://shop_images/1_ce5b0808-3888-4b60-bedd-7a05628373c4.png",
             "heading": "NERO - DETOX COLLECTION",
             "description": "Revitalize and Elevate your beauty ritual",
             "btn_text": "SHOP NOW",
-            "btn_url": "shopify:\/\/collections\/nero-detox-collection",
+            "btn_url": "shopify://collections/nero-detox-collection",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -162,8 +161,7 @@
         "b25c4e2b-daec-4a99-8a53-45621a80986d",
         "6c418037-3c8a-4918-b9e1-ee46b1e5294d"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [

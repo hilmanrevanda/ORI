@@ -1,19 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "slideshow": {
       "type": "slideshow",
@@ -28,7 +27,7 @@
             "link_text": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify:\/\/shop_images\/IMG_3308.jpg"
+            "image": "shopify://shop_images/IMG_3308.jpg"
           }
         }
       },
@@ -51,7 +50,7 @@
         "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>ORIGIN OF ORIGENERE<\/h2>\n<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.\n<\/p>",
+            "code": "<h2>ORIGIN OF ORIGENERE</h2>\n<p>Want to transform your hair and skin? Unlock the power of your DNA with Origenere for naturally healthy hair and skin. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.\n</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -59,7 +58,7 @@
         "template--15750521684177__3f41d074-bae3-46bc-aa23-9fed004d6d44-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3373.jpg",
+            "image": "shopify://shop_images/IMG_3373.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -86,7 +85,7 @@
         "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Capri_Italy12.jpg",
+            "image": "shopify://shop_images/Capri_Italy12.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -95,7 +94,7 @@
         "template--15750521684177__f1c69771-fb24-4d1b-84ad-03bd0d786278-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP<\/h2>\n<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany<\/p>",
+            "code": "<h2>BEVERLY HILLS INNOVATION, ITALIAN CRAFTSMANSHIP</h2>\n<p>Origenere was founded by a team of award-winning medical doctors with years of expertise in hair and skin problems. The team now includes Ph.D. researchers, Trichologists, and more. Our product line was developed for use in our own clinics for our patients. Our products are designed at our state-of-the-art genomics and stem cell lab in Beverly HIlls and produced at a family-run, manufacturing facility in Tuscany</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -122,7 +121,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-2.png",
+            "image": "shopify://shop_images/ori_icon-2.png",
             "icon": "chat",
             "title": "All Natural <br>Botanical Extracts",
             "text": ""
@@ -132,7 +131,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-4.png",
+            "image": "shopify://shop_images/ori_icon-4.png",
             "icon": "chat",
             "title": "Backed by Science",
             "text": ""
@@ -142,7 +141,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-5.png",
+            "image": "shopify://shop_images/ori_icon-5.png",
             "icon": "chat",
             "title": "Free of Sulfates & Parabens",
             "text": ""
@@ -152,7 +151,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-3.png",
+            "image": "shopify://shop_images/ori_icon-3.png",
             "icon": "chat",
             "title": "Physician <br>Formulated",
             "text": ""
@@ -162,7 +161,7 @@
           "type": "text_block",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/ori_icon-1.png",
+            "image": "shopify://shop_images/ori_icon-1.png",
             "icon": "chat",
             "title": "Cruelty <br>Free",
             "text": ""
@@ -197,10 +196,10 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h1>ORGANONUTRIENTS<\/h1><h4>PHYSICIAN FORMULATED ALL-NATURAL BOTANICALS<\/h4><p>MADE IN ITALY<\/p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS<\/p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin<\/p><p>We are confident our products will bring out the best in your hair and skin.<br\/><\/p>",
+        "text": "<h1>ORGANONUTRIENTS</h1><h4>PHYSICIAN FORMULATED ALL-NATURAL BOTANICALS</h4><p>MADE IN ITALY</p><p>We believe in using all-natural ingredients that are eco-friendly and sustainably sourced. No animal products or animal testing was used for our products. All of our products are free from harmful chemicals. They are designed to nourish, protect, and rejuvenate your hair and skin with our proprietary ORGANONUTRIENTS</p><p>ORGANONUTRIENTS are a unique formulation of superior natural botanicals, scientifically enhanced nutrients, and bioactive specially selected for their active properties and benefits to human hair and skin</p><p>We are confident our products will bring out the best in your hair and skin.<br/></p>",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "image": "shopify:\/\/shop_images\/IMG_3308.jpg"
+        "image": "shopify://shop_images/IMG_3308.jpg"
       }
     },
     "18ae3ab3-4b07-436f-b70d-924588f418cd": {
@@ -210,11 +209,11 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/NaturaleAllNaturalIngredients_df636115-b6b9-4be1-aac7-df2e1436c7d9.jpg",
+            "image": "shopify://shop_images/NaturaleAllNaturalIngredients_df636115-b6b9-4be1-aac7-df2e1436c7d9.jpg",
             "heading": "THE SCIENCE",
             "description": "Our mission is to continuously offer patients state of the art solutions to treat common hair and skin problems. The future of hair and skincare rests in genetic and cellular research.",
             "btn_text": "LEARN MORE",
-            "btn_url": "shopify:\/\/pages\/the-science",
+            "btn_url": "shopify://pages/the-science",
             "background_color": "#ffffff",
             "text_color": "#000000"
           }
@@ -223,7 +222,7 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/Aloe_Vera_Botanical_Origenere9.jpg",
+            "image": "shopify://shop_images/Aloe_Vera_Botanical_Origenere9.jpg",
             "heading": "SUSTAINABILITY",
             "description": "Origenere is dedicated to sustainability and environmental protection. We understand the importance of reducing our carbon footprint and protecting the environment for future generations. We include sustainable practices in every step of the production process. Materials: Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified.",
             "btn_text": "SHOP NOW",
@@ -237,8 +236,7 @@
         "b6ffa4a9-ec8b-4e4e-aae3-09216e4ff1e7",
         "28c1880c-5b4d-4079-81c9-470a73f55b5d"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "3ac974c7-1daa-4820-8838-7d561985784a": {
       "type": "fh-section-custom-list-richtext",
@@ -247,8 +245,8 @@
           "type": "text_block",
           "settings": {
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/Origenere_Orange.jpg",
-            "text": "<h2><strong>MATERIALS & INGREDIENTS<\/strong><\/h2><p>Our products only contain natural and environmentally safe botanical ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified. <\/p><p>Our products are manufactured to the highest EU standards. <\/p><h2><strong>MANUFACTURING<\/strong><\/h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/p><h2><strong>PACKAGING<\/strong><\/h2><p>All of our containers and packaging are recyclable. We aim to offer aluminum and reusable packaging in the future.<\/p>",
+            "image": "shopify://shop_images/Origenere_Orange.jpg",
+            "text": "<h2><strong>MATERIALS & INGREDIENTS</strong></h2><p>Our products only contain natural and environmentally safe botanical ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO) certified. </p><p>Our products are manufactured to the highest EU standards. </p><h2><strong>MANUFACTURING</strong></h2><p>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process</p><h2><strong>PACKAGING</strong></h2><p>All of our containers and packaging are recyclable. We aim to offer aluminum and reusable packaging in the future.</p>",
             "background_color": "#ffffff",
             "text_color": "#000000"
           }
@@ -257,8 +255,8 @@
           "type": "text_block",
           "settings": {
             "reverse": true,
-            "image": "shopify:\/\/shop_images\/IMG_1936_e1e8a969-6b48-4336-827a-5240cf7af3fa.jpg",
-            "text": "<h2><strong>SHIPPING<\/strong><\/h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/p><p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
+            "image": "shopify://shop_images/IMG_1936_e1e8a969-6b48-4336-827a-5240cf7af3fa.jpg",
+            "text": "<h2><strong>SHIPPING</strong></h2><p>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop Pay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost</p><p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.</p>",
             "background_color": "#000000",
             "text_color": "#ffffff"
           }
@@ -268,8 +266,7 @@
         "91e79c47-a7aa-4df6-8f0f-e43ff8ab67f1",
         "145dbcd3-dfe4-4e34-a209-a7080f3af960"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "d589564f-c7ae-4d08-94b0-a0c6b8773fb8": {
       "type": "fh-section-richtext",
@@ -277,7 +274,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h1>CONTEMPORARY & FOUNDING ARTISTS<\/h1><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br\/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br\/><\/p>",
+        "text": "<h1>CONTEMPORARY & FOUNDING ARTISTS</h1><p>Origenere was meticulously crafted by three exceptional physicians who shared an<br/>unwavering vision for superb natural hair and skin products using premium ingredients. Our modern approach integrates science and nature for an experience that transcends mere beauty. Origenere is committed to developing products using the best of medical science artfully combined with the best of nature. We offer all-natural hair and skin care products formulated by physicians and scientists.<br/></p>",
         "background_color": "#ffffff",
         "text_color": "#000000"
       }
@@ -288,7 +285,7 @@
         "bcfde751-f708-4e28-839f-ac863a3e43a9": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Kristen Rogers, MD<\/h2><\/b>\n\n<p>Dr. Kristen Rogers became the driving force at Origenere following the premature loss of Dr. Baubac. With a background in internal medicine and a wealth of experience as a hospitalist, she brings a profound understanding of healthcare to our creations. Having spent 11 years caring for patients in a hospital setting, she recognizes the transformative potential of holistic medicine.  Her firm belief in the power of nature, nutrition, and health naturally merge with Origenere’s roots.  Drawing inspiration from an unwavering passion for Italy, Dr. Kristen helps honor our founding artists’ vision of Beverly Hills innovation sculpted in Tuscany.  Each product is made with meticulous care and a deep-seated commitment to quality.  She integrates medical expertise with artistic intuition, culminating harmony between beauty, health and overall well being. \n<\/p>",
+            "code": "<b><h2>Kristen Rogers, MD</h2></b>\n\n<p>Dr. Kristen Rogers became the driving force at Origenere following the premature loss of Dr. Baubac. With a background in internal medicine and a wealth of experience as a hospitalist, she brings a profound understanding of healthcare to our creations. Having spent 11 years caring for patients in a hospital setting, she recognizes the transformative potential of holistic medicine.  Her firm belief in the power of nature, nutrition, and health naturally merge with Origenere’s roots.  Drawing inspiration from an unwavering passion for Italy, Dr. Kristen helps honor our founding artists’ vision of Beverly Hills innovation sculpted in Tuscany.  Each product is made with meticulous care and a deep-seated commitment to quality.  She integrates medical expertise with artistic intuition, culminating harmony between beauty, health and overall well being. \n</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -296,7 +293,7 @@
         "c5690d52-6ba8-40bf-a2b2-4bbbbbf8dc15": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0117-2.jpg",
+            "image": "shopify://shop_images/IMG_0117-2.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -323,7 +320,7 @@
         "b7b38a7f-2c42-4194-8ceb-fcaacfbb1964": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._Charit-2.jpg",
+            "image": "shopify://shop_images/Dr._Charit-2.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -332,7 +329,7 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Charit Seneviratne, PhD.<\/h2><\/b>\n\n  <p>Meet the brilliant mind behind our groundbreaking research and development team, Dr.\n  Charit. As a devoted PhD scientist, he channels his unwavering dedication into\n  formulating our exceptional products, utilizing state-of-the-art technology. Originally\n  transplanted from Alvi Armani Canada location to the prestigious Beverly Hills in 2008,\n  Dr. Charit brings a wealth of knowledge and expertise to our organization, resulting in\n  extraordinary creations. With his pioneering research and commitment to pushing\n  boundaries, he continuously redefines what is possible, offering transformative solutions\n  for those seeking to enhance their natural beauty. Given his deep passion for our\n  products, you can directly tap into his wealth of knowledge and seek answers to your\n  scientific questions here: “Ask Dr. Charit”. \n  <\/p>\n\n  <a href=\"mailto:customercare@origenere.com\" class=\"ask-dr-charit-button\">ASK DR. CHARIT<\/a>\n\n  <b><p>Have a question about the science behind our products?<\/p><\/b>",
+            "code": "<b><h2>Charit Seneviratne, PhD.</h2></b>\n\n  <p>Meet the brilliant mind behind our groundbreaking research and development team, Dr.\n  Charit. As a devoted PhD scientist, he channels his unwavering dedication into\n  formulating our exceptional products, utilizing state-of-the-art technology. Originally\n  transplanted from Alvi Armani Canada location to the prestigious Beverly Hills in 2008,\n  Dr. Charit brings a wealth of knowledge and expertise to our organization, resulting in\n  extraordinary creations. With his pioneering research and commitment to pushing\n  boundaries, he continuously redefines what is possible, offering transformative solutions\n  for those seeking to enhance their natural beauty. Given his deep passion for our\n  products, you can directly tap into his wealth of knowledge and seek answers to your\n  scientific questions here: “Ask Dr. Charit”. \n  </p>\n\n  <a href=\"mailto:customercare@origenere.com\" class=\"ask-dr-charit-button\">ASK DR. CHARIT</a>\n\n  <b><p>Have a question about the science behind our products?</p></b>",
             "width": "50%",
             "alignment": "center"
           }
@@ -343,8 +340,8 @@
         "3e217705-4a55-4c9f-886e-43b00fb004cf"
       ],
       "custom_css": [
-        ".ask-dr-charit-button {display: inline-block !important; padding: 10px 20px !important; font-size: 16px !important; color: #fff !important; \/* Text color *\/ background-color: #007bff !important; \/* Normal background color *\/ border: none !important; border-radius: 5px !important; text-decoration: none !important; \/* Remove underline *\/ text-align: center !important; cursor: pointer !important; transition: background-color 0.3s ease !important;}",
-        ".ask-dr-charit-button:hover {background-color: #0056b3 !important; \/* Hover background color *\/}"
+        ".ask-dr-charit-button {display: inline-block !important; padding: 10px 20px !important; font-size: 16px !important; color: #fff !important; /* Text color */ background-color: #007bff !important; /* Normal background color */ border: none !important; border-radius: 5px !important; text-decoration: none !important; /* Remove underline */ text-align: center !important; cursor: pointer !important; transition: background-color 0.3s ease !important;}",
+        ".ask-dr-charit-button:hover {background-color: #0056b3 !important; /* Hover background color */}"
       ],
       "settings": {
         "full_width": false,
@@ -359,7 +356,7 @@
         "87f98944-4cf6-462a-8583-ec0d480eb96f": {
           "type": "liquid",
           "settings": {
-            "code": "<b><h2>Baubac Hayatdavoudi, MD<\/h2><\/b>\n\n<p> Dr. Baubac Hayatdavoudi,\nwas founder of Origenere and AlviArmani US.  Dr. Baubac, celebrated for his unparalleled artistry in creating exquisite\nhairlines and density designs, received numerous prestigious accolades like the revered title of Best Hair\nRestoration Doctor in America 2015. His holisitc approach was supported by his experience in hair transplantation surgery along with his background as an internal medicine clinician.  \nDr. Baubac's holistic, ethical, and customer first approach is the essence of Originere.  Each of our meticulously crafted products reflects Dr. Baubac's resolute\ncommitment to enhancing natural beauty and promoting holistic well-being.\n\n<\/p>",
+            "code": "<b><h2>Baubac Hayatdavoudi, MD</h2></b>\n\n<p> Dr. Baubac Hayatdavoudi,\nwas founder of Origenere and AlviArmani US.  Dr. Baubac, celebrated for his unparalleled artistry in creating exquisite\nhairlines and density designs, received numerous prestigious accolades like the revered title of Best Hair\nRestoration Doctor in America 2015. His holisitc approach was supported by his experience in hair transplantation surgery along with his background as an internal medicine clinician.  \nDr. Baubac's holistic, ethical, and customer first approach is the essence of Originere.  Each of our meticulously crafted products reflects Dr. Baubac's resolute\ncommitment to enhancing natural beauty and promoting holistic well-being.\n\n</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -367,7 +364,7 @@
         "3bca06fa-a90c-4499-9789-fbdd1a926e33": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Dr._Baubac_Hayatdavoudi.webp",
+            "image": "shopify://shop_images/Dr._Baubac_Hayatdavoudi.webp",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -392,10 +389,10 @@
       "type": "fh-section-richtext",
       "disabled": true,
       "settings": {
-        "text": "<h2>THE SCIENCE<\/h2><p>Our mission is to continuously offer patients state of the art solutions to treat common<br\/>hair and skin problems. The future of hair and skincare rests in genetic and cellular<br\/>research. For example, research of cell and gene therapies to treat genetic hair loss focuses on its<br\/>causes at cellular and molecular level<\/p>",
+        "text": "<h2>THE SCIENCE</h2><p>Our mission is to continuously offer patients state of the art solutions to treat common<br/>hair and skin problems. The future of hair and skincare rests in genetic and cellular<br/>research. For example, research of cell and gene therapies to treat genetic hair loss focuses on its<br/>causes at cellular and molecular level</p>",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "image": "shopify:\/\/shop_images\/About_Image_5.webp"
+        "image": "shopify://shop_images/About_Image_5.webp"
       }
     },
     "45c91720-2051-4d2d-9f1c-dd7f1a91ef19": {
@@ -404,7 +401,7 @@
         "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/About_Image_7.webp",
+            "image": "shopify://shop_images/About_Image_7.webp",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -413,7 +410,7 @@
         "template--15750521684177__45c91720-2051-4d2d-9f1c-dd7f1a91ef19-liquid-1": {
           "type": "liquid",
           "settings": {
-            "code": "<table class=\"no-border\">\n<tr>\n<th>Materials<\/th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.<\/td>\n<\/tr>\n<tr>\n<th>Manufacturing<\/th>\n<td>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process<\/td>\n<\/tr>\n<tr>\n<th>Packaging<\/th>\n<td>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see<\/td>\n<\/tr>\n<tr>\n<th>Shipping<\/th>\n<td>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop\nPay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost<\/td>\n<\/tr>\n<\/table>\n<p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.<\/p>",
+            "code": "<table class=\"no-border\">\n<tr>\n<th>Materials</th>\n<td>Our products only contain natural and environmentally safe ingredients from premium suppliers. Each supplier is International Standard for Organization (ISO)\ncertified.</td>\n</tr>\n<tr>\n<th>Manufacturing</th>\n<td>Our manufacturer has incorporated reduce, reuse, and recycle practices into the manufacturing process</td>\n</tr>\n<tr>\n<th>Packaging</th>\n<td>All of our containers and packaging are recyclable except for a small sealant on several products but it is made from recyclable parts. We aim to change this in the future to 100% recyclable from recycled materials. For further information please see</td>\n</tr>\n<tr>\n<th>Shipping</th>\n<td>We chose Shopify as a shipping company given their utmost dedication to offsetting their environmental impact. Every time a customer places an order using Shop\nPay, Shopify funds carbon removal to counteract the impact on the planet at no extra cost</td>\n</tr>\n</table>\n<p>Our customers can feel confident that our products are not only safe for them but also for the environment. We are doing our part to create a more sustainable future.</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -443,10 +440,10 @@
         "h2 {margin-bottom: 0px; font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h2><strong>BELLISSIMI COLORI<\/strong><\/h2>",
+        "text": "<h2><strong>BELLISSIMI COLORI</strong></h2>",
         "background_color": "#000000",
         "text_color": "#ffffff",
-        "image": "shopify:\/\/shop_images\/IMG_1446_2.jpg"
+        "image": "shopify://shop_images/IMG_1446_2.jpg"
       }
     },
     "a6813085-76be-4b60-b65e-41b79586a218": {
@@ -456,7 +453,7 @@
         "h2 {font-size: calc(var(--typeHeaderSize) * 1 * 0.85);}"
       ],
       "settings": {
-        "text": "<h2>OUR COLLECTIONS<\/h2><p>Colors are an essential part of our lives. They influence our moods, perceptions, and behaviors.<\/p><p><strong>Below are the Bellissimi Colori used to represent each line<\/strong>. By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences.<\/p>",
+        "text": "<h2>OUR COLLECTIONS</h2><p>Colors are an essential part of our lives. They influence our moods, perceptions, and behaviors.</p><p><strong>Below are the Bellissimi Colori used to represent each line</strong>. By understanding the role of colors in our lives, we can better appreciate and harness their power to create meaningful and impactful experiences.</p>",
         "background_color": "#000000",
         "text_color": "#ffffff"
       }
@@ -467,33 +464,33 @@
         "76273a3e-1b5b-409f-9e66-00c12c517fb1": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NATURALE_COLLECTION.webp",
+            "image": "shopify://shop_images/NATURALE_COLLECTION.webp",
             "text": "NATURALE - PURITY COLLECTION",
-            "url": "shopify:\/\/collections\/naturale-purity-collection"
+            "url": "shopify://collections/naturale-purity-collection"
           }
         },
         "3119cc58-33a0-4af1-bc4a-81264329377e": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BUONGIORNO_COLLECTION.webp",
+            "image": "shopify://shop_images/BUONGIORNO_COLLECTION.webp",
             "text": "BUONGIORNO - VITALITY COLLECTION",
-            "url": "shopify:\/\/collections\/buongiorno-vitality-collection"
+            "url": "shopify://collections/buongiorno-vitality-collection"
           }
         },
         "89758275-dbea-4413-928a-60af0908a565": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ARANCIO_COLLECTION.png",
+            "image": "shopify://shop_images/ARANCIO_COLLECTION.png",
             "text": "ARANCIO - PRESERVATION COLLECTION",
-            "url": "shopify:\/\/collections\/nourish-your-natural-glow"
+            "url": "shopify://collections/arancio-preservation-collection"
           }
         },
         "32ffb235-1669-4ccc-be00-ae70f1318fde": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NERO_COLLECTION.webp",
+            "image": "shopify://shop_images/NERO_COLLECTION.webp",
             "text": "NERO - DETOX COLLECTION",
-            "url": "shopify:\/\/collections\/nero-detox-collection"
+            "url": "shopify://collections/nero-detox-collection"
           }
         }
       },
@@ -515,49 +512,49 @@
           "type": "question",
           "settings": {
             "title": "What is Origenere?",
-            "text": "<p>A product line started by physicians specializing in hair loss, hair transplantation and skin problems.<\/p>"
+            "text": "<p>A product line started by physicians specializing in hair loss, hair transplantation and skin problems.</p>"
           }
         },
         "template--15750521684177__b4e60d85-daea-4a8b-948f-b29031782436-question-2": {
           "type": "question",
           "settings": {
             "title": "Why create a product line? ",
-            "text": "<p>Patients constantly asked what products to use for their hair and skin. We started researching products and discovered that most had chemicals formulated for aesthetic effects rather than efficacy. Some of these chemicals have been shown to have cancer causing potential and other deleterious side effects. As physicians we realize how important it is to read labels and understand everything that we put on and into our bodies to prevent long term complications and diseases.<\/p>"
+            "text": "<p>Patients constantly asked what products to use for their hair and skin. We started researching products and discovered that most had chemicals formulated for aesthetic effects rather than efficacy. Some of these chemicals have been shown to have cancer causing potential and other deleterious side effects. As physicians we realize how important it is to read labels and understand everything that we put on and into our bodies to prevent long term complications and diseases.</p>"
           }
         },
         "1cfcc6d4-0ee0-4fbd-b710-a79f4e0082a2": {
           "type": "question",
           "settings": {
             "title": "What are some of the dangerous chemicals that other products may contain?",
-            "text": "<p>A lot of studies are currently ongoing to study long term health effects of commonly used preservatives such as parabens, methylparaben, butylparaben...etc. These have been implicated in breast cancer. Sodium lauryl sulfate and other similar surfactants are known skin irritants but continue to be used heavily in shampoos due to their ability to create more aesthetic sudsing. Other preservatives such as methylisothializones have been implicated as being toxic to the nervous system. Hydroquinone has been implicated as a possible carcinogen and is being currently investigated by the FDA. Cancer rates are on the rise and we do not know why. Environment and genetics are both factors. However it is imperative on us to limit the dependency on possibly toxic ingredients that we use daily. ORIGENERE® has eliminated any potentially harmful ingredients from all our products.<\/p>"
+            "text": "<p>A lot of studies are currently ongoing to study long term health effects of commonly used preservatives such as parabens, methylparaben, butylparaben...etc. These have been implicated in breast cancer. Sodium lauryl sulfate and other similar surfactants are known skin irritants but continue to be used heavily in shampoos due to their ability to create more aesthetic sudsing. Other preservatives such as methylisothializones have been implicated as being toxic to the nervous system. Hydroquinone has been implicated as a possible carcinogen and is being currently investigated by the FDA. Cancer rates are on the rise and we do not know why. Environment and genetics are both factors. However it is imperative on us to limit the dependency on possibly toxic ingredients that we use daily. ORIGENERE® has eliminated any potentially harmful ingredients from all our products.</p>"
           }
         },
         "f356f627-9a42-46f4-9fea-ed5d5b6b7088": {
           "type": "question",
           "settings": {
             "title": "What is in your products?",
-            "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique benefits.<\/p>"
+            "text": "<p>Our products contain specific and unique OrganoNutrient™ formulations of natural botanicals from organic source along with antioxidants and specific hair and skin nourishing proteins, amino acids, vitamins, minerals and essential fatty acids. Please go to each individual product to see its unique benefits.</p>"
           }
         },
         "7460669a-ba0e-40c8-b87a-e87723ccef2a": {
           "type": "question",
           "settings": {
             "title": "Do other products contain similar ingredients?",
-            "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin<\/p>"
+            "text": "<p>Our products contain proprietary blends of specific hair and skin targeted OrganoNutrients that work synergistically to nourish the hair and scalp. The products work as a \"system\" to address all aspects of hair problems such as hair aging, hair thinning and hair loss, dandruff and itchy scalp as well as damaged hair. Our skin solutions address the most common skin problems such as acne, pigmentation scars, wrinkles and aging of the skin</p>"
           }
         },
         "b5a32075-46c5-4a70-a8ff-8a212ab10825": {
           "type": "question",
           "settings": {
             "title": "Can I use your products if I have color or chemically treated hair?",
-            "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair<\/p>"
+            "text": "<p>All of our products are made without harsh chemicals or irritants and are considered safe for color and chemically treated hair</p>"
           }
         },
         "c4c41e46-5d42-4cf6-b24b-7e60f3dfb8cd": {
           "type": "question",
           "settings": {
             "title": "What is meant by Hair Aging?",
-            "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.<\/p>"
+            "text": "<p>Just as our bodies age, so do our hair follicles and scalp. Signs of aging hair include thinning,  less density, more shedding, as well as premature graying.</p>"
           }
         }
       },

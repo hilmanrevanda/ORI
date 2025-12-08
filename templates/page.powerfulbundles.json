@@ -12,8 +12,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "a1e2052b-f315-4b2e-bf01-736b3fefe638": {
       "type": "slideshow",
@@ -83,8 +82,7 @@
         "text_block_hhnG6x",
         "text_block_YBkzrx"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "rich_text_jNjYd7": {
       "type": "rich-text",
@@ -140,7 +138,7 @@
           "settings": {
             "image": "shopify://shop_images/Arancio_Skincare_Origenere_Orange.jpg",
             "text": "Arancio Preservation Collection: For Skin Rejuvenation",
-            "url": "shopify://collections/nourish-your-natural-glow"
+            "url": "shopify://collections/arancio-preservation-collection"
           }
         },
         "text_block_FEf9Wp": {
